@@ -1,0 +1,34 @@
+name: Powiadom stronę o zmianie
+
+# Po każdej zmianie w tym repozytorium (np. zapis w Pages CMS) wysyła do IM-UWr/Web-Core sygnał
+# „tresc-zmieniona”, a strona przebudowuje się w ciągu 2–3 minut.
+# Klucz: aplikacja „powiadomienia” organizacji — zmienna POWIADOM_APP_ID i sekret POWIADOM_KLUCZ
+# ustawione raz dla całej organizacji (Settings → Secrets and variables → Actions).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  powiadom:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Klucz do Web-Core
+        id: klucz
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.POWIADOM_APP_ID }}
+          private-key: ${{ secrets.POWIADOM_KLUCZ }}
+          owner: IM-UWr
+          repositories: Web-Core
+      - name: Sygnał do Web-Core
+        env:
+          GH_TOKEN: ${{ steps.klucz.outputs.token }}
+        run: |
+          gh api repos/IM-UWr/Web-Core/dispatches -X POST \
+            -f event_type=tresc-zmieniona \
+            -F "client_payload[repo]=${GITHUB_REPOSITORY}" -F "client_payload[sha]=${GITHUB_SHA}"
+          echo "::notice title=Wysłano sygnał::IM-UWr/Web-Core ← ${GITHUB_REPOSITORY}"
