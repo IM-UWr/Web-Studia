@@ -186,7 +186,7 @@ programy:
         plik: /pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr.pdf
       - nazwa: Uchwała Senatu UWr nr 145/2022 — wersja angielska
         nazwa_en: UWr Senate Resolution No. 145/2022 (English)
-        plik: /pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-21-grudnia-2022-r.-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-w-roku-akademickim-2021_2022-i-nastepnych-1_eng2.pdf
+        plik: /pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr-en.pdf
   - nazwa: 2021/22–2022/23
     nazwa_en: 2021/22–2022/23
     od_roku: 2021
