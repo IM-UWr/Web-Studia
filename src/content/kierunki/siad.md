@@ -87,6 +87,7 @@ programy:
     nazwa_en: Curriculum (University Senate resolution no. 8/2025 of 26 February 2025, Polish)
     plik: https://bip.uni.wroc.pl/download/attachment/47701/uchwala-nr-8_2025-senatu-uwr-z-2025-02-26-w-sprawie-programu-studiow-dla-kierunku-sztuczna-inteligencja-w-analizie-danych-studia-stacjonarne-i-stopnia.pdf
     opis: Efekty uczenia się, treści przedmiotów, plan studiów i zasady wyboru przedmiotów.
+    opis_en: Learning outcomes, course contents, the study plan and the rules for choosing courses.
 terminy:
 - co: Podanie o wpis bez spełnionych wymogów wstępnych
   co_en: Request to enrol without prerequisites

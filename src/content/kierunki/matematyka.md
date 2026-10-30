@@ -162,6 +162,7 @@ programy:
     nazwa_en: Schedule for phasing out courses
     plik: /pliki/studia/zmiany2026.pdf
     opis: Niektóre dotychczasowe przedmioty są wygaszane w związku ze zmianą programu.
+    opis_en: Some existing courses are being phased out because of the curriculum change.
 - nazwa: Programy archiwalne (przed 2022)
   nazwa_en: Archived curricula (before 2022)
   od_roku: 1990

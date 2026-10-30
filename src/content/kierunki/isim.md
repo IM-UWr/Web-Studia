@@ -108,6 +108,7 @@ programy:
     nazwa_en: Commentary on the curriculum (updated 30.09.2026, Polish)
     plik: https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-komentarz-2026.pdf
     opis: Wyjaśnienia dotyczące przedmiotów obowiązkowych i do wyboru, seminarium, projektu zespołowego, wypisów i algebry.
+    opis_en: Explanations of compulsory and elective courses, the seminar, the team project, course withdrawals and algebra.
   - nazwa: Informator dla studentów I roku (2026)
     nazwa_en: Guide for first-year students (2026, Polish)
     plik: https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-informator2026-1.pdf
