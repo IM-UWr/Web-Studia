@@ -14,9 +14,11 @@ opis: Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie Matem
 opis_en: A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.
 fakty:
 - wartosc: 3 lata
+  wartosc_en: 3 years
   etykieta: studia I stopnia (licencjackie)
   etykieta_en: bachelor's studies
 - wartosc: 2 lata
+  wartosc_en: 2 years
   etykieta: studia II stopnia (magisterskie)
   etykieta_en: master's studies
 - wartosc: '5'

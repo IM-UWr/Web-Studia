@@ -14,12 +14,14 @@ opis: Trzyletnie studia licencjackie łączące informatykę i matematykę, prow
 opis_en: A three-year bachelor's programme combining computer science and mathematics, run jointly by the Institute of Computer Science and the Mathematical Institute, University of Wrocław — with an individual study plan and a personal tutor.
 fakty:
 - wartosc: 3 lata
+  wartosc_en: 3 years
   etykieta: studia I stopnia (licencjackie)
   etykieta_en: bachelor's studies
 - wartosc: '210'
   etykieta: punktów ECTS do ukończenia studiów
   etykieta_en: ECTS credits to graduate
 - wartosc: licencjat
+  wartosc_en: Bachelor's
   etykieta: tytuł zawodowy absolwenta
   etykieta_en: degree awarded to graduates
 - wartosc: '2'

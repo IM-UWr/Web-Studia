@@ -41,6 +41,9 @@ content:
     - name: wartosc
       label: Wartość
       type: string
+    - name: wartosc_en
+      label: 'EN: wartość (puste = jak po polsku, np. liczby)'
+      type: string
     - name: etykieta
       label: Opis
       type: string

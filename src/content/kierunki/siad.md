@@ -14,6 +14,7 @@ opis: Trzyletnie studia licencjackie łączące matematykę i informatykę z met
 opis_en: A three-year bachelor's programme combining mathematics and computer science with artificial intelligence methods, run by the Mathematical Institute, University of Wrocław, since 2025/26.
 fakty:
 - wartosc: 6 semestrów
+  wartosc_en: 6 semesters
   etykieta: studia I stopnia, stacjonarne
   etykieta_en: bachelor's studies, full-time
 - wartosc: '180'
@@ -23,6 +24,7 @@ fakty:
   etykieta: punktów ECTS za zajęcia do wyboru
   etykieta_en: ECTS credits from electives
 - wartosc: licencjat
+  wartosc_en: Bachelor's
   etykieta: tytuł zawodowy
   etykieta_en: degree awarded (licencjat)
 przyciski:
