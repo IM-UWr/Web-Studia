@@ -69,6 +69,7 @@ etapy:
   termin: 'Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)'
   termin_en: 'Teaching specialisation: declare by 31 December (1st semester)'
   formularz: Formularz C1
+  formularz_en: "Form C1"
 - stopien: I
   kiedy: Semestry 3–4
   kiedy_en: Semesters 3–4
@@ -79,6 +80,7 @@ etapy:
   termin: Deklaracja specjalności do 30 czerwca (4. semestr)
   termin_en: Declare your specialisation by 30 June (4th semester)
   formularz: Formularz C2
+  formularz_en: "Form C2"
   formularz_adres: https://forms.cloud.microsoft/e/SWEQQ1YF5L
 - stopien: I
   kiedy: Semestry 5–6
@@ -97,6 +99,7 @@ etapy:
   termin: Deklaracja specjalności do 15 października
   termin_en: Declare your specialisation by 15 October
   formularz: Formularz C3
+  formularz_en: "Form C3"
   formularz_adres: https://forms.cloud.microsoft/e/LKA4mEgVtN
 - stopien: II
   kiedy: Semestry 2–3
@@ -108,6 +111,7 @@ etapy:
   termin: Zgłoszenie promotora do 31 października (rekrutacja letnia) lub 31 marca (zimowa)
   termin_en: Report your supervisor by 31 October (summer admission) or 31 March (winter admission)
   formularz: Formularz E
+  formularz_en: "Form E"
   formularz_adres: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u
 - stopien: II
   kiedy: Semestr 4

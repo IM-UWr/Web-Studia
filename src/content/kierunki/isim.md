@@ -92,6 +92,7 @@ etapy:
   termin: Promotor z Instytutu Matematycznego — zgłoszenie na początku 6. semestru
   termin_en: Supervisor from the Mathematical Institute — report at the start of the 6th semester
   formularz: Formularz E
+  formularz_en: "Form E"
   formularz_adres: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u
 programy:
 - nazwa: Program od 2022/23
@@ -169,6 +170,7 @@ terminy:
   kogo: dyplomanci
   kogo_en: final-year students
   formularz: System Zapisów
+  formularz_en: "Enrolment System"
   formularz_adres: https://zapisy.ii.uni.wroc.pl/theses/
 - co: Wprowadzenie pracy dyplomowej do systemu APD
   co_en: Uploading the thesis to the APD system

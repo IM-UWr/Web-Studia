@@ -148,6 +148,9 @@ content:
     - name: formularz
       label: Formularz (np. Formularz C2)
       type: string
+    - name: formularz_en
+      label: 'EN: nazwa formularza (np. Form C2; puste = wersja angielska pokaże nazwę po polsku)'
+      type: string
     - name: formularz_adres
       label: Link do formularza
       type: string
@@ -229,6 +232,9 @@ content:
       type: string
     - name: formularz
       label: Formularz (np. C2)
+      type: string
+    - name: formularz_en
+      label: 'EN: nazwa formularza (np. Form C2; puste = wersja angielska pokaże nazwę po polsku)'
       type: string
     - name: formularz_adres
       label: Link do formularza
@@ -857,6 +863,9 @@ content:
       type: string
     - name: opis
       label: Dopisek (np. rok, poziom)
+      type: string
+    - name: opis_en
+      label: 'EN: dopisek (puste = wersja angielska pokaże dopisek po polsku; temat zostaje w oryginale)'
       type: string
   - name: dokumenty
     label: Dokumenty
