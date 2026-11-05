@@ -132,7 +132,7 @@ tresc_en: |
   | [16, 18) | 3.0 |
   | below 16 | 2.0 |
 
-  The committee may lower the thresholds. Results are available in USOS (course "Pisemny egzamin magisterski").
+  The committee may lower the thresholds. Results are available in USOS (course "Pisemny egzamin magisterski", in English Written Master's Examination).
 
   ### Master's exam syllabi
 
@@ -171,12 +171,12 @@ tresc_en: |
 
   | Step | February 2026 | June 2026 | September 2026 |
   | --- | --- | --- | --- |
-  | Exam registration and uploading the thesis to APD | 7.01–2.02 | 1.06–14.06 | 19.08–29.08 |
-  | Supervisor approves the thesis in APD | 4.02 | 15.06 | 31.08 |
-  | Reviews and grades in APD | 11.02 (bachelor's), 16.02 (master's) | 22.06 | 4.09 |
-  | Written bachelor's exam (9:00–13:20) | 13.02, resit 20.02 | 29.06 | 10.09 |
-  | Written master's exam (9:00–11:00) | 18.02 | 26.06 | 9.09 |
-  | Oral master's exams | 20.02 | 30.06 | 11.09 |
+  | Exam registration and uploading the thesis to APD | 7 Jan – 2 Feb | 1–14 Jun | 19–29 Aug |
+  | Supervisor approves the thesis in APD | 4 Feb | 15 Jun | 31 Aug |
+  | Reviews and grades in APD | 11 Feb (bachelor's), 16 Feb (master's) | 22 Jun | 4 Sep |
+  | Written bachelor's exam (9:00–13:20) | 13 Feb, resit 20 Feb | 29 Jun | 10 Sep |
+  | Written master's exam (9:00–11:00) | 18 Feb | 26 Jun | 9 Sep |
+  | Oral master's exams | 20 Feb | 30 Jun | 11 Sep |
 
   ## Past exam papers
 

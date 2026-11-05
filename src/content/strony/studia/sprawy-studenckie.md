@@ -43,7 +43,7 @@ tresc_en: |
   | First-year coordinator | Dr Jan Kraszewski | [Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl), [First year](/en/studia/pierwszy-rok) |
   | Specialisation coordinators | — | see [Specialisations](/en/studia/matematyka#specjalnosci) |
   | Erasmus+ coordinator | Dr Motiejus Valiunas | room 306, [Motiejus.Valiunas@math.uni.wroc.pl](mailto:Motiejus.Valiunas@math.uni.wroc.pl) |
-  | MOST coordinator | Prof. dr hab. Wojciech Młotkowski | [Wojciech.Mlotkowski@math.uni.wroc.pl](mailto:Wojciech.Mlotkowski@math.uni.wroc.pl) |
+  | MOST coordinator | Prof. Wojciech Młotkowski | [Wojciech.Mlotkowski@math.uni.wroc.pl](mailto:Wojciech.Mlotkowski@math.uni.wroc.pl) |
   | Doctoral College of Mathematics | Ewa Lamch | phone 71 375 7494, [Ewa.Lamch@math.uni.wroc.pl](mailto:Ewa.Lamch@math.uni.wroc.pl) |
   | Dean's Plenipotentiary for the Safety of Students and PhD Students | Dr hab. Ziemowit Rzeszotnik | room 706, [Ziemowit.Rzeszotnik@math.uni.wroc.pl](mailto:Ziemowit.Rzeszotnik@math.uni.wroc.pl) |
   | Dean's Plenipotentiary for Equal Treatment and Anti-Discrimination | Dr Paweł Laskoś-Grabowski | see [Faculty authorities](https://wmi.uwr.edu.pl/wladze-wydzialu/) |
@@ -154,7 +154,7 @@ tresc_en: |
 
   ### MOST
 
-  Exchange with Polish universities for one semester or a full year, free of charge. Recruitment: 15 April – 15 May (winter semester or full year) and **31 October – 30 November** (summer semester). Coordinator: Prof. dr hab. Wojciech Młotkowski. Details: [MOST programme](/en/studia/program-most).
+  Exchange with Polish universities for one semester or a full year, free of charge. Recruitment: 15 April – 15 May (winter semester or full year) and **31 October – 30 November** (summer semester). Coordinator: Prof. Wojciech Młotkowski. Details: [MOST programme](/en/studia/program-most).
 
   ### ISEP and other programmes
 
@@ -163,7 +163,7 @@ tresc_en: |
   ## Careers and jobs
 
   - **Job, internship and traineeship offers** are published in the [news](/en/aktualnosci) (type "Career").
-  - **Employers** wishing to publish an offer should send it to Dr Jan Kraszewski ([Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl)). Business contact coordinators of the Institute: Prof. dr hab. Ewa Damek ([Ewa.Damek@math.uni.wroc.pl](mailto:Ewa.Damek@math.uni.wroc.pl)), Dr inż. Przemysław Klusik ([Przemyslaw.Klusik@math.uni.wroc.pl](mailto:Przemyslaw.Klusik@math.uni.wroc.pl)), Dr hab. Krzysztof Topolski ([Krzysztof.Topolski@math.uni.wroc.pl](mailto:Krzysztof.Topolski@math.uni.wroc.pl)).
+  - **Employers** wishing to publish an offer should send it to Dr Jan Kraszewski ([Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl)). Business contact coordinators of the Institute: Prof. Ewa Damek ([Ewa.Damek@math.uni.wroc.pl](mailto:Ewa.Damek@math.uni.wroc.pl)), Dr Przemysław Klusik ([Przemyslaw.Klusik@math.uni.wroc.pl](mailto:Przemyslaw.Klusik@math.uni.wroc.pl)), Dr hab. Krzysztof Topolski ([Krzysztof.Topolski@math.uni.wroc.pl](mailto:Krzysztof.Topolski@math.uni.wroc.pl)).
   - [UWr Career Office](https://biurokarier.uwr.edu.pl/) (ul. Kuźnicza 49A) — [job offers](https://biurokarier.uwr.edu.pl/jobs), [traineeship programmes](https://biurokarier.uwr.edu.pl/programy-stazowe/), [career counselling](https://biurokarier.uwr.edu.pl/doradztwo-konsultacje/).
 
   ## Student government and student clubs
@@ -176,7 +176,7 @@ tresc_en: |
   ## Support
 
   - **Tutoring room** (room 202) — senior students help with mathematical problems, especially first-year students ([details](/en/aktualnosci/2026-10-17-rusza-tutornia)).
-  - **Academic ombudspersons of WMI** — students, PhD students and staff can turn to them with problems concerning the institute/faculty community. The ombudsperson listens, diagnoses the problem and gives advice or help, acting confidentially, impartially, informally and independently of the university authorities. Prof. dr hab. Ewa Damek — [edamek@math.uni.wroc.pl](mailto:edamek@math.uni.wroc.pl), room 901 (Mathematical Institute); Jarosław Byrka — [jaroslaw.byrka@cs.uni.wroc.pl](mailto:jaroslaw.byrka@cs.uni.wroc.pl), room 244 (Institute of Computer Science). It is best to arrange contact by e-mail first ([details](https://wmi.uwr.edu.pl/wladze-wydzialu/)).
+  - **Academic ombudspersons of WMI** — students, PhD students and staff can turn to them with problems concerning the institute/faculty community. The ombudsperson listens, diagnoses the problem and gives advice or help, acting confidentially, impartially, informally and independently of the university authorities. Prof. Ewa Damek — [edamek@math.uni.wroc.pl](mailto:edamek@math.uni.wroc.pl), room 901 (Mathematical Institute); Jarosław Byrka — [jaroslaw.byrka@cs.uni.wroc.pl](mailto:jaroslaw.byrka@cs.uni.wroc.pl), room 244 (Institute of Computer Science). It is best to arrange contact by e-mail first ([details](https://wmi.uwr.edu.pl/wladze-wydzialu/)).
   - **Student Rights Ombudsperson** (UWr Student Government): [rps@uwr.edu.pl](mailto:rps@uwr.edu.pl); **anti-discrimination ombudsperson** of UWr: [rownosc@uwr.edu.pl](mailto:rownosc@uwr.edu.pl).
   - **[Support and Accessibility Office](https://uwr.edu.pl/pomocny-uwr/osoby-z-niepelnosprawnosciami/biuro-wsparcia-i-dostepnosci/)** — for students with disabilities and special needs: ul. Kuźnicza 49/55, rooms 19 and 20, open 9:00–14:00, [niepelnosprawni@uwr.edu.pl](mailto:niepelnosprawni@uwr.edu.pl), phone 71 375 2664 (please arrange a meeting in advance). Forms of support include a teaching assistant, transport within Wrocław, individual foreign language classes, adapted teaching materials, temporary loan of specialist equipment and psychological consultations (Rector's Order No. 68/2026).
   - **[Psychological support](https://uwr.edu.pl/pomocny-uwr/pomoc-psychologiczna/)** — psychological consultations at the Support and Accessibility Office for members of the UWr community, in particular students with a certified disability and anyone in a mental health crisis (registration from your @uwr.edu.pl address: [poradnia.psychologiczna@uwr.edu.pl](mailto:poradnia.psychologiczna@uwr.edu.pl)) and free help at the [Psychological Consultation and Counselling Unit](https://uwr.edu.pl/pomocny-uwr/pomoc-psychologiczna/pracownia-konsultacji-i-poradnictwa-psychologicznego/) run by psychology students.

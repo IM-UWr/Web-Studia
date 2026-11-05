@@ -23,7 +23,7 @@ tresc_en: |
   3. **Submit your oath and declaration in USOSweb.** After logging in to your student account you submit, electronically, the student oath and a statement that you have read the basic documents on your studies. This is the basis for the Faculty Office to issue your student ID card. The Faculty Office sees the submitted oath only on the following day. Failing to submit the oath in USOS within 14 days of the start of the semester is grounds for removal from the list of students (§ 56 of the [Study Regulations](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)).
   4. **Collect your student ID card** at the Faculty Office (dziekanat WMI, Mon–Thu 11:00–14:00), bringing your identity card. This applies to those who paid for the card in time. Certificates of student status are also issued there.
   5. **Complete the BHP training** — an online course, available in 2026 from 15 September to 31 October. It is compulsory.
-  6. **Check your groups** in USOSweb: *Mój USOSweb* → *Grupy zajęciowe*.
+  6. **Check your groups** in USOSweb: *Mój USOSweb* (My USOSweb) → *Grupy zajęciowe* (Class groups).
   7. **Connect to eduroam Wi-Fi** — login `student_ID_number@uwr.edu.pl` and your Office 365 password; instructions: [Wireless network access](/en/instytut/infrastruktura-informatyczna/siec-bezprzewodowa).
   8. **Get a library account** — complete the [library training](https://wmi.uwr.edu.pl/biblioteka-wydzialowa-szkolenie/) (an online course and a test; the access key is given on the training page).
   9. **Get a locker key** from the porter's desk. There is usually one locker for two students.
@@ -56,22 +56,22 @@ tresc_en: |
 
   | Date | What |
   | --- | --- |
-  | 29.09.2026 | orientation day and matriculation (held) |
-  | 1.10.2026 | inauguration of the academic year |
-  | 2.10.2026 | classes begin |
+  | 29 Sep 2026 | orientation day and matriculation (held) |
+  | 1 Oct 2026 | inauguration of the academic year |
+  | 2 Oct 2026 | classes begin |
   | within 14 days of the start of the semester | oath and declaration in USOSweb |
   | by the end of the 2nd week of classes | lecturers announce the deadline for switching from an extended to a standard course (form B3) |
-  | 19.10.2026 | the tutoring room opens |
-  | **31.10.2026** | **end of the BHP training** |
-  | 12.11 and 13.11.2026 | Rector's days (13.11 — University Day) |
-  | 30.11.2026 | deadline for withdrawing from a course (form A1, once per degree) |
-  | 18.12.2026 (Friday) | Wednesday classes are held |
-  | 21.12.2026 – 6.01.2027 | Christmas break |
-  | 31.12.2026 | declaration of the teaching specialisation (form C1) |
-  | 5.02.2027 | last day of classes |
-  | 6.02 – 16.02.2027 | exam session |
-  | 17.02 – 23.02.2027 | resit session |
-  | 24.02.2027 | summer semester begins (registration for semester 2 opens 2–4 days earlier) |
+  | 19 Oct 2026 | the tutoring room opens |
+  | **31 Oct 2026** | **end of the BHP training** |
+  | 12 and 13 Nov 2026 | Rector's days (13 Nov — University Day) |
+  | 30 Nov 2026 | deadline for withdrawing from a course (form A1, once per degree) |
+  | 18 Dec 2026 (Friday) | Wednesday classes are held |
+  | 21 Dec 2026 – 6 Jan 2027 | Christmas break |
+  | 31 Dec 2026 | declaration of the teaching specialisation (form C1) |
+  | 5 Feb 2027 | last day of classes |
+  | 6–16 Feb 2027 | exam session |
+  | 17–23 Feb 2027 | resit session |
+  | 24 Feb 2027 | summer semester begins (registration for semester 2 opens 2–4 days earlier) |
 
   The full calendar of the year: [Academic year](/en/studia/rok-akademicki).
 
@@ -81,13 +81,13 @@ tresc_en: |
 
   | Course | Main session | Resit session |
   | --- | --- | --- |
-  | Analiza matematyczna 1 | Mon 8.02, 8:30–13:00, HS, WS | Wed 17.02, 9:00–13:30, HS |
-  | Analiza matematyczna I | Wed 10.02, 9:00–13:00, HS | Wed 17.02, 9:00–13:00, WS |
-  | Analiza matematyczna 1 (AI) | Tue 9.02, 9:00–13:00, WS | Wed 17.02, 9:00–13:00, EM |
-  | Wstęp do matematyki R | Thu 11.02, 9:00–12:00, WS | Tue 23.02, 9:00–12:00, 601 |
-  | Wstęp do matematyki | Fri 12.02, 9:00–12:00, HS, WS, EM | Tue 23.02, 9:00–12:00, HS |
-  | Algebra liniowa 1R | Mon 15.02, 14:30–17:30, HS | Fri 19.02, 9:00–12:00, WS |
-  | Algebra liniowa 1 and Algebra liniowa 1 (AI) | Tue 16.02, 9:00–12:30, HS, WS, EM | Algebra liniowa 1: Fri 19.02, 9:00–12:30, HS |
+  | Analiza matematyczna 1 (Advanced calculus 1) | Mon 8 Feb, 8:30–13:00, HS, WS | Wed 17 Feb, 9:00–13:30, HS |
+  | Analiza matematyczna I (Advanced calculus I) | Wed 10 Feb, 9:00–13:00, HS | Wed 17 Feb, 9:00–13:00, WS |
+  | Analiza matematyczna 1 (AI) | Tue 9 Feb, 9:00–13:00, WS | Wed 17 Feb, 9:00–13:00, EM |
+  | Wstęp do matematyki R (Introduction to abstract mathematics R) | Thu 11 Feb, 9:00–12:00, WS | Tue 23 Feb, 9:00–12:00, 601 |
+  | Wstęp do matematyki (Introduction to abstract mathematics) | Fri 12 Feb, 9:00–12:00, HS, WS, EM | Tue 23 Feb, 9:00–12:00, HS |
+  | Algebra liniowa 1R (Linear algebra 1R) | Mon 15 Feb, 14:30–17:30, HS | Fri 19 Feb, 9:00–12:00, WS |
+  | Algebra liniowa 1 (Linear algebra 1) and Algebra liniowa 1 (AI) | Tue 16 Feb, 9:00–12:30, HS, WS, EM | Algebra liniowa 1: Fri 19 Feb, 9:00–12:30, HS |
 
   The label (AI) in the timetable marks the versions of courses for the SIAD programme.
 
@@ -106,15 +106,15 @@ tresc_en: |
   Common to everyone:
 
   - **Wstęp do kombinatoryki** (Introduction to combinatorics) — compulsory for everyone except students of the *theoretical mathematics* specialisation. Everyone is enrolled in it, but those who already declare that they plan to take the theoretical specialisation may drop it.
-  - **Warsztat informatyczny matematyka** (Computer skills workshop) — teaches the basic tools for using the Institute's computer network efficiently; held remotely in two groups.
+  - **Warsztat informatyczny matematyka** (Computing Workshop for Mathematicians) — teaches the basic tools for using the Institute's computer network efficiently; held remotely in two groups.
 
   The lectures Analiza matematyczna I and Algebra liniowa 1R are shared with ISIM students; mathematics students have separate exercise groups.
 
   ### Semester 2 (mathematics)
 
-  - Analiza matematyczna 2 or Analiza matematyczna II
-  - Algebra liniowa 2 or Algebra liniowa 2R
-  - Programowanie 1 (Python) — compulsory for everyone
+  - Analiza matematyczna 2 (Advanced calculus 2) or Analiza matematyczna II (Advanced calculus II)
+  - Algebra liniowa 2 (Linear algebra 2) or Algebra liniowa 2R (Linear algebra 2R)
+  - Programowanie 1 (Python) (Programming 1 in Python) — compulsory for everyone
   - Topologia or Topologia R — compulsory except for those who have declared the teaching specialisation (they have a different list of courses) and those who choose the general module (a humanities course is recommended for them, though they can also take Topology)
   - Przegląd aktuarialno-finansowy (actuarial and financial overview, as workshops) — compulsory for the actuarial and financial specialisation, an elective for everyone else
 
@@ -122,7 +122,7 @@ tresc_en: |
 
   ### SIAD and ISIM
 
-  - **SIAD:** in semesters 1–2 — mathematical analysis and linear algebra (in a version for this programme), introduction to mathematics, Python programming and data visualisation, and the basic AI workshop. Classes are in the Institute's timetable (groups marked "tylko dla SIAD"). In the first semester you are enrolled by the teaching office. More: [AI in Data Science](/en/studia/siad).
+  - **SIAD:** in semesters 1–2 — mathematical analysis and linear algebra (in a version for this programme), introduction to mathematics, Python programming and data visualisation, and the basic AI workshop. Classes are in the Institute's timetable (groups marked "tylko dla SIAD", i.e. SIAD students only). In the first semester you are enrolled by the teaching office. More: [AI in Data Science](/en/studia/siad).
   - **ISIM:** the compulsory courses are Logic for Computer Science and Analiza matematyczna I; recommended ones include Algebra liniowa 1R. In the first semester you register for the Institute's courses yourself in USOSweb, and the tutors review your choices. Students admitted to both ISIM and mathematics did not take the qualifying test. More: [ISIM](/en/studia/isim).
 
   ## Standard or extended level?
@@ -150,7 +150,7 @@ tresc_en: |
   - Changes made by the teaching office (limits, new groups, manual enrolment) appear in USOSweb only on the next day — the data are migrated once a day, around midnight.
   - After round II you can withdraw only by switching from an extended to a standard course (B3) or, **once per degree**, via form A1 — by 30 November (winter) or 30 April (summer).
   - To take a course without meeting its prerequisites, submit form B1 before the semester; to join a full group — form B2 (from round II). Forms: [Classes and office hours](/en/studia/zajecia).
-  - Plan your timetable in *Mój USOSweb* → *Plany użytkownika*, check the prerequisites of courses (in USOS, section *Założenia*) and do not take on too much.
+  - Plan your timetable in *Mój USOSweb* → *Plany użytkownika* (User timetables), check the prerequisites of courses (in USOS, section *Założenia*) and do not take on too much.
   - First-year students do not register for physical education in the first semester. Foreign language courses in the mathematics programme start in semester 3.
 
   Rules: [Course registration rules at the Mathematical Institute (PDF, Polish)](https://www.math.uni.wroc.pl/sites/default/files/zasady-rejestracji.pdf).

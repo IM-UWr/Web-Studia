@@ -100,10 +100,10 @@ tresc_en: |
 
   ## Standard and extended versions
 
-  The key compulsory courses of the first semesters are taught at two levels: a **standard** and an **extended version** (marked with the letter R or a Roman numeral, e.g. *Algebra liniowa 1R*, *Analiza matematyczna I*). Both cover a comparable range of material, but the extended version treats it in more depth — with complete proofs of most theorems and more emphasis on harder problems.
+  The key compulsory courses of the first semesters are taught at two levels: a **standard** and an **extended version** (marked with the letter R or a Roman numeral, e.g. *Algebra liniowa 1R* (Linear algebra 1R), *Analiza matematyczna I* (Advanced calculus I)). Both cover a comparable range of material, but the extended version treats it in more depth — with complete proofs of most theorems and more emphasis on harder problems.
 
   - **1st semester (mathematics):** students are assigned to a version on the basis of their secondary-school final exam results and the qualification test, also taking into account the preferences given during the test.
-  - **From the 2nd semester:** you choose the version yourself, separately for each course. Choosing the extended version of a course in the *Analiza matematyczna* or *Algebra liniowa* sequence after completing the standard version of the previous course requires consulting the lecturer of the extended version first.
+  - **From the 2nd semester:** you choose the version yourself, separately for each course. Choosing the extended version of a course in the *Analiza matematyczna* (Advanced calculus) or *Algebra liniowa* (Linear algebra) sequence after completing the standard version of the previous course requires consulting the lecturer of the extended version first.
   - Choosing the standard version of the compulsory courses of semesters 1–3 does not close any path, but the standard version of some later courses may limit your choice of specialisation. Recommendations of the specialisation coordinators: Table 7 in the [Guide to the bachelor's curriculum (PDF, Polish)](/pliki/studia/przewodnik-mt-lic.pdf) (curriculum from 2026/27).
   - You cannot receive ECTS credits for both versions of the same course.
 
@@ -131,7 +131,7 @@ tresc_en: |
 
   1. switching from the extended to the standard version — Form B3 (see above);
   2. withdrawal from an e-learning course run with Hasselt University — Form H2 (see [E-learning](#e-learning));
-  3. **one-time withdrawal from a course** — once per degree (once in the bachelor's and once in the master's programme), by **30 November** (winter semester) or **30 April** (summer semester): Form A1 (bachelor's) or A2 (master's). For courses with a team project (e.g. *Zespołowy projekt specjalnościowy*) the lecturer's consent is also required. This right is independent of the corresponding right at the Institute of Computer Science.
+  3. **one-time withdrawal from a course** — once per degree (once in the bachelor's and once in the master's programme), by **30 November** (winter semester) or **30 April** (summer semester): Form A1 (bachelor's) or A2 (master's). For courses with a team project (e.g. *Zespołowy projekt specjalnościowy*, in English Specialisation team project) the lecturer's consent is also required. This right is independent of the corresponding right at the Institute of Computer Science.
 
   ## Repeating a course
 
@@ -183,8 +183,8 @@ tresc_en: |
 
   Every course includes online Q&A (Questions & Answers) sessions, and attendance is compulsory. Q&A sessions in the winter semester 2026/27:
 
-  - *Computer Intensive Methods*: Thu 22.10 (18:00–19:00), Thu 19.11 (18:00–19:00), Thu 26.11 (19:00–20:00), Thu 17.12 (19:30–21:00)
-  - *Bayesian Data Analysis*: Mon 19.10 (20:00–21:30), Fri 20.11 (19:00–20:00), Tue 1.12 (20:00–21:30), Mon 21.12 (20:00–21:30)
+  - *Computer Intensive Methods*: Thu 22 Oct (18:00–19:00), Thu 19 Nov (18:00–19:00), Thu 26 Nov (19:00–20:00), Thu 17 Dec (19:30–21:00)
+  - *Bayesian Data Analysis*: Mon 19 Oct (20:00–21:30), Fri 20 Nov (19:00–20:00), Tue 1 Dec (20:00–21:30), Mon 21 Dec (20:00–21:30)
 
   Details: [E-learning courses (PDF)](/pliki/studia/zajecia/e-learnings.pdf).
 
@@ -231,7 +231,7 @@ tresc_en: |
   | Matter | Who | Contact |
   | --- | --- | --- |
   | Registration and withdrawals, timetable | Teaching office of the Mathematical Institute — Justyna Jędrzejewska-Idczak | room 315, phone 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl) |
-  | Consent to enrol without meeting the prerequisites (B1) | Deputy Director for Teaching — dr Tomasz Elsner | room 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
+  | Consent to enrol without meeting the prerequisites (B1) | Deputy Director for Teaching — Dr Tomasz Elsner | room 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
   | Validity of credits, passing the semester, requests to the Dean | Faculty Office (WMI) | [Student affairs](/en/studia/sprawy-studenckie) |
 opublikowany: true
 ---
