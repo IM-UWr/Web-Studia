@@ -3,6 +3,8 @@ tytul: "Sprawy studenckie"
 opis: "Gdzie i jak załatwić sprawy związane ze studiami: sekretariat, dziekanat, wnioski, stypendia, wymiany, kariera, wsparcie i przepisy."
 tytul_en: "Student affairs"
 opis_en: "Where and how to deal with study matters: teaching office, Faculty Office, requests, scholarships, exchanges, careers, support and regulations."
+haslo: "Co, gdzie i jak załatwić"
+haslo_en: "What to arrange, where and how"
 tresc_en: |
   A guide for students of the Mathematical Institute: who handles what, how to deal with the most common matters, where to find scholarships, exchanges and support. The Institute's deadlines and forms (course registration, specialisation, thesis supervisor) are listed on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
 

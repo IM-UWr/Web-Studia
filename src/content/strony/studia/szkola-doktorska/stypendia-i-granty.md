@@ -3,6 +3,8 @@ tytul: "Stypendia i granty dla doktorantów"
 opis: "Stypendium doktoranckie, stypendia w projektach badawczych, wyjazdy i inne świadczenia dla doktorantów Kolegium Doktorskiego Matematyki."
 tytul_en: "Stipends and grants for doctoral students"
 opis_en: "The doctoral stipend, stipends in research projects, mobility and other benefits for doctoral students of the Doctoral College of Mathematics."
+haslo: "Finansowanie doktoratu"
+haslo_en: "Funding your doctorate"
 tresc_en: |
   ## Doctoral stipend
 

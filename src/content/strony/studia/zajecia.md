@@ -3,6 +3,8 @@ tytul: "Zajęcia i konsultacje"
 opis: "Plan zajęć, konsultacje, zapisy na zajęcia w USOSweb, formularze, wersje przedmiotów, sesja egzaminacyjna, e-learning, lektoraty i WF."
 tytul_en: "Classes and office hours"
 opis_en: "Timetable, office hours, course registration in USOSweb, request forms, course levels, the exam session, e-learning, language and PE classes."
+haslo: "Zapisy, konsultacje, sesja"
+haslo_en: "Registration, office hours, exams"
 tresc_en: |
   A guide to classes at the Mathematical Institute: how and when to register for courses in USOSweb, which form to submit in special situations, and where to find the timetable, exam dates and lecturers' office hours. Specialisation declarations and the choice of a thesis supervisor (forms C1–C3 and E) are described on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
 

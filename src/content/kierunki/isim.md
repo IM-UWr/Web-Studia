@@ -12,6 +12,8 @@ podtytul: ISIM · studia I stopnia (licencjackie)
 podtytul_en: ISIM · bachelor's studies
 opis: Trzyletnie studia licencjackie łączące informatykę i matematykę, prowadzone wspólnie przez Instytut Informatyki i Instytut Matematyczny UWr — z indywidualnym planem studiów i opieką tutora.
 opis_en: A three-year bachelor's programme combining computer science and mathematics, run jointly by the Institute of Computer Science and the Mathematical Institute, University of Wrocław — with an individual study plan and a personal tutor.
+haslo: "Własny plan studiów z tutorem"
+haslo_en: "Your own study plan, with a tutor"
 fakty:
 - wartosc: 3 lata
   wartosc_en: 3 years
@@ -20,6 +22,8 @@ fakty:
 - wartosc: '210'
   etykieta: punktów ECTS do ukończenia studiów
   etykieta_en: ECTS credits to graduate
+  etykieta_krotka: punktów ECTS
+  etykieta_krotka_en: ECTS credits
 - wartosc: licencjat
   wartosc_en: Bachelor's
   etykieta: tytuł zawodowy absolwenta
@@ -27,6 +31,8 @@ fakty:
 - wartosc: '2'
   etykieta: instytuty prowadzące kierunek
   etykieta_en: institutes running the programme
+  etykieta_krotka: instytuty prowadzące
+  etykieta_krotka_en: partner institutes
 przyciski:
 - etykieta: Rekrutacja
   etykieta_en: Admissions

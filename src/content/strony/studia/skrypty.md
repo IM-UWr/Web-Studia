@@ -3,6 +3,18 @@ tytul: "Skrypty i materiały dla studentów"
 opis: "Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu, uporządkowane według przedmiotów."
 tytul_en: "Lecture notes and study materials"
 opis_en: "Free lecture notes, course scripts and problem sets written by Institute staff, grouped by subject (in Polish)."
+haslo: "Bezpłatne skrypty pracowników"
+haslo_en: "Free lecture notes by our staff"
+liczby:
+- n: "30"
+  etykieta: "skryptów i notatek"
+  etykieta_en: "lecture notes and scripts"
+- n: "7"
+  etykieta: "działów"
+  etykieta_en: "subject areas"
+- n: "25"
+  etykieta: "autorów"
+  etykieta_en: "authors"
 tresc_en: |
   Free lecture notes, course scripts and problem sets written by the staff of the Institute (two of the linear algebra scripts were written as master's theses). All materials are in Polish and are grouped by subject; for each item we give the author, the format and the course of the current study programme for which it may be useful.
 

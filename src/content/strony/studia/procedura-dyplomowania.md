@@ -3,6 +3,8 @@ tytul: "Procedura dyplomowania"
 opis: "Formalne zasady dyplomowania na kierunku matematyka: promotor i recenzent, temat i ocena pracy, egzamin dyplomowy i wynik studiów."
 tytul_en: "Diploma procedure"
 opis_en: "Formal rules of the diploma process in mathematics: supervisor and reviewer, thesis topic and assessment, the diploma exam and the final degree grade."
+haslo: "Zasady krok po kroku"
+haslo_en: "The rules, step by step"
 tresc_en: |
   The formal rules for completing a degree in mathematics: who can be a supervisor and a reviewer, how a thesis topic is approved and changed, how the thesis is assessed, how the diploma exam works and how the final degree grade is calculated. The practical guide — the steps to take, the APD system, the format and scope of the exams, dates and past exam papers — is on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page.
 

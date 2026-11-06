@@ -12,6 +12,8 @@ podtytul: Studia I i II stopnia
 podtytul_en: Bachelor's and master's studies
 opis: Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie Matematycznym Uniwersytetu Wrocławskiego.
 opis_en: A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.
+haslo: "Od teorii do zastosowań"
+haslo_en: "From theory to applications"
 fakty:
 - wartosc: 3 lata
   wartosc_en: 3 years
@@ -24,6 +26,8 @@ fakty:
 - wartosc: '5'
   etykieta: specjalności do wyboru
   etykieta_en: specialisations
+  etykieta_krotka: specjalności
+  etykieta_krotka_en: specialisations
 - wartosc: A+
   etykieta: kategoria naukowa dyscypliny
   etykieta_en: research category of the discipline

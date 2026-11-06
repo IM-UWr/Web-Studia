@@ -12,6 +12,8 @@ podtytul: Kolegium Doktorskie Matematyki · Szkoła Doktorska Uniwersytetu Wroc�
 podtytul_en: Doctoral College of Mathematics · Doctoral School of the University of Wrocław
 opis: "Kształcenie doktorantów w dyscyplinie matematyka: badania pod opieką promotora, indywidualny plan badawczy, zajęcia, praktyki dydaktyczne i stypendium doktoranckie."
 opis_en: "Doctoral training in mathematics: research under the guidance of a supervisor, an individual research plan, courses, teaching practice and a doctoral stipend."
+haslo: "Doktorat wśród badaczy"
+haslo_en: "A doctorate among researchers"
 fakty:
   - wartosc: "8"
     etykieta: semestrów kształcenia
@@ -19,6 +21,8 @@ fakty:
   - wartosc: "270"
     etykieta: godzin zajęć obowiązkowych
     etykieta_en: hours of compulsory courses
+    etykieta_krotka: godzin zajęć
+    etykieta_krotka_en: hours of courses
   - wartosc: PL / EN
     etykieta: zajęcia po polsku lub angielsku
     etykieta_en: courses in Polish or English

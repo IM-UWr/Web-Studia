@@ -3,6 +3,8 @@ tytul: "Program MOST"
 opis: "Krajowy program mobilności studentów i doktorantów — semestr lub rok akademicki na innej polskiej uczelni."
 tytul_en: "MOST programme"
 opis_en: "National mobility programme for students and PhD students — a semester or an academic year at another Polish university."
+haslo: "Semestr na innej uczelni"
+haslo_en: "A semester at another university"
 tresc_en: |
   MOST is a mobility programme for students and PhD students. Running since 1999, it lets participants study for a semester or a full academic year at one of twenty-nine partner universities in Poland. Participation is free of charge and does not depend on the mode of study.
 

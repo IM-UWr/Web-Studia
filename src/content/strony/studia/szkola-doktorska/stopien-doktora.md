@@ -3,6 +3,8 @@ tytul: "Rozprawa doktorska i nadanie stopnia doktora"
 opis: "Jak złożyć rozprawę doktorską w dyscyplinie matematyka: system APD, wniosek o wszczęcie postępowania, recenzje i publiczna obrona."
 tytul_en: "Doctoral thesis and the conferral of the degree"
 opis_en: "How to submit a doctoral thesis in mathematics: the APD system, the application to start the proceedings, reviews and the public defence."
+haslo: "Od wniosku do obrony"
+haslo_en: "From application to defence"
 tresc_en: |
   Training at the Doctoral School ends with the submission of the doctoral thesis. The date of submission is the day on which the application to start the doctoral degree proceedings is filed, together with the thesis and the supervisor's positive opinion. The thesis must be submitted by the date set in the individual research plan (IPB). The proceedings in mathematics are conducted by the **Mathematics Discipline Council**.
 

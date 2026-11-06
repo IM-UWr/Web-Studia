@@ -3,6 +3,8 @@ tytul: "Rekrutacja do Kolegium Doktorskiego Matematyki"
 opis: "Jak dostać się do Szkoły Doktorskiej UWr w dyscyplinie matematyka: promotor, rejestracja w IRKa, egzamin kwalifikacyjny i wymagane dokumenty."
 tytul_en: "Admission to the Doctoral College of Mathematics"
 opis_en: "How to join the UWr Doctoral School in mathematics: supervisor, IRKa registration, entrance exam and required documents."
+haslo: "Jak zostać doktorantem"
+haslo_en: "How to become a PhD student"
 tresc_en: |
   Admission to the Doctoral School of the University of Wrocław is by competition and takes place within doctoral colleges. Candidates in mathematics apply to the **Doctoral College of Mathematics**. The admission rules are adopted each year by the University Senate, and the schedule and number of places are set by orders of the Rector. This page describes the rules of the most recent admission round (for 2026/27).
 

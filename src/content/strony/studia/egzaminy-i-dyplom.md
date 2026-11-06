@@ -3,6 +3,18 @@ tytul: "Egzaminy i dyplom"
 opis: "Jak ukończyć studia na kierunku matematyka: promotor i temat pracy, system APD, egzamin licencjacki i magisterski, terminy oraz zadania z poprzednich lat."
 tytul_en: "Exams and diploma"
 opis_en: "How to complete a degree in mathematics: supervisor and thesis topic, the APD system, bachelor's and master's exams, dates and past exam papers."
+haslo: "Droga do dyplomu"
+haslo_en: "The road to your diploma"
+liczby:
+- n: "81"
+  etykieta: "zestawów licencjackich"
+  etykieta_en: "bachelor's exam papers"
+- n: "65"
+  etykieta: "zestawów magisterskich"
+  etykieta_en: "master's exam papers"
+- n: "25"
+  etykieta: "lat archiwum zadań"
+  etykieta_en: "years of past papers"
 tresc_en: |
   A guide to completing your degree in mathematics: choosing a supervisor and thesis topic, submitting the thesis in the APD system, the bachelor's and master's exams, dates and past exam papers. The formal rules — the Diploma Theses Committee, thesis assessment, the final degree grade and answers to frequent questions — are described in the [Diploma procedure](/en/studia/procedura-dyplomowania).
 

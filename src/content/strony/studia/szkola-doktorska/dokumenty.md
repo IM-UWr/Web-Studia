@@ -3,6 +3,18 @@ tytul: "Dokumenty i wzory dla doktorantów"
 opis: "Wzory wniosków i oświadczeń, dokumenty oceny śródokresowej i rozprawy doktorskiej, regulaminy oraz sylabusy zajęć Kolegium Doktorskiego Matematyki."
 tytul_en: "Documents and forms for doctoral students"
 opis_en: "Application and declaration forms, mid-term evaluation and thesis documents, regulations and course syllabi of the Doctoral College of Mathematics."
+haslo: "Wzory, regulaminy, sylabusy"
+haslo_en: "Forms, regulations, syllabi"
+liczby:
+- n: "29"
+  etykieta: "wzorów i pism"
+  etykieta_en: "forms and letters"
+- n: "15"
+  etykieta: "sylabusów zajęć"
+  etykieta_en: "course syllabi"
+- n: "4"
+  etykieta: "regulaminy"
+  etykieta_en: "regulations"
 tresc_en: |
   Most forms are available only in Polish. Programmes of study for each cohort are listed on the [main doctoral school page](/en/studia/szkola-doktorska#program); regulations and orders are under [Regulations](/en/studia/szkola-doktorska#akty).
 

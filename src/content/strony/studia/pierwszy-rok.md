@@ -3,6 +3,8 @@ tytul: "Pierwszy rok"
 opis: "Przewodnik dla osób zaczynających studia w Instytucie Matematycznym (matematyka, SIAD, ISIM): pierwsze kroki, opiekun roku, przedmioty i zapisy, zaliczenie roku, terminy i wsparcie."
 tytul_en: "First year"
 opis_en: "A guide for students starting their studies at the Mathematical Institute (mathematics, AI in Data Science, ISIM): first steps, the year coordinator, courses and registration, passing the first year, key dates and support."
+haslo: "Pierwsze kroki na studiach"
+haslo_en: "Your first steps at university"
 tresc_en: |
   A guide for students starting bachelor's studies at the Mathematical Institute: in **mathematics**, in **artificial intelligence in data science** (SIAD) and — for the mathematical part of the programme — in **ISIM**. The most important information is at the top; full details are in the [Guide for new students (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf), prepared by the year coordinator.
 

@@ -3,6 +3,18 @@ tytul: "Studia podyplomowe"
 opis: "Kwalifikacyjne Studia Podyplomowe Nauczanie Matematyki (3 semestry): dla kogo, program, rekrutacja, opłaty i kontakt."
 tytul_en: "Postgraduate studies"
 opis_en: "Postgraduate Qualification Programme in Teaching Mathematics (3 semesters): who it is for, curriculum, admission, fees and contact."
+haslo: "Naucz się uczyć matematyki"
+haslo_en: "Learn to teach mathematics"
+liczby:
+- n: "3"
+  etykieta: "semestry"
+  etykieta_en: "semesters"
+- n: "380"
+  etykieta: "godzin zajęć"
+  etykieta_en: "hours of classes"
+- n: "90"
+  etykieta: "godzin praktyk"
+  etykieta_en: "hours of teaching practice"
 tresc_en: |
   The Mathematical Institute currently runs a three-semester **Postgraduate Qualification Programme in Teaching Mathematics** (*Kwalifikacyjne Studia Podyplomowe Nauczanie Matematyki*).
 

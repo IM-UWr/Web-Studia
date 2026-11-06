@@ -7,6 +7,8 @@ tytul: "Rok akademicki"
 opis: "Kalendarz roku akademickiego 2026/27: kolory dni, semestry, sesje egzaminacyjne, przerwy, dni wolne od zajęć i zamiany dni."
 tytul_en: "Academic year"
 opis_en: "The 2026/27 academic calendar: day colours, semesters, exam sessions, breaks, days without classes and day swaps."
+haslo: "Semestry, sesje, kolory dni"
+haslo_en: "Semesters, exam sessions, day colours"
 tresc_en: |
   The dates of the 2026/27 academic year come from [Rector's Order No. 121/2026](https://bip.uni.wroc.pl/download/attachment/52562/nr-121-2026-z-dnia-25-czerwca-2026_zmina-do-organizacja-roku-akademickiego-2026-2027-plus-juwenalia.pdf?v=1782386043) of 25 June 2026 (in Polish).
 

@@ -3,6 +3,8 @@ tytul: "Archiwalne programy studiów na kierunku matematyka"
 opis: "Wcześniejsze programy studiów na kierunku matematyka wraz z efektami kształcenia i uchwałami Rady Wydziału Matematyki i Informatyki UWr."
 tytul_en: "Archived study programmes in mathematics"
 opis_en: "Earlier study programmes in mathematics, with learning outcomes and resolutions of the Faculty Council of Mathematics and Computer Science."
+haslo: "Dawne programy i uchwały"
+haslo_en: "Past programmes and resolutions"
 tresc_en: |
   Earlier study programmes in mathematics at the Faculty of Mathematics and Computer Science of the University of Wrocław. All documents are in Polish.
 
