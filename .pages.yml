@@ -60,7 +60,7 @@ content:
       label: 'EN: krótszy podpis'
       type: string
   - name: przyciski
-    label: ① Przyciski pod opisem (np. Rekrutacja)
+    label: ① Przyciski pod opisem (np. Rekrutacja) (wyświetlają się tylko przy Szkole doktorskiej)
     type: object
     list: true
     fields:
