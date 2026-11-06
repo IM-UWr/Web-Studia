@@ -4,6 +4,8 @@ nazwa_en: Doctoral school
 kolejnosc: 4
 menu_etykieta: "Szkoła doktorska"
 menu_etykieta_en: "Doctoral school"
+menu_opis: "Kolegium Doktorskie Matematyki"
+menu_opis_en: "Doctoral College of Mathematics"
 kafelek_poziom: "III stopień"
 kafelek_poziom_en: "PhD"
 kafelek_opis: "Kolegium Doktorskie Matematyki."

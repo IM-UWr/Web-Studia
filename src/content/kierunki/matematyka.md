@@ -4,6 +4,8 @@ nazwa_en: Mathematics
 kolejnosc: 1
 menu_etykieta: "Matematyka"
 menu_etykieta_en: "Mathematics"
+menu_opis: "I i II stopień, pięć specjalności"
+menu_opis_en: "BSc and MSc, five specialisations"
 kafelek_poziom: "I i II stopień"
 kafelek_poziom_en: "BSc and MSc"
 kafelek_opis: "Nowy program studiów od roku 2026/27."
