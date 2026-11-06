@@ -33,6 +33,9 @@ content:
   - name: opis
     label: ① Jedno zdanie pod nazwą
     type: text
+  - name: haslo
+    label: ① Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
   - name: fakty
     label: ① Liczby w nagłówku (np. 3 lata — studia I stopnia)
     type: object
@@ -49,6 +52,12 @@ content:
       type: string
     - name: etykieta_en
       label: 'EN: opis'
+      type: string
+    - name: etykieta_krotka
+      label: Krótszy podpis do liczb w banerze na telefonie
+      type: string
+    - name: etykieta_krotka_en
+      label: 'EN: krótszy podpis'
       type: string
   - name: przyciski
     label: ① Przyciski pod opisem (np. Rekrutacja)
@@ -93,6 +102,7 @@ content:
         - tablica
         - zegar
         - plik
+        - pinezka
     - name: tytul_en
       label: 'EN: tytuł'
       type: string
@@ -338,6 +348,9 @@ content:
   - name: opis_en
     label: '⑥ EN: zdanie pod nazwą'
     type: text
+  - name: haslo_en
+    label: '⑥ EN: hasło na banerze'
+    type: string
   - name: tresc_en
     label: '⑥ EN: o kierunku (Markdown)'
     type: text
@@ -402,6 +415,28 @@ content:
   - name: opis
     label: Krótki opis (pod tytułem i w Google)
     type: text
+  - name: haslo
+    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
+  - name: liczby
+    label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
+    type: object
+    list: true
+    fields:
+    - name: n
+      label: Liczba (np. 8 albo 3 lata)
+      type: string
+      required: true
+    - name: n_en
+      label: 'EN: liczba (puste = jak po polsku)'
+      type: string
+    - name: etykieta
+      label: Podpis
+      type: string
+      required: true
+    - name: etykieta_en
+      label: 'EN: podpis'
+      type: string
   - name: pasek_boczny
     label: 'Prawy pasek: spis „Na tej stronie”, menu działu czy oba (puste = domyślnie tylko spis)'
     type: select
@@ -427,6 +462,9 @@ content:
   - name: opis_en
     label: 'EN: opis'
     type: text
+  - name: haslo_en
+    label: 'EN: hasło na banerze'
+    type: string
   - name: tresc_en
     label: 'EN: treść (Markdown)'
     type: text
@@ -444,6 +482,9 @@ content:
   - name: opis
     label: Krótki opis
     type: text
+  - name: haslo
+    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
   - name: body
     label: Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru)
     type: rich-text
@@ -461,6 +502,9 @@ content:
   - name: opis_en
     label: 'EN: opis'
     type: text
+  - name: haslo_en
+    label: 'EN: hasło na banerze'
+    type: string
   - name: tresc_en
     label: 'EN: treść (Markdown)'
     type: text
@@ -700,6 +744,9 @@ content:
   - name: opis
     label: Jedno zdanie pod nazwą
     type: text
+  - name: haslo
+    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
   - name: zaklad
     label: Zakład
     type: select
@@ -734,6 +781,9 @@ content:
       type: string
     - name: rola
       label: Rola (opcjonalnie)
+      type: string
+    - name: rola_en
+      label: 'EN: rola'
       type: string
   - name: wygaszana
     label: Wygaszana
@@ -946,6 +996,9 @@ content:
   - name: opis_en
     label: 'EN: zdanie pod nazwą'
     type: text
+  - name: haslo_en
+    label: 'EN: hasło na banerze'
+    type: string
   - name: dla_kogo_en
     label: 'EN: dla kogo'
     type: text
