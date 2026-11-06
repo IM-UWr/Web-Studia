@@ -1,20 +1,22 @@
 ---
-tytul: "Skrypty i materiały dla studentów"
-opis: "Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu, uporządkowane według przedmiotów."
-tytul_en: "Lecture notes and study materials"
-opis_en: "Free lecture notes, course scripts and problem sets written by Institute staff, grouped by subject (in Polish)."
-haslo: "Bezpłatne skrypty pracowników"
-haslo_en: "Free lecture notes by our staff"
+tytul: Skrypty i materiały dla studentów
+opis: Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez
+  pracowników Instytutu, uporządkowane według przedmiotów.
+haslo: Bezpłatne skrypty pracowników test
 liczby:
-- n: "30"
-  etykieta: "skryptów i notatek"
-  etykieta_en: "lecture notes and scripts"
-- n: "7"
-  etykieta: "działów"
-  etykieta_en: "subject areas"
-- n: "25"
-  etykieta: "autorów"
-  etykieta_en: "authors"
+  - n: "30"
+    etykieta: skryptów i notatek
+    etykieta_en: lecture notes and scripts
+  - n: "7"
+    etykieta: działów
+    etykieta_en: subject areas
+  - n: "25"
+    etykieta: autorów
+    etykieta_en: authors
+tytul_en: Lecture notes and study materials
+opis_en: Free lecture notes, course scripts and problem sets written by
+  Institute staff, grouped by subject (in Polish).
+haslo_en: Free lecture notes by our staff
 tresc_en: |
   Free lecture notes, course scripts and problem sets written by the staff of the Institute (two of the linear algebra scripts were written as master's theses). All materials are in Polish and are grouped by subject; for each item we give the author, the format and the course of the current study programme for which it may be useful.
 
@@ -105,9 +107,7 @@ tresc_en: |
   - Problems from past bachelor's and master's exams — [Exams and graduation](/studia/egzaminy-i-dyplom)
   - Selected course pages in SKOS and the course catalogue in USOSweb — [Classes and office hours](/studia/zajecia)
   - Personal websites of the staff — [Staff](/pracownicy)
-opublikowany: true
 ---
-
 Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu (dwa skrypty z algebry liniowej powstały jako prace magisterskie). Materiały są po polsku i pogrupowane według przedmiotów; przy każdym podajemy autora, format i przedmiot z obecnego programu studiów, przy którym mogą się przydać.
 
 > Wiele skryptów powstało do wcześniejszych edycji wykładów (stąd np. oznaczenia wersji A lub B w niektórych tytułach), więc ich zakres i oznaczenia mogą się różnić od obecnego programu. Pliki oznaczone jako „strona autora” są utrzymywane przez autorów na ich stronach domowych.
@@ -197,3 +197,4 @@ Materiały Danuty Zaremby dla studentów, którzy przygotowują się do nauczani
 - Zadania z wcześniejszych egzaminów licencjackich i magisterskich — [Egzaminy i dyplom](/studia/egzaminy-i-dyplom)
 - Strony wybranych przedmiotów w SKOS i katalog przedmiotów w USOSweb — [Zajęcia i konsultacje](/studia/zajecia)
 - Strony domowe pracowników — [Pracownicy](/pracownicy)
+
