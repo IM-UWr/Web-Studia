@@ -266,11 +266,55 @@ content:
     label: Tytuł
     type: string
     required: true
+  - name: body
+    label: Treść
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/studia
+    description: |-
+      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
+
+      • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+      • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+      • Lista samych linków = lista plików (PDF / strona).
+
+      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+      • Plik PDF: wgraj w „Media” i wklej link.
+
+      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
+  - name: tresc_en
+    label: Treść EN
+    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/studia
   - name: opis
     label: Krótki opis (pod tytułem i w Google)
     type: text
+  - name: opis_en
+    label: 'EN: opis'
+    type: text
   - name: haslo
     label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
+  - name: haslo_en
+    label: 'EN: hasło na banerze'
     type: string
   - name: liczby
     label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
@@ -304,24 +348,11 @@ content:
         label: Tylko menu działu (podstrony)
       - name: brak
         label: Bez prawego paska (strona na całą szerokość)
-  - name: body
-    label: Treść
-    type: rich-text
-    options:
-      format: markdown
-      path: public/pliki/studia
-  - name: tytul_en
-    label: 'EN: tytuł'
-    type: string
-  - name: opis_en
-    label: 'EN: opis'
-    type: text
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: tresc_en
-    label: 'EN: treść (Markdown)'
-    type: text
+  - name: bloki
+    label: Kafelki, oś i kontakty z list — zob. ściągawka
+    type: boolean
+    default: false
+    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
 - name: rok-akademicki
   label: Rok akademicki — tekst strony
   description: Kolory, terminy semestru, dni wolne i zamiany dni wpisuje się w „Kalendarz zajęć (kolory dni)”; tu tylko tekst.
@@ -333,14 +364,42 @@ content:
     label: Tytuł
     type: string
     required: true
-  - name: opis
-    label: Krótki opis
-    type: text
-  - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
   - name: body
     label: Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru)
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/studia
+    description: |-
+      Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru); między Treścią a Końcem strony strona wstawia kalendarz.
+
+      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
+
+      • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+      • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+      • Lista samych linków = lista plików (PDF / strona).
+
+      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+      • Plik PDF: wgraj w „Media” i wklej link.
+
+      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
+  - name: tresc_en
+    label: Treść EN
+    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
     type: rich-text
     options:
       format: markdown
@@ -350,21 +409,30 @@ content:
     type: rich-text
     options:
       format: markdown
-  - name: tytul_en
-    label: 'EN: tytuł'
-    type: string
+  - name: dalej_en
+    label: Koniec strony EN
+    description: Koniec strony po angielsku, w tym samym układzie. Puste = strona angielska pokaże tekst polski.
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/studia
+  - name: opis
+    label: Krótki opis
+    type: text
   - name: opis_en
     label: 'EN: opis'
     type: text
+  - name: haslo
+    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
   - name: haslo_en
     label: 'EN: hasło na banerze'
     type: string
-  - name: tresc_en
-    label: 'EN: treść (Markdown)'
-    type: text
-  - name: dalej_en
-    label: 'EN: koniec strony (Markdown)'
-    type: text
+  - name: bloki
+    label: Kafelki, oś i kontakty z list — zob. ściągawka
+    type: boolean
+    default: false
+    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
 - name: kolory-dni
   label: Kalendarz zajęć (kolory dni)
   description: 'Kolory liczą się same: wpisz okres zajęć, dni wolne (dni rektorskie, przerwy) i zamiany dni z zarządzenia o organizacji roku. Święta ustawowe są uwzględniane automatycznie. Podgląd: /studia/rok-akademicki (każdy dzień tygodnia powinien wypaść 15 razy). Terminy sesji i przerw do tabeli „Rok w skrócie” — w polu Terminy przy semestrze.'
