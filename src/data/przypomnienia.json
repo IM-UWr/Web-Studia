@@ -1,0 +1,37 @@
+{
+  "przypomnienia": [
+    {
+      "sprawa": "Deklaracja specjalności (II stopień)",
+      "sprawa_en": "Specialisation declaration (master's)",
+      "podpis": "1. semestr studiów II stopnia · formularz C3",
+      "podpis_en": "1st semester, master's · form C3",
+      "data": "2026-10-15",
+      "co_roku": true,
+      "dni_przed": 14,
+      "adres": "/studia/matematyka#terminy",
+      "uid": "termin-matematyka-1"
+    },
+    {
+      "sprawa": "Deklaracja specjalności nauczycielskiej",
+      "sprawa_en": "Declaration of the teaching specialisation",
+      "podpis": "1. semestr studiów I stopnia · formularz C1",
+      "podpis_en": "1st semester, bachelor's · form C1",
+      "data": "2026-12-31",
+      "co_roku": true,
+      "dni_przed": 14,
+      "adres": "/studia/matematyka#terminy",
+      "uid": "termin-matematyka-4"
+    },
+    {
+      "sprawa": "Deklaracja specjalności (I stopień)",
+      "sprawa_en": "Specialisation declaration (bachelor's)",
+      "podpis": "4. semestr studiów I stopnia · formularz C2",
+      "podpis_en": "4th semester, bachelor's · form C2",
+      "data": "2027-06-30",
+      "co_roku": true,
+      "dni_przed": 14,
+      "adres": "/studia/matematyka#terminy",
+      "uid": "termin-matematyka-6"
+    }
+  ]
+}
