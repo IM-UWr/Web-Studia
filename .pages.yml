@@ -1,4 +1,4 @@
-# Pages CMS — Web-Studia: Studia: kierunki, strony studiów, szkoła doktorska, rok akademicki i kolory dni.
+# Pages CMS — Web-Studia: Studia: kierunki (treść, baner), przypomnienia o terminach, strony studiów, szkoła doktorska, rok akademicki i kolory dni.
 # Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 media:
   input: public/pliki
@@ -8,393 +8,158 @@ settings:
   commit:
     identity: user
 content:
-- name: kierunki
-  label: Kierunki studiów
-  description: 'Strona kierunku (np. /studia/matematyka). Pola są ułożone tak jak sekcje na stronie: ① nagłówek, ② dla kandydata, ③ dla studenta, ④ dokumenty, ⑤ kontakt,
-    ⑥ wersja angielska, ⑦ menu i strona główna. Puste sekcje się nie wyświetlają. Specjalności edytuje się w sekcji „Specjalności” — kafelki na stronie kierunku budują
-    się same.'
-  type: collection
-  path: src/content/kierunki
-  format: yaml-frontmatter
-  filename: '{primary}.md'
-  view:
-    fields:
-    - nazwa
-    - kolejnosc
-    primary: nazwa
-  fields:
-  - name: nazwa
-    label: ① Nazwa kierunku
-    type: string
-    required: true
-  - name: podtytul
-    label: ① Nadtytuł (np. Studia I i II stopnia)
-    type: string
-  - name: opis
-    label: ① Jedno zdanie pod nazwą
-    type: text
-  - name: haslo
-    label: ① Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
-  - name: fakty
-    label: ① Liczby w nagłówku (np. 3 lata — studia I stopnia)
-    type: object
-    list: true
-    fields:
-    - name: wartosc
-      label: Wartość
-      type: string
-    - name: wartosc_en
-      label: 'EN: wartość (puste = jak po polsku, np. liczby)'
-      type: string
-    - name: etykieta
-      label: Opis
-      type: string
-    - name: etykieta_en
-      label: 'EN: opis'
-      type: string
-    - name: etykieta_krotka
-      label: Krótszy podpis do liczb w banerze na telefonie
-      type: string
-    - name: etykieta_krotka_en
-      label: 'EN: krótszy podpis'
-      type: string
-  - name: przyciski
-    label: ① Przyciski pod opisem (np. Rekrutacja) (wyświetlają się tylko przy Szkole doktorskiej)
-    type: object
-    list: true
-    fields:
-    - name: etykieta
-      label: Etykieta
-      type: string
-    - name: adres
-      label: Adres (link)
-      type: string
-    - name: etykieta_en
-      label: 'EN: etykieta'
-      type: string
-  - name: body
-    label: ② O kierunku (tekst główny)
-    type: rich-text
-    options:
-      format: markdown
-  - name: dlaczego
-    label: ② Dlaczego warto (kafelki)
-    type: object
-    list: true
-    fields:
-    - name: tytul
-      label: Tytuł
-      type: string
-    - name: opis
-      label: Opis
-      type: text
-    - name: ikona
-      label: Ikona
-      type: select
-      options:
-        values:
-        - flaga
-        - czapka
-        - ludzie
-        - zewnetrzny
-        - kalendarz
-        - tablica
-        - zegar
-        - plik
-        - pinezka
-    - name: tytul_en
-      label: 'EN: tytuł'
-      type: string
-    - name: opis_en
-      label: 'EN: opis'
-      type: text
-  - name: kariera
-    label: ② Po studiach (Markdown)
-    type: text
-  - name: faq
-    label: ② Pytania i odpowiedzi
-    type: object
-    list: true
-    fields:
-    - name: pytanie
-      label: Pytanie
-      type: string
-    - name: odpowiedz
-      label: Odpowiedź (Markdown)
-      type: text
-    - name: pytanie_en
-      label: 'EN: pytanie'
-      type: string
-    - name: odpowiedz_en
-      label: 'EN: odpowiedź'
-      type: text
-  - name: etapy
-    label: ③ Jak wyglądają studia — oś semestrów (co roku sprawdź z nowym programem)
-    description: Każdy etap to jeden punkt na osi. Stopień I i II pokazują się jako dwie ścieżki, III — jako ścieżka doktoranta.
-    type: object
-    list: true
-    fields:
-    - name: stopien
-      label: Stopień
-      type: select
-      options:
-        values:
-        - I
-        - II
-        - III
-    - name: kiedy
-      label: Kiedy (np. Semestry 1–2)
-      type: string
-    - name: tytul
-      label: Tytuł etapu
-      type: string
-    - name: opis
-      label: Opis
-      type: text
-    - name: termin
-      label: Ważny termin (opcjonalnie)
-      type: string
-    - name: formularz
-      label: Formularz (np. Formularz C2)
-      type: string
-    - name: formularz_en
-      label: 'EN: nazwa formularza (np. Form C2; puste = wersja angielska pokaże nazwę po polsku)'
-      type: string
-    - name: formularz_adres
-      label: Link do formularza
-      type: string
-    - name: kiedy_en
-      label: 'EN: kiedy'
-      type: string
-    - name: tytul_en
-      label: 'EN: tytuł'
-      type: string
-    - name: opis_en
-      label: 'EN: opis'
-      type: text
-    - name: termin_en
-      label: 'EN: termin'
-      type: string
-  - name: programy
-    label: ③ Programy studiów (zakładki; nowy program = nowa pozycja z rokiem „od”)
-    description: Student wybiera rok rozpoczęcia studiów i widzi program, którego zakres lat go obejmuje. Przy nowym programie dodaj pozycję, a staremu wpisz „do
-      roku”.
-    type: object
-    list: true
+- name: kierunki-grupa
+  label: Kierunki
+  description: 'Strony kierunków (np. /studia/matematyka) i szkoły doktorskiej. Treść kierunku to jeden tekst (PL i EN); baner osobno. Kolejność i napisy w menu „Studia” i na kafelkach strony głównej: Ustawienia → Sekcja „Studiuj matematykę”. Specjalności edytuje się w sekcji „Specjalności” — kafelki na stronie kierunku budują się same.'
+  type: group
+  items:
+  - name: kierunki
+    label: Treść
+    description: 'Jeden plik = jedna strona kierunku. Nowy kierunek pojawi się sam w menu „Studia” i w kafelkach strony głównej (na końcu; miejsce i napisy ustawisz w Ustawieniach).'
+    type: collection
+    path: src/content/kierunki
+    format: yaml-frontmatter
+    filename: '{primary}.md'
+    view:
+      fields:
+      - nazwa
+      primary: nazwa
     fields:
     - name: nazwa
-      label: Nazwa zakładki (np. Nowy program od 2026/27)
+      label: Nazwa
       type: string
-    - name: dotyczy
-      label: Kogo dotyczy
+      required: true
+    - name: body
+      label: Treść
+      description: |-
+        Piszesz jak w zwykłym edytorze. Kilka układów strona rozpoznaje sama:
+        • Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+        • Punkt listy zaczynający się pogrubieniem = kafelek (np. „Dlaczego warto”).
+        • Lista numerowana z pogrubionym początkiem = oś kroków. W pogrubieniu tekst przed dwukropkiem to mała etykieta: „Semestry 1–2: Podstawy”.
+        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. Kolejną linię w tym samym punkcie dodasz Shift+Enter (zwykły Enter też zadziała).
+        • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+        • Lista samych linków = lista plików (PDF / strona).
+        • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+        • Pod nagłówkiem „Specjalności” strona sama wstawi kafelki specjalności; pod „Program studiów” nagłówki 3 stają się zakładkami.
+        • Plik PDF: wgraj w „Media” i wklej link.
+      type: rich-text
+      options:
+        format: markdown
+        path: public/pliki/studia
+    - name: nazwa_en
+      label: Nazwa EN
       type: string
-    - name: od_roku
-      label: Dla rozpoczynających studia od roku (np. 2026)
-      type: number
-    - name: do_roku
-      label: … do roku (puste = bez końca)
-      type: number
-    - name: dokumenty
-      label: Dokumenty
+    - name: tresc_en
+      label: Treść EN
+      description: 'Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku, np. About, Why join, FAQ). Puste = strona angielska pokaże treść polską.'
+      type: rich-text
+      options:
+        format: markdown
+        path: public/pliki/studia
+  - name: kierunki-baner
+    label: Baner
+    description: 'Nagłówek strony kierunku: nadtytuł, zdanie pod nazwą, hasło i liczby. Jeden plik na kierunek; nazwa pliku = nazwa pliku treści kierunku (np. matematyka). Kierunek bez banera ma w nagłówku samą nazwę.'
+    type: collection
+    path: src/content/kierunki-baner
+    format: json
+    filename: '{fields.kierunek}.json'
+    view:
+      fields:
+      - kierunek
+      - podtytul
+      primary: kierunek
+    fields:
+    - name: kierunek
+      label: Kierunek (nazwa pliku treści, np. matematyka, isim, siad, szkola-doktorska)
+      type: string
+      required: true
+    - name: podtytul
+      label: Nadtytuł (np. Studia I i II stopnia)
+      type: string
+    - name: opis
+      label: Zdanie pod nazwą
+      type: text
+    - name: haslo
+      label: Hasło (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+      type: string
+    - name: liczby
+      label: Liczby (np. 3 lata — studia I stopnia)
       type: object
       list: true
       fields:
-      - name: nazwa
-        label: Nazwa
+      - name: wartosc
+        label: Wartość
         type: string
-      - name: wgraj
-        label: Wgraj plik (PDF, DOCX…)
-        type: file
-        options:
-          path: public/pliki/studia
-      - name: plik
-        label: …albo link (np. do BIP) — gdy nie wgrywasz pliku
+      - name: etykieta
+        label: Podpis
         type: string
-      - name: opis
-        label: Krótki opis (opcjonalnie)
+      - name: etykieta_krotka
+        label: Krótszy podpis na telefon
         type: string
-      - name: nazwa_en
-        label: 'EN: nazwa'
+      - name: wartosc_en
+        label: 'EN: wartość (puste = jak po polsku, np. liczby)'
         type: string
-      - name: opis_en
-        label: 'EN: krótki opis'
+      - name: etykieta_en
+        label: 'EN: podpis'
         type: string
-    - name: nazwa_en
-      label: 'EN: nazwa zakładki'
+      - name: etykieta_krotka_en
+        label: 'EN: krótszy podpis na telefon'
+        type: string
+    - name: podtytul_en
+      label: 'EN: nadtytuł'
       type: string
-    - name: dotyczy_en
-      label: 'EN: kogo dotyczy'
+    - name: opis_en
+      label: 'EN: zdanie pod nazwą'
+      type: text
+    - name: haslo_en
+      label: 'EN: hasło'
       type: string
-  - name: terminy
-    label: ③ Terminy i formularze (tabela)
+- name: przypomnienia
+  label: Przypomnienia o terminach
+  description: 'Terminy, które strona główna (Najbliższe wydarzenia) pokazuje kilka dni wcześniej, np. deklaracja specjalności. Po kliknięciu: link (zwykle tabela terminów na stronie kierunku).'
+  type: file
+  path: src/data/przypomnienia.json
+  format: json
+  fields:
+  - name: przypomnienia
+    label: Przypomnienia
     type: object
     list: true
     fields:
-    - name: co
-      label: Sprawa
+    - name: sprawa
+      label: Sprawa (np. Deklaracja specjalności (I stopień))
       type: string
-    - name: kogo
-      label: Kogo dotyczy
+      required: true
+    - name: podpis
+      label: Podpis pod sprawą (np. 4. semestr studiów I stopnia · formularz C2)
       type: string
-    - name: termin
-      label: Termin
-      type: string
-    - name: formularz
-      label: Formularz (np. C2)
-      type: string
-    - name: formularz_en
-      label: 'EN: nazwa formularza (np. Form C2; puste = wersja angielska pokaże nazwę po polsku)'
-      type: string
-    - name: formularz_adres
-      label: Link do formularza
-      type: string
-    - name: przypomnienie
-      label: Przypomnienie w „Najbliższych wydarzeniach” (strona główna, aktualności)
-      type: boolean
-      default: false
     - name: data
-      label: Data terminu (do kiedy) — potrzebna do przypomnienia
+      label: Data
       type: date
+      required: true
       options:
         format: yyyy-MM-dd
-    - name: dni_przed
-      label: Ile dni przed terminem pokazać przypomnienie (domyślnie 14)
-      type: number
-      default: 14
     - name: co_roku
-      label: Powtarza się co roku (ten sam dzień i miesiąc)
+      label: Co roku (rok w dacie nie ma znaczenia)
       type: boolean
       default: true
-    - name: co_en
+    - name: dni_przed
+      label: Ile dni wcześniej pokazać
+      type: number
+      default: 14
+    - name: adres
+      label: Link (np. /studia/matematyka#terminy)
+      type: string
+    - name: sprawa_en
       label: 'EN: sprawa'
       type: string
-    - name: kogo_en
-      label: 'EN: kogo dotyczy'
+    - name: podpis_en
+      label: 'EN: podpis'
       type: string
-    - name: termin_en
-      label: 'EN: termin'
+    - name: uid
+      label: Identyfikator w kalendarzach (techniczne, nie zmieniać)
       type: string
-  - name: praktyki
-    label: ③ Praktyki pedagogiczne (Markdown; puste = sekcja ukryta)
-    type: text
-  - name: praktyki_dokumenty
-    label: ④ Dokumenty praktyk
-    type: object
-    list: true
-    fields:
-    - name: nazwa
-      label: Nazwa
-      type: string
-    - name: wgraj
-      label: Wgraj plik (PDF, DOCX…)
-      type: file
-      options:
-        path: public/pliki/studia
-    - name: plik
-      label: …albo link — gdy nie wgrywasz pliku
-      type: string
-    - name: nazwa_en
-      label: 'EN: nazwa'
-      type: string
-  - name: akty
-    label: ④ Akty prawne (regulaminy, uchwały, zarządzenia)
-    type: object
-    list: true
-    fields:
-    - name: nazwa
-      label: Nazwa
-      type: string
-    - name: wgraj
-      label: Wgraj plik (PDF)
-      type: file
-      options:
-        path: public/pliki/studia
-    - name: plik
-      label: …albo link (np. do BIP) — gdy nie wgrywasz pliku
-      type: string
-    - name: nazwa_en
-      label: 'EN: nazwa'
-      type: string
-  - name: kontakt
-    label: ⑤ Kontakt
-    type: object
-    list: true
-    fields:
-    - name: rola
-      label: Rola (np. Sekretariat dydaktyczny)
-      type: string
-    - name: osoba
-      label: Osoba
-      type: string
-    - name: email
-      label: E-mail
-      type: string
-    - name: telefon
-      label: Telefon (tylko sekretariat, dziekanat, administracja)
-      type: string
-    - name: pokoj
-      label: Pokój
-      type: string
-    - name: rola_en
-      label: 'EN: rola'
-      type: string
-  - name: nazwa_en
-    label: '⑥ EN: nazwa kierunku'
-    type: string
-  - name: podtytul_en
-    label: '⑥ EN: nadtytuł'
-    type: string
-  - name: opis_en
-    label: '⑥ EN: zdanie pod nazwą'
-    type: text
-  - name: haslo_en
-    label: '⑥ EN: hasło na banerze'
-    type: string
-  - name: tresc_en
-    label: '⑥ EN: o kierunku (Markdown)'
-    type: text
-  - name: praktyki_en
-    label: '⑥ EN: praktyki (Markdown)'
-    type: text
-  - name: kariera_en
-    label: '⑥ EN: po studiach (Markdown)'
-    type: text
-  - name: kolejnosc
-    label: ⑦ Kolejność (w menu „Studia” i w kafelkach na stronie głównej; 1 = pierwszy)
-    type: number
-  - name: w_menu
-    label: ⑦ Pokaż w menu „Studia”
-    type: boolean
-    default: true
-  - name: menu_etykieta
-    label: ⑦ Krótka nazwa w menu i na kafelku (puste = pełna nazwa)
-    type: string
-  - name: menu_etykieta_en
-    label: '⑦ EN: krótka nazwa'
-    type: string
-  - name: menu_opis
-    label: ⑦ Krótki opis w polu ze stronami na stronie działu Studia (puste = przy krótkiej nazwie pełna nazwa, inaczej bez opisu)
-    type: string
-  - name: menu_opis_en
-    label: '⑦ EN: krótki opis'
-    type: string
-  - name: na_stronie_glownej
-    label: ⑦ Pokaż kafelek na stronie głównej (sekcja Studia)
-    type: boolean
-    default: true
-  - name: kafelek_poziom
-    label: '⑦ Kafelek: napis nad nazwą (np. Kierunek, III stopień)'
-    type: string
-  - name: kafelek_poziom_en
-    label: '⑦ EN: napis nad nazwą'
-    type: string
-  - name: kafelek_opis
-    label: '⑦ Kafelek: jedno krótkie zdanie (puste = zdanie spod nazwy)'
-    type: string
-  - name: kafelek_opis_en
-    label: '⑦ EN: zdanie na kafelku'
-    type: string
+      hidden: true
 - name: strony
   label: Strony studiów
   description: Adres strony = ścieżka pliku, np. studia/matematyka.md → /studia/matematyka
