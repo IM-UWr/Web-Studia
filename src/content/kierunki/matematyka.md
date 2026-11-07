@@ -1,7 +1,7 @@
 ---
 nazwa: Matematyka
 nazwa_en: Mathematics
-tresc_en: |+
+tresc_en: |
   ## About
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
