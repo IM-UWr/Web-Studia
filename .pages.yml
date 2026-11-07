@@ -74,7 +74,10 @@ content:
   - name: o_studiach_fakty
     label: Ramka „W skrócie” obok tekstu „O studiach” (komputer; puste = bez ramki; nie powtarzaj liczb z banera)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{wartosc} {opis}"
     fields:
     - name: wartosc
       label: Wartość (krótko, np. A+, PKA)
@@ -174,7 +177,10 @@ content:
     - name: liczby
       label: Liczby (np. 3 lata — studia I stopnia)
       type: object
-      list: true
+      list:
+        collapsible:
+          collapsed: true
+          summary: "{wartosc} {etykieta}"
       fields:
       - name: wartosc
         label: Wartość
@@ -213,7 +219,10 @@ content:
   - name: przypomnienia
     label: Przypomnienia
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{data} {sprawa}"
     fields:
     - name: sprawa
       label: Sprawa (np. Deklaracja specjalności (I stopień))
@@ -319,7 +328,10 @@ content:
   - name: liczby
     label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{n} {etykieta}"
     fields:
     - name: n
       label: Liczba (np. 8 albo 3 lata)
@@ -468,7 +480,10 @@ content:
   - name: semestry
     label: Semestry
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{nazwa}"
     fields:
     - name: nazwa
       label: Nazwa (np. Semestr zimowy 2027/28)
@@ -531,7 +546,10 @@ content:
       - name: przerwy
         label: Przerwa semestralna (wakacje) — jeden lub kilka okresów
         type: object
-        list: true
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{od} – {do}"
         fields:
         - name: od
           label: Od
@@ -546,7 +564,10 @@ content:
     - name: wolne
       label: Dni wolne od zajęć (święta ustawowe dodają się same)
       type: object
-      list: true
+      list:
+        collapsible:
+          collapsed: true
+          summary: "{od} {opis}"
       fields:
       - name: od
         label: Od
@@ -567,7 +588,10 @@ content:
     - name: zamiany
       label: Zamiany dni (np. w piątek zajęcia środowe)
       type: object
-      list: true
+      list:
+        collapsible:
+          collapsed: true
+          summary: "{data} {jak_dzien}"
       fields:
       - name: data
         label: Data
@@ -592,7 +616,10 @@ content:
     - name: wyjatki
       label: 'Wyjątki: ręczny kolor jednego dnia (normalnie puste)'
       type: object
-      list: true
+      list:
+        collapsible:
+          collapsed: true
+          summary: "{data} {kolor}"
       fields:
       - name: data
         label: Data
@@ -736,7 +763,10 @@ content:
     - name: opiekunowie
       label: Opiekunowie (imię i nazwisko jak w spisie pracowników, bez tytułów)
       type: object
-      list: true
+      list:
+        collapsible:
+          collapsed: true
+          summary: "{imie_nazwisko}"
       fields:
       - name: imie_nazwisko
         label: Imię i nazwisko
