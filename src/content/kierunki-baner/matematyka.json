@@ -6,13 +6,13 @@
   "liczby": [
     {
       "wartosc": "3 lata",
-      "etykieta": "studia I stopnia",
+      "etykieta": "studia I stopnia (licencjackie)",
       "wartosc_en": "3 years",
       "etykieta_en": "bachelor's studies"
     },
     {
       "wartosc": "2 lata",
-      "etykieta": "studia II stopnia",
+      "etykieta": "studia II stopnia (magisterskie)",
       "wartosc_en": "2 years",
       "etykieta_en": "master's studies"
     },
