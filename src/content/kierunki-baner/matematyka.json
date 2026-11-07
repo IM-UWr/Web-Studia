@@ -1,29 +1,26 @@
 {
   "kierunek": "matematyka",
   "podtytul": "Studia I i II stopnia",
-  "podtytul_en": "Bachelor's and master's studies",
   "opis": "Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie Matematycznym Uniwersytetu Wrocławskiego.",
-  "opis_en": "A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.",
   "haslo": "Od teorii do zastosowań",
-  "haslo_en": "From theory to applications",
   "liczby": [
     {
       "wartosc": "3 lata",
+      "etykieta": "studia I stopnia",
       "wartosc_en": "3 years",
-      "etykieta": "studia I stopnia (licencjackie)",
       "etykieta_en": "bachelor's studies"
     },
     {
       "wartosc": "2 lata",
+      "etykieta": "studia II stopnia",
       "wartosc_en": "2 years",
-      "etykieta": "studia II stopnia (magisterskie)",
       "etykieta_en": "master's studies"
     },
     {
       "wartosc": "5",
-      "etykieta": "specjalności do wyboru",
-      "etykieta_en": "specialisations",
+      "etykieta": "specjalności ",
       "etykieta_krotka": "specjalności",
+      "etykieta_en": "specialisations",
       "etykieta_krotka_en": "specialisations"
     },
     {
@@ -31,5 +28,8 @@
       "etykieta": "kategoria naukowa dyscypliny",
       "etykieta_en": "research category of the discipline"
     }
-  ]
+  ],
+  "podtytul_en": "Bachelor's and master's studies",
+  "opis_en": "A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.",
+  "haslo_en": "From theory to applications"
 }
