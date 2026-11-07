@@ -10,7 +10,7 @@ settings:
 content:
 - name: kierunki-grupa
   label: Kierunki
-  description: 'Strony kierunków (np. /studia/matematyka) i szkoły doktorskiej. Treść kierunku to jeden tekst (PL i EN); baner osobno. Kolejność i napisy w menu „Studia” i na kafelkach strony głównej: Ustawienia → Sekcja „Studiuj matematykę”. Specjalności edytuje się w sekcji „Specjalności” — kafelki na stronie kierunku budują się same.'
+  description: 'Strony kierunków (np. /studia/matematyka) i szkoły doktorskiej. Treść kierunku to jeden tekst (PL i EN); baner osobno. Kolejność i napisy w menu „Studia” i na kafelkach strony głównej: Ustawienia → Sekcja „Studiuj matematykę”. Specjalności edytuje się w repozytoriach Web-Spec-* (formularze „Treść” oraz „Baner i kafelek”; wygaszana Matematyka w ekonomii — tu, na końcu listy) — kafelki na stronie kierunku budują się same.'
   type: group
   items:
   - name: kierunki
@@ -42,6 +42,7 @@ content:
         • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
         • Pod nagłówkiem „Specjalności” strona sama wstawi kafelki specjalności; pod „Program studiów” nagłówki 3 stają się zakładkami.
         • Plik PDF: wgraj w „Media” i wklej link.
+        • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
       type: rich-text
       options:
         format: markdown
@@ -467,319 +468,182 @@ content:
       type: text
 - name: spec-matematyka-w-ekonomii
   label: 'Specjalność wygaszana: Matematyka w ekonomii'
-  type: file
-  path: src/content/specjalnosci/matematyka-w-ekonomii.md
-  format: yaml-frontmatter
-  fields:
-  - name: nazwa
-    label: Nazwa specjalności
-    type: string
-    required: true
-  - name: kierunek
-    label: Kierunek
-    type: reference
-    options:
-      collection: kierunki
-      value: '{path}'
-      label: '{primary}'
-      search: nazwa
-  - name: kolejnosc
-    label: Kolejność kafelka na stronie kierunku (1 = pierwszy)
-    type: number
-  - name: na_stronie_kierunku
-    label: Pokaż kafelek na stronie kierunku
-    type: boolean
-    default: true
-  - name: bez_podstrony
-    label: Bez własnej podstrony (tylko kafelek, np. specjalność wygaszana)
-    type: boolean
-    default: false
-  - name: kafelek_dla_kogo
-    label: 'Kafelek: „Dla kogo” — jedno zdanie'
-    type: text
-  - name: kafelek_kariera
-    label: 'Kafelek: „Po studiach” — jedno zdanie'
-    type: text
-  - name: skrot
-    label: Skrót (np. AD)
-    type: string
-  - name: poziom
-    label: Poziom (np. studia I i II stopnia)
-    type: string
-  - name: opis
-    label: Jedno zdanie pod nazwą
-    type: text
-  - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
-  - name: zaklad
-    label: Zakład
-    type: select
-    options:
-      values:
-      - name: algebra-i-teoria-modeli
-        label: Zakład Algebry i Teorii Modeli
-      - name: analiza-funkcjonalna
-        label: Zakład Analizy Funkcjonalnej
-      - name: analiza-matematyczna
-        label: Zakład Analizy Matematycznej
-      - name: dydaktyka
-        label: Pracownia Dydaktyki i Popularyzacji Matematyki
-      - name: geometria
-        label: Zakład Geometrii
-      - name: rownania-rozniczkowe
-        label: Zakład Równań Różniczkowych
-      - name: statystyka
-        label: Zakład Statystyki
-      - name: teoria-mnogosci-i-topologia
-        label: Zakład Teorii Mnogości i Topologii
-      - name: teoria-prawdopodobienstwa
-        label: Zakład Teorii Prawdopodobieństwa
-    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-  - name: opiekunowie
-    label: Opiekunowie (imię i nazwisko jak w spisie pracowników, bez tytułów)
-    type: object
-    list: true
-    fields:
-    - name: imie_nazwisko
-      label: Imię i nazwisko
-      type: string
-    - name: rola
-      label: Rola (opcjonalnie)
-      type: string
-    - name: rola_en
-      label: 'EN: rola'
-      type: string
-  - name: wygaszana
-    label: Wygaszana
-    type: boolean
-  - name: body
-    label: O specjalności
-    type: rich-text
-    options:
-      format: markdown
-  - name: dla_kogo
-    label: Dla kogo (Markdown)
-    type: text
-  - name: dlaczego
-    label: Co wyróżnia specjalność (kafelki)
-    type: object
-    list: true
-    fields:
-    - name: tytul
-      label: Tytuł
-      type: string
-    - name: opis
-      label: Opis
-      type: text
-    - name: ikona
-      label: Ikona
-      type: select
-      options:
-        values:
-        - flaga
-        - czapka
-        - ludzie
-        - zewnetrzny
-        - kalendarz
-        - tablica
-        - zegar
-        - plik
-    - name: tytul_en
-      label: 'EN: tytuł'
-      type: string
-    - name: opis_en
-      label: 'EN: opis'
-      type: text
-  - name: etapy
-    label: Jak przebiega specjalność (oś semestrów)
-    type: object
-    list: true
-    fields:
-    - name: kiedy
-      label: Kiedy (np. Semestr 5)
-      type: string
-    - name: tytul
-      label: Tytuł
-      type: string
-    - name: opis
-      label: Opis
-      type: text
-    - name: kiedy_en
-      label: 'EN: kiedy'
-      type: string
-    - name: tytul_en
-      label: 'EN: tytuł'
-      type: string
-    - name: opis_en
-      label: 'EN: opis'
-      type: text
-  - name: seminaria
-    label: Seminaria związane ze specjalnością
-    type: select
-    options:
-      values:
-      - name: analiza-harmoniczna
-        label: Analiza harmoniczna i rozwinięcia ortogonalne
-      - name: dydaktyka
-        label: Seminarium Pracowni Dydaktyki i Popularyzacji Matematyki
-      - name: dyskretna-analiza-harmoniczna
-        label: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka
-      - name: geometria
-        label: Geometria
-      - name: prawdopodobienstwo
-        label: Teoria prawdopodobieństwa i modelowanie stochastyczne
-      - name: rownania-rozniczkowe
-        label: Równania różniczkowe
-      - name: statystyka
-        label: Statystyka
-      - name: teoria-modeli
-        label: Teoria modeli
-      - name: topologia
-        label: Topologia
-      multiple: true
-    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-  - name: przedmioty
-    label: Czego się uczysz (grupy przedmiotów)
-    type: object
-    list: true
-    fields:
-    - name: grupa
-      label: Grupa (np. Przedmioty obowiązkowe specjalności)
-      type: string
-    - name: lista
-      label: Przedmioty
-      type: object
-      list: true
-      fields:
-      - name: nazwa
-        label: Nazwa przedmiotu
-        type: string
-      - name: opis
-        label: Krótki opis (opcjonalnie)
-        type: string
-      - name: nazwa_en
-        label: 'EN: nazwa'
-        type: string
-      - name: opis_en
-        label: 'EN: krótki opis'
-        type: string
-    - name: grupa_en
-      label: 'EN: grupa'
-      type: string
-  - name: umiejetnosci
-    label: Co będziesz umieć
-    type: string
-    list: true
-  - name: kariera
-    label: Po studiach (Markdown)
-    type: text
-  - name: tematy_prac
-    label: Przykładowe tematy prac
-    type: object
-    list: true
-    fields:
-    - name: tytul
-      label: Temat
-      type: string
-    - name: opis
-      label: Dopisek (np. rok, poziom)
-      type: string
-    - name: opis_en
-      label: 'EN: dopisek (puste = wersja angielska pokaże dopisek po polsku; temat zostaje w oryginale)'
-      type: string
-  - name: dokumenty
-    label: Dokumenty
-    type: object
-    list: true
+  description: 'Strona /studia/<kierunek>/matematyka-w-ekonomii i kafelek specjalności na stronie kierunku. „Treść” — nazwa i cały tekst strony (po polsku i po angielsku); „Baner i kafelek” — drobne pola nagłówka i kafelka, zakład, opiekunowie i seminaria.'
+  type: group
+  items:
+  - name: spec-matematyka-w-ekonomii-tresc
+    label: Treść
+    description: 'Nazwa i tekst strony specjalności. Sekcje liczone z innych danych (seminaria, opiekunowie, ramka „Wybór specjalności”) strona wstawia sama — opis pola „Treść”.'
+    type: file
+    path: src/content/specjalnosci/matematyka-w-ekonomii.md
+    format: yaml-frontmatter
     fields:
     - name: nazwa
       label: Nazwa
       type: string
-    - name: wgraj
-      label: Wgraj plik (PDF, DOCX…)
-      type: file
+      required: true
+    - name: body
+      label: Treść
+      description: |-
+        Piszesz jak w zwykłym edytorze. Kilka układów strona rozpoznaje sama:
+        • Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+        • Punkt listy zaczynający się pogrubieniem = kafelek (np. „Dlaczego warto”).
+        • Lista numerowana z pogrubionym początkiem = oś kroków. W pogrubieniu tekst przed dwukropkiem to mała etykieta: „Semestr 5: Seminarium dyplomowe”.
+        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. Kolejną linię w tym samym punkcie dodasz Shift+Enter (zwykły Enter też zadziała).
+        • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+        • Lista samych linków = lista plików (PDF / strona); w sekcji „Przydatne strony” — zwykłe linki.
+        • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+        • Cytat zaczynający się pogrubionym „Dla kogo” = ramka. Zwykła lista w „Co będziesz umieć” i „Przykładowe tematy prac” = lista z kreskami; w temacie „Tytuł — dopisek” dopisek jest szary.
+        • Pod nagłówkami „Seminaria” i „Opiekun specjalności” (albo „Opiekunowie specjalności”) strona sama wstawi seminaria i opiekunów z formularza „Baner i kafelek”, a ramkę „Wybór specjalności” — na końcu „Jak przebiega specjalność” (albo pod nagłówkiem „Wybór specjalności”). Bez takiego nagłówka wstawi je w zwykłym miejscu.
+        • Stały adres (kotwicę, np. #seminaria) mają sekcje o nagłówkach: O specjalności, Przydatne strony, Dlaczego warto, Jak przebiega specjalność, Wybór specjalności, Czego się uczysz, Co będziesz umieć, Po studiach, Przykładowe tematy prac, Seminaria, Dokumenty, Pytania i odpowiedzi, Opiekun specjalności.
+        • Plik PDF: wgraj w „Media” i wklej link.
+        • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+      type: rich-text
       options:
+        format: markdown
         path: public/pliki/studia
-    - name: plik
-      label: …albo link (np. do BIP) — gdy nie wgrywasz pliku
+    - name: nazwa_en
+      label: Nazwa EN
+      type: string
+    - name: tresc_en
+      label: Treść EN
+      description: 'Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku: About, Useful pages, Why choose it, How the specialisation works, What you will learn, Skills, Careers, Sample thesis topics, Seminars, Documents, FAQ, Coordinator; ramka: cytat zaczynający się pogrubionym „Who is it for”). Puste = strona angielska pokaże treść polską.'
+      type: rich-text
+      options:
+        format: markdown
+        path: public/pliki/studia
+  - name: spec-matematyka-w-ekonomii-baner
+    label: Baner i kafelek
+    description: 'Nagłówek strony specjalności (skrót, poziom, zdanie pod nazwą, hasło), kafelek na stronie kierunku (kolejność, „Dla kogo”, „Po studiach”), zakład, opiekunowie i seminaria — strona wstawia je w sekcjach „Seminaria” i „Opiekun specjalności”.'
+    type: file
+    path: src/content/specjalnosci-baner/matematyka-w-ekonomii.json
+    format: json
+    fields:
+    - name: kierunek
+      label: Kierunek
+      type: reference
+      options:
+        collection: kierunki
+        value: '{path}'
+        label: '{primary}'
+        search: nazwa
+    - name: kolejnosc
+      label: Kolejność kafelka na stronie kierunku (1 = pierwszy)
+      type: number
+    - name: na_stronie_kierunku
+      label: Pokaż kafelek na stronie kierunku
+      type: boolean
+      default: true
+    - name: bez_podstrony
+      label: Bez własnej podstrony (tylko kafelek, np. specjalność wygaszana)
+      type: boolean
+      default: false
+    - name: kafelek_dla_kogo
+      label: 'Kafelek: „Dla kogo” — jedno zdanie'
+      type: text
+    - name: kafelek_kariera
+      label: 'Kafelek: „Po studiach” — jedno zdanie'
+      type: text
+    - name: skrot
+      label: Skrót (np. AD)
+      type: string
+    - name: poziom
+      label: Poziom (np. studia I i II stopnia)
       type: string
     - name: opis
-      label: Krótki opis
+      label: Jedno zdanie pod nazwą
+      type: text
+    - name: haslo
+      label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
       type: string
-    - name: nazwa_en
-      label: 'EN: nazwa'
+    - name: zaklad
+      label: Zakład
+      type: select
+      options:
+        values:
+        - name: algebra-i-teoria-modeli
+          label: Zakład Algebry i Teorii Modeli
+        - name: analiza-funkcjonalna
+          label: Zakład Analizy Funkcjonalnej
+        - name: analiza-matematyczna
+          label: Zakład Analizy Matematycznej
+        - name: dydaktyka
+          label: Pracownia Dydaktyki i Popularyzacji Matematyki
+        - name: geometria
+          label: Zakład Geometrii
+        - name: rownania-rozniczkowe
+          label: Zakład Równań Różniczkowych
+        - name: statystyka
+          label: Zakład Statystyki
+        - name: teoria-mnogosci-i-topologia
+          label: Zakład Teorii Mnogości i Topologii
+        - name: teoria-prawdopodobienstwa
+          label: Zakład Teorii Prawdopodobieństwa
+      description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+    - name: opiekunowie
+      label: Opiekunowie (imię i nazwisko jak w spisie pracowników, bez tytułów)
+      type: object
+      list: true
+      fields:
+      - name: imie_nazwisko
+        label: Imię i nazwisko
+        type: string
+      - name: rola
+        label: Rola (opcjonalnie)
+        type: string
+      - name: rola_en
+        label: 'EN: rola'
+        type: string
+    - name: seminaria
+      label: Seminaria związane ze specjalnością
+      type: select
+      options:
+        values:
+        - name: analiza-harmoniczna
+          label: Analiza harmoniczna i rozwinięcia ortogonalne
+        - name: dydaktyka
+          label: Seminarium Pracowni Dydaktyki i Popularyzacji Matematyki
+        - name: dyskretna-analiza-harmoniczna
+          label: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka
+        - name: geometria
+          label: Geometria
+        - name: prawdopodobienstwo
+          label: Teoria prawdopodobieństwa i modelowanie stochastyczne
+        - name: rownania-rozniczkowe
+          label: Równania różniczkowe
+        - name: statystyka
+          label: Statystyka
+        - name: teoria-modeli
+          label: Teoria modeli
+        - name: topologia
+          label: Topologia
+        multiple: true
+      description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+    - name: wygaszana
+      label: Wygaszana
+      type: boolean
+    - name: poziom_en
+      label: 'EN: poziom'
       type: string
     - name: opis_en
-      label: 'EN: krótki opis'
-      type: string
-  - name: linki
-    label: Przyciski z linkami (np. koło naukowe)
-    type: object
-    list: true
-    fields:
-    - name: etykieta
-      label: Etykieta
-      type: string
-    - name: adres
-      label: Adres
-      type: string
-    - name: etykieta_en
-      label: 'EN: etykieta'
-      type: string
-  - name: faq
-    label: Pytania i odpowiedzi
-    type: object
-    list: true
-    fields:
-    - name: pytanie
-      label: Pytanie
-      type: string
-    - name: odpowiedz
-      label: Odpowiedź (Markdown)
+      label: 'EN: zdanie pod nazwą'
       type: text
-    - name: pytanie_en
-      label: 'EN: pytanie'
+    - name: haslo_en
+      label: 'EN: hasło na banerze'
       type: string
-    - name: odpowiedz_en
-      label: 'EN: odpowiedź'
+    - name: kafelek_dla_kogo_en
+      label: 'EN: kafelek — dla kogo'
       type: text
-  - name: do_uzupelnienia
-    label: Do uzupełnienia (notatki dla redakcji, niewidoczne)
-    type: string
-    list: true
-  - name: zrodla
-    label: Źródła treści (notatki, niewidoczne)
-    type: string
-    list: true
-  - name: nazwa_en
-    label: 'EN: nazwa'
-    type: string
-  - name: poziom_en
-    label: 'EN: poziom'
-    type: string
-  - name: opis_en
-    label: 'EN: zdanie pod nazwą'
-    type: text
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: dla_kogo_en
-    label: 'EN: dla kogo'
-    type: text
-  - name: umiejetnosci_en
-    label: 'EN: co będziesz umieć'
-    type: string
-    list: true
-  - name: kariera_en
-    label: 'EN: po studiach'
-    type: text
-  - name: tresc_en
-    label: 'EN: o specjalności (Markdown)'
-    type: text
-  - name: kafelek_dla_kogo_en
-    label: 'EN: kafelek — dla kogo'
-    type: text
-  - name: kafelek_kariera_en
-    label: 'EN: kafelek — po studiach'
-    type: text
+    - name: kafelek_kariera_en
+      label: 'EN: kafelek — po studiach'
+      type: text
+    - name: do_uzupelnienia
+      label: Do uzupełnienia (techniczne)
+      type: string
+      list: true
+      hidden: true
+    - name: zrodla
+      label: Źródła treści (techniczne)
+      type: string
+      list: true
+      hidden: true
