@@ -28,8 +28,6 @@ tresc_en: |
   - **Course descriptions:** [course catalogue in USOSweb](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) — syllabuses, including prerequisites (the “Założenia” section).
   - **First-year timetable** and information for new students: [First year](/en/studia/pierwszy-rok).
 
-  <a id="konsultacje"></a>
-
   ## Office hours
 
   Every member of staff who teaches sets aside time each week to meet students — two hours a week (PhD students: one hour). This is the best place to ask about material you do not understand: go to your lecturer or class teacher (you may also go to any other member of staff) and prepare specific questions beforehand.

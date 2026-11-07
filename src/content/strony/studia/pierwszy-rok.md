@@ -217,7 +217,7 @@ tresc_en: |
   ## Support
 
   - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/en/aktualnosci/2026-10-17-rusza-tutornia).
-  - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/en/studia/zajecia#office-hours).
+  - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/en/studia/zajecia#konsultacje).
   - **Year coordinator** and **Prof. Ewa Damek** — see [Year coordinator and key people](#year-coordinator-and-key-people).
   - **Lecture notes** — free lecture notes and problem collections, including for Analiza matematyczna 1–2 and Wstęp do matematyki: [Lecture notes](/en/studia/skrypty).
   - **Preparatory course** — before the start of the academic year the Faculty runs a preparatory course for admitted students (in 2026 from 25 September): [drop-in.cs.uni.wroc.pl](https://drop-in.cs.uni.wroc.pl/).
