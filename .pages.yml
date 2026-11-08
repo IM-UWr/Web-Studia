@@ -241,7 +241,7 @@ content:
             options:
               collection: katalog-pracownikow
               value: "{path}"
-              label: "{imie_nazwisko}"
+              label: "{etykieta}"
           - name: rola
             label: Rola (opcjonalnie)
             type: string
@@ -805,7 +805,7 @@ content:
     format: yaml
     filename: "{primary}.yml"
     view:
-      primary: imie_nazwisko
+      primary: etykieta
       fields:
         - imie_nazwisko
     description: Katalog wyboru z Web-Pracownicy; nie edytuj go ręcznie. Synchronizację wykonuje skrypt w Web-Core. Dane kontaktowe nie są kopiowane.
@@ -816,6 +816,10 @@ content:
         readonly: true
       - name: id
         label: Stały identyfikator
+        type: string
+        readonly: true
+      - name: etykieta
+        label: Nazwa na liście wyboru
         type: string
         readonly: true
     operations:
