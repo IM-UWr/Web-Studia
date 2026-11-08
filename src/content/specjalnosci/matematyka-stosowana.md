@@ -348,7 +348,7 @@ baner:
       etykieta: wybór specjalności
       etykieta_en: choice of specialisation
     - n: "22"
-      etykieta: przedmiotów specjalności
+      etykieta: przedmioty specjalności
       etykieta_en: specialisation courses
 format_tresci: jawne
 ---
