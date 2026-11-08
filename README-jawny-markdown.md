@@ -1,6 +1,6 @@
-# Kierunki i specjalności — wersja testowa
+# Edycja działu Studia — jawny Markdown
 
-Zmiany znajdują się na branchu `markdown-jawne-bloki-2026-11`. Otwierając Pages CMS wybierz ten branch.
+Otwierając Pages CMS wybierz repozytorium Web-Studia i branch `main`. Wszystkie teksty działu Studia używają jawnego Markdownu.
 
 - **Kierunki**: nazwy, treść Markdown PL/EN, dane, baner w jednym formularzu.
 - **Specjalności**: wszystkie specjalności razem; Markdown, wybór opiekunów i seminariów, baner w jednym formularzu.
@@ -11,8 +11,8 @@ Zmiany znajdują się na branchu `markdown-jawne-bloki-2026-11`. Otwierając Pag
 - Wszystkie pola Markdown PL/EN, także „Koniec strony” Roku akademickiego, używają kolorowanego edytora `code`. Dawny przełącznik „Bloki wzorca” zastępują jawne znaczniki.
 - Opiekunów wybiera się poniżej treści. Nazwisko i kontakt podstrony pochodzą z Web-Pracownicy po ID; teksty kafelków pozostają redakcyjne.
 
-[Pełna instrukcja nowego Markdownu i znaczników](https://github.com/IM-UWr/Web-Core/blob/markdown-jawne-bloki-2026-11/dok/jawny-markdown.md).
+[Pełna instrukcja nowego Markdownu i znaczników](https://github.com/IM-UWr/Web-Core/blob/main/dok/jawny-markdown.md).
 
 `_cms/pracownicy` to katalog nazwisk do listy wyboru, bez danych kontaktowych. Nie edytuj go ręcznie. Po zmianie spisu pracowników odświeża go skrypt `synchronizuj-katalog-opiekunow.mjs` w Web-Core. Nie zmieniaj nazw plików istniejących pracowników: są identyfikatorami powiązań.
 
-Ta wersja treści wymaga odpowiadającego brancha Web-Core. Do testu służy izolowany workflow w Web-Podglad, który tworzy artefakt bez publikowania. Przed późniejszym wdrożeniem zmiany kodu i danych trzeba skoordynować; ta instrukcja nie oznacza zgody na scalenie do main.
+Treści wymagają odpowiadającego parsera w Web-Core/main. Gdy zmieniasz sam tekst w CMS, zachowaj znaczniki bloków i identyfikatory sekcji. Przy zmianach formatu trzeba aktualizować kod i treści razem.
