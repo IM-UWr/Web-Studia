@@ -123,31 +123,28 @@ content:
     - name: body
       label: Treść
       description: |-
-        Piszesz jak w zwykłym edytorze. Kilka układów strona rozpoznaje sama:
+        Edytujesz Markdown z kolorowaniem składni. Kilka układów strona rozpoznaje sama:
         • Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
         • Punkt listy zaczynający się pogrubieniem = kafelek (np. „Dlaczego warto”).
         • Lista numerowana z pogrubionym początkiem = oś kroków. W pogrubieniu tekst przed dwukropkiem to mała etykieta: „Semestry 1–2: Podstawy”.
-        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. Kolejną linię w tym samym punkcie dodasz Shift+Enter (zwykły Enter też zadziała).
+        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. W liście numerowanej kolejne linie wcinaj 3 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku.
         • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
         • Lista samych linków = lista plików (PDF / strona).
         • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
         • Pod nagłówkiem „Specjalności” strona sama wstawi kafelki specjalności; pod „Program studiów” nagłówki 3 stają się zakładkami.
         • Plik PDF: wgraj w „Media” i wklej link.
-        • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-      type: rich-text
+      type: code
       options:
         format: markdown
-        path: public/pliki/studia
     - name: nazwa_en
       label: Nazwa EN
       type: string
     - name: tresc_en
       label: Treść EN
       description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku, np. About, Why join, FAQ). Puste = strona angielska pokaże treść polską.
-      type: rich-text
+      type: code
       options:
         format: markdown
-        path: public/pliki/studia
   - name: kierunki-baner
     label: Baner
     description: 'Nagłówek strony kierunku: nadtytuł, zdanie pod nazwą, hasło i liczby. Jeden plik na kierunek; nazwa pliku = nazwa pliku treści kierunku (np. matematyka). Kierunek bez banera ma w nagłówku samą nazwę.'
