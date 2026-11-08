@@ -1,7 +1,7 @@
 ---
 nazwa: Matematyka
 nazwa_en: Mathematics
-tresc_en: |
+tresc_en: |+
   ## About
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
@@ -216,24 +216,17 @@ Szczegóły egzaminów i prac dyplomowych: [Egzaminy i dyplom](/studia/egzaminy-
 
 
 | Sprawa | Kogo dotyczy | Termin | Formularz |
-|-|-|-|-|
-| Podanie o wpis bez spełnionych wymogów wstępnych | studia I stopnia | do 1 października | [B1][] |
-| Deklaracja specjalności (II stopień) | 1. semestr studiów II stopnia | do 15 października | [C3][] |
-| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja letnia | do 31 października | [E][] |
-| Wypisanie z przedmiotu (raz na studiach danego stopnia) | wszyscy studenci | do 30 listopada (zima), do 30 kwietnia (lato) | [A1 / A2][A1A2] |
+| ------------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Podanie o wpis bez spełnionych wymogów wstępnych | studia I stopnia | do 1 października | [B1](https://forms.cloud.microsoft/e/RTghLnJNC5) |
+| Deklaracja specjalności (II stopień) | 1. semestr studiów II stopnia | do 15 października | [C3](https://forms.cloud.microsoft/e/LKA4mEgVtN) |
+| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja letnia | do 31 października | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |
+| Wypisanie z przedmiotu (raz na studiach danego stopnia) | wszyscy studenci | do 30 listopada (zima), do 30 kwietnia (lato) | [A1 / A2](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u) |
 | Deklaracja specjalności nauczycielskiej | 1. semestr studiów I stopnia | do 31 grudnia | C1 |
-| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja zimowa | do 31 marca | [E][] |
-| Deklaracja specjalności (I stopień) | 4. semestr studiów I stopnia | do 30 czerwca | [C2][] |
-| Wpis ponad limit miejsc w grupie | wszyscy studenci | od II tury zapisów | [B2][] |
-| Zmiana wersji rozszerzonej przedmiotu na standardową | wszyscy studenci | w terminie ogłoszonym przez wykładowcę | [B3][] |
+| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja zimowa | do 31 marca | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |
+| Deklaracja specjalności (I stopień) | 4. semestr studiów I stopnia | do 30 czerwca | [C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L) |
+| Wpis ponad limit miejsc w grupie | wszyscy studenci | od II tury zapisów | [B2](https://forms.cloud.microsoft/e/YD9MMgg0PD) |
+| Zmiana wersji rozszerzonej przedmiotu na standardową | wszyscy studenci | w terminie ogłoszonym przez wykładowcę | [B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) |
 
-[B1]: https://forms.cloud.microsoft/e/RTghLnJNC5
-[C3]: https://forms.cloud.microsoft/e/LKA4mEgVtN
-[E]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u
-[A1A2]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u
-[C2]: https://forms.cloud.microsoft/e/SWEQQ1YF5L
-[B2]: https://forms.cloud.microsoft/e/YD9MMgg0PD
-[B3]: https://forms.cloud.microsoft/e/h0HMFkuYvb
 
 Wszystkie formularze i zasady rejestracji: [Zajęcia i konsultacje](/studia/zajecia).
 
