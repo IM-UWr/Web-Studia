@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Pierwszy rok"
 opis: "Przewodnik dla osób zaczynających studia w Instytucie Matematycznym (matematyka, SIAD, ISIM): pierwsze kroki, opiekun roku, przedmioty i zapisy, zaliczenie roku, terminy i wsparcie."
 tytul_en: "First year"

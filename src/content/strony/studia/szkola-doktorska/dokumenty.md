@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Dokumenty i wzory dla doktorantów"
 opis: "Wzory wniosków i oświadczeń, dokumenty oceny śródokresowej i rozprawy doktorskiej, regulaminy oraz sylabusy zajęć Kolegium Doktorskiego Matematyki."
 tytul_en: "Documents and forms for doctoral students"

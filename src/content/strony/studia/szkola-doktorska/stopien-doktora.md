@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Rozprawa doktorska i nadanie stopnia doktora"
 opis: "Jak złożyć rozprawę doktorską w dyscyplinie matematyka: system APD, wniosek o wszczęcie postępowania, recenzje i publiczna obrona."
 tytul_en: "Doctoral thesis and the conferral of the degree"

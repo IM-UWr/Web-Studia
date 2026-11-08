@@ -9,7 +9,8 @@
       "co_roku": true,
       "dni_przed": 14,
       "adres": "/studia/matematyka#terminy",
-      "uid": "termin-matematyka-1"
+      "uid": "termin-matematyka-1",
+      "status_publikacji": "oficjalna"
     },
     {
       "sprawa": "Deklaracja specjalności nauczycielskiej",
@@ -20,7 +21,8 @@
       "co_roku": true,
       "dni_przed": 14,
       "adres": "/studia/matematyka#terminy",
-      "uid": "termin-matematyka-4"
+      "uid": "termin-matematyka-4",
+      "status_publikacji": "oficjalna"
     },
     {
       "sprawa": "Deklaracja specjalności (I stopień)",
@@ -31,7 +33,8 @@
       "co_roku": true,
       "dni_przed": 14,
       "adres": "/studia/matematyka#terminy",
-      "uid": "termin-matematyka-6"
+      "uid": "termin-matematyka-6",
+      "status_publikacji": "oficjalna"
     }
   ]
 }

@@ -19,9 +19,7 @@
     {
       "wartosc": "5",
       "etykieta": "specjalności do wyboru",
-      "etykieta_krotka": "specjalności",
-      "etykieta_en": "specialisations",
-      "etykieta_krotka_en": "specialisations"
+      "etykieta_en": "specialisations"
     },
     {
       "wartosc": "A+",
@@ -29,7 +27,6 @@
       "etykieta_en": "research category of the discipline"
     }
   ],
-  "podtytul_en": "Bachelor's and master's studies",
   "opis_en": "A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.",
   "haslo_en": "From theory to applications"
 }

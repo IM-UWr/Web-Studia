@@ -1,7 +1,6 @@
 {
   "kierunek": "siad",
   "podtytul": "Studia I stopnia (licencjackie)",
-  "podtytul_en": "Bachelor's studies",
   "opis": "Trzyletnie studia licencjackie łączące matematykę i informatykę z metodami sztucznej inteligencji. Kierunek prowadzi Instytut Matematyczny UWr od roku akademickiego 2025/26.",
   "opis_en": "A three-year bachelor's programme combining mathematics and computer science with artificial intelligence methods, run by the Mathematical Institute, University of Wrocław, since 2025/26.",
   "haslo": "Matematyka, informatyka i AI",
@@ -16,16 +15,12 @@
     {
       "wartosc": "180",
       "etykieta": "punktów ECTS do ukończenia studiów",
-      "etykieta_en": "ECTS credits to graduate",
-      "etykieta_krotka": "punktów ECTS",
-      "etykieta_krotka_en": "ECTS credits"
+      "etykieta_en": "ECTS credits to graduate"
     },
     {
       "wartosc": "70",
       "etykieta": "punktów ECTS za zajęcia do wyboru",
-      "etykieta_en": "ECTS credits from electives",
-      "etykieta_krotka": "ECTS do wyboru",
-      "etykieta_krotka_en": "elective ECTS"
+      "etykieta_en": "ECTS credits from electives"
     },
     {
       "wartosc": "licencjat",

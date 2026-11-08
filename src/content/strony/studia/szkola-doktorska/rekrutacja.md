@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Rekrutacja do Kolegium Doktorskiego Matematyki"
 opis: "Jak dostać się do Szkoły Doktorskiej UWr w dyscyplinie matematyka: promotor, rejestracja w IRKa, egzamin kwalifikacyjny i wymagane dokumenty."
 tytul_en: "Admission to the Doctoral College of Mathematics"

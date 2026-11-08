@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: Plan zajęć
 tytul_en: Timetable
 opis: Plan zajęć Instytutu Matematycznego, aktualizowany automatycznie z USOS.

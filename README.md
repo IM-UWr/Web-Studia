@@ -1,13 +1,11 @@
 # Web-Studia
 
-Studia: kierunki, strony studiów, szkoła doktorska, rok akademicki i kolory dni — treści strony Instytutu Matematycznego UWr.
+Treści strony Instytutu Matematycznego UWr — Studia.
 
-**Edycja:** https://app.pagescms.org → zaloguj się (konto GitHub albo link z zaproszenia e-mailowego) → wybierz to repozytorium.
-Po zapisaniu zmiany strona przebuduje się sama w ciągu kilku minut (automat `.github/workflows/powiadom.yml`
-wysyła sygnał do [IM-UWr/Web-Core](https://github.com/IM-UWr/Web-Core), które buduje i publikuje całą stronę).
+Edycja: [Pages CMS](https://app.pagescms.org) → wybierz repozytorium i gałąź. Formularze tej reorganizacji są na gałęzi `cms-reorganizacja-2026-11`; wybór `main` pokazuje poprzednie formularze.
 
-**Uwaga:** repozytorium jest publiczne — wszystko, co tu trafi (także usunięte później pliki w historii zmian),
-jest jawne. Wpis jest widoczny na stronie od razu po zapisaniu (nie ma wersji roboczych).
+Specjalności edytuje się w jednej kolekcji **Specjalności**: tekst PL/EN, baner, kafelek, kierunek, opiekunowie i seminaria. Wszystkie dane wpisu leżą w `src/content/specjalnosci/<id>.md`. Nie zmieniaj nazw istniejących plików, bo określają adresy.
 
-Ścieżki plików są takie same jak w Web-Core (`src/content/…`, `src/data/…`, `public/pliki/…`) — Web-Core przed
-budowaniem nakłada na siebie zawartość wszystkich repozytoriów treści.
+**Status publikacji** zapisuje `oficjalna` (Opublikowana — strona oficjalna i podgląd) albo `podglad` (Tylko podgląd). Ten wybór na razie nie zmienia widoczności strony. Podgląd oraz repozytorium są publiczne.
+
+Zmiany gałęzi roboczej nie uruchamiają publikacji z `main`. Izolowany test znajduje się w [Web-Podglad](https://github.com/IM-UWr/Web-Podglad), workflow „Test reorganizacji CMS (bez publikacji)”. Po przyszłym wdrożeniu zapisy w `main` uruchamiają obecną ścieżkę powiadomienia Web-Core → Web-Podglad.

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 # Strona /studia/rok-akademicki (widok src/views/RokAkademicki.astro). Ten plik zawiera tylko tekst wspólny dla semestrów;
 # kolory dni, terminy semestru (tabela „Rok w skrócie”), dni wolne od zajęć i zamiany dni generują się z src/data/kolory-dni.json
 # i przełączają razem z semestrem. Kolejność: Dziś → Kolory dni → Rok w skrócie (terminy, dni wolne, zamiany dni,

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Zadania z egzaminów dyplomowych"
 opis: "Archiwum zadań z pisemnych egzaminów licencjackich i magisterskich na kierunku matematyka (2002–2026)."
 tytul_en: "Past diploma exam papers"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Archiwalne programy studiów na kierunku matematyka"
 opis: "Wcześniejsze programy studiów na kierunku matematyka wraz z efektami kształcenia i uchwałami Rady Wydziału Matematyki i Informatyki UWr."
 tytul_en: "Archived study programmes in mathematics"

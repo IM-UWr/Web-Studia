@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Zajęcia i konsultacje"
 opis: "Plan zajęć, konsultacje, zapisy na zajęcia w USOSweb, formularze, wersje przedmiotów, sesja egzaminacyjna, e-learning, lektoraty i WF."
 tytul_en: "Classes and office hours"

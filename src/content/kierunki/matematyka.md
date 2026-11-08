@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: Matematyka
 nazwa_en: Mathematics
 tresc_en: |

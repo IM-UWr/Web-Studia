@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Studia podyplomowe"
 opis: "Kwalifikacyjne Studia Podyplomowe Nauczanie Matematyki (3 semestry): dla kogo, program, rekrutacja, opłaty i kontakt."
 tytul_en: "Postgraduate studies"

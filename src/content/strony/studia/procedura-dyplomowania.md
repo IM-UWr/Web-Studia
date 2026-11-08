@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Procedura dyplomowania"
 opis: "Formalne zasady dyplomowania na kierunku matematyka: promotor i recenzent, temat i ocena pracy, egzamin dyplomowy i wynik studiów."
 tytul_en: "Diploma procedure"

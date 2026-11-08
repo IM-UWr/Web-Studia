@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sprawy studenckie"
 opis: "Gdzie i jak załatwić sprawy związane ze studiami: sekretariat, dziekanat, wnioski, stypendia, wymiany, kariera, wsparcie i przepisy."
 tytul_en: "Student affairs"

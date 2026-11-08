@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendia i granty dla doktorantów"
 opis: "Stypendium doktoranckie, stypendia w projektach badawczych, wyjazdy i inne świadczenia dla doktorantów Kolegium Doktorskiego Matematyki."
 tytul_en: "Stipends and grants for doctoral students"

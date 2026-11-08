@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: Studia
 tytul_en: Study
 tresc_en: |-
@@ -30,8 +31,6 @@ o_studiach_fakty:
   wartosc_en: Tutoring room
   opis: starsi studenci pomagają osobom z pierwszego roku
   opis_en: older students help first-year students
-sekretariat_zakres: Zapisy i wypisy z zajęć, plan zajęć, deklaracje wyboru specjalności i promotora.
-sekretariat_zakres_en: Course registration and withdrawals, timetable, choice of specialisation and thesis supervisor.
 ---
 
 Uczymy matematyki tak, jak ją uprawiamy. Zajęcia prowadzą aktywni badacze, a program łączy solidne podstawy z dużą swobodą wyboru: od pierwszego roku można dopasować poziom zajęć do swoich możliwości, a z czasem — wybrać kierunek własnego rozwoju. Studia uczą precyzyjnego myślenia, stawiania i rozwiązywania problemów oraz pracy z modelami matematycznymi i danymi, czyli umiejętności cenionych w nauce, gospodarce, technologii i edukacji.

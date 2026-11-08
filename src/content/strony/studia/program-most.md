@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Program MOST"
 opis: "Krajowy program mobilności studentów i doktorantów — semestr lub rok akademicki na innej polskiej uczelni."
 tytul_en: "MOST programme"

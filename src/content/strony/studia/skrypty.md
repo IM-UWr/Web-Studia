@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Skrypty i materiały dla studentów"
 opis: "Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu, uporządkowane według przedmiotów."
 tytul_en: "Lecture notes and study materials"

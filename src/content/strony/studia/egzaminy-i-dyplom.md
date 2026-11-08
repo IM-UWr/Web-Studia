@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Egzaminy i dyplom"
 opis: "Jak ukończyć studia na kierunku matematyka: promotor i temat pracy, system APD, egzamin licencjacki i magisterski, terminy oraz zadania z poprzednich lat."
 tytul_en: "Exams and diploma"
