@@ -1,5 +1,3 @@
-# Pages CMS — Web-Studia: Studia: kierunki (treść, baner), przypomnienia o terminach, strony studiów, szkoła doktorska, rok akademicki i kolory dni.
-# Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 media:
   input: public/pliki
   output: /pliki
@@ -8,817 +6,819 @@ settings:
   commit:
     identity: user
 content:
-- name: strona-dzialu
-  label: Strona działu Studia
-  description: 'Strona /studia: tytuł i tekst „O studiach” (po polsku i po angielsku), niżej drobne pola — tekst pod tytułem, hasło i „W skrócie”. Kierunki, specjalności, kafelki (z menu „Studia”) i kontakt budują się same z danych.'
-  type: file
-  path: src/data/studia.md
-  format: yaml-frontmatter
-  fields:
-  - name: tytul
-    label: Tytuł
-    type: string
-    required: true
-  - name: body
-    label: Treść
-    description: |-
-      Tekst sekcji „O studiach” (pierwszy akapit strona pokazuje większą czcionką).
-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-    type: code
-    options:
-      format: markdown
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
-  - name: tresc_en
-    label: Treść EN
-    type: code
-    options:
-      format: markdown
-    description: Tekst „O studiach” po angielsku, w tym samym układzie co Treść. Puste = strona angielska pokaże tekst polski.
-  - name: wstep
-    label: Wstęp pod tytułem (1–3 zdania)
-    type: text
-  - name: wstep_en
-    label: 'EN: wstęp'
-    type: text
-  - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: o_studiach_fakty
-    label: Ramka „W skrócie” obok tekstu „O studiach” (komputer; puste = bez ramki; nie powtarzaj liczb z banera)
-    type: object
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{wartosc} {opis}"
-    fields:
-    - name: wartosc
-      label: Wartość (krótko, np. A+, PKA)
-      type: string
-    - name: wartosc_en
-      label: 'EN: wartość (puste = jak po polsku, np. liczby i lata)'
-      type: string
-    - name: opis
-      label: Opis pod wartością
-      type: string
-    - name: opis_en
-      label: 'EN: opis'
-      type: string
-  - name: sekretariat_zakres
-    label: 'Kontakt: czym zajmuje się sekretariat dydaktyczny'
-    hidden: true
-    type: string
-  - name: sekretariat_zakres_en
-    label: 'EN: zakres sekretariatu'
-    hidden: true
-    type: string
-- name: kierunki-grupa
-  label: Kierunki
-  description: 'Strony kierunków (np. /studia/matematyka) i szkoły doktorskiej. Treść kierunku to jeden tekst (PL i EN); baner osobno. Kolejność i napisy w menu „Studia” i na kafelkach strony głównej: Ustawienia → Sekcja „Studiuj matematykę”. Specjalności edytuje się w repozytoriach Web-Spec-* (formularze „Treść” oraz „Baner i kafelek”; wygaszana Matematyka w ekonomii — tu, na końcu listy) — kafelki na stronie kierunku budują się same.'
-  type: group
-  items:
-  - name: kierunki
-    label: Treść
-    description: Jeden plik = jedna strona kierunku. Nowy kierunek pojawi się sam w menu „Studia” i w kafelkach strony głównej (na końcu; miejsce i napisy ustawisz w Ustawieniach).
-    type: collection
-    path: src/content/kierunki
+  - name: strona-dzialu
+    label: Strona działu Studia
+    description: "Strona /studia: tytuł i tekst „O studiach” (po polsku i po angielsku), niżej drobne pola — tekst pod tytułem, hasło i „W skrócie”. Kierunki, specjalności, kafelki (z menu „Studia”) i kontakt budują się same z danych."
+    type: file
+    path: src/data/studia.md
     format: yaml-frontmatter
-    filename: '{primary}.md'
-    view:
-      fields:
-      - nazwa
-      primary: nazwa
     fields:
-    - name: nazwa
-      label: Nazwa
-      type: string
-      required: true
-    - name: body
-      label: Treść
-      description: |-
-        Edytujesz Markdown z kolorowaniem składni. Kilka układów strona rozpoznaje sama:
-        • Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-        • Punkt listy zaczynający się pogrubieniem = kafelek (np. „Dlaczego warto”).
-        • Lista numerowana z pogrubionym początkiem = oś kroków. W pogrubieniu tekst przed dwukropkiem to mała etykieta: „Semestry 1–2: Podstawy”.
-        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. W liście numerowanej kolejne linie wcinaj 3 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku.
-        • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-        • Lista samych linków = lista plików (PDF / strona).
-        • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-        • Pod nagłówkiem „Specjalności” strona sama wstawi kafelki specjalności; pod „Program studiów” nagłówki 3 stają się zakładkami.
-        • Plik PDF: wgraj w „Media” i wklej link.
-      type: code
-      options:
-        format: markdown
-    - name: nazwa_en
-      label: Nazwa EN
-      type: string
-    - name: tresc_en
-      label: Treść EN
-      description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku, np. About, Why join, FAQ). Puste = strona angielska pokaże treść polską.
-      type: code
-      options:
-        format: markdown
-  - name: kierunki-baner
-    label: Baner
-    description: 'Nagłówek strony kierunku: nadtytuł, zdanie pod nazwą, hasło i liczby. Jeden plik na kierunek; nazwa pliku = nazwa pliku treści kierunku (np. matematyka). Kierunek bez banera ma w nagłówku samą nazwę.'
-    type: collection
-    path: src/content/kierunki-baner
-    format: json
-    filename: '{fields.kierunek}.json'
-    view:
-      fields:
-      - kierunek
-      - podtytul
-      primary: kierunek
-    fields:
-    - name: kierunek
-      label: Kierunek (nazwa pliku treści, np. matematyka, isim, siad, szkola-doktorska)
-      type: string
-      required: true
-    - name: podtytul
-      label: Nadtytuł (np. Studia I i II stopnia)
-      type: string
-    - name: opis
-      label: Zdanie pod nazwą
-      type: text
-    - name: haslo
-      label: Hasło (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-      type: string
-    - name: liczby
-      label: Liczby (np. 3 lata — studia I stopnia)
-      type: object
-      list:
-        collapsible:
-          collapsed: true
-          summary: "{wartosc} {etykieta}"
-      fields:
-      - name: wartosc
-        label: Wartość
+      - name: tytul
+        label: Tytuł
         type: string
-      - name: etykieta
-        label: Podpis
+        required: true
+      - name: body
+        label: Treść
+        description: |-
+          Tekst sekcji „O studiach” (pierwszy akapit strona pokazuje większą czcionką).
+
+          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+          Kilka układów strona rozpoznaje sama:
+
+          • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+          • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+          • Lista samych linków = lista plików (PDF / strona).
+
+          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+          • Plik PDF: wgraj w „Media” i wklej link.
+
+          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+        type: code
+        options:
+          format: markdown
+      - name: tytul_en
+        label: Tytuł EN
         type: string
-      - name: etykieta_krotka
-        label: Krótszy podpis na telefon
+      - name: tresc_en
+        label: Treść EN
+        type: code
+        options:
+          format: markdown
+        description: Tekst „O studiach” po angielsku, w tym samym układzie co Treść. Puste = strona angielska pokaże tekst polski.
+      - name: wstep
+        label: Wstęp pod tytułem (1–3 zdania)
+        type: text
+      - name: wstep_en
+        label: "EN: wstęp"
+        type: text
+      - name: haslo
+        label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
         type: string
-      - name: wartosc_en
-        label: 'EN: wartość (puste = jak po polsku, np. liczby)'
+      - name: haslo_en
+        label: "EN: hasło na banerze"
         type: string
-      - name: etykieta_en
-        label: 'EN: podpis'
-        type: string
-      - name: etykieta_krotka_en
-        label: 'EN: krótszy podpis na telefon'
-        type: string
-    - name: podtytul_en
-      label: 'EN: nadtytuł'
-      type: string
-    - name: opis_en
-      label: 'EN: zdanie pod nazwą'
-      type: text
-    - name: haslo_en
-      label: 'EN: hasło'
-      type: string
-- name: przypomnienia
-  label: Przypomnienia o terminach
-  description: 'Terminy, które strona główna (Najbliższe wydarzenia) pokazuje kilka dni wcześniej, np. deklaracja specjalności. Po kliknięciu: link (zwykle tabela terminów na stronie kierunku).'
-  type: file
-  path: src/data/przypomnienia.json
-  format: json
-  fields:
-  - name: przypomnienia
-    label: Przypomnienia
-    type: object
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{data} {sprawa}"
-    fields:
-    - name: sprawa
-      label: Sprawa (np. Deklaracja specjalności (I stopień))
-      type: string
-      required: true
-    - name: podpis
-      label: Podpis pod sprawą (np. 4. semestr studiów I stopnia · formularz C2)
-      type: string
-    - name: data
-      label: Data
-      type: date
-      required: true
-      options:
-        format: yyyy-MM-dd
-    - name: co_roku
-      label: Co roku (rok w dacie nie ma znaczenia)
-      type: boolean
-      default: true
-    - name: dni_przed
-      label: Ile dni wcześniej pokazać
-      type: number
-      default: 14
-    - name: adres
-      label: Link (np. /studia/matematyka#terminy)
-      type: string
-    - name: sprawa_en
-      label: 'EN: sprawa'
-      type: string
-    - name: podpis_en
-      label: 'EN: podpis'
-      type: string
-    - name: uid
-      label: Identyfikator w kalendarzach (techniczne, nie zmieniać)
-      type: string
-      hidden: true
-- name: strony
-  label: Strony studiów
-  description: Adres strony = ścieżka pliku, np. studia/matematyka.md → /studia/matematyka
-  type: collection
-  path: src/content/strony/studia
-  format: yaml-frontmatter
-  subfolders: true
-  filename: '{primary}.md'
-  view:
-    fields:
-    - tytul
-    primary: tytul
-  fields:
-  - name: tytul
-    label: Tytuł
-    type: string
-    required: true
-  - name: body
-    label: Treść
-    type: code
-    options:
-      format: markdown
-    description: |-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
-  - name: tresc_en
-    label: Treść EN
-    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
-    type: code
-    options:
-      format: markdown
-  - name: opis
-    label: Krótki opis (pod tytułem i w Google)
-    type: text
-  - name: opis_en
-    label: 'EN: opis'
-    type: text
-  - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: liczby
-    label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
-    type: object
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{n} {etykieta}"
-    fields:
-    - name: n
-      label: Liczba (np. 8 albo 3 lata)
-      type: string
-      required: true
-    - name: n_en
-      label: 'EN: liczba (puste = jak po polsku)'
-      type: string
-    - name: etykieta
-      label: Podpis
-      type: string
-      required: true
-    - name: etykieta_en
-      label: 'EN: podpis'
-      type: string
-  - name: pasek_boczny
-    label: 'Prawy pasek: spis „Na tej stronie”, menu działu czy oba (puste = domyślnie tylko spis)'
-    type: select
-    options:
-      values:
-      - name: oba
-        label: Oba (spis i menu działu)
-      - name: spis
-        label: Tylko spis „Na tej stronie”
-      - name: menu
-        label: Tylko menu działu (podstrony)
-      - name: brak
-        label: Bez prawego paska (strona na całą szerokość)
-  - name: bloki
-    label: Kafelki, oś i kontakty z list — zob. ściągawka
-    type: boolean
-    default: false
-    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
-- name: rok-akademicki
-  label: Rok akademicki — tekst strony
-  description: Kolory, terminy semestru, dni wolne i zamiany dni wpisuje się w „Kalendarz zajęć (kolory dni)”; tu tylko tekst.
-  type: file
-  path: src/data/rok-akademicki.md
-  format: yaml-frontmatter
-  fields:
-  - name: tytul
-    label: Tytuł
-    type: string
-    required: true
-  - name: body
-    label: Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru)
-    type: code
-    options:
-      format: markdown
-    description: |-
-      Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru); między Treścią a Końcem strony strona wstawia kalendarz.
-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
-  - name: tresc_en
-    label: Treść EN
-    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
-    type: code
-    options:
-      format: markdown
-  - name: dalej
-    label: Koniec strony (linki, podstawa prawna)
-    type: code
-    options:
-      format: markdown
-  - name: dalej_en
-    label: Koniec strony EN
-    description: Koniec strony po angielsku, w tym samym układzie. Puste = strona angielska pokaże tekst polski.
-    type: code
-    options:
-      format: markdown
-  - name: opis
-    label: Krótki opis
-    type: text
-  - name: opis_en
-    label: 'EN: opis'
-    type: text
-  - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-    type: string
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: bloki
-    label: Kafelki, oś i kontakty z list — zob. ściągawka
-    type: boolean
-    default: false
-    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
-- name: kolory-dni
-  label: Kalendarz zajęć (kolory dni)
-  description: 'Kolory liczą się same: wpisz okres zajęć, dni wolne (dni rektorskie, przerwy) i zamiany dni z zarządzenia o organizacji roku. Święta ustawowe są uwzględniane automatycznie. Podgląd: /studia/rok-akademicki (każdy dzień tygodnia powinien wypaść 15 razy). Terminy sesji i przerw do tabeli „Rok w skrócie” — w polu Terminy przy semestrze.'
-  type: file
-  path: src/data/kolory-dni.json
-  format: json
-  fields:
-  - name: aktualnosci
-    label: Automatyczne ogłoszenia o zamianach dni
-    description: 'Pola: {data} (18 grudnia 2026), {dzien_tygodnia} (piątek), {w_dniu} (w piątek), {plan_dnia} (środy), {jak_w_dniu} (jak w środę), {kolor} (niebieski). Wielka litera w nazwie, np. {W_dniu}, daje wielką literę w tekście. Puste pole = tekst domyślny.'
-    type: object
-    fields:
-    - name: wlaczone
-      label: Pokazuj ogłoszenia o zamianach dni
-      type: boolean
-      default: true
-    - name: dni_robocze_przed
-      label: Ile dni roboczych przed zamianą (domyślnie 5)
-      type: number
-      default: 5
-    - name: tytul
-      label: Tytuł (szablon)
-      type: string
-    - name: tresc
-      label: Treść (szablon, Markdown)
-      type: code
-      options:
-        format: markdown
-    - name: tytul_en
-      label: 'EN: tytuł (szablon)'
-      type: string
-    - name: tresc_en
-      label: 'EN: treść (szablon)'
-      type: code
-      options:
-        format: markdown
-  - name: semestry
-    label: Semestry
-    type: object
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{nazwa}"
-    fields:
-    - name: nazwa
-      label: Nazwa (np. Semestr zimowy 2027/28)
-      type: string
-      required: true
-    - name: nazwa_en
-      label: 'EN: nazwa'
-      type: string
-    - name: poczatek
-      label: Pierwszy dzień zajęć
-      type: date
-      required: true
-      options:
-        format: yyyy-MM-dd
-    - name: koniec
-      label: Ostatni dzień zajęć
-      type: date
-      required: true
-      options:
-        format: yyyy-MM-dd
-    - name: terminy
-      label: Terminy do tabeli „Rok w skrócie” (zajęcia biorą się z pól powyżej)
-      type: object
-      fields:
-      - name: semestr_od
-        label: Semestr od
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: semestr_do
-        label: Semestr do
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: inauguracja
-        label: Uroczysta inauguracja roku (zwykle tylko zimą)
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: sesja_od
-        label: Sesja egzaminacyjna od
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: sesja_do
-        label: Sesja egzaminacyjna do
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: poprawkowa_od
-        label: Sesja poprawkowa od
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: poprawkowa_do
-        label: Sesja poprawkowa do
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: przerwy
-        label: Przerwa semestralna (wakacje) — jeden lub kilka okresów
+      - name: o_studiach_fakty
+        label: Ramka „W skrócie” obok tekstu „O studiach” (komputer; puste = bez ramki; nie powtarzaj liczb z banera)
         type: object
         list:
           collapsible:
             collapsed: true
-            summary: "{od} – {do}"
+            summary: "{wartosc} {opis}"
         fields:
-        - name: od
-          label: Od
-          type: date
-          options:
-            format: yyyy-MM-dd
-        - name: do
-          label: Do
-          type: date
-          options:
-            format: yyyy-MM-dd
-    - name: wolne
-      label: Dni wolne od zajęć (święta ustawowe dodają się same)
-      type: object
-      list:
-        collapsible:
-          collapsed: true
-          summary: "{od} {opis}"
-      fields:
-      - name: od
-        label: Od
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: do
-        label: Do (puste = jeden dzień)
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: opis
-        label: Opis (np. Przerwa świąteczna)
+          - name: wartosc
+            label: Wartość (krótko, np. A+, PKA)
+            type: string
+          - name: wartosc_en
+            label: "EN: wartość (puste = jak po polsku, np. liczby i lata)"
+            type: string
+          - name: opis
+            label: Opis pod wartością
+            type: string
+          - name: opis_en
+            label: "EN: opis"
+            type: string
+      - name: sekretariat_zakres
+        label: "Kontakt: czym zajmuje się sekretariat dydaktyczny"
+        hidden: true
         type: string
-      - name: opis_en
-        label: 'EN: opis'
+      - name: sekretariat_zakres_en
+        label: "EN: zakres sekretariatu"
+        hidden: true
         type: string
-    - name: zamiany
-      label: Zamiany dni (np. w piątek zajęcia środowe)
-      type: object
-      list:
-        collapsible:
-          collapsed: true
-          summary: "{data} {jak_dzien}"
-      fields:
-      - name: data
-        label: Data
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: jak_dzien
-        label: Zajęcia według planu
-        type: select
-        options:
-          values:
-          - name: pon
-            label: poniedziałku
-          - name: wt
-            label: wtorku
-          - name: sr
-            label: środy
-          - name: czw
-            label: czwartku
-          - name: pt
-            label: piątku
-    - name: wyjatki
-      label: 'Wyjątki: ręczny kolor jednego dnia (normalnie puste)'
-      type: object
-      list:
-        collapsible:
-          collapsed: true
-          summary: "{data} {kolor}"
-      fields:
-      - name: data
-        label: Data
-        type: date
-        options:
-          format: yyyy-MM-dd
-      - name: kolor
-        label: Kolor
-        type: select
-        options:
-          values:
-          - name: niebieski
-            label: niebieski
-          - name: pomaranczowy
-            label: pomarańczowy
-    - name: pdf
-      label: Kalendarz PDF (opcjonalnie)
-      type: file
-      options:
-        path: public/pliki/studia/kolory-dni
-    - name: uwagi
-      label: Uwaga nad kalendarzem (opcjonalnie)
-      type: text
-    - name: uwagi_en
-      label: 'EN: uwaga'
-      type: text
-- name: spec-matematyka-w-ekonomii
-  label: 'Specjalność wygaszana: Matematyka w ekonomii'
-  description: Strona /studia/<kierunek>/matematyka-w-ekonomii i kafelek specjalności na stronie kierunku. „Treść” — nazwa i cały tekst strony (po polsku i po angielsku); „Baner i kafelek” — drobne pola nagłówka i kafelka, zakład, opiekunowie i seminaria.
-  type: group
-  items:
-  - name: spec-matematyka-w-ekonomii-tresc
-    label: Treść
-    description: Nazwa i tekst strony specjalności. Sekcje liczone z innych danych (seminaria, opiekunowie, ramka „Wybór specjalności”) strona wstawia sama — opis pola „Treść”.
-    type: file
-    path: src/content/specjalnosci/matematyka-w-ekonomii.md
+  - name: kierunki
+    label: Kierunki
+    description: "Cała strona kierunku w jednym formularzu: Markdown PL/EN, dane, baner. Kafelki specjalności edytuj w Markdownie kierunku, w bloku :::specjalnosci."
+    type: collection
+    path: src/content/kierunki
     format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields:
+        - nazwa
+      primary: nazwa
     fields:
-    - name: nazwa
-      label: Nazwa
-      type: string
-      required: true
-    - name: body
-      label: Treść
-      description: |-
-        Piszesz jak w zwykłym edytorze. Kilka układów strona rozpoznaje sama:
-        • Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-        • Punkt listy zaczynający się pogrubieniem = kafelek (np. „Dlaczego warto”).
-        • Lista numerowana z pogrubionym początkiem = oś kroków. W pogrubieniu tekst przed dwukropkiem to mała etykieta: „Semestr 5: Seminarium dyplomowe”.
-        • W punkcie linia „Termin: …” albo „Formularz: …” = para; sam link w linii = przycisk. Kolejną linię w tym samym punkcie dodasz Shift+Enter (zwykły Enter też zadziała).
-        • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-        • Lista samych linków = lista plików (PDF / strona); w sekcji „Przydatne strony” — zwykłe linki.
-        • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-        • Cytat zaczynający się pogrubionym „Dla kogo” = ramka. Zwykła lista w „Co będziesz umieć” i „Przykładowe tematy prac” = lista z kreskami; w temacie „Tytuł — dopisek” dopisek jest szary.
-        • Pod nagłówkami „Seminaria” i „Opiekun specjalności” (albo „Opiekunowie specjalności”) strona sama wstawi seminaria i opiekunów z formularza „Baner i kafelek”, a ramkę „Wybór specjalności” — na końcu „Jak przebiega specjalność” (albo pod nagłówkiem „Wybór specjalności”). Bez takiego nagłówka wstawi je w zwykłym miejscu.
-        • Stały adres (kotwicę, np. #seminaria) mają sekcje o nagłówkach: O specjalności, Przydatne strony, Dlaczego warto, Jak przebiega specjalność, Wybór specjalności, Czego się uczysz, Co będziesz umieć, Po studiach, Przykładowe tematy prac, Seminaria, Dokumenty, Pytania i odpowiedzi, Opiekun specjalności.
-        • Plik PDF: wgraj w „Media” i wklej link.
-        • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-      type: code
-      options:
-        format: markdown
-    - name: nazwa_en
-      label: Nazwa EN
-      type: string
-    - name: tresc_en
-      label: Treść EN
-      description: 'Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku: About, Useful pages, Why choose it, How the specialisation works, What you will learn, Skills, Careers, Sample thesis topics, Seminars, Documents, FAQ, Coordinator; ramka: cytat zaczynający się pogrubionym „Who is it for”). Puste = strona angielska pokaże treść polską.'
-      type: code
-      options:
-        format: markdown
-  - name: spec-matematyka-w-ekonomii-baner
-    label: Baner i kafelek
-    description: Nagłówek strony specjalności (skrót, poziom, zdanie pod nazwą, hasło), kafelek na stronie kierunku (kolejność, „Dla kogo”, „Po studiach”), zakład, opiekunowie i seminaria — strona wstawia je w sekcjach „Seminaria” i „Opiekun specjalności”.
+      - name: nazwa
+        label: Nazwa
+        type: string
+        required: true
+      - name: nazwa_en
+        label: Nazwa EN
+        type: string
+      - name: body
+        label: Treść Markdown
+        type: code
+        options:
+          format: markdown
+        description: "Jawny Markdown: :::kafelki, :::etapy, :::zakladki itd. Blok kończy się :::. Komentarze objaśniają układ. Kolejność w tekście jest kolejnością na stronie. {#id} przy nagłówku zachowuje adres sekcji. Podgląd graficzny sprawdzaj w odizolowanym buildzie."
+      - name: tresc_en
+        label: Treść Markdown EN
+        type: code
+        options:
+          format: markdown
+        description: "Jawny Markdown: :::kafelki, :::etapy, :::zakladki itd. Blok kończy się :::. Komentarze objaśniają układ. Kolejność w tekście jest kolejnością na stronie. {#id} przy nagłówku zachowuje adres sekcji. Podgląd graficzny sprawdzaj w odizolowanym buildzie."
+      - name: format_tresci
+        label: Format treści
+        type: string
+        hidden: true
+        default: jawne
+      - name: opublikowany
+        label: Uwzględniaj w zestawieniach
+        type: boolean
+        default: true
+      - name: baner
+        label: Baner
+        type: object
+        fields:
+          - name: podtytul
+            label: Nadtytuł (np. Studia I i II stopnia)
+            type: string
+          - name: opis
+            label: Zdanie pod nazwą
+            type: text
+          - name: haslo
+            label: Hasło (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+            type: string
+          - name: liczby
+            label: Liczby (np. 3 lata — studia I stopnia)
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{wartosc} {etykieta}"
+            fields:
+              - name: wartosc
+                label: Wartość
+                type: string
+              - name: etykieta
+                label: Podpis
+                type: string
+              - name: etykieta_krotka
+                label: Krótszy podpis na telefon
+                type: string
+              - name: wartosc_en
+                label: "EN: wartość (puste = jak po polsku, np. liczby)"
+                type: string
+              - name: etykieta_en
+                label: "EN: podpis"
+                type: string
+              - name: etykieta_krotka_en
+                label: "EN: krótszy podpis na telefon"
+                type: string
+          - name: podtytul_en
+            label: "EN: nadtytuł"
+            type: string
+          - name: opis_en
+            label: "EN: zdanie pod nazwą"
+            type: text
+          - name: haslo_en
+            label: "EN: hasło"
+            type: string
+  - name: specjalnosci
+    label: Specjalności
+    type: collection
+    path: src/content/specjalnosci
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: nazwa
+      fields:
+        - nazwa
+        - kierunek
+    description: "Cała specjalność: Markdown PL/EN, powiązania i baner. Kafelki na stronie kierunku edytuje autor kierunku w jego Markdownie."
+    fields:
+      - name: nazwa
+        label: Nazwa
+        type: string
+        required: true
+      - name: nazwa_en
+        label: Nazwa EN
+        type: string
+      - name: body
+        label: Treść Markdown
+        type: code
+        options:
+          format: markdown
+        description: "Jawny Markdown: :::kafelki, :::etapy, :::zakladki itd. Blok kończy się :::. Komentarze objaśniają układ. Kolejność w tekście jest kolejnością na stronie. {#id} przy nagłówku zachowuje adres sekcji. Podgląd graficzny sprawdzaj w odizolowanym buildzie."
+      - name: tresc_en
+        label: Treść Markdown EN
+        type: code
+        options:
+          format: markdown
+        description: "Jawny Markdown: :::kafelki, :::etapy, :::zakladki itd. Blok kończy się :::. Komentarze objaśniają układ. Kolejność w tekście jest kolejnością na stronie. {#id} przy nagłówku zachowuje adres sekcji. Podgląd graficzny sprawdzaj w odizolowanym buildzie."
+      - name: format_tresci
+        label: Format treści
+        type: string
+        hidden: true
+        default: jawne
+      - name: kierunek
+        label: Kierunek
+        type: reference
+        options:
+          collection: kierunki
+          value: "{path}"
+          label: "{nazwa}"
+        required: true
+      - name: opiekunowie
+        label: Opiekunowie
+        type: object
+        list: true
+        description: "Wybierz osoby po nazwisku. Zapisujemy ID pliku, a aktualny kontakt strona pobiera ze spisu pracowników. Miejsce w tekście: ::opiekun."
+        fields:
+          - name: osoba
+            label: Osoba
+            type: reference
+            required: true
+            options:
+              collection: katalog-pracownikow
+              value: "{path}"
+              label: "{imie_nazwisko}"
+          - name: rola
+            label: Rola (opcjonalnie)
+            type: string
+          - name: rola_en
+            label: Rola EN
+            type: string
+      - name: zaklad
+        label: Zakład
+        type: select
+        options:
+          values:
+            - name: algebra-i-teoria-modeli
+              label: Zakład Algebry i Teorii Modeli
+            - name: analiza-funkcjonalna
+              label: Zakład Analizy Funkcjonalnej
+            - name: analiza-matematyczna
+              label: Zakład Analizy Matematycznej
+            - name: dydaktyka
+              label: Pracownia Dydaktyki i Popularyzacji Matematyki
+            - name: geometria
+              label: Zakład Geometrii
+            - name: rownania-rozniczkowe
+              label: Zakład Równań Różniczkowych
+            - name: statystyka
+              label: Zakład Statystyki
+            - name: teoria-mnogosci-i-topologia
+              label: Zakład Teorii Mnogości i Topologii
+            - name: teoria-prawdopodobienstwa
+              label: Zakład Teorii Prawdopodobieństwa
+        description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+      - name: seminaria
+        label: Seminaria związane ze specjalnością
+        type: select
+        options:
+          values:
+            - name: analiza-harmoniczna
+              label: Analiza harmoniczna i rozwinięcia ortogonalne
+            - name: dydaktyka
+              label: Seminarium Pracowni Dydaktyki i Popularyzacji Matematyki
+            - name: dyskretna-analiza-harmoniczna
+              label: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka
+            - name: geometria
+              label: Geometria
+            - name: prawdopodobienstwo
+              label: Teoria prawdopodobieństwa i modelowanie stochastyczne
+            - name: rownania-rozniczkowe
+              label: Równania różniczkowe
+            - name: statystyka
+              label: Statystyka
+            - name: teoria-modeli
+              label: Teoria modeli
+            - name: topologia
+              label: Topologia
+          multiple: true
+        description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+      - name: wygaszana
+        label: Wygaszana
+        type: boolean
+      - name: bez_podstrony
+        label: Bez własnej podstrony (tylko kafelek, np. specjalność wygaszana)
+        type: boolean
+        default: false
+      - name: zrodla
+        label: Źródła treści (techniczne)
+        type: string
+        list: true
+        hidden: true
+      - name: do_uzupelnienia
+        label: Do uzupełnienia (techniczne)
+        type: string
+        list: true
+        hidden: true
+      - name: opublikowany
+        label: Uwzględniaj w zestawieniach
+        type: boolean
+        default: true
+      - name: baner
+        label: Baner
+        type: object
+        fields:
+          - name: opis
+            label: Jedno zdanie pod nazwą
+            type: text
+          - name: opis_en
+            label: "EN: zdanie pod nazwą"
+            type: text
+          - name: haslo
+            label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+            type: string
+          - name: haslo_en
+            label: "EN: hasło na banerze"
+            type: string
+          - name: skrot
+            label: Skrót (np. AD)
+            type: string
+          - name: poziom
+            label: Poziom (np. studia I i II stopnia)
+            type: string
+          - name: poziom_en
+            label: "EN: poziom"
+            type: string
+          - name: liczby
+            label: Liczby w banerze
+            type: object
+            list: true
+            fields:
+              - name: n
+                label: Wartość
+                type: string
+                required: true
+              - name: n_en
+                label: Wartość EN
+                type: string
+              - name: etykieta
+                label: Podpis
+                type: string
+                required: true
+              - name: etykieta_en
+                label: Podpis EN
+                type: string
+  - name: przypomnienia
+    label: Przypomnienia o terminach
+    description: "Terminy, które strona główna (Najbliższe wydarzenia) pokazuje kilka dni wcześniej, np. deklaracja specjalności. Po kliknięciu: link (zwykle tabela terminów na stronie kierunku)."
     type: file
-    path: src/content/specjalnosci-baner/matematyka-w-ekonomii.json
+    path: src/data/przypomnienia.json
     format: json
     fields:
-    - name: kierunek
-      label: Kierunek
-      type: reference
-      options:
-        collection: kierunki
-        value: '{path}'
-        label: '{primary}'
-        search: nazwa
-    - name: kolejnosc
-      label: Kolejność kafelka na stronie kierunku (1 = pierwszy)
-      type: number
-    - name: na_stronie_kierunku
-      label: Pokaż kafelek na stronie kierunku
-      type: boolean
-      default: true
-    - name: bez_podstrony
-      label: Bez własnej podstrony (tylko kafelek, np. specjalność wygaszana)
-      type: boolean
-      default: false
-    - name: kafelek_dla_kogo
-      label: 'Kafelek: „Dla kogo” — jedno zdanie'
-      type: text
-    - name: kafelek_kariera
-      label: 'Kafelek: „Po studiach” — jedno zdanie'
-      type: text
-    - name: skrot
-      label: Skrót (np. AD)
-      type: string
-    - name: poziom
-      label: Poziom (np. studia I i II stopnia)
-      type: string
-    - name: opis
-      label: Jedno zdanie pod nazwą
-      type: text
-    - name: haslo
-      label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
-      type: string
-    - name: zaklad
-      label: Zakład
-      type: select
-      options:
-        values:
-        - name: algebra-i-teoria-modeli
-          label: Zakład Algebry i Teorii Modeli
-        - name: analiza-funkcjonalna
-          label: Zakład Analizy Funkcjonalnej
-        - name: analiza-matematyczna
-          label: Zakład Analizy Matematycznej
-        - name: dydaktyka
-          label: Pracownia Dydaktyki i Popularyzacji Matematyki
-        - name: geometria
-          label: Zakład Geometrii
-        - name: rownania-rozniczkowe
-          label: Zakład Równań Różniczkowych
-        - name: statystyka
-          label: Zakład Statystyki
-        - name: teoria-mnogosci-i-topologia
-          label: Zakład Teorii Mnogości i Topologii
-        - name: teoria-prawdopodobienstwa
-          label: Zakład Teorii Prawdopodobieństwa
-      description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-    - name: opiekunowie
-      label: Opiekunowie (imię i nazwisko jak w spisie pracowników, bez tytułów)
-      type: object
-      list:
-        collapsible:
-          collapsed: true
-          summary: "{imie_nazwisko}"
+      - name: przypomnienia
+        label: Przypomnienia
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{data} {sprawa}"
+        fields:
+          - name: sprawa
+            label: Sprawa (np. Deklaracja specjalności (I stopień))
+            type: string
+            required: true
+          - name: podpis
+            label: Podpis pod sprawą (np. 4. semestr studiów I stopnia · formularz C2)
+            type: string
+          - name: data
+            label: Data
+            type: date
+            required: true
+            options:
+              format: yyyy-MM-dd
+          - name: co_roku
+            label: Co roku (rok w dacie nie ma znaczenia)
+            type: boolean
+            default: true
+          - name: dni_przed
+            label: Ile dni wcześniej pokazać
+            type: number
+            default: 14
+          - name: adres
+            label: Link (np. /studia/matematyka#terminy)
+            type: string
+          - name: sprawa_en
+            label: "EN: sprawa"
+            type: string
+          - name: podpis_en
+            label: "EN: podpis"
+            type: string
+          - name: uid
+            label: Identyfikator w kalendarzach (techniczne, nie zmieniać)
+            type: string
+            hidden: true
+  - name: strony
+    label: Strony studiów
+    description: Adres strony = ścieżka pliku, np. studia/matematyka.md → /studia/matematyka
+    type: collection
+    path: src/content/strony/studia
+    format: yaml-frontmatter
+    subfolders: true
+    filename: "{primary}.md"
+    view:
       fields:
+        - tytul
+      primary: tytul
+    fields:
+      - name: tytul
+        label: Tytuł
+        type: string
+        required: true
+      - name: body
+        label: Treść
+        type: code
+        options:
+          format: markdown
+        description: |-
+          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+          Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
+
+          • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+          • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+          • Lista samych linków = lista plików (PDF / strona).
+
+          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+          • Plik PDF: wgraj w „Media” i wklej link.
+
+          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+      - name: tytul_en
+        label: Tytuł EN
+        type: string
+      - name: tresc_en
+        label: Treść EN
+        description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+        type: code
+        options:
+          format: markdown
+      - name: opis
+        label: Krótki opis (pod tytułem i w Google)
+        type: text
+      - name: opis_en
+        label: "EN: opis"
+        type: text
+      - name: haslo
+        label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+        type: string
+      - name: haslo_en
+        label: "EN: hasło na banerze"
+        type: string
+      - name: liczby
+        label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{n} {etykieta}"
+        fields:
+          - name: n
+            label: Liczba (np. 8 albo 3 lata)
+            type: string
+            required: true
+          - name: n_en
+            label: "EN: liczba (puste = jak po polsku)"
+            type: string
+          - name: etykieta
+            label: Podpis
+            type: string
+            required: true
+          - name: etykieta_en
+            label: "EN: podpis"
+            type: string
+      - name: pasek_boczny
+        label: "Prawy pasek: spis „Na tej stronie”, menu działu czy oba (puste = domyślnie tylko spis)"
+        type: select
+        options:
+          values:
+            - name: oba
+              label: Oba (spis i menu działu)
+            - name: spis
+              label: Tylko spis „Na tej stronie”
+            - name: menu
+              label: Tylko menu działu (podstrony)
+            - name: brak
+              label: Bez prawego paska (strona na całą szerokość)
+      - name: bloki
+        label: Kafelki, oś i kontakty z list — zob. ściągawka
+        type: boolean
+        default: false
+        description: "Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy."
+  - name: rok-akademicki
+    label: Rok akademicki — tekst strony
+    description: Kolory, terminy semestru, dni wolne i zamiany dni wpisuje się w „Kalendarz zajęć (kolory dni)”; tu tylko tekst.
+    type: file
+    path: src/data/rok-akademicki.md
+    format: yaml-frontmatter
+    fields:
+      - name: tytul
+        label: Tytuł
+        type: string
+        required: true
+      - name: body
+        label: Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru)
+        type: code
+        options:
+          format: markdown
+        description: |-
+          Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru); między Treścią a Końcem strony strona wstawia kalendarz.
+
+          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+          Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
+
+          • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+          • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+          • Lista samych linków = lista plików (PDF / strona).
+
+          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+          • Plik PDF: wgraj w „Media” i wklej link.
+
+          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+      - name: tytul_en
+        label: Tytuł EN
+        type: string
+      - name: tresc_en
+        label: Treść EN
+        description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+        type: code
+        options:
+          format: markdown
+      - name: dalej
+        label: Koniec strony (linki, podstawa prawna)
+        type: code
+        options:
+          format: markdown
+      - name: dalej_en
+        label: Koniec strony EN
+        description: Koniec strony po angielsku, w tym samym układzie. Puste = strona angielska pokaże tekst polski.
+        type: code
+        options:
+          format: markdown
+      - name: opis
+        label: Krótki opis
+        type: text
+      - name: opis_en
+        label: "EN: opis"
+        type: text
+      - name: haslo
+        label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+        type: string
+      - name: haslo_en
+        label: "EN: hasło na banerze"
+        type: string
+      - name: bloki
+        label: Kafelki, oś i kontakty z list — zob. ściągawka
+        type: boolean
+        default: false
+        description: "Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy."
+  - name: kolory-dni
+    label: Kalendarz zajęć (kolory dni)
+    description: "Kolory liczą się same: wpisz okres zajęć, dni wolne (dni rektorskie, przerwy) i zamiany dni z zarządzenia o organizacji roku. Święta ustawowe są uwzględniane automatycznie. Podgląd: /studia/rok-akademicki (każdy dzień tygodnia powinien wypaść 15 razy). Terminy sesji i przerw do tabeli „Rok w skrócie” — w polu Terminy przy semestrze."
+    type: file
+    path: src/data/kolory-dni.json
+    format: json
+    fields:
+      - name: aktualnosci
+        label: Automatyczne ogłoszenia o zamianach dni
+        description: "Pola: {data} (18 grudnia 2026), {dzien_tygodnia} (piątek), {w_dniu} (w piątek), {plan_dnia} (środy), {jak_w_dniu} (jak w środę), {kolor} (niebieski). Wielka litera w nazwie, np. {W_dniu}, daje wielką literę w tekście. Puste pole = tekst domyślny."
+        type: object
+        fields:
+          - name: wlaczone
+            label: Pokazuj ogłoszenia o zamianach dni
+            type: boolean
+            default: true
+          - name: dni_robocze_przed
+            label: Ile dni roboczych przed zamianą (domyślnie 5)
+            type: number
+            default: 5
+          - name: tytul
+            label: Tytuł (szablon)
+            type: string
+          - name: tresc
+            label: Treść (szablon, Markdown)
+            type: code
+            options:
+              format: markdown
+          - name: tytul_en
+            label: "EN: tytuł (szablon)"
+            type: string
+          - name: tresc_en
+            label: "EN: treść (szablon)"
+            type: code
+            options:
+              format: markdown
+      - name: semestry
+        label: Semestry
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{nazwa}"
+        fields:
+          - name: nazwa
+            label: Nazwa (np. Semestr zimowy 2027/28)
+            type: string
+            required: true
+          - name: nazwa_en
+            label: "EN: nazwa"
+            type: string
+          - name: poczatek
+            label: Pierwszy dzień zajęć
+            type: date
+            required: true
+            options:
+              format: yyyy-MM-dd
+          - name: koniec
+            label: Ostatni dzień zajęć
+            type: date
+            required: true
+            options:
+              format: yyyy-MM-dd
+          - name: terminy
+            label: Terminy do tabeli „Rok w skrócie” (zajęcia biorą się z pól powyżej)
+            type: object
+            fields:
+              - name: semestr_od
+                label: Semestr od
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: semestr_do
+                label: Semestr do
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: inauguracja
+                label: Uroczysta inauguracja roku (zwykle tylko zimą)
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: sesja_od
+                label: Sesja egzaminacyjna od
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: sesja_do
+                label: Sesja egzaminacyjna do
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: poprawkowa_od
+                label: Sesja poprawkowa od
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: poprawkowa_do
+                label: Sesja poprawkowa do
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: przerwy
+                label: Przerwa semestralna (wakacje) — jeden lub kilka okresów
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{od} – {do}"
+                fields:
+                  - name: od
+                    label: Od
+                    type: date
+                    options:
+                      format: yyyy-MM-dd
+                  - name: do
+                    label: Do
+                    type: date
+                    options:
+                      format: yyyy-MM-dd
+          - name: wolne
+            label: Dni wolne od zajęć (święta ustawowe dodają się same)
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{od} {opis}"
+            fields:
+              - name: od
+                label: Od
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: do
+                label: Do (puste = jeden dzień)
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: opis
+                label: Opis (np. Przerwa świąteczna)
+                type: string
+              - name: opis_en
+                label: "EN: opis"
+                type: string
+          - name: zamiany
+            label: Zamiany dni (np. w piątek zajęcia środowe)
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{data} {jak_dzien}"
+            fields:
+              - name: data
+                label: Data
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: jak_dzien
+                label: Zajęcia według planu
+                type: select
+                options:
+                  values:
+                    - name: pon
+                      label: poniedziałku
+                    - name: wt
+                      label: wtorku
+                    - name: sr
+                      label: środy
+                    - name: czw
+                      label: czwartku
+                    - name: pt
+                      label: piątku
+          - name: wyjatki
+            label: "Wyjątki: ręczny kolor jednego dnia (normalnie puste)"
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{data} {kolor}"
+            fields:
+              - name: data
+                label: Data
+                type: date
+                options:
+                  format: yyyy-MM-dd
+              - name: kolor
+                label: Kolor
+                type: select
+                options:
+                  values:
+                    - name: niebieski
+                      label: niebieski
+                    - name: pomaranczowy
+                      label: pomarańczowy
+          - name: pdf
+            label: Kalendarz PDF (opcjonalnie)
+            type: file
+            options:
+              path: public/pliki/studia/kolory-dni
+          - name: uwagi
+            label: Uwaga nad kalendarzem (opcjonalnie)
+            type: text
+          - name: uwagi_en
+            label: "EN: uwaga"
+            type: text
+  - name: katalog-pracownikow
+    label: Katalog opiekunów (tylko odczyt)
+    type: collection
+    path: _cms/pracownicy
+    format: yaml
+    filename: "{primary}.yml"
+    view:
+      primary: imie_nazwisko
+      fields:
+        - imie_nazwisko
+    description: Katalog wyboru z Web-Pracownicy; nie edytuj go ręcznie. Synchronizację wykonuje skrypt w Web-Core. Dane kontaktowe nie są kopiowane.
+    fields:
       - name: imie_nazwisko
         label: Imię i nazwisko
         type: string
-      - name: rola
-        label: Rola (opcjonalnie)
+        readonly: true
+      - name: id
+        label: Stały identyfikator
         type: string
-      - name: rola_en
-        label: 'EN: rola'
-        type: string
-    - name: seminaria
-      label: Seminaria związane ze specjalnością
-      type: select
-      options:
-        values:
-        - name: analiza-harmoniczna
-          label: Analiza harmoniczna i rozwinięcia ortogonalne
-        - name: dydaktyka
-          label: Seminarium Pracowni Dydaktyki i Popularyzacji Matematyki
-        - name: dyskretna-analiza-harmoniczna
-          label: Dyskretna analiza harmoniczna i niekomutatywna probabilistyka
-        - name: geometria
-          label: Geometria
-        - name: prawdopodobienstwo
-          label: Teoria prawdopodobieństwa i modelowanie stochastyczne
-        - name: rownania-rozniczkowe
-          label: Równania różniczkowe
-        - name: statystyka
-          label: Statystyka
-        - name: teoria-modeli
-          label: Teoria modeli
-        - name: topologia
-          label: Topologia
-        multiple: true
-      description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-    - name: wygaszana
-      label: Wygaszana
-      type: boolean
-    - name: poziom_en
-      label: 'EN: poziom'
-      type: string
-    - name: opis_en
-      label: 'EN: zdanie pod nazwą'
-      type: text
-    - name: haslo_en
-      label: 'EN: hasło na banerze'
-      type: string
-    - name: kafelek_dla_kogo_en
-      label: 'EN: kafelek — dla kogo'
-      type: text
-    - name: kafelek_kariera_en
-      label: 'EN: kafelek — po studiach'
-      type: text
-    - name: do_uzupelnienia
-      label: Do uzupełnienia (techniczne)
-      type: string
-      list: true
-      hidden: true
-    - name: zrodla
-      label: Źródła treści (techniczne)
-      type: string
-      list: true
-      hidden: true
+        readonly: true
+    operations:
+      create: false
+      rename: false
+      delete: false
