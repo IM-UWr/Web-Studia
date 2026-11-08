@@ -1,7 +1,7 @@
 ---
 nazwa: Matematyka
 nazwa_en: Mathematics
-tresc_en: |+
+tresc_en: |
   ## About
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
@@ -190,9 +190,8 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
   Termin: Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)  
    Formularz: Formularz C1
-2. **Semestry 3–4: Poszerzanie i wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.
-
-  Termin: Deklaracja specjalności do 30 czerwca (4. semestr)  
+2. **Semestry 3–4: Poszerzanie i wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
+   Termin: Deklaracja specjalności do 30 czerwca (4. semestr)  
    [Formularz C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
 3. **Semestry 5–6: Specjalność i dyplom licencjacki** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
