@@ -1,26 +1,38 @@
 ---
-tytul: "Skrypty i materiały dla studentów"
-opis: "Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu, uporządkowane według przedmiotów."
-tytul_en: "Lecture notes and study materials"
-opis_en: "Free lecture notes, course scripts and problem sets written by Institute staff, grouped by subject (in Polish)."
-haslo: "Bezpłatne skrypty pracowników"
-haslo_en: "Free lecture notes by our staff"
+tytul: Skrypty i materiały dla studentów
+opis: Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu, uporządkowane według przedmiotów.
+tytul_en: Lecture notes and study materials
+opis_en: Free lecture notes, course scripts and problem sets written by Institute staff, grouped by subject (in Polish).
+haslo: Bezpłatne skrypty pracowników
+haslo_en: Free lecture notes by our staff
 liczby:
-- n: "30"
-  etykieta: "skryptów i notatek"
-  etykieta_en: "lecture notes and scripts"
-- n: "7"
-  etykieta: "działów"
-  etykieta_en: "subject areas"
-- n: "25"
-  etykieta: "autorów"
-  etykieta_en: "authors"
+  - n: "30"
+    etykieta: skryptów i notatek
+    etykieta_en: lecture notes and scripts
+  - n: "7"
+    etykieta: działów
+    etykieta_en: subject areas
+  - n: "25"
+    etykieta: autorów
+    etykieta_en: authors
 tresc_en: |
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
+
   Free lecture notes, course scripts and problem sets written by the staff of the Institute (two of the linear algebra scripts were written as master's theses). All materials are in Polish and are grouped by subject; for each item we give the author, the format and the course of the current study programme for which it may be useful.
 
   > Many of the scripts were written for earlier editions of the courses (hence, for example, the version labels A or B in some titles), so their scope and notation may differ from the current programme. Files marked "author's page" are maintained by the authors on their personal websites.
 
-  ## Analysis
+  ::::
+
+  ## Analysis {#analysis}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Mathematical analysis (1st year)
 
@@ -40,7 +52,13 @@ tresc_en: |
   - [Analiza funkcjonalna 1](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna1.pdf) and [Analiza funkcjonalna 2](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna2p.pdf) (in Polish) — Ryszard Szwarc. PDF (author's page). For the courses Functional Analysis 1 and 2.
   - [Wielomiany ortogonalne i problem momentów](/pliki/studia/skrypty/szwarc-wielomiany-ortogonalne.pdf) (in Polish) — Ryszard Szwarc. PDF, 87 pp. Notes for a lecture given in the winter semester of 2003: positive definite sequences, Jacobi matrices, zeros of orthogonal polynomials, the moment problem.
 
-  ## Introduction to mathematics, algebra and combinatorics
+  ::::
+
+  ## Introduction to mathematics, algebra and combinatorics {#introduction-to-mathematics-algebra-and-combinatorics}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Introduction to mathematics (1st year)
 
@@ -61,16 +79,34 @@ tresc_en: |
 
   - [Zbiór zadań z kombinatoryki](https://www.math.uni.wroc.pl/~sgal/szkola/Kombinatoryka/Zbior_zadan_z_kombinatoryki.pdf) (in Polish) — Światosław R. Gal. PDF (author's page). A problem book, useful for the courses Introduction to Combinatorics (semester 1) and Combinatorics.
 
-  ## Topology
+  ::::
+
+  ## Topology {#topology}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Wstęp do topologii (A)](/pliki/studia/skrypty/krupski-wstep-do-topologii.pdf) (in Polish) — Paweł Krupski. PDF, 113 pp. For the course Topology or Topology R (semester 2).
 
-  ## Differential equations
+  ::::
+
+  ## Differential equations {#differential-equations}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Równania różniczkowe (A1)](/pliki/studia/skrypty/raczynski-rownania-rozniczkowe-1.pdf) (in Polish) — Andrzej Raczyński. PDF, 156 pp., 2010. For the course Differential Equations 1 (semester 4).
   - [Warsztaty z równań różniczkowych cząstkowych](/pliki/studia/skrypty/biler-karch-nadzieja-wrzosek-warsztaty-rrcz.pdf) (in Polish) — Piotr Biler, Grzegorz Karch, Tadeusz Nadzieja, Dariusz Wrzosek. PDF, 140 pp., Toruń 2003. Lecture notes from a workshop on partial differential equations: wave equations, the heat equation, the Poisson equation, evolution problems.
 
-  ## Probability and statistics
+  ::::
+
+  ## Probability and statistics {#probability-and-statistics}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Probability and simulation
 
@@ -87,7 +123,13 @@ tresc_en: |
 
   - [Matematyka ubezpieczeń majątkowych i osobowych](https://www.math.uni.wroc.pl/~szekli/documents/mumio/mumio-16-trans/skrypt-16.pdf) (in Polish) — Ryszard Szekli. PDF (author's page). For the course of the same name (Property and Personal Insurance Mathematics; second-cycle studies, actuarial and financial mathematics specialisation).
 
-  ## Mathematics teaching
+  ::::
+
+  ## Mathematics teaching {#mathematics-teaching}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   Materials by Danuta Zaremba for students preparing to teach mathematics at school.
 
@@ -95,24 +137,50 @@ tresc_en: |
   - [Wybrane zagadnienia z geometrii płaszczyzny](/pliki/studia/skrypty/zaremba-geometria-plaszczyzny.pdf) (in Polish) — Danuta Zaremba. PDF, 60 pp. Basic facts of Euclidean plane geometry with exercises; hints or solutions are given for some of them.
   - [Kilka rad dla studentów odbywających praktykę nauczycielską w szkole podstawowej i gimnazjum](/pliki/studia/skrypty/zaremba-praktyka-nauczycielska.pdf) (in Polish) — Danuta Zaremba. PDF, 17 pp. Advice on preparing and teaching lessons during the teaching placement; for the placement rules see [Teaching placements](/studia/matematyka#praktyki).
 
-  ## LaTeX and computer graphics
+  ::::
+
+  ## LaTeX and computer graphics {#latex-and-computer-graphics}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Wprowadzenie do systemu LaTeX](/pliki/studia/skrypty/selwat-latex.pdf) (in Polish) — Karol Selwat. PDF, 42 pp. An introduction to LaTeX written for students of the Institute; useful for the course LaTeX (semesters 2–6).
   - [Pracownia graficzna wizualizacji obiektów matematycznych](https://dbura.math.uni.wroc.pl/dydaktyka) (in Polish) — Dariusz Buraczewski, Tomasz Elsner. PDF on the author's page (section "Skrypty do zajęć"). A script for the class on visualising mathematical objects, 2011/12.
 
-  ## Other sources
+  ::::
+
+  ## Other sources {#other-sources}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - Problems from past bachelor's and master's exams — [Exams and graduation](/studia/egzaminy-i-dyplom)
   - Selected course pages in SKOS and the course catalogue in USOSweb — [Classes and office hours](/studia/zajecia)
   - Personal websites of the staff — [Staff](/pracownicy)
+
+  ::::
 opublikowany: true
+format_tresci: jawne
 ---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracowników Instytutu (dwa skrypty z algebry liniowej powstały jako prace magisterskie). Materiały są po polsku i pogrupowane według przedmiotów; przy każdym podajemy autora, format i przedmiot z obecnego programu studiów, przy którym mogą się przydać.
 
 > Wiele skryptów powstało do wcześniejszych edycji wykładów (stąd np. oznaczenia wersji A lub B w niektórych tytułach), więc ich zakres i oznaczenia mogą się różnić od obecnego programu. Pliki oznaczone jako „strona autora” są utrzymywane przez autorów na ich stronach domowych.
 
-## Analiza
+::::
+
+## Analiza {#analiza}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Analiza matematyczna (1. rok)
 
@@ -132,7 +200,13 @@ Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracown
 - [Analiza funkcjonalna 1](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna1.pdf) i [Analiza funkcjonalna 2](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna2p.pdf) — Ryszard Szwarc. PDF (strona autora). Do przedmiotów Analiza funkcjonalna 1 i 2.
 - [Wielomiany ortogonalne i problem momentów](/pliki/studia/skrypty/szwarc-wielomiany-ortogonalne.pdf) — Ryszard Szwarc. PDF, 87 s. Notatki do wykładu z semestru zimowego 2003: ciągi dodatnio określone, macierze Jacobiego, zera wielomianów ortogonalnych, problem momentów.
 
-## Wstęp do matematyki, algebra i kombinatoryka
+::::
+
+## Wstęp do matematyki, algebra i kombinatoryka {#wstęp-do-matematyki-algebra-i-kombinatoryka}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Wstęp do matematyki (1. rok)
 
@@ -153,16 +227,34 @@ Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracown
 
 - [Zbiór zadań z kombinatoryki](https://www.math.uni.wroc.pl/~sgal/szkola/Kombinatoryka/Zbior_zadan_z_kombinatoryki.pdf) — Światosław R. Gal. PDF (strona autora). Przydatny przy przedmiotach Wstęp do kombinatoryki (semestr 1) i Kombinatoryka.
 
-## Topologia
+::::
+
+## Topologia {#topologia}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Wstęp do topologii (A)](/pliki/studia/skrypty/krupski-wstep-do-topologii.pdf) — Paweł Krupski. PDF, 113 s. Do przedmiotu Topologia lub Topologia R (semestr 2).
 
-## Równania różniczkowe
+::::
+
+## Równania różniczkowe {#równania-różniczkowe}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Równania różniczkowe (A1)](/pliki/studia/skrypty/raczynski-rownania-rozniczkowe-1.pdf) — Andrzej Raczyński. PDF, 156 s., 2010. Do przedmiotu Równania różniczkowe 1 (semestr 4).
 - [Warsztaty z równań różniczkowych cząstkowych](/pliki/studia/skrypty/biler-karch-nadzieja-wrzosek-warsztaty-rrcz.pdf) — Piotr Biler, Grzegorz Karch, Tadeusz Nadzieja, Dariusz Wrzosek. PDF, 140 s., Toruń 2003. Notatki z wykładów: równania falowe, równanie ciepła, równanie Poissona, zagadnienia ewolucyjne.
 
-## Rachunek prawdopodobieństwa i statystyka
+::::
+
+## Rachunek prawdopodobieństwa i statystyka {#rachunek-prawdopodobieństwa-i-statystyka}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Rachunek prawdopodobieństwa i symulacje
 
@@ -179,7 +271,13 @@ Bezpłatne skrypty, notatki do wykładów i zbiory zadań napisane przez pracown
 
 - [Matematyka ubezpieczeń majątkowych i osobowych](https://www.math.uni.wroc.pl/~szekli/documents/mumio/mumio-16-trans/skrypt-16.pdf) — Ryszard Szekli. PDF (strona autora). Do przedmiotu o tej nazwie (studia II stopnia, specjalność matematyka aktuarialno-finansowa).
 
-## Matematyka nauczycielska
+::::
+
+## Matematyka nauczycielska {#matematyka-nauczycielska}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Materiały Danuty Zaremby dla studentów, którzy przygotowują się do nauczania matematyki w szkole.
 
@@ -187,13 +285,27 @@ Materiały Danuty Zaremby dla studentów, którzy przygotowują się do nauczani
 - [Wybrane zagadnienia z geometrii płaszczyzny](/pliki/studia/skrypty/zaremba-geometria-plaszczyzny.pdf) — Danuta Zaremba. PDF, 60 s. Podstawowe wiadomości z geometrii euklidesowej płaszczyzny z zadaniami; do części zadań podano wskazówki lub rozwiązania.
 - [Kilka rad dla studentów odbywających praktykę nauczycielską w szkole podstawowej i gimnazjum](/pliki/studia/skrypty/zaremba-praktyka-nauczycielska.pdf) — Danuta Zaremba. PDF, 17 s. Wskazówki do przygotowania i prowadzenia lekcji w czasie praktyki; zasady praktyk: [Praktyki pedagogiczne](/studia/matematyka#praktyki).
 
-## LaTeX i grafika komputerowa
+::::
+
+## LaTeX i grafika komputerowa {#latex-i-grafika-komputerowa}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Wprowadzenie do systemu LaTeX](/pliki/studia/skrypty/selwat-latex.pdf) — Karol Selwat. PDF, 42 s. Skrypt dla studentów Instytutu; przydatny przy przedmiocie LaTeX (semestry 2–6).
 - [Pracownia graficzna wizualizacji obiektów matematycznych](https://dbura.math.uni.wroc.pl/dydaktyka) — Dariusz Buraczewski, Tomasz Elsner. PDF na stronie autora (sekcja „Skrypty do zajęć”). Skrypt do zajęć z roku 2011/12.
 
-## Inne źródła materiałów
+::::
+
+## Inne źródła materiałów {#inne-źródła-materiałów}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - Zadania z wcześniejszych egzaminów licencjackich i magisterskich — [Egzaminy i dyplom](/studia/egzaminy-i-dyplom)
 - Strony wybranych przedmiotów w SKOS i katalog przedmiotów w USOSweb — [Zajęcia i konsultacje](/studia/zajecia)
 - Strony domowe pracowników — [Pracownicy](/pracownicy)
+
+::::

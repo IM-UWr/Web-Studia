@@ -1,14 +1,26 @@
 ---
-tytul: "Procedura dyplomowania"
+tytul: Procedura dyplomowania
 opis: "Formalne zasady dyplomowania na kierunku matematyka: promotor i recenzent, temat i ocena pracy, egzamin dyplomowy i wynik studiów."
-tytul_en: "Diploma procedure"
+tytul_en: Diploma procedure
 opis_en: "Formal rules of the diploma process in mathematics: supervisor and reviewer, thesis topic and assessment, the diploma exam and the final degree grade."
-haslo: "Zasady krok po kroku"
-haslo_en: "The rules, step by step"
+haslo: Zasady krok po kroku
+haslo_en: The rules, step by step
 tresc_en: |
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
+
   The formal rules for completing a degree in mathematics: who can be a supervisor and a reviewer, how a thesis topic is approved and changed, how the thesis is assessed, how the diploma exam works and how the final degree grade is calculated. The practical guide — the steps to take, the APD system, the format and scope of the exams, dates and past exam papers — is on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page.
 
-  ## Legal basis
+  ::::
+
+  ## Legal basis {#legal-basis}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The diploma process is governed by the [Study Regulations of the University of Wrocław](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) (Senate resolution no. 68/2024, in force since 1 October 2024; chapter XI "Completion of studies", § 58–66, and the transitional provisions § 70–72; in Polish). The diploma procedure of the Mathematical Institute specifies the details and refers, among others, to:
 
@@ -21,13 +33,25 @@ tresc_en: |
 
   > This page summarises the regulations — the legal acts listed above are binding. In case of doubt, the Study Regulations prevail.
 
-  ## Stages of the diploma process
+  ::::
+
+  ## Stages of the diploma process {#stages-of-the-diploma-process}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   In the bachelor's programme under the previous curriculum the diploma process consists of the Team specialisation project, the bachelor's thesis and the written bachelor's exam; under the curriculum from 2026/27 bachelor's studies end with a written diploma exam, without a diploma thesis. In the master's programme it consists of Master's seminars 1 and 2, the master's thesis and the master's exam — written and oral. The individual steps are described in [Path to the diploma](/en/studia/egzaminy-i-dyplom#path-to-the-diploma).
 
   Team specialisation projects and master's seminars develop the competences needed for research: identifying research problems independently, finding and studying sources, and presenting extended arguments on a given subject in speech and writing. Part of these classes is getting to know the Faculty guidelines for diploma theses.
 
-  ## Diploma Theses Committee
+  ::::
+
+  ## Diploma Theses Committee {#diploma-theses-committee}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The Dean appoints a Diploma Theses Committee at the Mathematical Institute. Its members are: the Vice-Dean for Mathematics Education, the Deputy Director of the Institute for Teaching, the specialisation coordinators and persons designated by the Director of the Institute. The Committee:
 
@@ -37,7 +61,13 @@ tresc_en: |
   - publishes the list of approved topics on the Institute website,
   - at least every 3 years reviews the quality of diploma theses and the adequacy of their grades.
 
-  ## Supervisor and reviewer
+  ::::
+
+  ## Supervisor and reviewer {#supervisor-and-reviewer}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Supervisor
 
@@ -54,7 +84,13 @@ tresc_en: |
 
   Reviewers are appointed by a team set up by the Director of the Institute at the request of the chair of the Diploma Theses Committee, composed of staff members with expertise appropriate to the specialisation. A master's thesis must be assessed by at least one holder of the habilitation or a professor (§ 61(4)). By the date set by the Dean, the teaching office publishes the list of students with their thesis titles, supervisors and reviewers.
 
-  ## Thesis topic
+  ::::
+
+  ## Thesis topic {#thesis-topic}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Topic offer.** The Diploma Theses Committee collects, reviews and publishes the topics proposed by staff members ([current list of topics](/pliki/studia/tem7.pdf)). Under the Regulations, master's thesis topics are made available to students no later than two semesters, and bachelor's thesis topics one semester, before the end of studies (§ 58(1)).
   - **Choosing the topic.** A student either chooses a topic from the list and contacts the staff member who proposed it to confirm or refine it, or agrees on a topic outside the list with the staff member under whom they want to write the thesis.
@@ -63,13 +99,25 @@ tresc_en: |
   - **Joint thesis.** A thesis may be prepared by a team of students if the parts prepared by each person can be identified and the workload of each can be assessed (§ 60(2)). The topic of a joint thesis must be approved separately by the Diploma Theses Committee, and the size of the work should be adequate to the number of co-authors.
   - **Language and place of work.** In justified cases, with the Dean's consent, the thesis may be presented in a language other than the language of the studies and may be carried out at another faculty or outside the University (§ 60(3)–(4)).
 
-  ## Preparing and submitting the thesis
+  ::::
+
+  ## Preparing and submitting the thesis {#preparing-and-submitting-the-thesis}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The student prepares the thesis under the supervisor, individually or in a team, following the [diploma thesis guidelines](/pliki/studia/46-2017.pdf). The supervisor checks progress during individual or group consultations.
 
   The thesis is submitted electronically in the Diploma Theses Archive (APD) by the date set by the Dean (§ 61(1)) — after the supervisor has accepted it and the APD system has been opened at the student's request ([how to do it](/en/studia/egzaminy-i-dyplom#submitting-the-thesis-in-apd)). The supervisor approves the thesis in APD and sends it for the anti-plagiarism check, which every thesis undergoes before the exam (§ 61(2)). If plagiarism is suspected, the procedure set out in the Rector's order is started.
 
-  ## Thesis assessment
+  ::::
+
+  ## Thesis assessment {#thesis-assessment}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - The thesis is assessed by the supervisor and the reviewer (§ 61(3)); they post their reviews and grades in the APD system.
   - The assessment is based on the criteria of the guidelines (items 3.1–3.6): a clearly defined aim, its achievement, knowledge and skills appropriate to the level of studies, a clear contribution of the author, appropriate use of the literature and correct mathematical writing. A thesis receives a positive grade if it meets all these criteria; a very good grade is given to a thesis that meets them to a high degree or contains original results worth publishing.
@@ -79,7 +127,13 @@ tresc_en: |
 
   The Faculty Council guidelines of 2017 (item 4.5), adopted under the previous study regulations, set different rules for resolving differing grades: with a difference of 0.5 — the higher grade, with a difference of 1 — the mean, with a larger difference or a failing grade — a grade set by the Dean. The rules described above come from the Study Regulations in force since 1 October 2024.
 
-  ## Diploma exam
+  ::::
+
+  ## Diploma exam {#diploma-exam}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Committees
 
@@ -106,7 +160,13 @@ tresc_en: |
 
   A student who does not submit the diploma thesis on time, or does not take or does not pass the diploma exam within the deadlines of § 62(9)–(11), is removed from the list of students. Within 2 years of removal they may apply once to resume their studies without having to make up courses; the application must be submitted at least 7 days before the start of the assessment period (§ 66).
 
-  ## Final degree grade
+  ::::
+
+  ## Final degree grade {#final-degree-grade}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   To receive the diploma you need at least a satisfactory grade for the diploma thesis and at least a satisfactory grade for the diploma exam. The final degree grade is calculated from the arithmetic mean of all grades obtained during the studies (excluding annulled grades) — $A$, the thesis grade — $B$, and the diploma exam grade — $C$:
 
@@ -129,7 +189,13 @@ tresc_en: |
   - **Studies started in 2023/24 or later:** a student whose unrounded final grade is higher than 4.80 receives a diploma with distinction.
   - **Studies started before 2023/24:** the exam committee may raise the final grade by 0.5 if the student received very good grades for both the thesis and the diploma exam.
 
-  ## FAQ
+  ::::
+
+  ## FAQ {#faq}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   **If I fail the exam in February, can I take it again?**
   Yes — the diploma exam may be taken twice. The second date is set by the Dean at the student's request (§ 62(11)), taking into account the deadlines for completing the studies (§ 62(9)–(10)). If you are not sure whether you will make it within your semester, ask the Faculty Office.
@@ -148,12 +214,26 @@ tresc_en: |
 
   **Can I change my supervisor or topic?**
   A change of supervisor is approved by the Dean, and a change of topic beyond a minor correction — by the Diploma Theses Committee (details above, in "Supervisor and reviewer" and "Thesis topic").
+
+  ::::
 opublikowany: true
+format_tresci: jawne
 ---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Formalne zasady dyplomowania na kierunku matematyka: kto może być promotorem i recenzentem, jak zatwierdza się i zmienia temat pracy, jak oceniana jest praca, jak przebiega egzamin dyplomowy i jak oblicza się wynik studiów. Praktyczny przewodnik — kolejne kroki, system APD, przebieg i zakres egzaminów, terminy oraz zadania z poprzednich lat — znajdziesz na stronie [Egzaminy i dyplom](/studia/egzaminy-i-dyplom).
 
-## Podstawa prawna
+::::
+
+## Podstawa prawna {#podstawa-prawna}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Proces dyplomowania podlega przepisom [Regulaminu studiów na Uniwersytecie Wrocławskim](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) (uchwała nr 68/2024 Senatu UWr, obowiązuje od 1 października 2024 r.; rozdział XI „Ukończenie studiów”, § 58–66, oraz przepisy przejściowe § 70–72). Procedura dyplomowania Instytutu Matematycznego doprecyzowuje sposób postępowania i powołuje się m.in. na:
 
@@ -166,13 +246,25 @@ Prace dyplomowe i oświadczenia o prawach autorskich są przechowywane wyłączn
 
 > Ta strona streszcza przepisy — wiążące są akty prawne wymienione powyżej. W razie wątpliwości rozstrzyga Regulamin studiów.
 
-## Etapy dyplomowania
+::::
+
+## Etapy dyplomowania {#etapy-dyplomowania}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Na studiach I stopnia według programu dotychczasowego dyplomowanie obejmuje Zespołowy projekt specjalnościowy, przygotowanie pracy licencjackiej i pisemny egzamin licencjacki; w programie od 2026/27 studia I stopnia kończą się pisemnym egzaminem dyplomowym, bez pracy dyplomowej. Na studiach II stopnia dyplomowanie obejmuje Seminarium magisterskie 1 i 2, przygotowanie pracy magisterskiej oraz egzamin magisterski — pisemny i ustny. Kolejne kroki opisuje [Droga do dyplomu](/studia/egzaminy-i-dyplom#droga-do-dyplomu).
 
 Zespołowe projekty specjalnościowe i seminaria magisterskie rozwijają kompetencje potrzebne do pracy naukowej: samodzielne określanie problemów badawczych, poszukiwanie i studiowanie źródeł oraz formułowanie w mowie i piśmie rozbudowanych wypowiedzi na określony temat. Jednym z elementów tych zajęć jest zapoznanie się z wytycznymi dla prac dyplomowych przyjętymi na Wydziale.
 
-## Komisja Prac Dyplomowych
+::::
+
+## Komisja Prac Dyplomowych {#komisja-prac-dyplomowych}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Dziekan powołuje w Instytucie Matematycznym Komisję Prac Dyplomowych. W jej skład wchodzą: prodziekan ds. dydaktyki matematyki, zastępca dyrektora Instytutu ds. dydaktycznych, opiekunowie specjalności oraz osoby wskazane przez dyrektora Instytutu. Komisja:
 
@@ -182,7 +274,13 @@ Dziekan powołuje w Instytucie Matematycznym Komisję Prac Dyplomowych. W jej sk
 - ogłasza na stronie Instytutu wykaz zatwierdzonych tematów,
 - nie rzadziej niż co 3 lata weryfikuje jakość prac dyplomowych i adekwatność ich ocen.
 
-## Promotor i recenzent
+::::
+
+## Promotor i recenzent {#promotor-i-recenzent}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Promotor
 
@@ -199,7 +297,13 @@ Sprawowanie opieki nad dyplomantem sekretariat dydaktyczny odnotowuje w USOS, za
 
 Recenzentów wyznacza zespół powołany przez dyrektora Instytutu na wniosek przewodniczącego Komisji Prac Dyplomowych, złożony z pracowników o kompetencjach właściwych dla danej specjalności. Pracę magisterską musi oceniać co najmniej jeden doktor habilitowany lub profesor (§ 61 ust. 4). W terminie wyznaczonym przez dziekana sekretariat dydaktyczny ogłasza listę dyplomantów z tematami prac, promotorami i recenzentami.
 
-## Temat pracy
+::::
+
+## Temat pracy {#temat-pracy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Oferta tematów.** Komisja Prac Dyplomowych zbiera, weryfikuje i ogłasza tematy zgłoszone przez pracowników ([aktualna lista tematów](/pliki/studia/tem7.pdf)). Zgodnie z Regulaminem tematy prac magisterskich udostępnia się studentom nie później niż dwa semestry, a prac licencjackich — jeden semestr przed ukończeniem studiów (§ 58 ust. 1).
 - **Ustalenie tematu.** Student wybiera temat z listy i kontaktuje się z pracownikiem, który go zgłosił, w celu potwierdzenia lub doprecyzowania tematu, albo ustala temat spoza listy z pracownikiem, pod którego kierunkiem chce pisać pracę.
@@ -208,13 +312,25 @@ Recenzentów wyznacza zespół powołany przez dyrektora Instytutu na wniosek pr
 - **Praca zespołowa.** Pracę może przygotować zespół studentów, jeśli da się wyodrębnić części przygotowane samodzielnie przez poszczególne osoby i ocenić nakład pracy każdej z nich (§ 60 ust. 2). Temat pracy zespołowej wymaga odrębnego zatwierdzenia przez Komisję Prac Dyplomowych, a rozmiar opracowania powinien być adekwatny do liczby współautorów.
 - **Język i miejsce wykonania pracy.** W uzasadnionych przypadkach, za zgodą dziekana, pracę można przedstawić w innym języku niż język studiów, a także wykonać na innym wydziale lub poza Uniwersytetem (§ 60 ust. 3–4).
 
-## Przygotowanie i złożenie pracy
+::::
+
+## Przygotowanie i złożenie pracy {#przygotowanie-i-złożenie-pracy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Pracę student przygotowuje pod kierunkiem promotora, indywidualnie lub zespołowo, zgodnie z [wytycznymi dla prac dyplomowych](/pliki/studia/46-2017.pdf). Postępy weryfikuje promotor podczas indywidualnych lub zespołowych konsultacji.
 
 Pracę składa się w postaci elektronicznej w Archiwum Prac Dyplomowych (APD) w terminie ustalonym przez dziekana (§ 61 ust. 1) — po akceptacji pracy przez promotora i otwarciu systemu APD na wniosek studenta ([jak to zrobić](/studia/egzaminy-i-dyplom#praca-w-systemie-apd)). Promotor zatwierdza pracę w APD i kieruje ją do sprawdzenia programem antyplagiatowym, któremu przed egzaminem podlega każda praca (§ 61 ust. 2). W razie podejrzenia plagiatu uruchamiana jest procedura określona w zarządzeniu Rektora.
 
-## Ocena pracy
+::::
+
+## Ocena pracy {#ocena-pracy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - Pracę ocenia promotor i recenzent (§ 61 ust. 3); recenzje i oceny zamieszczają w systemie APD.
 - Podstawą oceny są kryteria z wytycznych (pkt 3.1–3.6): jasno określony cel, jego realizacja, wiedza i umiejętności odpowiednie dla poziomu studiów, wyraźny wkład własny autora, właściwe wykorzystanie literatury i poprawna redakcja tekstu matematycznego. Praca jest oceniana pozytywnie, jeśli spełnia wszystkie te kryteria; ocenę bardzo dobrą otrzymuje praca spełniająca je w stopniu wysokim lub zawierająca oryginalne wyniki warte publikacji.
@@ -224,7 +340,13 @@ Pracę składa się w postaci elektronicznej w Archiwum Prac Dyplomowych (APD) w
 
 Wytyczne Rady Wydziału z 2017 r. (pkt 4.5), przyjęte na podstawie wcześniejszego regulaminu studiów, przewidywały inne zasady rozstrzygania rozbieżności ocen: przy różnicy 0,5 stopnia — wyższa z ocen, przy różnicy 1 stopnia — średnia, przy większej różnicy lub ocenie niedostatecznej — ocena ustalona przez dziekana. Zasady opisane wyżej pochodzą z Regulaminu studiów obowiązującego od 1 października 2024 r.
 
-## Egzamin dyplomowy
+::::
+
+## Egzamin dyplomowy {#egzamin-dyplomowy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Komisje
 
@@ -251,7 +373,13 @@ Do egzaminu dyplomowego można przystąpić po zaliczeniu wszystkich przedmiotó
 
 Student, który nie złożył pracy dyplomowej w terminie albo nie przystąpił do egzaminu dyplomowego lub go nie zdał w terminach z § 62 ust. 9–11, zostaje skreślony z listy studentów. Może jednokrotnie, w ciągu 2 lat od skreślenia, ubiegać się o wznowienie studiów bez obowiązku uzupełniania przedmiotów; wniosek składa się co najmniej 7 dni przed rozpoczęciem okresu zaliczeniowego (§ 66).
 
-## Wynik studiów
+::::
+
+## Wynik studiów {#wynik-studiów}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Warunkiem uzyskania dyplomu jest co najmniej dostateczna ocena z pracy dyplomowej i co najmniej dostateczna ocena z egzaminu dyplomowego. Wynik studiów oblicza się na podstawie średniej arytmetycznej ocen z całych studiów (z wyjątkiem ocen unieważnionych) — $A$, oceny pracy dyplomowej — $B$, i oceny egzaminu dyplomowego — $C$:
 
@@ -274,7 +402,13 @@ Warunkiem uzyskania dyplomu jest co najmniej dostateczna ocena z pracy dyplomowe
 - **Studia rozpoczęte w 2023/24 lub później:** student, którego niezaokrąglony wynik studiów jest wyższy niż 4,80, otrzymuje dyplom z wyróżnieniem.
 - **Studia rozpoczęte przed 2023/24:** komisja egzaminacyjna może podwyższyć wynik studiów o 0,5, jeżeli student otrzymał oceny bardzo dobre z pracy dyplomowej i z egzaminu dyplomowego.
 
-## Pytania i odpowiedzi
+::::
+
+## Pytania i odpowiedzi {#pytania-i-odpowiedzi}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 **Czy po niezdanym egzaminie w lutym mogę przystąpić do niego ponownie?**
 Tak — egzamin dyplomowy można zdawać dwukrotnie. Drugi termin wyznacza dziekan na wniosek studenta (§ 62 ust. 11), z uwzględnieniem terminów ukończenia studiów (§ 62 ust. 9–10). Jeśli nie masz pewności, czy zdążysz w swoim semestrze, zapytaj w dziekanacie.
@@ -293,3 +427,5 @@ Tak, w uzasadnionych przypadkach za zgodą dziekana (§ 60 ust. 4). Praca w jęz
 
 **Czy mogę zmienić promotora albo temat?**
 Zmianę promotora zatwierdza dziekan, a zmianę tematu wykraczającą poza drobną korektę — Komisja Prac Dyplomowych (szczegóły wyżej, w sekcjach „Promotor i recenzent” oraz „Temat pracy”).
+
+::::

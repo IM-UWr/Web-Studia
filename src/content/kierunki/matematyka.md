@@ -1,52 +1,114 @@
 ---
 nazwa: Matematyka
 nazwa_en: Mathematics
-tresc_en: |+
-  ## About
+tresc_en: |
+  <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
+
+  ## About {#o-kierunku}
+
+  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+  ::::proza
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
 
   Studies are full-time and taught in Polish. After the bachelor's degree you can continue with the two-year master's programme.
 
-  ## Why join
+  ::::
+
+  ## Why join {#dlaczego}
+
+  <!-- KAFELKI: Każdy punkt: **Tytuł** — opis. Dalsze linie: Klucz: wartość lub sam link jako przycisk. -->
+
+  :::kafelki
 
   - **A+ category** — Mathematics at the University of Wrocław holds the highest research rating in Poland — you learn from active researchers.
   - **The Wrocław school of mathematics** — The tradition of Hugo Steinhaus and Edward Marczewski, who built Wrocław mathematics after the war.
   - **Support from day one** — A preparatory course before the first year, a tutoring room run by senior students and a year coordinator.
   - **Student clubs and exchanges** — Two student research clubs, summer schools, and Erasmus+, MOST and ISEP exchanges.
 
-  ## How the studies work
+  :::
+
+  ## How the studies work {#przebieg}
 
   ### Bachelor's studies
 
-  1. **Semesters 1–2: Foundations** — Core courses, including mathematical analysis, linear algebra and an introduction to mathematics. The year coordinator and the tutoring room help you settle in.
+  <!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
 
-    Deadline: Teaching specialisation: declare by 31 December (1st semester)  
+  :::etapy
+
+  1. **Semesters 1–2: Foundations** — Core courses, including mathematical analysis, linear algebra and an introduction to mathematics. The year coordinator and the tutoring room help you settle in.  
+     Deadline: Teaching specialisation: declare by 31 December (1st semester)  
      Form: Form C1
-  2. **Semesters 3–4: Broadening and choosing a specialisation** — Further core courses and the first electives. At the end of the 4th semester you choose a specialisation.
-
-    Deadline: Declare your specialisation by 30 June (4th semester)  
+  2. **Semesters 3–4: Broadening and choosing a specialisation** — Further core courses and the first electives. At the end of the 4th semester you choose a specialisation.  
+     Deadline: Declare your specialisation by 30 June (4th semester)  
      [Form C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
   3. **Semesters 5–6: Specialisation and bachelor's diploma** — Specialisation courses, a team specialisation project and a bachelor's thesis. Studies end with a written bachelor's exam (February, June or September).
 
+  :::
+
   ### Master's studies
 
-  1. **Semester 1: Choosing a master's specialisation** — In the master's programme you follow your chosen specialisation from the start.
+  <!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
 
-    Deadline: Declare your specialisation by 15 October  
+  :::etapy
+
+  1. **Semester 1: Choosing a master's specialisation** — In the master's programme you follow your chosen specialisation from the start.  
+     Deadline: Declare your specialisation by 15 October  
      [Form C3](https://forms.cloud.microsoft/e/LKA4mEgVtN)
-  2. **Semesters 2–3: Seminar and choosing a supervisor** — The master's seminar develops speaking and writing about mathematics. At the end of the 2nd or beginning of the 3rd semester you choose a supervisor and a thesis topic.
-
-    Deadline: Report your supervisor by 31 October (summer admission) or 31 March (winter admission)  
+  2. **Semesters 2–3: Seminar and choosing a supervisor** — The master's seminar develops speaking and writing about mathematics. At the end of the 2nd or beginning of the 3rd semester you choose a supervisor and a thesis topic.  
+     Deadline: Report your supervisor by 31 October (summer admission) or 31 March (winter admission)  
      [Form E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)
   3. **Semester 4: Master's thesis and exam** — Master's thesis and exam: a written part covering the specialisation and an oral part with a presentation of the thesis.
 
+  :::
+
   Exams and theses in detail: [Exams and diploma](/studia/egzaminy-i-dyplom).
 
-  ## Specialisations
+  ## Specialisations {#specjalnosci}
 
-  ## Deadlines and forms
+  <!-- SPECJALNOSCI: Kafelki należą do kierunku. Edytuj teksty, kolejność i linki tutaj. Żadna specjalność nie dopisuje się automatycznie. -->
 
+  :::specjalnosci
+
+  - **[Data analysis](/studia/matematyka/analiza-danych)** — Mathematical statistics, linear models, machine learning and methods for analysing large data sets, together with programming in R, Python and SQL.  
+    Etykieta: AD  
+    For whom: For those who want to combine mathematics with practical data analysis.  
+    Careers: For example data analyst (after the first cycle) or Data Scientist (after the second cycle), including in industry and start-ups that rely on data science tools.  
+    Coordinator: Prof. Małgorzata Bogdan, Dr Grzegorz Wyłupek  
+    Department: [Department of Statistics](/instytut/zaklady/statystyka)
+  - **[Applied mathematics](/studia/matematyka/matematyka-stosowana)** — Modelling deterministic and random phenomena: differential equations, stochastic processes, numerical methods and simulations, combined with data analysis and the natural sciences.  
+    Etykieta: MS  
+    For whom: For those who enjoy differential equations and probability, want to combine mathematics with programming and computation, and are interested in applications in the natural sciences.  
+    Careers: Work in sectors requiring high competence, critical thinking and non-standard problem solving — e.g. industry and innovative start-ups.  
+    Coordinator: Prof. Grzegorz Karch  
+    Department: [Department of Differential Equations](/instytut/zaklady/rownania-rozniczkowe)
+  - **[Actuarial and financial mathematics](/studia/matematyka/matematyka-aktuarialno-finansowa)** — Probability and stochastic processes applied to insurance and financial markets: pricing financial instruments, life and non-life insurance mathematics, risk assessment.  
+    Etykieta: MAF  
+    For whom: For those interested in risk, insurance and financial markets.  
+    Careers: The financial and insurance sector, e.g. as an actuary or a risk specialist.  
+    Coordinator: Dr Marek Arendarczyk  
+    Department: [Department of Probability Theory](/instytut/zaklady/teoria-prawdopodobienstwa)
+  - **[Theoretical mathematics](/studia/matematyka/matematyka-teoretyczna)** — Organised, in-depth knowledge of key mathematical theories — from algebra and analysis, through topology and logic, to probability — and fluency in rigorous proofs.  
+    Etykieta: TEOR  
+    For whom: For those who want to learn mathematics through theory and proofs and are thinking about advanced study and research.  
+    Careers: Preparation for advanced master's studies and research; a natural talent pool for university teaching and research staff.  
+    Coordinator: Prof. Jan Dymara
+  - **[Mathematics teaching](/studia/matematyka/matematyka-nauczycielska)** — Mathematics combined with psychological, pedagogical and didactic training and school placements. After the master's degree you are fully qualified to teach mathematics in schools.  
+    For whom: For future mathematics teachers.  
+    Careers: Teaching mathematics in all types of schools (full qualifications after the master's degree).  
+    Coordinator: Dr Elżbieta Kalinowska, Prof. Jacek Świątkowski  
+    Department: [Mathematics Education and Outreach Unit](/instytut/zaklady/dydaktyka)
+  - **Mathematics in economics** — Being phased out — available only to students following the previous curriculum.  
+    Etykieta: phased out
+
+  :::
+
+  ## Deadlines and forms {#terminy}
+
+  <!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+  :::tabela
 
   | What | Who | Deadline | Form |
   | --------------------------------------------------------------- | -------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,22 +122,37 @@ tresc_en: |+
   | Enrolment above the group limit | all students | from the 2nd registration round | [B2](https://forms.cloud.microsoft/e/YD9MMgg0PD) |
   | Switching from the extended to the standard version of a course | all students | within the period announced by the lecturer | [B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) |
 
+  :::
 
   All forms and registration rules: [Classes and office hours](/studia/zajecia).
 
-  ## Curriculum
+  ## Curriculum {#program}
+
+  <!-- ZAKLADKI: Każdy nagłówek ### rozpoczyna zakładkę. Zmień nazwy lub kolejność według potrzeb. -->
+
+  ::::zakladki
 
   ### New curriculum (from 2026/27)
 
   For students who started in 2026/27 or later.
 
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
+
   - [Bachelor's and master's curriculum (Senate resolution, 2026, Polish)](https://bip.uni.wroc.pl/download/attachment/52226/uchwala-nr-48_2026-senatu-uwr-z-2026-05-27-w-sprawie-programu-studiow-dla-kierunku-matematyka-stacjonarne-i-i-ii-stopnia.pdf?v=1779865106)
   - [Guide to the bachelor's curriculum (Polish)](/pliki/studia/przewodnik-mt-lic.pdf)
   - [Guide to the master's curriculum (Polish)](/pliki/studia/przewodnik-mt-mgr.pdf)
 
+  :::
+
   ### Previous curriculum (2022–2025/26)
 
   For students who started between 2022/23 and 2025/26.
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
 
   - [Curriculum (Senate resolution, 2022, Polish)](https://bip.uni.wroc.pl/download/attachment/33011/uchwala-nr-40_2022-senatu-uwr-z-dnia-2022-04-20-w-sprawie-programu-studiow-dla-kierunku-matematyka-i-i-ii-stopnia.pdf)
   - [Notes on the bachelor's curriculum](/pliki/studia/stary-program-mt-lic.pdf)
@@ -85,15 +162,33 @@ tresc_en: |+
   - [Notes on the master's curriculum](/pliki/studia/stary-program-mt-mgr.pdf)
   - [Schedule for phasing out courses](/pliki/studia/zmiany2026.pdf) — Some existing courses are being phased out because of the curriculum change.
 
+  :::
+
   ### Archived curricula (before 2022)
 
   For students who started before 2022.
 
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
+
   - [Archived curricula (Polish)](/studia/archiwalne-programy)
 
-  ## Teaching placements
+  :::
+
+  ::::
+
+  ## Teaching placements {#praktyki}
+
+  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+  ::::proza
 
   Teaching placements are compulsory for students of the *mathematics teaching* specialisation. Their programme and organisation are set out in the regulations; after the placement the school issues an assessment and a completion form.
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
 
   - [Placement programme and regulations (Polish)](/pliki/studia/regulamin-praktyk-nauczycielskich-2026.pdf)
   - [Trainee assessment sheet (PDF)](/pliki/studia/arkusz_oceny_kompetencji_2015.pdf)
@@ -101,13 +196,27 @@ tresc_en: |+
   - [Placement completion form (PDF)](/pliki/studia/szkolna_karta_zaliczenia_praktyki_2015.pdf)
   - [Placement completion form (DOCX)](/pliki/studia/szkolna_karta_zaliczenia_praktyki_2015.docx)
 
-  ## After graduation
+  :::
+
+  ::::
+
+  ## After graduation {#po-studiach}
+
+  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+  ::::proza
 
   Mathematics teaches precise thinking and problem solving, so graduates find work in many places: data analysis and IT, banking and insurance, research centres, schools and universities.
 
   The best master's graduates can continue at the [doctoral school](/en/studia/szkola-doktorska). Employment and salary data for mathematics graduates of the University of Wrocław are published by the national [Graduate Tracking System (ELA)](https://ela.nauka.gov.pl/).
 
-  ## FAQ
+  ::::
+
+  ## FAQ {#pytania}
+
+  <!-- PYTANIA: Każdy nagłówek ### rozpoczyna pytanie, pod nim odpowiedź. -->
+
+  :::pytania
 
   ### When do I choose my specialisation?
 
@@ -137,7 +246,13 @@ tresc_en: |+
 
   Three times a year: in February, June and September. Rules, scope and dates: [Exams and diploma](/en/studia/egzaminy-i-dyplom).
 
-  ## Contact
+  :::
+
+  ## Contact {#kontakt}
+
+  <!-- KONTAKTY: Każdy punkt: *rola*, następnie **osoba**, potem e-mail:, tel.:, pokój:. -->
+
+  :::kontakty
 
   - *Teaching office*  
   **Justyna Jędrzejewska-Idczak**  
@@ -156,7 +271,13 @@ tresc_en: |+
   e-mail: [dziekanat.wmi@uwr.edu.pl](mailto:dziekanat.wmi@uwr.edu.pl)  
   phone: 71 375 7890
 
-  ## Regulations
+  :::
+
+  ## Regulations {#akty}
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
 
   - [Diploma procedure](/studia/procedura-dyplomowania)
   - [Study regulations (Polish)](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
@@ -168,10 +289,43 @@ tresc_en: |+
   - [Physical education](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)
   - [Teacher training](https://bip.uni.wroc.pl/download/attachment/33781/tekst-ujednolicony-13-2021-ksztalcenie-nauczycieli.pdf?v=1653983960)
   - [Organisation of teaching placements](https://bip.uni.wroc.pl/download/attachment/30835/nr-122-2021-rektora-uwr-z-dnia-4082021-r-w-sprawie-organizacjii-przebiegu-nauczycielskich-praktyk-zawodowych-przewidzianych-w-programach-studiow-w-uwr.pdf?v=1628079503)
+
+  :::
+format_tresci: jawne
+baner:
+  podtytul: Studia I i II stopnia
+  opis: Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie Matematycznym Uniwersytetu Wrocławskiego.
+  haslo: Od teorii do zastosowań
+  liczby:
+    - wartosc: 3 lata
+      etykieta: studia I stopnia (licencjackie)
+      wartosc_en: 3 years
+      etykieta_en: bachelor's studies
+    - wartosc: 2 lata
+      etykieta: studia II stopnia (magisterskie)
+      wartosc_en: 2 years
+      etykieta_en: master's studies
+    - wartosc: "5"
+      etykieta: specjalności do wyboru
+      etykieta_krotka: specjalności
+      etykieta_en: specialisations
+      etykieta_krotka_en: specialisations
+    - wartosc: A+
+      etykieta: kategoria naukowa dyscypliny
+      etykieta_en: research category of the discipline
+  podtytul_en: Bachelor's and master's studies
+  opis_en: A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.
+  haslo_en: From theory to applications
 ---
+<!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
+
 <!-- SEKCJE: Nagłówki ## tworzą sekcje i spis strony. Zachowaj ich nazwy, aby utrzymać rozpoznawane sekcje i kotwice. Akapity oddzielaj pustą linią. Komentarze HTML są instrukcjami dla redaktorów, niewidocznymi na stronie. -->
 
-## O kierunku
+## O kierunku {#o-kierunku}
+
+<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+::::proza
 
 Matematyka na Uniwersytecie Wrocławskim łączy solidne podstawy matematyki teoretycznej z zastosowaniami — od analizy danych i modelowania, przez ubezpieczenia, po nauczanie. Zajęcia prowadzą pracownicy naukowi Instytutu Matematycznego, jednego z najsilniejszych ośrodków matematycznych w Polsce.
 
@@ -179,18 +333,30 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
 <!-- KAFELKI: Każdy punkt listy zaczyna się od **Tytułu**, po którym jest — i opis. Jeden punkt to jeden kafelek. -->
 
-## Dlaczego warto
+::::
+
+## Dlaczego warto {#dlaczego}
+
+<!-- KAFELKI: Każdy punkt: **Tytuł** — opis. Dalsze linie: Klucz: wartość lub sam link jako przycisk. -->
+
+:::kafelki
 
 - **Kategoria A+** — Matematyka na Uniwersytecie Wrocławskim ma najwyższą ocenę naukową w kraju — uczysz się u aktywnych badaczy.
 - **Wrocławska szkoła matematyczna** — Tradycja Hugona Steinhausa i Edwarda Marczewskiego, którzy po wojnie tworzyli wrocławską matematykę.
 - **Pomoc na starcie** — Kurs przygotowawczy przed pierwszym rokiem, tutornia ze starszymi studentami i opiekun roku.
 - **Koła naukowe i wyjazdy** — Dwa koła naukowe, szkoły letnie, a także wymiany Erasmus+, MOST i ISEP.
 
-## Jak wyglądają studia
+:::
+
+## Jak wyglądają studia {#przebieg}
 
 <!-- OŚ SEMESTRÓW: Numer i **Etykieta: Tytuł** tworzą krok osi. Przed dwukropkiem jest mała etykieta, po nim tytuł. Po — jest opis. Termin: i Formularz: tworzą pary etykieta–wartość. Sam link w osobnej linii tworzy przycisk. Kontynuacje wcinaj 3 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku. Nie pogrubiaj Termin:. -->
 
 ### Studia I stopnia (licencjackie)
+
+<!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
+
+:::etapy
 
 1. **Semestry 1–2: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
    Termin: Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)  
@@ -200,9 +366,15 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
    [Formularz C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
 3. **Semestry 5–6: Specjalność i dyplom licencjacki** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
+:::
+
 <!-- OŚ SEMESTRÓW: Jak wyżej: numer, **Etykieta: Tytuł**, separator — i opis. Linie Termin: i formularza wcinaj 3 spacjami. Na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku. Termin: pozostaw bez pogrubienia. -->
 
 ### Studia II stopnia (magisterskie)
+
+<!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
+
+:::etapy
 
 1. **Semestr 1: Wybór specjalności magisterskiej** — Na studiach magisterskich od początku realizujesz wybraną specjalność.  
    Termin: Deklaracja specjalności do 15 października  
@@ -212,15 +384,58 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
    [Formularz E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)
 3. **Semestr 4: Praca i egzamin magisterski** — Praca magisterska i egzamin: część pisemna z zakresu specjalności oraz ustna z prezentacją pracy.
 
+:::
+
 Szczegóły egzaminów i prac dyplomowych: [Egzaminy i dyplom](/studia/egzaminy-i-dyplom).
 
 <!-- SPECJALNOŚCI: Pod tym nagłówkiem strona automatycznie wstawia kafelki specjalności z danych. Brak ręcznej listy jest zamierzony. Zachowaj nagłówek. -->
 
-## Specjalności
+## Specjalności {#specjalnosci}
 
 <!-- TABELA: Cztery kolumny rozdzielone |. Krótki separator |-|-|-|-| oddziela nagłówek od danych. [B1][B1] odsyła do adresu zebranego pod tabelą. Spacje wyrównują tylko plik źródłowy. -->
 
-## Terminy i formularze
+<!-- SPECJALNOSCI: Kafelki należą do kierunku. Edytuj teksty, kolejność i linki tutaj. Żadna specjalność nie dopisuje się automatycznie. -->
+
+:::specjalnosci
+
+- **[Analiza danych](/studia/matematyka/analiza-danych)** — Statystyka matematyczna, modele liniowe, uczenie maszynowe i metody analizy dużych zbiorów danych, a do tego programowanie w R, Pythonie i SQL.  
+  Etykieta: AD  
+  Dla kogo: Dla osób, które chcą łączyć matematykę z praktyczną analizą danych.  
+  Po studiach: Np. analityk danych (po I stopniu) lub Data Scientist (po II stopniu), także w przemyśle i startupach korzystających z narzędzi data science.  
+  Opiekun: prof. dr hab. Małgorzata Bogdan, dr Grzegorz Wyłupek  
+  Zakład: [Zakład Statystyki](/instytut/zaklady/statystyka)
+- **[Matematyka stosowana](/studia/matematyka/matematyka-stosowana)** — Modelowanie zjawisk deterministycznych i losowych: równania różniczkowe, procesy stochastyczne, metody numeryczne i symulacje, z elementami analizy danych i nauk przyrodniczych.  
+  Etykieta: MS  
+  Dla kogo: Dla osób, które lubią równania różniczkowe i rachunek prawdopodobieństwa, chcą łączyć matematykę z programowaniem i obliczeniami oraz interesują się zastosowaniami w naukach przyrodniczych.  
+  Po studiach: Praca w sektorach wymagających wysokich kompetencji, krytycznego myślenia i rozwiązywania nietypowych problemów — m.in. w przemyśle i innowacyjnych startupach.  
+  Opiekun: prof. dr hab. Grzegorz Karch  
+  Zakład: [Zakład Równań Różniczkowych](/instytut/zaklady/rownania-rozniczkowe)
+- **[Matematyka aktuarialno-finansowa](/studia/matematyka/matematyka-aktuarialno-finansowa)** — Rachunek prawdopodobieństwa i procesy stochastyczne w zastosowaniu do ubezpieczeń i rynków finansowych: wycena instrumentów finansowych, matematyka ubezpieczeń życiowych i majątkowych, ocena ryzyka.  
+  Etykieta: MAF  
+  Dla kogo: Dla osób zainteresowanych ryzykiem, ubezpieczeniami i rynkami finansowymi.  
+  Po studiach: Sektor finansowy i ubezpieczeniowy, np. praca aktuariusza lub specjalisty ds. ryzyka.  
+  Opiekun: dr Marek Arendarczyk  
+  Zakład: [Zakład Teorii Prawdopodobieństwa](/instytut/zaklady/teoria-prawdopodobienstwa)
+- **[Matematyka teoretyczna](/studia/matematyka/matematyka-teoretyczna)** — Uporządkowana i pogłębiona wiedza z kluczowych teorii matematycznych — od algebry i analizy, przez topologię i logikę, po rachunek prawdopodobieństwa — oraz biegłość w rygorystycznym dowodzeniu twierdzeń.  
+  Etykieta: TEOR  
+  Dla kogo: Dla osób, które chcą poznać matematykę od strony teorii i dowodów oraz myślą o zaawansowanych studiach i pracy badawczej.  
+  Po studiach: Przygotowanie do zaawansowanych studiów magisterskich i pracy badawczej; naturalne zaplecze kadr naukowych i dydaktycznych uczelni.  
+  Opiekun: dr hab. Jan Dymara, prof. UWr
+- **[Matematyka nauczycielska](/studia/matematyka/matematyka-nauczycielska)** — Matematyka połączona z przygotowaniem psychologicznym, pedagogicznym i dydaktycznym oraz praktykami w szkołach. Po studiach II stopnia masz pełne kwalifikacje do nauczania matematyki w szkołach.  
+  Dla kogo: Dla przyszłych nauczycielek i nauczycieli matematyki.  
+  Po studiach: Praca nauczyciela matematyki w szkołach wszystkich typów (pełne kwalifikacje po studiach II stopnia).  
+  Opiekun: dr Elżbieta Kalinowska, prof. dr hab. Jacek Świątkowski  
+  Zakład: [Pracownia Dydaktyki i Popularyzacji Matematyki](/instytut/zaklady/dydaktyka)
+- **Matematyka w ekonomii** — Specjalność wygaszana — dostępna wyłącznie dla studentów studiujących według starego programu.  
+  Etykieta: wygaszana
+
+:::
+
+## Terminy i formularze {#terminy}
+
+<!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+:::tabela
 
 | Sprawa                                                  | Kogo dotyczy                         | Termin                                        | Formularz       |
 |-|-|-|-|
@@ -234,33 +449,55 @@ Szczegóły egzaminów i prac dyplomowych: [Egzaminy i dyplom](/studia/egzaminy-
 | Wpis ponad limit miejsc w grupie                        | wszyscy studenci                     | od II tury zapisów                            | [B2][B2]        |
 | Zmiana wersji rozszerzonej przedmiotu na standardową    | wszyscy studenci                     | w terminie ogłoszonym przez wykładowcę        | [B3][B3]        |
 
+:::
+
 <!-- ADRESY FORMULARZY: Zmieniaj adresy poniżej. Oznaczenia odpowiadają odwołaniom w tabeli. C1 nie ma linku w oryginale. -->
 
 [B1]: https://forms.cloud.microsoft/e/RTghLnJNC5
+
 [C3]: https://forms.cloud.microsoft/e/LKA4mEgVtN
+
 [E]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u
+
 [A1A2]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u
+
 [C2]: https://forms.cloud.microsoft/e/SWEQQ1YF5L
+
 [B2]: https://forms.cloud.microsoft/e/YD9MMgg0PD
+
 [B3]: https://forms.cloud.microsoft/e/h0HMFkuYvb
 
 Wszystkie formularze i zasady rejestracji: [Zajęcia i konsultacje](/studia/zajecia).
 
 <!-- ZAKŁADKI: Nagłówki ### w tej sekcji tworzą zakładki. Tekst i listy pod nagłówkiem należą do danej zakładki. Listy odnośników zawierające pliki są wyświetlane jako listy dokumentów z rozpoznanym typem pliku. -->
 
-## Program studiów
+## Program studiów {#program}
+
+<!-- ZAKLADKI: Każdy nagłówek ### rozpoczyna zakładkę. Zmień nazwy lub kolejność według potrzeb. -->
+
+::::zakladki
 
 ### Nowy program (od 2026/27)
 
 Dla osób, które rozpoczęły studia w roku 2026/27 lub później.
 
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
+
 - [Program studiów I i II stopnia (uchwała Senatu UWr, 2026)](https://bip.uni.wroc.pl/download/attachment/52226/uchwala-nr-48_2026-senatu-uwr-z-2026-05-27-w-sprawie-programu-studiow-dla-kierunku-matematyka-stacjonarne-i-i-ii-stopnia.pdf?v=1779865106)
 - [Przewodnik po programie studiów I stopnia](/pliki/studia/przewodnik-mt-lic.pdf)
 - [Przewodnik po programie studiów II stopnia](/pliki/studia/przewodnik-mt-mgr.pdf)
 
+:::
+
 ### Stary program (2022–2025/26)
 
 Dla osób, które rozpoczęły studia w latach 2022/23–2025/26.
+
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
 
 - [Program studiów I i II stopnia (uchwała Senatu UWr, 2022)](https://bip.uni.wroc.pl/download/attachment/33011/uchwala-nr-40_2022-senatu-uwr-z-dnia-2022-04-20-w-sprawie-programu-studiow-dla-kierunku-matematyka-i-i-ii-stopnia.pdf)
 - [Uwagi do programu studiów licencjackich](/pliki/studia/stary-program-mt-lic.pdf)
@@ -270,17 +507,35 @@ Dla osób, które rozpoczęły studia w latach 2022/23–2025/26.
 - [Uwagi do programu studiów magisterskich](/pliki/studia/stary-program-mt-mgr.pdf)
 - [Harmonogram wygaszania przedmiotów](/pliki/studia/zmiany2026.pdf) — Niektóre dotychczasowe przedmioty są wygaszane w związku ze zmianą programu.
 
+:::
+
 ### Programy archiwalne (przed 2022)
 
 Dla osób, które rozpoczęły studia przed rokiem 2022.
 
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
+
 - [Archiwalne programy studiów](/studia/archiwalne-programy)
+
+:::
 
 <!-- DOKUMENTY: Każdy punkt zaczyna się linkiem. Strona sama rozpoznaje typ pliku i dodaje ikonę. Jeden dokument na punkt. -->
 
-## Praktyki pedagogiczne
+::::
+
+## Praktyki pedagogiczne {#praktyki}
+
+<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+::::proza
 
 Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczycielska*. Ich program i zasady organizacji opisuje regulamin; po praktyce szkoła wystawia ocenę kompetencji i kartę zaliczenia.
+
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
 
 - [Program i regulamin praktyk pedagogicznych](/pliki/studia/regulamin-praktyk-nauczycielskich-2026.pdf)
 - [Arkusz oceny kompetencji dydaktycznych praktykanta (PDF)](/pliki/studia/arkusz_oceny_kompetencji_2015.pdf)
@@ -288,7 +543,15 @@ Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczyci
 - [Karta zaliczenia praktyki (PDF)](/pliki/studia/szkolna_karta_zaliczenia_praktyki_2015.pdf)
 - [Karta zaliczenia praktyki (DOCX)](/pliki/studia/szkolna_karta_zaliczenia_praktyki_2015.docx)
 
-## Po studiach
+:::
+
+::::
+
+## Po studiach {#po-studiach}
+
+<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+::::proza
 
 Matematyka uczy precyzyjnego myślenia i rozwiązywania problemów, dlatego absolwenci znajdują pracę w wielu miejscach: w analizie danych i IT, w bankach i ubezpieczeniach, w ośrodkach badawczych, w szkołach i na uczelniach.
 
@@ -296,7 +559,13 @@ Najlepsi absolwenci studiów magisterskich mogą kontynuować naukę w [szkole d
 
 <!-- PYTANIA ROZWIJANE: Nagłówek ### zakończony ? tworzy pytanie. Odpowiedź trwa do następnego nagłówka. Zachowaj znak zapytania. -->
 
-## Pytania i odpowiedzi
+::::
+
+## Pytania i odpowiedzi {#pytania}
+
+<!-- PYTANIA: Każdy nagłówek ### rozpoczyna pytanie, pod nim odpowiedź. -->
+
+:::pytania
 
 ### Kiedy wybieram specjalność?
 
@@ -328,7 +597,13 @@ Trzy razy w roku: w lutym, czerwcu i wrześniu. Zasady, zakres i terminy: [Egzam
 
 <!-- KONTAKTY: Punkt zaczyna się *rolą*, potem jest **osoba lub instytucja**. e-mail:, tel.: i pokój: tworzą pary etykieta–wartość. Kontynuacje wcinaj 2 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kontaktu. -->
 
-## Kontakt
+:::
+
+## Kontakt {#kontakt}
+
+<!-- KONTAKTY: Każdy punkt: *rola*, następnie **osoba**, potem e-mail:, tel.:, pokój:. -->
+
+:::kontakty
 
 - *Sekretariat dydaktyczny*  
   **Justyna Jędrzejewska-Idczak**  
@@ -347,9 +622,15 @@ Trzy razy w roku: w lutym, czerwcu i wrześniu. Zasady, zakres i terminy: [Egzam
   e-mail: [dziekanat.wmi@uwr.edu.pl](mailto:dziekanat.wmi@uwr.edu.pl)  
   tel.: 71 375 7890
 
+:::
+
 <!-- LINKI I PLIKI: Jeden punkt to jeden odnośnik. Jeśli sekcja zawiera plik, strona tworzy listę dokumentów i rozpoznaje ich typy. Tekst w [nawiasach] to nazwa, adres w (nawiasach) to cel linku. -->
 
-## Akty prawne
+## Akty prawne {#akty}
+
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
 
 - [Procedura dyplomowania](/studia/procedura-dyplomowania)
 - [Regulamin studiów](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
@@ -361,3 +642,5 @@ Trzy razy w roku: w lutym, czerwcu i wrześniu. Zasady, zakres i terminy: [Egzam
 - [Wychowanie fizyczne](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)
 - [Kształcenie przygotowujące do zawodu nauczyciela](https://bip.uni.wroc.pl/download/attachment/33781/tekst-ujednolicony-13-2021-ksztalcenie-nauczycieli.pdf?v=1653983960)
 - [Organizacja praktyk nauczycielskich](https://bip.uni.wroc.pl/download/attachment/30835/nr-122-2021-rektora-uwr-z-dnia-4082021-r-w-sprawie-organizacjii-przebiegu-nauczycielskich-praktyk-zawodowych-przewidzianych-w-programach-studiow-w-uwr.pdf?v=1628079503)
+
+:::

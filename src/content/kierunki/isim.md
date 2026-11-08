@@ -1,10 +1,311 @@
 ---
 nazwa: Indywidualne Studia Informatyczno-Matematyczne
 nazwa_en: Individual Studies in Computer Science and Mathematics
-tresc_en: "## About\n\nISIM is a three-year, full-time bachelor's programme taught in Polish and run jointly by the Institute of Computer Science and the Mathematical Institute of the University of Wrocław. It is an interdisciplinary programme: throughout your studies you build knowledge and skills in computer science and mathematics in parallel, and you design your own study path — according to your interests and abilities, with the help of a tutor.\n\n### What makes ISIM different\n\nThe curriculum includes a set of compulsory courses from both disciplines — some of them are only for ISIM students, and in the others special groups are formed for them. You earn the remaining credits on courses chosen from everything the Faculty of Mathematics and Computer Science offers. Every student has a tutor who helps choose courses and supports their academic development. ISIM students can make full use of what both institutes offer students: classes, internships, placements and student research clubs.\n\n### Compulsory courses\n\n**Computer science**\n\n| Course | Semester | ECTS |\n|---|---|---|\n| Logic for Computer Science | 1 | 8 |\n| Programming Methods | 2 | 9 |\n| Numerical Analysis | 3 | 8 |\n| Discrete Mathematics (L) / (M) | 3 | 8 / 9 |\n| Algorithms and Data Structures (L) / (M) | 4 | 12 / 13 |\n| Formal Languages and Computational Complexity | 6 | 9 |\n\n**Mathematics**\n\n| Course | Semester | ECTS |\n|---|---|---|\n| Mathematical Analysis I | 1 | 11 |\n| Mathematical Analysis II | 2 | 10 |\n| Algebra I | 2 | 8 |\n| Algebra II | 3 | 6 |\n| Differential Equations 1 R | 4 | 7 |\n| Probability Theory 1 R* | 4 | 7 |\n\n\\* From October 2026, instead of Probability for Computer Scientists (5th semester), which is no longer offered.\n\nSome computer science courses come in two variants: basic (L) and advanced (M) — at most one of them may be passed in the basic variant. Mathematics courses are taught in advanced versions; at most two of them may be replaced by their basic equivalents.\n\n### Electives\n\n- **6 core electives**, including at least 2 in computer science (Databases, Fundamentals of Computer Graphics, Functional Programming, Computer Networks, Operating Systems, Artificial Intelligence, Selected Elements of Software Design Practice) and at least 2 in mathematics (Algebra 2 R, Functional Analysis 1, Mathematical Analysis III, Analytic Functions R, Measure and Integral, Differentiable Manifolds, Differential Equations 2 R, Probability Theory 2 R, Statistics, Topology).\n- Among the remaining courses: at least **12 ECTS** in computer science and **12 ECTS** in mathematics for courses ending with an exam, a **proseminar or seminar** (at either institute) and a **team project**.\n- In total, compulsory courses and electives must add up to at least **182 ECTS**.\n- Non-specialist courses (18 ECTS): English at B2 level (12 ECTS) — or English at least at A2 and another language at B2 — 5 ECTS in the humanities or social sciences, and 1 ECTS on intellectual property and preparation for the job market. The diploma module (thesis and exam) is worth 10 ECTS.\n\n### Tutor and individual study plan\n\nYou agree your choice of courses with your tutor. Every semester, within three weeks of the start of classes, you submit to the Faculty Office a list of the courses you are taking, approved by your tutor (students in their 1st and 2nd semester are exempt). To pass each semester you need at least 27 ECTS after the 1st semester, 60, 90, 120 and 150 ECTS by the end of semesters 2–5 and 200 ECTS by the end of the 6th semester, as well as the compulsory courses assigned to that semester. To graduate you need 210 ECTS.\n\n### Two institutes — where to find what\n\n| | Mathematical Institute | Institute of Computer Science |\n|---|---|---|\n| Timetable | [winter](/en/studia/plan-zajec#zimowy) and [summer](/en/studia/plan-zajec#letni) semester | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) (also lists ISIM mathematics classes) |\n| Course descriptions | [USOSweb catalogue](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) |\n| Registration for classes | USOSweb — schedule and rules: [Classes and office hours](/en/studia/zajecia) | [Registration system](https://zapisy.ii.uni.wroc.pl/), rules on the [page for new students](https://ii.uni.wroc.pl/dla-studenta/dla-nowych-studentow) |\n| Office hours | [Classes and office hours](/en/studia/zajecia) | [staff profiles](https://zapisy.ii.uni.wroc.pl/users/employees/) |\n| Exams | dates for compulsory courses are set centrally and published in mid-October ([Classes and office hours](/en/studia/zajecia)); other dates are set by the lecturer | dates are given by lecturers in the [Exams section](https://zapisy.ii.uni.wroc.pl/session/) |\n\nThe Institute of Computer Science registration system is also used to vote for the courses to be taught in the next academic year, to choose a thesis and to evaluate classes anonymously.\n\n## Why join\n\n- **Two disciplines at once** — Computer science and mathematics in a single programme, run jointly by the Institute of Computer Science and the Mathematical Institute.\n- **Your own tutor** — Every student has a tutor who helps put together an individual study plan and supports their academic development.\n- **PKA certificate of excellence** — The computer science and ISIM programmes hold certificates of excellence from the Polish Accreditation Committee, and mathematics holds a distinguished rating.\n- **Scholarships from year one** — Already in the first year you can receive, among others, the Rector's scholarship, the Young Researcher scholarship and a Student Scholarship Fund award.\n\n## How the studies work\n\n### Bachelor's studies\n\n1. **Semester 1: Getting started** — The compulsory courses are Logic for Computer Science and Mathematical Analysis I (19 ECTS in total). You need at least 27 ECTS to pass the semester, so you choose additional courses — recommended ones include Linear Algebra 1R, C or Python programming courses and Introduction to Computer Science. In the first year the tutors review your course choices themselves.\n2. **Semesters 2–3: Foundations of both disciplines** — Programming Methods, Mathematical Analysis II and Algebra I (2nd semester), followed by Numerical Analysis, Discrete Mathematics and Algebra II (3rd semester). From the 3rd semester onwards you agree your list of courses with your tutor every semester.  \n   Deadline: Course list approved by your tutor — within 3 weeks of the start of the semester\n3. **Semesters 4–5: Your own path** — Algorithms and Data Structures, Differential Equations 1 R and Probability Theory 1 R (4th semester). Alongside the compulsory courses you take electives from both disciplines, a seminar or proseminar and a team project.\n4. **Semester 6: Thesis and diploma exam** — Formal Languages and Computational Complexity, a thesis supervised by a member of staff of the Mathematical Institute or the Institute of Computer Science, and a two-part diploma exam: mathematics and computer science.  \n   Deadline: Supervisor from the Mathematical Institute — report at the start of the 6th semester  \n   [Form E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)\n\n## Specialisations\n\n## Deadlines and forms\n\n| What | Who | Deadline | Form |\n| --- | --- | --- | --- |\n| List of courses approved by your tutor | from the 3rd semester (first-year students are exempt) | within 3 weeks of the start of the semester |  |\n| Withdrawal from a course at the Mathematical Institute (once during your studies) | all students | by 30 November (winter), by 30 April (summer) | [A1](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u) |\n| Withdrawal from a course at the Institute of Computer Science (once during your studies) | all students | by 30 November (winter), by 30 April (summer) | [e-mail](mailto:filip.chudy@cs.uni.wroc.pl) |\n| Switching from the extended to the standard version of a course at the Mathematical Institute | all students | within the period announced by the lecturer | [B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) |\n| Choice of thesis supervisor and topic (supervisor from the Mathematical Institute) | 6th semester | at the start of the semester | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |\n| Choice of thesis supervisor and topic (supervisor from the Institute of Computer Science) | final-year students |  | [Enrolment System](https://zapisy.ii.uni.wroc.pl/theses/) |\n| Uploading the thesis to the APD system | final-year students | at least 7 days before the defence | [APD](https://apd.uni.wroc.pl/) |\n\nAll forms and registration rules: [Classes and office hours](/studia/zajecia).\n\n## Curriculum\n\n### Curriculum from 2022/23\n\nFor students who started in 2022/23 or later.\n\n- [Curriculum (Senate resolution no. 90/2022, Polish)](https://bip.uni.wroc.pl/download/attachment/33990/uchwala-nr-90_2022-senatu-uwr-z-dnia-2022-06-22-w-sprawie-programu-studiow-dla-kierunku-indywidualne-studia-informatyczno-matematyczne-i-stopnia.pdf?v=1655975613)\n- [Commentary on the curriculum (updated 30.09.2026, Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-komentarz-2026.pdf) — Explanations of compulsory and elective courses, the seminar, the team project, course withdrawals and algebra.\n- [Guide for first-year students (2026, Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-informator2026-1.pdf)\n- [Course syllabi (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/sylabusy_isim.pdf)\n\n### 2019 curriculum\n\nFor students who started before 2022.\n\n- [Curriculum in force from October 2019 (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/program_isim_2019.pdf)\n\n## After graduation\n\nISIM graduates can continue with master's studies in mathematics, computer science and artificial intelligence at the Faculty of Mathematics and Computer Science, University of Wrocław, as well as at other leading universities in Poland and abroad. They find work in IT and FinTech companies, banks, insurance, consulting and leasing companies, and research centres, among others.\n\nIf you plan a master's degree in computer science, pass all compulsory computer science courses at the (M) level. If you are considering a master's in mathematics, take the mathematics courses in their advanced versions. Master's studies at the Mathematical Institute are described on the [Mathematics](/en/studia/matematyka) page.\n\n## FAQ\n\n### How is ISIM different from studying computer science and mathematics separately?\n\nISIM is a single programme with its own curriculum. The compulsory courses cover the foundations of both disciplines, and you choose the remaining courses from the whole offer of the Faculty of Mathematics and Computer Science — in agreement with your tutor. Some classes are only for ISIM students; in others special groups are formed for them.\n\n### Who is my tutor and how do I submit my study plan?\n\nYou will find the tutors from both institutes in the [Contact](#kontakt) section. Every semester, within three weeks of the start of classes, email your tutor the list of courses you are taking — once approved, the tutor forwards it to the Faculty Office (you can also bring a paper plan for signature). It is best to do this at the very beginning of the semester, as later changes can be difficult because of group limits and closed registration. Students in their 1st and 2nd semester do not submit plans: the tutors check them and get in touch if anything is unclear.\n\n### Which compulsory courses can I take in an easier version?\n\nAt most one compulsory computer science course in the basic variant (L) and at most two mathematics courses in the basic version: Mathematical Analysis 2 instead of Mathematical Analysis II, Linear Algebra 2 instead of Algebra I, Algebra 1 instead of Algebra II, and Differential Equations 1 instead of Differential Equations 1 R. If you want to study computer science at master's level, you should pass all computer science courses at the (M) level.\n\n### How can I enrol in Algebra I in the 2nd semester?\n\nIn the 1st semester you need to pass either Logic for Computer Science in the advanced version or Linear Algebra 1R (good preparation for Algebra I). If you do not meet this requirement, you take Linear Algebra 2 and then Algebra 1 in the following semester (standard versions), because Algebra I is a prerequisite for Algebra II.\n\n### What replaces Probability for Computer Scientists?\n\nFrom October 2026 the course Probability for Computer Scientists (5th semester) is no longer offered. As the compulsory course you take Probability Theory 1R (4th semester). It is a good idea to pass Measure and Integral or Analysis and Topology R (both in the 3rd semester) first; you can also catch up on measure theory on your own — after agreeing this with the lecturer of Probability Theory 1R.\n\n### What counts as the seminar and the team project?\n\nBoth requirements can be met at either the Institute of Computer Science or the Mathematical Institute. Proseminars and other courses with “seminar” in their name count as the seminar. The team project must be team-based and take at least 20 hours of work (classes and project work); typical courses are *Programming project: an online judge system*, *Project: [name]* at the Institute of Computer Science and the *Specialisation team project* at the Mathematical Institute.\n\n### Can I study ISIM together with computer science or mathematics?\n\nYes — many students enrol in two, sometimes three programmes at the Faculty. In the first year this is fairly easy, because passing everything in ISIM practically means passing the first year of computer science or mathematics; for the same reason it is easy to transfer from ISIM to one of these programmes after the first year. Later you have to meet the requirements of both curricula (some courses count towards both), and if both curricula require it, write two bachelor's theses. Studying several programmes does not increase the number of course withdrawals (one at the Mathematical Institute and one at the Institute of Computer Science). You can apply for a scholarship in the programme of your choice.\n\n### How do I find a thesis supervisor and topic?\n\nYou can write your thesis under the supervision of a member of staff of either the Mathematical Institute or the Institute of Computer Science; it is prepared and assessed according to the rules of the mathematics or computer science programme respectively. Usually students choose a supervisor themselves and agree a topic. Start with the topic lists ([Mathematical Institute](https://www.math.uni.wroc.pl/tematy-prac), [Institute of Computer Science](https://zapisy.ii.uni.wroc.pl/theses/)) or talk to a member of staff during office hours. At the Institute of Computer Science you can also choose a supervisor and topic through the *Diploma project* course, project-type courses and seminars. Thesis rules: [Exams and diploma](/en/studia/egzaminy-i-dyplom) (Mathematical Institute) and [theses at the Institute of Computer Science](https://ii.uni.wroc.pl/dla-studenta/prace-dyplomowe).\n\n### What does the diploma exam look like?\n\nIt has two parts. The mathematics part is the written bachelor's exam of the mathematics programme ([Exams and diploma](/en/studia/egzaminy-i-dyplom)). The computer science part is held together with the [diploma exam of the computer science programme](https://ii.uni.wroc.pl/dla-studenta/egzaminy); among the optional problems, ISIM students get a problem on formal languages and computational complexity instead of the algebra problem. To pass, you need at least a satisfactory grade in each part.\n\n### What about foreign language courses and physical education?\n\nDuring your studies you need to pass English at B2 level (12 ECTS), or English at least at A2 level and another foreign language at B2 level. Information on language courses is provided by the [School of Foreign Languages](https://spnjo.uwr.edu.pl/). Physical education is compulsory: 60 hours during your studies (two semesters of 2 hours a week), to be completed in semesters 1–6. You register for PE and language courses in the [university registration system](https://zapisy.uni.wroc.pl/).\n\n### How do I get into ISIM?\n\nAdmission is handled through the [IRK](https://irka.uwr.edu.pl/pl/) system. Candidates with a Polish matura or an IB diploma are admitted on the basis of their exam results: mathematics at extended level is required, and computer science, physics and a foreign language, among others, also earn points. Candidates with a foreign school-leaving certificate take a written qualifying test in mathematics. Detailed rules, entitlements of olympiad laureates and finalists, and the schedule are on the [University admissions page](https://rekrutacja.uwr.edu.pl/kierunek/105); see also the [Faculty admissions page](https://studia-wmi.uwr.edu.pl/isim/). In the 2025/26 admissions the intake limit was 30 places.\n\n## Contact\n\n- *Programme coordinator, tutor (Mathematical Institute)*  \n  **Dr hab. Marcin Preisner**  \n  e-mail: [marcin.preisner@uwr.edu.pl](mailto:marcin.preisner@uwr.edu.pl)\n- *Vice-Dean for Computer Science and ISIM Teaching*  \n  **Dr Małgorzata Biernacka**  \n  e-mail: [mabi@cs.uni.wroc.pl](mailto:mabi@cs.uni.wroc.pl)\n- *Faculty Office*  \n  **Joanna Jędrzejkowska**  \n  e-mail: [Joanna.Jedrzejkowska@uwr.edu.pl](mailto:Joanna.Jedrzejkowska@uwr.edu.pl)\n- *Tutor (Mathematical Institute)*  \n  **Dr hab. Jan Dymara**  \n  e-mail: [jan.dymara@uwr.edu.pl](mailto:jan.dymara@uwr.edu.pl)\n- *Tutor (Institute of Computer Science)*  \n  **Dr hab. Jan Otop**  \n  e-mail: [jotop@cs.uni.wroc.pl](mailto:jotop@cs.uni.wroc.pl)\n- *Tutor (Institute of Computer Science), 2nd and 3rd year*  \n  **Dr hab. Dariusz Biernacki**  \n  e-mail: [dabi@cs.uni.wroc.pl](mailto:dabi@cs.uni.wroc.pl)\n- *Deputy Director for Teaching, Institute of Computer Science (course withdrawals)*  \n  **Dr Filip Chudy**  \n  e-mail: [filip.chudy@cs.uni.wroc.pl](mailto:filip.chudy@cs.uni.wroc.pl)\n- *Admissions*  \n  **Wydziałowa Komisja Rekrutacyjna**  \n  e-mail: [rekrutacja.wmi@uwr.edu.pl](mailto:rekrutacja.wmi@uwr.edu.pl)  \n  phone: 71 375 74 94\n\n## Regulations\n\n- [Study regulations (Polish)](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)\n- [Graduation requirements and the ISIM diploma exam (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/egzaminy_isim.pdf)\n- [Thesis guidelines, Mathematical Institute (Polish)](/pliki/studia/46-2017.pdf)\n- [Physical education (Polish)](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)\n"
----
+tresc_en: |
+  <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 
-## O kierunku
+  ## About {#o-kierunku}
+
+  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+  ::::proza
+
+  ISIM is a three-year, full-time bachelor's programme taught in Polish and run jointly by the Institute of Computer Science and the Mathematical Institute of the University of Wrocław. It is an interdisciplinary programme: throughout your studies you build knowledge and skills in computer science and mathematics in parallel, and you design your own study path — according to your interests and abilities, with the help of a tutor.
+
+  ### What makes ISIM different
+
+  The curriculum includes a set of compulsory courses from both disciplines — some of them are only for ISIM students, and in the others special groups are formed for them. You earn the remaining credits on courses chosen from everything the Faculty of Mathematics and Computer Science offers. Every student has a tutor who helps choose courses and supports their academic development. ISIM students can make full use of what both institutes offer students: classes, internships, placements and student research clubs.
+
+  ### Compulsory courses
+
+  **Computer science**
+
+  <!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+  | Course | Semester | ECTS |
+  |---|---|---|
+  | Logic for Computer Science | 1 | 8 |
+  | Programming Methods | 2 | 9 |
+  | Numerical Analysis | 3 | 8 |
+  | Discrete Mathematics (L) / (M) | 3 | 8 / 9 |
+  | Algorithms and Data Structures (L) / (M) | 4 | 12 / 13 |
+  | Formal Languages and Computational Complexity | 6 | 9 |
+
+  **Mathematics**
+
+  <!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+  | Course | Semester | ECTS |
+  |---|---|---|
+  | Mathematical Analysis I | 1 | 11 |
+  | Mathematical Analysis II | 2 | 10 |
+  | Algebra I | 2 | 8 |
+  | Algebra II | 3 | 6 |
+  | Differential Equations 1 R | 4 | 7 |
+  | Probability Theory 1 R* | 4 | 7 |
+
+  \* From October 2026, instead of Probability for Computer Scientists (5th semester), which is no longer offered.
+
+  Some computer science courses come in two variants: basic (L) and advanced (M) — at most one of them may be passed in the basic variant. Mathematics courses are taught in advanced versions; at most two of them may be replaced by their basic equivalents.
+
+  ### Electives
+
+  - **6 core electives**, including at least 2 in computer science (Databases, Fundamentals of Computer Graphics, Functional Programming, Computer Networks, Operating Systems, Artificial Intelligence, Selected Elements of Software Design Practice) and at least 2 in mathematics (Algebra 2 R, Functional Analysis 1, Mathematical Analysis III, Analytic Functions R, Measure and Integral, Differentiable Manifolds, Differential Equations 2 R, Probability Theory 2 R, Statistics, Topology).
+  - Among the remaining courses: at least **12 ECTS** in computer science and **12 ECTS** in mathematics for courses ending with an exam, a **proseminar or seminar** (at either institute) and a **team project**.
+  - In total, compulsory courses and electives must add up to at least **182 ECTS**.
+  - Non-specialist courses (18 ECTS): English at B2 level (12 ECTS) — or English at least at A2 and another language at B2 — 5 ECTS in the humanities or social sciences, and 1 ECTS on intellectual property and preparation for the job market. The diploma module (thesis and exam) is worth 10 ECTS.
+
+  ### Tutor and individual study plan
+
+  You agree your choice of courses with your tutor. Every semester, within three weeks of the start of classes, you submit to the Faculty Office a list of the courses you are taking, approved by your tutor (students in their 1st and 2nd semester are exempt). To pass each semester you need at least 27 ECTS after the 1st semester, 60, 90, 120 and 150 ECTS by the end of semesters 2–5 and 200 ECTS by the end of the 6th semester, as well as the compulsory courses assigned to that semester. To graduate you need 210 ECTS.
+
+  ### Two institutes — where to find what
+
+  <!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+  | | Mathematical Institute | Institute of Computer Science |
+  |---|---|---|
+  | Timetable | [winter](/en/studia/plan-zajec#zimowy) and [summer](/en/studia/plan-zajec#letni) semester | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) (also lists ISIM mathematics classes) |
+  | Course descriptions | [USOSweb catalogue](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) |
+  | Registration for classes | USOSweb — schedule and rules: [Classes and office hours](/en/studia/zajecia) | [Registration system](https://zapisy.ii.uni.wroc.pl/), rules on the [page for new students](https://ii.uni.wroc.pl/dla-studenta/dla-nowych-studentow) |
+  | Office hours | [Classes and office hours](/en/studia/zajecia) | [staff profiles](https://zapisy.ii.uni.wroc.pl/users/employees/) |
+  | Exams | dates for compulsory courses are set centrally and published in mid-October ([Classes and office hours](/en/studia/zajecia)); other dates are set by the lecturer | dates are given by lecturers in the [Exams section](https://zapisy.ii.uni.wroc.pl/session/) |
+
+  The Institute of Computer Science registration system is also used to vote for the courses to be taught in the next academic year, to choose a thesis and to evaluate classes anonymously.
+
+  ::::
+
+  ## Why join {#dlaczego}
+
+  <!-- KAFELKI: Każdy punkt: **Tytuł** — opis. Dalsze linie: Klucz: wartość lub sam link jako przycisk. -->
+
+  :::kafelki
+
+  - **Two disciplines at once** — Computer science and mathematics in a single programme, run jointly by the Institute of Computer Science and the Mathematical Institute.
+  - **Your own tutor** — Every student has a tutor who helps put together an individual study plan and supports their academic development.
+  - **PKA certificate of excellence** — The computer science and ISIM programmes hold certificates of excellence from the Polish Accreditation Committee, and mathematics holds a distinguished rating.
+  - **Scholarships from year one** — Already in the first year you can receive, among others, the Rector's scholarship, the Young Researcher scholarship and a Student Scholarship Fund award.
+
+  :::
+
+  ## How the studies work {#przebieg}
+
+  ### Bachelor's studies
+
+  <!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
+
+  :::etapy
+
+  1. **Semester 1: Getting started** — The compulsory courses are Logic for Computer Science and Mathematical Analysis I (19 ECTS in total). You need at least 27 ECTS to pass the semester, so you choose additional courses — recommended ones include Linear Algebra 1R, C or Python programming courses and Introduction to Computer Science. In the first year the tutors review your course choices themselves.
+  2. **Semesters 2–3: Foundations of both disciplines** — Programming Methods, Mathematical Analysis II and Algebra I (2nd semester), followed by Numerical Analysis, Discrete Mathematics and Algebra II (3rd semester). From the 3rd semester onwards you agree your list of courses with your tutor every semester.  
+     Deadline: Course list approved by your tutor — within 3 weeks of the start of the semester
+  3. **Semesters 4–5: Your own path** — Algorithms and Data Structures, Differential Equations 1 R and Probability Theory 1 R (4th semester). Alongside the compulsory courses you take electives from both disciplines, a seminar or proseminar and a team project.
+  4. **Semester 6: Thesis and diploma exam** — Formal Languages and Computational Complexity, a thesis supervised by a member of staff of the Mathematical Institute or the Institute of Computer Science, and a two-part diploma exam: mathematics and computer science.  
+     Deadline: Supervisor from the Mathematical Institute — report at the start of the 6th semester  
+     [Form E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)
+
+  :::
+
+  ## Deadlines and forms {#terminy}
+
+  <!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+  :::tabela
+
+  | What | Who | Deadline | Form |
+  | --- | --- | --- | --- |
+  | List of courses approved by your tutor | from the 3rd semester (first-year students are exempt) | within 3 weeks of the start of the semester |  |
+  | Withdrawal from a course at the Mathematical Institute (once during your studies) | all students | by 30 November (winter), by 30 April (summer) | [A1](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u) |
+  | Withdrawal from a course at the Institute of Computer Science (once during your studies) | all students | by 30 November (winter), by 30 April (summer) | [e-mail](mailto:filip.chudy@cs.uni.wroc.pl) |
+  | Switching from the extended to the standard version of a course at the Mathematical Institute | all students | within the period announced by the lecturer | [B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) |
+  | Choice of thesis supervisor and topic (supervisor from the Mathematical Institute) | 6th semester | at the start of the semester | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |
+  | Choice of thesis supervisor and topic (supervisor from the Institute of Computer Science) | final-year students |  | [Enrolment System](https://zapisy.ii.uni.wroc.pl/theses/) |
+  | Uploading the thesis to the APD system | final-year students | at least 7 days before the defence | [APD](https://apd.uni.wroc.pl/) |
+
+  :::
+
+  All forms and registration rules: [Classes and office hours](/studia/zajecia).
+
+  ## Curriculum {#program}
+
+  <!-- ZAKLADKI: Każdy nagłówek ### rozpoczyna zakładkę. Zmień nazwy lub kolejność według potrzeb. -->
+
+  ::::zakladki
+
+  ### Curriculum from 2022/23
+
+  For students who started in 2022/23 or later.
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
+
+  - [Curriculum (Senate resolution no. 90/2022, Polish)](https://bip.uni.wroc.pl/download/attachment/33990/uchwala-nr-90_2022-senatu-uwr-z-dnia-2022-06-22-w-sprawie-programu-studiow-dla-kierunku-indywidualne-studia-informatyczno-matematyczne-i-stopnia.pdf?v=1655975613)
+  - [Commentary on the curriculum (updated 30.09.2026, Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-komentarz-2026.pdf) — Explanations of compulsory and elective courses, the seminar, the team project, course withdrawals and algebra.
+  - [Guide for first-year students (2026, Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-informator2026-1.pdf)
+  - [Course syllabi (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/sylabusy_isim.pdf)
+
+  :::
+
+  ### 2019 curriculum
+
+  For students who started before 2022.
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
+
+  - [Curriculum in force from October 2019 (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/program_isim_2019.pdf)
+
+  :::
+
+  ::::
+
+  ## After graduation {#po-studiach}
+
+  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+  ::::proza
+
+  ISIM graduates can continue with master's studies in mathematics, computer science and artificial intelligence at the Faculty of Mathematics and Computer Science, University of Wrocław, as well as at other leading universities in Poland and abroad. They find work in IT and FinTech companies, banks, insurance, consulting and leasing companies, and research centres, among others.
+
+  If you plan a master's degree in computer science, pass all compulsory computer science courses at the (M) level. If you are considering a master's in mathematics, take the mathematics courses in their advanced versions. Master's studies at the Mathematical Institute are described on the [Mathematics](/en/studia/matematyka) page.
+
+  ::::
+
+  ## FAQ {#pytania}
+
+  <!-- PYTANIA: Każdy nagłówek ### rozpoczyna pytanie, pod nim odpowiedź. -->
+
+  :::pytania
+
+  ### How is ISIM different from studying computer science and mathematics separately?
+
+  ISIM is a single programme with its own curriculum. The compulsory courses cover the foundations of both disciplines, and you choose the remaining courses from the whole offer of the Faculty of Mathematics and Computer Science — in agreement with your tutor. Some classes are only for ISIM students; in others special groups are formed for them.
+
+  ### Who is my tutor and how do I submit my study plan?
+
+  You will find the tutors from both institutes in the [Contact](#kontakt) section. Every semester, within three weeks of the start of classes, email your tutor the list of courses you are taking — once approved, the tutor forwards it to the Faculty Office (you can also bring a paper plan for signature). It is best to do this at the very beginning of the semester, as later changes can be difficult because of group limits and closed registration. Students in their 1st and 2nd semester do not submit plans: the tutors check them and get in touch if anything is unclear.
+
+  ### Which compulsory courses can I take in an easier version?
+
+  At most one compulsory computer science course in the basic variant (L) and at most two mathematics courses in the basic version: Mathematical Analysis 2 instead of Mathematical Analysis II, Linear Algebra 2 instead of Algebra I, Algebra 1 instead of Algebra II, and Differential Equations 1 instead of Differential Equations 1 R. If you want to study computer science at master's level, you should pass all computer science courses at the (M) level.
+
+  ### How can I enrol in Algebra I in the 2nd semester?
+
+  In the 1st semester you need to pass either Logic for Computer Science in the advanced version or Linear Algebra 1R (good preparation for Algebra I). If you do not meet this requirement, you take Linear Algebra 2 and then Algebra 1 in the following semester (standard versions), because Algebra I is a prerequisite for Algebra II.
+
+  ### What replaces Probability for Computer Scientists?
+
+  From October 2026 the course Probability for Computer Scientists (5th semester) is no longer offered. As the compulsory course you take Probability Theory 1R (4th semester). It is a good idea to pass Measure and Integral or Analysis and Topology R (both in the 3rd semester) first; you can also catch up on measure theory on your own — after agreeing this with the lecturer of Probability Theory 1R.
+
+  ### What counts as the seminar and the team project?
+
+  Both requirements can be met at either the Institute of Computer Science or the Mathematical Institute. Proseminars and other courses with “seminar” in their name count as the seminar. The team project must be team-based and take at least 20 hours of work (classes and project work); typical courses are *Programming project: an online judge system*, *Project: [name]* at the Institute of Computer Science and the *Specialisation team project* at the Mathematical Institute.
+
+  ### Can I study ISIM together with computer science or mathematics?
+
+  Yes — many students enrol in two, sometimes three programmes at the Faculty. In the first year this is fairly easy, because passing everything in ISIM practically means passing the first year of computer science or mathematics; for the same reason it is easy to transfer from ISIM to one of these programmes after the first year. Later you have to meet the requirements of both curricula (some courses count towards both), and if both curricula require it, write two bachelor's theses. Studying several programmes does not increase the number of course withdrawals (one at the Mathematical Institute and one at the Institute of Computer Science). You can apply for a scholarship in the programme of your choice.
+
+  ### How do I find a thesis supervisor and topic?
+
+  You can write your thesis under the supervision of a member of staff of either the Mathematical Institute or the Institute of Computer Science; it is prepared and assessed according to the rules of the mathematics or computer science programme respectively. Usually students choose a supervisor themselves and agree a topic. Start with the topic lists ([Mathematical Institute](https://www.math.uni.wroc.pl/tematy-prac), [Institute of Computer Science](https://zapisy.ii.uni.wroc.pl/theses/)) or talk to a member of staff during office hours. At the Institute of Computer Science you can also choose a supervisor and topic through the *Diploma project* course, project-type courses and seminars. Thesis rules: [Exams and diploma](/en/studia/egzaminy-i-dyplom) (Mathematical Institute) and [theses at the Institute of Computer Science](https://ii.uni.wroc.pl/dla-studenta/prace-dyplomowe).
+
+  ### What does the diploma exam look like?
+
+  It has two parts. The mathematics part is the written bachelor's exam of the mathematics programme ([Exams and diploma](/en/studia/egzaminy-i-dyplom)). The computer science part is held together with the [diploma exam of the computer science programme](https://ii.uni.wroc.pl/dla-studenta/egzaminy); among the optional problems, ISIM students get a problem on formal languages and computational complexity instead of the algebra problem. To pass, you need at least a satisfactory grade in each part.
+
+  ### What about foreign language courses and physical education?
+
+  During your studies you need to pass English at B2 level (12 ECTS), or English at least at A2 level and another foreign language at B2 level. Information on language courses is provided by the [School of Foreign Languages](https://spnjo.uwr.edu.pl/). Physical education is compulsory: 60 hours during your studies (two semesters of 2 hours a week), to be completed in semesters 1–6. You register for PE and language courses in the [university registration system](https://zapisy.uni.wroc.pl/).
+
+  ### How do I get into ISIM?
+
+  Admission is handled through the [IRK](https://irka.uwr.edu.pl/pl/) system. Candidates with a Polish matura or an IB diploma are admitted on the basis of their exam results: mathematics at extended level is required, and computer science, physics and a foreign language, among others, also earn points. Candidates with a foreign school-leaving certificate take a written qualifying test in mathematics. Detailed rules, entitlements of olympiad laureates and finalists, and the schedule are on the [University admissions page](https://rekrutacja.uwr.edu.pl/kierunek/105); see also the [Faculty admissions page](https://studia-wmi.uwr.edu.pl/isim/). In the 2025/26 admissions the intake limit was 30 places.
+
+  :::
+
+  ## Contact {#kontakt}
+
+  <!-- KONTAKTY: Każdy punkt: *rola*, następnie **osoba**, potem e-mail:, tel.:, pokój:. -->
+
+  :::kontakty
+
+  - *Programme coordinator, tutor (Mathematical Institute)*  
+    **Dr hab. Marcin Preisner**  
+    e-mail: [marcin.preisner@uwr.edu.pl](mailto:marcin.preisner@uwr.edu.pl)
+  - *Vice-Dean for Computer Science and ISIM Teaching*  
+    **Dr Małgorzata Biernacka**  
+    e-mail: [mabi@cs.uni.wroc.pl](mailto:mabi@cs.uni.wroc.pl)
+  - *Faculty Office*  
+    **Joanna Jędrzejkowska**  
+    e-mail: [Joanna.Jedrzejkowska@uwr.edu.pl](mailto:Joanna.Jedrzejkowska@uwr.edu.pl)
+  - *Tutor (Mathematical Institute)*  
+    **Dr hab. Jan Dymara**  
+    e-mail: [jan.dymara@uwr.edu.pl](mailto:jan.dymara@uwr.edu.pl)
+  - *Tutor (Institute of Computer Science)*  
+    **Dr hab. Jan Otop**  
+    e-mail: [jotop@cs.uni.wroc.pl](mailto:jotop@cs.uni.wroc.pl)
+  - *Tutor (Institute of Computer Science), 2nd and 3rd year*  
+    **Dr hab. Dariusz Biernacki**  
+    e-mail: [dabi@cs.uni.wroc.pl](mailto:dabi@cs.uni.wroc.pl)
+  - *Deputy Director for Teaching, Institute of Computer Science (course withdrawals)*  
+    **Dr Filip Chudy**  
+    e-mail: [filip.chudy@cs.uni.wroc.pl](mailto:filip.chudy@cs.uni.wroc.pl)
+  - *Admissions*  
+    **Wydziałowa Komisja Rekrutacyjna**  
+    e-mail: [rekrutacja.wmi@uwr.edu.pl](mailto:rekrutacja.wmi@uwr.edu.pl)  
+    phone: 71 375 74 94
+
+  :::
+
+  ## Regulations {#akty}
+
+  <!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+  :::pliki
+
+  - [Study regulations (Polish)](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
+  - [Graduation requirements and the ISIM diploma exam (Polish)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/egzaminy_isim.pdf)
+  - [Thesis guidelines, Mathematical Institute (Polish)](/pliki/studia/46-2017.pdf)
+  - [Physical education (Polish)](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)
+
+  :::
+format_tresci: jawne
+baner:
+  podtytul: ISIM · studia I stopnia (licencjackie)
+  podtytul_en: ISIM · bachelor's studies
+  opis: Trzyletnie studia licencjackie łączące informatykę i matematykę, prowadzone wspólnie przez Instytut Informatyki i Instytut Matematyczny UWr — z indywidualnym planem studiów i opieką tutora.
+  opis_en: A three-year bachelor's programme combining computer science and mathematics, run jointly by the Institute of Computer Science and the Mathematical Institute, University of Wrocław — with an individual study plan and a personal tutor.
+  haslo: Własny plan studiów z tutorem
+  haslo_en: Your own study plan, with a tutor
+  liczby:
+    - wartosc: 3 lata
+      wartosc_en: 3 years
+      etykieta: studia I stopnia (licencjackie)
+      etykieta_en: bachelor's studies
+    - wartosc: "210"
+      etykieta: punktów ECTS do ukończenia studiów
+      etykieta_en: ECTS credits to graduate
+      etykieta_krotka: punktów ECTS
+      etykieta_krotka_en: ECTS credits
+    - wartosc: licencjat
+      wartosc_en: Bachelor's
+      etykieta: tytuł zawodowy absolwenta
+      etykieta_en: degree awarded to graduates
+    - wartosc: "2"
+      etykieta: instytuty prowadzące kierunek
+      etykieta_en: institutes running the programme
+      etykieta_krotka: instytuty prowadzące
+      etykieta_krotka_en: partner institutes
+---
+<!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
+
+## O kierunku {#o-kierunku}
+
+<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+::::proza
 
 ISIM to trzyletnie studia licencjackie — stacjonarne, prowadzone po polsku — które Instytut Informatyki i Instytut Matematyczny Uniwersytetu Wrocławskiego prowadzą wspólnie. To kierunek interdyscyplinarny: przez całe studia równolegle zdobywasz wiedzę i umiejętności z informatyki i matematyki, a ścieżkę kształcenia układasz samodzielnie — według swoich zainteresowań i możliwości, z pomocą tutora.
 
@@ -16,6 +317,8 @@ Program obejmuje zestaw przedmiotów obowiązkowych z obu dziedzin — część 
 
 **Informatyczne**
 
+<!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
 | Przedmiot | Semestr | ECTS |
 |---|---|---|
 | Logika dla informatyków | 1 | 8 |
@@ -26,6 +329,8 @@ Program obejmuje zestaw przedmiotów obowiązkowych z obu dziedzin — część 
 | Języki formalne i złożoność obliczeniowa | 6 | 9 |
 
 **Matematyczne**
+
+<!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
 
 | Przedmiot | Semestr | ECTS |
 |---|---|---|
@@ -53,6 +358,8 @@ Wybór przedmiotów uzgadniasz z tutorem. Co semestr, w ciągu trzech tygodni od
 
 ### Dwa instytuty — gdzie co znaleźć
 
+<!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
 | | Instytut Matematyczny | Instytut Informatyki |
 |---|---|---|
 | Plan zajęć | semestr [zimowy](/studia/plan-zajec#zimowy) i [letni](/studia/plan-zajec#letni) | [System Zapisów](https://zapisy.ii.uni.wroc.pl/courses/) (zawiera też zajęcia matematyczne ISIM) |
@@ -63,16 +370,28 @@ Wybór przedmiotów uzgadniasz z tutorem. Co semestr, w ciągu trzech tygodni od
 
 System Zapisów Instytutu Informatyki służy też do głosowania nad przedmiotami na kolejny rok akademicki, wyboru pracy dyplomowej i anonimowej oceny zajęć.
 
-## Dlaczego warto
+::::
+
+## Dlaczego warto {#dlaczego}
+
+<!-- KAFELKI: Każdy punkt: **Tytuł** — opis. Dalsze linie: Klucz: wartość lub sam link jako przycisk. -->
+
+:::kafelki
 
 - **Dwie dziedziny naraz** — Informatyka i matematyka na jednym kierunku, prowadzonym wspólnie przez Instytut Informatyki i Instytut Matematyczny.
 - **Własny tutor** — Każdy student ma tutora, który pomaga ułożyć indywidualny plan studiów i wspiera jego rozwój naukowy.
 - **Certyfikat doskonałości PKA** — Kierunki informatyka i ISIM mają certyfikaty doskonałości Polskiej Komisji Akredytacyjnej, a matematyka — ocenę wyróżniającą.
 - **Stypendia od pierwszego roku** — Już na pierwszym roku można otrzymać m.in. stypendium naukowe Rektora, Młody Badacz i stypendium Studenckiego Funduszu Stypendialnego.
 
-## Jak wyglądają studia
+:::
+
+## Jak wyglądają studia {#przebieg}
 
 ### Studia I stopnia (licencjackie)
+
+<!-- ETAPY: Każdy krok: numer i **Etykieta: Tytuł** — opis. Kontynuacje wcięte 3 spacjami. Termin: bez pogrubienia. Dwie spacje kończą linię. -->
+
+:::etapy
 
 1. **Semestr 1: Start** — Obowiązkowe są Logika dla informatyków i Analiza matematyczna I (razem 19 ECTS). Do zaliczenia semestru trzeba zdobyć co najmniej 27 ECTS, więc wybierasz dodatkowe zajęcia — polecane są m.in. Algebra liniowa 1R, kursy programowania w C lub Pythonie i Wstęp do informatyki. Na pierwszym roku tutorzy sami przeglądają wybrane przedmioty.
 2. **Semestry 2–3: Podstawy obu dziedzin** — Metody programowania, Analiza matematyczna II i Algebra I (2. semestr), a następnie Analiza numeryczna, Matematyka dyskretna i Algebra II (3. semestr). Od 3. semestru co semestr uzgadniasz z tutorem listę zaliczanych przedmiotów.  
@@ -82,9 +401,13 @@ System Zapisów Instytutu Informatyki służy też do głosowania nad przedmiota
    Termin: Promotor z Instytutu Matematycznego — zgłoszenie na początku 6. semestru  
    [Formularz E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)
 
-## Specjalności
+:::
 
-## Terminy i formularze
+## Terminy i formularze {#terminy}
+
+<!-- TABELA: Tabela Markdown. Linki można zdefiniować pod tabelą. -->
+
+:::tabela
 
 | Sprawa | Kogo dotyczy | Termin | Formularz |
 | --- | --- | --- | --- |
@@ -96,32 +419,62 @@ System Zapisów Instytutu Informatyki służy też do głosowania nad przedmiota
 | Zgłoszenie promotora i tematyki pracy (promotor z Instytutu Informatyki) | dyplomanci |  | [System Zapisów](https://zapisy.ii.uni.wroc.pl/theses/) |
 | Wprowadzenie pracy dyplomowej do systemu APD | dyplomanci | co najmniej 7 dni przed obroną | [APD](https://apd.uni.wroc.pl/) |
 
+:::
+
 Wszystkie formularze i zasady rejestracji: [Zajęcia i konsultacje](/studia/zajecia).
 
-## Program studiów
+## Program studiów {#program}
+
+<!-- ZAKLADKI: Każdy nagłówek ### rozpoczyna zakładkę. Zmień nazwy lub kolejność według potrzeb. -->
+
+::::zakladki
 
 ### Program od 2022/23
 
 Dla osób, które rozpoczęły studia w roku 2022/23 lub później.
+
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
 
 - [Program studiów (uchwała nr 90/2022 Senatu UWr)](https://bip.uni.wroc.pl/download/attachment/33990/uchwala-nr-90_2022-senatu-uwr-z-dnia-2022-06-22-w-sprawie-programu-studiow-dla-kierunku-indywidualne-studia-informatyczno-matematyczne-i-stopnia.pdf?v=1655975613)
 - [Komentarz do programu studiów (aktualizacja 30.09.2026)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-komentarz-2026.pdf) — Wyjaśnienia dotyczące przedmiotów obowiązkowych i do wyboru, seminarium, projektu zespołowego, wypisów i algebry.
 - [Informator dla studentów I roku (2026)](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2026/09/ISIM-informator2026-1.pdf)
 - [Sylabusy przedmiotów](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/sylabusy_isim.pdf)
 
+:::
+
 ### Program z 2019 r.
 
 Dla osób, które rozpoczęły studia przed rokiem 2022.
 
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
+
 - [Program studiów obowiązujący od października 2019](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/program_isim_2019.pdf)
 
-## Po studiach
+:::
+
+::::
+
+## Po studiach {#po-studiach}
+
+<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
+
+::::proza
 
 Absolwenci ISIM mogą kontynuować naukę na studiach II stopnia na kierunkach matematyka, informatyka i sztuczna inteligencja na Wydziale Matematyki i Informatyki UWr, a także na innych czołowych uczelniach w kraju i za granicą. Pracę znajdują m.in. w firmach IT i FinTech, bankach, firmach ubezpieczeniowych, doradczych i leasingowych oraz w centrach badawczych.
 
 Jeśli planujesz studia magisterskie z informatyki, zalicz wszystkie obowiązkowe przedmioty informatyczne na poziomie (M). Jeśli myślisz o magisterium z matematyki, zaliczaj przedmioty matematyczne w wersji zaawansowanej. Studia magisterskie w Instytucie Matematycznym opisuje strona [Matematyka](/studia/matematyka).
 
-## Pytania i odpowiedzi
+::::
+
+## Pytania i odpowiedzi {#pytania}
+
+<!-- PYTANIA: Każdy nagłówek ### rozpoczyna pytanie, pod nim odpowiedź. -->
+
+:::pytania
 
 ### Czym ISIM różni się od studiowania informatyki i matematyki osobno?
 
@@ -167,7 +520,13 @@ W trakcie studiów trzeba zaliczyć język angielski na poziomie B2 (12 ECTS) al
 
 Rekrutacja odbywa się przez system [IRK](https://irka.uwr.edu.pl/pl/). Kandydaci z maturą lub dyplomem IB są przyjmowani na podstawie konkursu świadectw: przedmiotem wymaganym jest matematyka na poziomie rozszerzonym, a punktowane są też m.in. informatyka, fizyka i język obcy. Osoby z maturą zagraniczną piszą test kwalifikacyjny z matematyki. Szczegółowe zasady, uprawnienia laureatów i finalistów olimpiad oraz harmonogram podaje [strona rekrutacji UWr](https://rekrutacja.uwr.edu.pl/kierunek/105); zobacz też [stronę rekrutacyjną Wydziału](https://studia-wmi.uwr.edu.pl/isim/). W rekrutacji na rok 2025/26 limit przyjęć wynosił 30 miejsc.
 
-## Kontakt
+:::
+
+## Kontakt {#kontakt}
+
+<!-- KONTAKTY: Każdy punkt: *rola*, następnie **osoba**, potem e-mail:, tel.:, pokój:. -->
+
+:::kontakty
 
 - *Opiekun kierunku, tutor (IM)*  
   **dr hab. Marcin Preisner**  
@@ -195,9 +554,17 @@ Rekrutacja odbywa się przez system [IRK](https://irka.uwr.edu.pl/pl/). Kandydac
   e-mail: [rekrutacja.wmi@uwr.edu.pl](mailto:rekrutacja.wmi@uwr.edu.pl)  
   tel.: 71 375 74 94
 
-## Akty prawne
+:::
+
+## Akty prawne {#akty}
+
+<!-- PLIKI: Jeden link do dokumentu na punkt; po — można dopisać opis. -->
+
+:::pliki
 
 - [Regulamin studiów](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
 - [Warunki ukończenia studiów i egzamin dyplomowy na kierunku ISIM](https://wmi.uwr.edu.pl/wp-content/uploads/sites/288/2024/04/egzaminy_isim.pdf)
 - [Wytyczne dla prac dyplomowych w Instytucie Matematycznym](/pliki/studia/46-2017.pdf)
 - [Wychowanie fizyczne](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)
+
+:::
