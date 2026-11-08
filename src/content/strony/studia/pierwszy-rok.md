@@ -1,14 +1,26 @@
 ---
-tytul: "Pierwszy rok"
+tytul: Pierwszy rok
 opis: "Przewodnik dla osób zaczynających studia w Instytucie Matematycznym (matematyka, SIAD, ISIM): pierwsze kroki, opiekun roku, przedmioty i zapisy, zaliczenie roku, terminy i wsparcie."
-tytul_en: "First year"
+tytul_en: First year
 opis_en: "A guide for students starting their studies at the Mathematical Institute (mathematics, AI in Data Science, ISIM): first steps, the year coordinator, courses and registration, passing the first year, key dates and support."
-haslo: "Pierwsze kroki na studiach"
-haslo_en: "Your first steps at university"
+haslo: Pierwsze kroki na studiach
+haslo_en: Your first steps at university
 tresc_en: |
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
+
   A guide for students starting bachelor's studies at the Mathematical Institute: in **mathematics**, in **artificial intelligence in data science** (SIAD) and — for the mathematical part of the programme — in **ISIM**. The most important information is at the top; full details are in the [Guide for new students (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf), prepared by the year coordinator.
 
-  ## Announcements
+  ::::
+
+  ## Announcements {#announcements}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   > The **health and safety (BHP) training** must be completed by **31 October 2026**. It is an online course; the details were sent to you by e-mail.
 
@@ -18,7 +30,13 @@ tresc_en: |
   - The [winter exam timetable](#first-year-exams) is available.
   - Accounts in the University systems (USOSweb and Office 365) have been created for you, and the login details were sent to the e-mail address you gave during admission. Please activate these accounts.
 
-  ## First steps
+  ::::
+
+  ## First steps {#first-steps}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   1. **Activate your USOSweb account** — the activation e-mail was sent to the address you gave in the IRK admission system. [USOSweb](https://usosweb.uwr.edu.pl/) is the online student office: class groups, grades, course registration, decisions and payments.
   2. **Activate your Office 365 account** (e-mail in the uwr.edu.pl domain) — the second activation e-mail; [details in USOSweb](https://usosweb.uni.wroc.pl/kontroler.php?_action=news/default&panel=DOMYSLNY&file=office365.html). Messages sent to this mailbox by USOS, the Faculty Office, the Institute's management and lecturers are considered delivered — check it regularly or set up forwarding.
@@ -38,7 +56,13 @@ tresc_en: |
   | Institute student network | computers in the computer labs | login and password sent by e-mail to mathematics students ([details](/en/instytut/infrastruktura-informatyczna/siec-studencka)) |
   | Library account | borrowing from University libraries | after the library training |
 
-  ## Year coordinator and key people
+  ::::
+
+  ## Year coordinator and key people {#year-coordinator-and-key-people}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The year coordinator is the first person to contact with questions and problems — in person or by e-mail. Before writing, check whether the answer is on this page, in the guide or on the [Mathematics](/en/studia/matematyka) and [Classes and office hours](/en/studia/zajecia) pages. The Faculty Office can also answer many questions.
 
@@ -54,7 +78,13 @@ tresc_en: |
 
   Contact details of the teaching office and the Faculty Office are in the [Contact](#contact) section.
 
-  ## Key dates (winter semester 2026/27)
+  ::::
+
+  ## Key dates (winter semester 2026/27) {#key-dates-winter-semester-202627}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   | Date | What |
   | --- | --- |
@@ -93,7 +123,13 @@ tresc_en: |
 
   The label (AI) in the timetable marks the versions of courses for the SIAD programme.
 
-  ## First-year courses
+  ::::
+
+  ## First-year courses {#first-year-courses}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Semester 1 (mathematics)
 
@@ -127,7 +163,13 @@ tresc_en: |
   - **SIAD:** in semesters 1–2 — mathematical analysis and linear algebra (in a version for this programme), introduction to mathematics, Python programming and data visualisation, and the basic AI workshop. Classes are in the Institute's timetable (groups marked "tylko dla SIAD", i.e. SIAD students only). In the first semester you are enrolled by the teaching office. More: [AI in Data Science](/en/studia/siad).
   - **ISIM:** the compulsory courses are Logic for Computer Science and Analiza matematyczna I; recommended ones include Algebra liniowa 1R. In the first semester you register for the Institute's courses yourself in USOSweb, and the tutors review your choices. Students admitted to both ISIM and mathematics did not take the qualifying test. More: [ISIM](/en/studia/isim).
 
-  ## Standard or extended level?
+  ::::
+
+  ## Standard or extended level? {#standard-or-extended-level}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Standard level** courses are more elementary: more examples are presented and less emphasis is placed on theory. **Extended level** courses treat the material more deeply, place more emphasis on theory and require you to absorb new material faster.
   - In the first semester you were assigned to a level on the basis of the qualifying test and the extended-level matura in mathematics (taking into account the declarations made during the test).
@@ -138,7 +180,13 @@ tresc_en: |
 
   > Your first-semester level and group apply only to first-semester courses. They do not limit your choice of courses in later semesters or your choice of specialisation.
 
-  ## Course registration
+  ::::
+
+  ## Course registration {#course-registration}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Semester 1:** mathematics and SIAD students are enrolled by the Institute's teaching office (the groups are visible in USOSweb: *Mój USOSweb* → *Grupy zajęciowe*). ISIM students register for the Institute's courses themselves in USOSweb.
   - **From semester 2:** you register yourself in USOSweb, on a first come, first served basis. Registration starts 2–4 days before the semester; the detailed [registration schedule](https://usosweb.uwr.edu.pl/kontroler.php?_action=news/rejestracje/rejJednostki&jed_org_kod=28) is announced in USOS.
@@ -157,7 +205,13 @@ tresc_en: |
 
   Rules: [Course registration rules at the Mathematical Institute (PDF, Polish)](https://www.math.uni.wroc.pl/sites/default/files/zasady-rejestracji.pdf).
 
-  ## Passing the first year (mathematics)
+  ::::
+
+  ## Passing the first year (mathematics) {#passing-the-first-year-mathematics}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   To pass a course you need a positive grade in every form of classes — usually the exercise classes and the exam. The rules below are set by the Vice-Dean on the basis of the curriculum and resolutions of the Faculty Council.
 
@@ -189,7 +243,13 @@ tresc_en: |
 
   These decisions apply to the mathematics programme. On ISIM you need at least 27 ECTS and the compulsory courses to pass semester 1 (see [ISIM](/en/studia/isim)); on SIAD the requirements are set by the programme's curriculum — if in doubt, ask the Faculty Office.
 
-  ## Classes and how to study
+  ::::
+
+  ## Classes and how to study {#classes-and-how-to-study}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Lecture** — the lecturer presents the theory with examples; you listen, take notes and ask questions (this is welcome).
   - **Exercise classes** — solving problems from lists published online by the lecturer. You are expected to try to solve the problems before the class and to take an active part (at the board).
@@ -214,7 +274,13 @@ tresc_en: |
   - Be careful with AI tools: having a language model solve the problem list will not teach you mathematical thinking, and it will not help you in tests and exams.
   - Mathematics is learned in a spiral — first-year topics come back in later years, so the goal is understanding, not just passing the exam.
 
-  ## Support
+  ::::
+
+  ## Support {#support}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/en/aktualnosci/2026-10-17-rusza-tutornia).
   - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/en/studia/zajecia#konsultacje).
@@ -224,7 +290,13 @@ tresc_en: |
   - **Psychological support, the Support and Accessibility Office, ombudspersons** — [Student affairs — support](/en/studia/sprawy-studenckie#support).
   - **Scholarships** — [Student affairs — scholarships](/en/studia/sprawy-studenckie#scholarships-and-financial-aid).
 
-  ## Student clubs and student government
+  ::::
+
+  ## Student clubs and student government {#student-clubs-and-student-government}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) (Koło Naukowe Matematyków Teoretyków) — among others co-organises the school [Baby Steps Beyond the Horizon](/en/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
   - [Applied Mathematics Club](https://www.facebook.com/KNZM.UWr/) (Koło Naukowe Zastosowań Matematyki).
@@ -232,7 +304,13 @@ tresc_en: |
 
   More: [Student affairs](/en/studia/sprawy-studenckie).
 
-  ## Worth knowing now: languages and specialisations
+  ::::
+
+  ## Worth knowing now: languages and specialisations {#worth-knowing-now-languages-and-specialisations}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Foreign languages (mathematics)
 
@@ -254,7 +332,13 @@ tresc_en: |
 
   Details: [Mathematics — specialisations](/en/studia/matematyka#specjalnosci) and [deadlines and forms](/en/studia/matematyka#terminy).
 
-  ## The Institute building
+  ::::
+
+  ## The Institute building {#the-institute-building}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The Institute (pl. Grunwaldzki 2) has two parts. In the one you enter from the street there are seminar rooms and staff offices; it is divided into half-floors called levels, served by a lift. Room numbers match the level they are on. You may go anywhere — no area is off-limits for students.
 
@@ -271,7 +355,13 @@ tresc_en: |
 
   The library is open Monday to Thursday 9:00–18:00 and on Friday 9:00–17:00. The reading room also has computer workstations for readers.
 
-  ## Orientation day 2026
+  ::::
+
+  ## Orientation day 2026 {#orientation-day-2026}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The orientation day for first-year students took place on Tuesday **29 September 2026**:
 
@@ -281,7 +371,13 @@ tresc_en: |
 
   Programmes: [mathematics (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf), [AI in data science (PDF)](/pliki/studia/pierwszy-rok/adapt2026_siad.pdf). See also: [Welcome, first-year students](/en/aktualnosci/2026-10-01-witamy-studentow-pierwszego-roku).
 
-  ## FAQ
+  ::::
+
+  ## FAQ {#faq}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   **Which group am I in?** Check USOSweb: *Mój USOSweb* → *Grupy zajęciowe*. In semester 1 mathematics and SIAD students are assigned to groups by the teaching office.
 
@@ -299,7 +395,13 @@ tresc_en: |
 
   **Who should I write to when I do not know what to do?** To the year coordinator, Dr Jan Kraszewski ([jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl)). If he does not know the answer, he knows who does.
 
-  ## Documents
+  ::::
+
+  ## Documents {#documents}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Guide for new mathematics students, 2026 (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf)
   - [First-semester timetable for mathematics, 2026/27 (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf)
@@ -310,7 +412,13 @@ tresc_en: |
   - [University rules for foreign language courses (BIP, Polish)](https://bip.uni.wroc.pl/download/attachment/52874/nr-138-2026-z-dnia-27072026-lektoraty-jezykow-obcych.pdf?v=1785144437)
   - [Study Regulations of the University of Wrocław (Polish)](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
 
-  ## Contact
+  ::::
+
+  ## Contact {#contact}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **First-year coordinator:** Dr Jan Kraszewski, room 703, [jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl).
   - **Teaching office of the Mathematical Institute** (room 315) — registration and withdrawals, timetable, declarations: Justyna Jędrzejewska-Idczak, tel. 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl).
@@ -320,12 +428,26 @@ tresc_en: |
     - ISIM — Joanna Jędrzejkowska, MSc, tel. 71 375 7892, [Joanna.Jedrzejkowska@uwr.edu.pl](mailto:Joanna.Jedrzejkowska@uwr.edu.pl).
 
   Worth following regularly: the news on the Institute's home page, this page, the [Institute's Facebook page](https://www.facebook.com/IMUWr), the [Mathematics](/en/studia/matematyka) page and the [Classes and office hours](/en/studia/zajecia) page.
+
+  ::::
 opublikowany: true
+format_tresci: jawne
 ---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Przewodnik dla osób zaczynających studia licencjackie w Instytucie Matematycznym: na kierunku **matematyka**, na kierunku **sztuczna inteligencja w analizie danych** (SIAD) oraz — w części matematycznej — na **ISIM**. Najważniejsze informacje są na górze; pełne omówienie zawiera [Przewodnik dla nowo przyjętych (PDF)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf) przygotowany przez opiekuna roku.
 
-## Ogłoszenia
+::::
+
+## Ogłoszenia {#ogłoszenia}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 > **Szkolenie BHP** trzeba zaliczyć do **31 października 2026 r.** Szkolenie odbywa się przez internet; szczegóły otrzymali Państwo mailem.
 
@@ -335,7 +457,13 @@ Przewodnik dla osób zaczynających studia licencjackie w Instytucie Matematyczn
 - Dostępny jest [harmonogram egzaminów sesji zimowej](#egzaminy-pierwszego-roku).
 - Zostały dla Państwa utworzone konta w systemach UWr (USOSweb i Office 365), a dane dostępowe wysłano na adres e-mail podany podczas rekrutacji. Proszę aktywować te konta.
 
-## Pierwsze kroki
+::::
+
+## Pierwsze kroki {#pierwsze-kroki}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 1. **Aktywuj konto w USOSweb** — mail aktywacyjny przyszedł na adres podany w systemie rekrutacyjnym IRK. [USOSweb](https://usosweb.uwr.edu.pl/) to wirtualny dziekanat: grupy zajęciowe, oceny, zapisy, decyzje i płatności.
 2. **Aktywuj konto Office 365** (poczta w domenie uwr.edu.pl) — drugi mail aktywacyjny; [szczegóły w USOSweb](https://usosweb.uni.wroc.pl/kontroler.php?_action=news/default&panel=DOMYSLNY&file=office365.html). Wiadomości wysłane na tę skrzynkę przez USOS, dziekanat, dyrekcję czy wykładowców uznaje się za dostarczone — sprawdzaj ją regularnie albo ustaw przekierowanie.
@@ -355,7 +483,13 @@ Przewodnik dla osób zaczynających studia licencjackie w Instytucie Matematyczn
 | Sieć studencka Instytutu | komputery w pracowniach komputerowych | login i hasło przesyłane mailem studentom matematyki ([szczegóły](/instytut/infrastruktura-informatyczna/siec-studencka)) |
 | Konto biblioteczne | wypożyczenia w bibliotekach UWr | po szkoleniu bibliotecznym |
 
-## Opiekun roku i ważne osoby
+::::
+
+## Opiekun roku i ważne osoby {#opiekun-roku-i-ważne-osoby}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Opiekun roku to pierwsza osoba, do której warto zwracać się z pytaniami i problemami — osobiście lub mailowo. Zanim napiszesz, sprawdź, czy odpowiedzi nie ma na tej stronie, w przewodniku albo na stronach [Matematyka](/studia/matematyka) i [Zajęcia i konsultacje](/studia/zajecia). Na wiele pytań odpowie też dziekanat.
 
@@ -371,7 +505,13 @@ Opiekun roku to pierwsza osoba, do której warto zwracać się z pytaniami i pro
 
 Dane kontaktowe sekretariatu dydaktycznego i dziekanatu są w sekcji [Kontakt](#kontakt).
 
-## Ważne terminy (semestr zimowy 2026/27)
+::::
+
+## Ważne terminy (semestr zimowy 2026/27) {#ważne-terminy-semestr-zimowy-202627}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 | Termin | Co |
 | --- | --- |
@@ -410,7 +550,13 @@ Harmonogram sesji zimowej 2026/27 (wersja z października 2026 r.). Aktualny har
 
 Oznaczenie (AI) w harmonogramie dotyczy wersji przedmiotów dla kierunku SIAD.
 
-## Przedmioty pierwszego roku
+::::
+
+## Przedmioty pierwszego roku {#przedmioty-pierwszego-roku}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Semestr 1 (matematyka)
 
@@ -444,7 +590,13 @@ Szczegóły: [Przewodnik po programie studiów I stopnia (PDF)](/pliki/studia/pr
 - **SIAD:** w semestrach 1–2 — analiza matematyczna i algebra liniowa (w wersji dla kierunku), wstęp do matematyki, programowanie w Pythonie i wizualizacja danych oraz podstawowy warsztat AI. Zajęcia są w planie Instytutu (grupy oznaczone „tylko dla SIAD”). Na 1. semestrze na zajęcia zapisuje sekretariat dydaktyczny. Więcej: [Sztuczna inteligencja w analizie danych](/studia/siad).
 - **ISIM:** obowiązkowe są Logika dla informatyków i Analiza matematyczna I; polecana jest m.in. Algebra liniowa 1R. Na 1. semestrze na zajęcia Instytutu zapisujesz się sam w USOSweb, a tutorzy przeglądają wybrane przedmioty. Osoby przyjęte równocześnie na ISIM i matematykę nie pisały testu kwalifikacyjnego. Więcej: [ISIM](/studia/isim).
 
-## Wersja standardowa czy rozszerzona?
+::::
+
+## Wersja standardowa czy rozszerzona? {#wersja-standardowa-czy-rozszerzona}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - Wykłady na **poziomie standardowym** są bardziej elementarne: więcej przykładów, mniejszy nacisk na teorię. Wykłady na **poziomie rozszerzonym** traktują materiał głębiej, kładą większy nacisk na teorię i wymagają większej sprawności w przyswajaniu nowych zagadnień.
 - Na 1. semestrze o przydziale zdecydowały wyniki testu kwalifikacyjnego i matury rozszerzonej z matematyki (z uwzględnieniem deklaracji złożonych podczas testu).
@@ -455,7 +607,13 @@ Szczegóły: [Przewodnik po programie studiów I stopnia (PDF)](/pliki/studia/pr
 
 > Przydział do poziomu i grupy na 1. semestrze dotyczy wyłącznie przedmiotów pierwszego semestru. Nie ogranicza wyboru przedmiotów na kolejnych semestrach ani wyboru specjalności.
 
-## Zapisy na zajęcia
+::::
+
+## Zapisy na zajęcia {#zapisy-na-zajęcia}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Semestr 1:** studentów matematyki i SIAD zapisuje na zajęcia sekretariat dydaktyczny Instytutu (grupy widać w USOSweb: *Mój USOSweb* → *Grupy zajęciowe*). Studenci ISIM zapisują się na zajęcia Instytutu sami, w USOSweb.
 - **Od 2. semestru:** zapisujesz się sam w USOSweb, według zasady „kto pierwszy, ten lepszy”. Rejestracja rusza 2–4 dni przed rozpoczęciem semestru; szczegółowy [harmonogram rejestracji](https://usosweb.uwr.edu.pl/kontroler.php?_action=news/rejestracje/rejJednostki&jed_org_kod=28) jest ogłaszany w USOS.
@@ -474,7 +632,13 @@ Szczegóły: [Przewodnik po programie studiów I stopnia (PDF)](/pliki/studia/pr
 
 Zasady: [Zasady rejestracji na przedmioty w Instytucie Matematycznym (PDF)](https://www.math.uni.wroc.pl/sites/default/files/zasady-rejestracji.pdf).
 
-## Zaliczenie pierwszego roku (matematyka)
+::::
+
+## Zaliczenie pierwszego roku (matematyka) {#zaliczenie-pierwszego-roku-matematyka}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Warunkiem zaliczenia przedmiotu jest pozytywna ocena z każdej formy zajęć — zwykle z ćwiczeń i z egzaminu. Poniższe zasady wynikają z programu studiów i uchwał Rady Wydziału; ogłasza je prodziekan.
 
@@ -506,7 +670,13 @@ Dokumenty: [decyzje dla studentów kończących I semestr (PDF)](/pliki/studia/p
 
 Powyższe decyzje dotyczą kierunku matematyka. Na ISIM do zaliczenia 1. semestru potrzeba co najmniej 27 ECTS i przedmiotów obowiązkowych (zob. [ISIM](/studia/isim)); na SIAD warunki określa program studiów kierunku — w razie wątpliwości zapytaj w dziekanacie.
 
-## Jak wyglądają zajęcia i jak się uczyć
+::::
+
+## Jak wyglądają zajęcia i jak się uczyć {#jak-wyglądają-zajęcia-i-jak-się-uczyć}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Wykład** — wykładowca przedstawia teorię i ilustruje ją przykładami; słuchasz, notujesz i zadajesz pytania (to wskazane).
 - **Ćwiczenia** — rozwiązywanie zadań z list, które wykładowca udostępnia w internecie. Oczekuje się, że przed zajęciami spróbujesz rozwiązać zadania, a na zajęciach będziesz aktywnie (przy tablicy) uczestniczyć w ich rozwiązywaniu.
@@ -531,7 +701,13 @@ Rady z przewodnika:
 - Uważaj z narzędziami sztucznej inteligencji: rozwiązanie listy przez model językowy nie nauczy cię myślenia matematycznego, a na kolokwium i egzaminie nie pomoże.
 - Nauka matematyki ma charakter spiralny — materiał z pierwszego roku wraca na wyższych latach, więc celem jest zrozumienie, a nie tylko zdanie egzaminu.
 
-## Wsparcie
+::::
+
+## Wsparcie {#wsparcie}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Tutornia** (sala 202, poziom 200) — pokój wspólnej nauki, w którym starsi studenci (tutorzy) pomagają w rozwiązywaniu zadań. W semestrze zimowym 2026/27 działa od 19 października — [plan dyżurów tutorów](/aktualnosci/2026-10-17-rusza-tutornia).
 - **Konsultacje** — każdy prowadzący zajęcia ma dwie godziny konsultacji w tygodniu (doktoranci — godzinę). Najłatwiej pójść do swojego wykładowcy lub ćwiczeniowca; przygotuj się i wiedz, czego nie rozumiesz. Wykaz: [Konsultacje](/studia/zajecia#konsultacje).
@@ -541,7 +717,13 @@ Rady z przewodnika:
 - **Pomoc psychologiczna, Biuro Wsparcia i Dostępności, rzecznicy** — [Sprawy studenckie — wsparcie](/studia/sprawy-studenckie#wsparcie).
 - **Stypendia** — [Sprawy studenckie — stypendia](/studia/sprawy-studenckie#stypendia-i-pomoc-materialna).
 
-## Koła naukowe i samorząd
+::::
+
+## Koła naukowe i samorząd {#koła-naukowe-i-samorząd}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Koło Naukowe Matematyków Teoretyków](https://www.facebook.com/knmtuwr) — współorganizuje m.in. szkołę [Baby Steps Beyond the Horizon](/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
 - [Koło Naukowe Zastosowań Matematyki](https://www.facebook.com/KNZM.UWr/).
@@ -549,7 +731,13 @@ Rady z przewodnika:
 
 Więcej: [Sprawy studenckie](/studia/sprawy-studenckie).
 
-## Warto wiedzieć już teraz: języki i specjalności
+::::
+
+## Warto wiedzieć już teraz: języki i specjalności {#warto-wiedzieć-już-teraz-języki-i-specjalności}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Języki obce (matematyka)
 
@@ -571,7 +759,13 @@ Zasady ogólnouniwersyteckie: [lektoraty języków obcych (BIP)](https://bip.uni
 
 Szczegóły: [Matematyka — specjalności](/studia/matematyka#specjalnosci) oraz [terminy i formularze](/studia/matematyka#terminy).
 
-## Budynek Instytutu
+::::
+
+## Budynek Instytutu {#budynek-instytutu}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Instytut (pl. Grunwaldzki 2) składa się z dwóch części. W części, do której wchodzi się z ulicy, są sale seminaryjne i pokoje pracowników; dzieli się ona na półpiętra zwane poziomami, między którymi jeździ winda. Numery sal i pokojów odpowiadają numerowi poziomu. Można chodzić wszędzie — nie ma stref zakazanych dla studentów.
 
@@ -588,7 +782,13 @@ Instytut (pl. Grunwaldzki 2) składa się z dwóch części. W części, do któ
 
 Biblioteka jest czynna od poniedziałku do czwartku w godz. 9:00–18:00, w piątek 9:00–17:00. W czytelni są też stanowiska komputerowe dla czytelników.
 
-## Dzień adaptacyjny 2026
+::::
+
+## Dzień adaptacyjny 2026 {#dzień-adaptacyjny-2026}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Dzień adaptacyjny dla pierwszego roku odbył się we wtorek **29 września 2026 r.**:
 
@@ -598,7 +798,13 @@ Dzień adaptacyjny dla pierwszego roku odbył się we wtorek **29 września 2026
 
 Programy: [matematyka (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf), [sztuczna inteligencja w analizie danych (PDF)](/pliki/studia/pierwszy-rok/adapt2026_siad.pdf). Zobacz też: [Witamy studentów pierwszego roku](/aktualnosci/2026-10-01-witamy-studentow-pierwszego-roku).
 
-## Pytania i odpowiedzi
+::::
+
+## Pytania i odpowiedzi {#pytania-i-odpowiedzi}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 **Do której grupy należę?** Sprawdź w USOSweb: *Mój USOSweb* → *Grupy zajęciowe*. Na 1. semestrze studentów matematyki i SIAD przydziela do grup sekretariat dydaktyczny.
 
@@ -616,7 +822,13 @@ Programy: [matematyka (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf
 
 **Do kogo napisać, gdy nie wiem, co zrobić?** Do opiekuna roku, dr. Jana Kraszewskiego ([jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl)). Jeśli nie zna odpowiedzi, wie, kto zna.
 
-## Dokumenty
+::::
+
+## Dokumenty {#dokumenty}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Przewodnik dla nowo przyjętych studentów matematyki, 2026 (PDF)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf)
 - [Plan zajęć 1. semestru na kierunku matematyka, 2026/27 (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf)
@@ -627,7 +839,13 @@ Programy: [matematyka (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf
 - [Ogólnouniwersyteckie zasady zaliczania języków obcych (BIP)](https://bip.uni.wroc.pl/download/attachment/52874/nr-138-2026-z-dnia-27072026-lektoraty-jezykow-obcych.pdf?v=1785144437)
 - [Regulamin studiów na Uniwersytecie Wrocławskim](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
 
-## Kontakt
+::::
+
+## Kontakt {#kontakt}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Opiekun I roku:** dr Jan Kraszewski, pok. 703, [jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl).
 - **Sekretariat dydaktyczny Instytutu Matematycznego** (pok. 315) — zapisy i wypisy z zajęć, plan zajęć, deklaracje: Justyna Jędrzejewska-Idczak, tel. 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl).
@@ -637,3 +855,5 @@ Programy: [matematyka (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf
   - ISIM — mgr Joanna Jędrzejkowska, tel. 71 375 7892, [Joanna.Jedrzejkowska@uwr.edu.pl](mailto:Joanna.Jedrzejkowska@uwr.edu.pl).
 
 Warto regularnie sprawdzać: aktualności na stronie głównej Instytutu, tę stronę, [stronę Instytutu na Facebooku](https://www.facebook.com/IMUWr), stronę [Matematyka](/studia/matematyka) i stronę [Zajęcia i konsultacje](/studia/zajecia).
+
+::::

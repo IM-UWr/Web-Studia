@@ -1,12 +1,18 @@
 ---
-tytul: "Stypendia i granty dla doktorantów"
-opis: "Stypendium doktoranckie, stypendia w projektach badawczych, wyjazdy i inne świadczenia dla doktorantów Kolegium Doktorskiego Matematyki."
-tytul_en: "Stipends and grants for doctoral students"
-opis_en: "The doctoral stipend, stipends in research projects, mobility and other benefits for doctoral students of the Doctoral College of Mathematics."
-haslo: "Finansowanie doktoratu"
-haslo_en: "Funding your doctorate"
+tytul: Stypendia i granty dla doktorantów
+opis: Stypendium doktoranckie, stypendia w projektach badawczych, wyjazdy i inne świadczenia dla doktorantów Kolegium Doktorskiego Matematyki.
+tytul_en: Stipends and grants for doctoral students
+opis_en: The doctoral stipend, stipends in research projects, mobility and other benefits for doctoral students of the Doctoral College of Mathematics.
+haslo: Finansowanie doktoratu
+haslo_en: Funding your doctorate
 tresc_en: |
-  ## Doctoral stipend
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+  ## Doctoral stipend {#doctoral-stipend}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   Under the Law on Higher Education and Science (Article 209), **every doctoral student who does not hold a doctoral degree receives a doctoral stipend**.
 
@@ -17,13 +23,25 @@ tresc_en: |
   - **Suspension for parental leave:** during a suspension corresponding to maternity, paternity or parental leave, the doctoral student keeps the right to the stipend.
   - Payment stops at the end of the month in which the doctoral student was removed from the list of doctoral students or in which the statutory stipend period ended.
 
-  ## Stipends in research projects
+  ::::
+
+  ## Stipends in research projects {#stipends-in-research-projects}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   Beyond the regular admission limits, candidates whose doctoral stipend is funded from sources other than the university subsidy — for example research projects or programmes — may also be admitted. With the Rector's consent, a separate admission round outside the regular schedule may be announced for them, with additional requirements related to the project. They must still obtain at least the minimum score in the admission procedure.
 
   Calls for such stipends appear in the Institute's [News](/en/aktualnosci) — for example, in April 2026 a [call was announced](/en/aktualnosci/2026-04-30-konkurs-na-stypendium-dla-doktoranta) for a four-year research stipend for a doctoral student in the project “Systems of equations and growth rates in groups” led by Dr Motiejus Valiunas.
 
-  ## Grants, research visits and mobility
+  ::::
+
+  ## Grants, research visits and mobility {#grants-research-visits-and-mobility}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Grant applications.** The programme of the Doctoral College of Mathematics requires doctoral students to demonstrate the ability to prepare an application for research funding. Under the Doctoral School regulations, doctoral students have the right to organisational and academic support in preparing grant applications and in obtaining national and foreign scholarships.
   - **Travel and grants.** According to the College's programme (from 2024/25), doctoral students can receive travel funding and research grants, similarly to academic staff.
@@ -32,7 +50,13 @@ tresc_en: |
   - **Co-tutelle.** Rules for co-tutelle (joint supervision) agreements are set out in [Rector's Ordinance No. 167/2021](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/Nr-167_2021-z-dnia-25.10.2021-r.-cotutelle-3.pdf) (in Polish).
   - **Młody Badacz (Young Researcher) grants** of the Excellence Initiative – Research University programme, mentioned on the previous version of this page, are no longer open — the 2020–2025 editions have ended ([information on the completed editions](https://uwr.edu.pl/uczelnia-badawcza/konkursy-2/zakonczone/mlody-badacz-2020-2025/), in Polish).
 
-  ## Other benefits
+  ::::
+
+  ## Other benefits {#other-benefits}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - **Student loan** — available to doctoral students under 35, once and for no longer than 4 years.
   - **Student housing** — doctoral students may apply for a place in a university dormitory, also with their spouse and children.
@@ -42,10 +66,18 @@ tresc_en: |
   Sources: the Law of 20 July 2018 on Higher Education and Science (Articles 209–211) and the [rules and regulations of the UWr Doctoral School](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/ANNOUNCEMENT-of-the-Rector-of-the-University-of-Wroclaw-of-5-July-2023.pdf).
 
   See also: [Admissions](/en/studia/szkola-doktorska/rekrutacja) · [Documents and forms](/en/studia/szkola-doktorska/dokumenty)
-opublikowany: true
----
 
-## Stypendium doktoranckie
+  ::::
+opublikowany: true
+format_tresci: jawne
+---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+## Stypendium doktoranckie {#stypendium-doktoranckie}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Zgodnie z ustawą — Prawo o szkolnictwie wyższym i nauce (art. 209) **każdy doktorant, który nie ma stopnia doktora, otrzymuje stypendium doktoranckie**.
 
@@ -56,13 +88,25 @@ Zgodnie z ustawą — Prawo o szkolnictwie wyższym i nauce (art. 209) **każdy 
 - **Zawieszenie na czas urlopu rodzicielskiego:** w okresie zawieszenia kształcenia odpowiadającym urlopowi macierzyńskiemu, ojcowskiemu lub rodzicielskiemu doktorant zachowuje prawo do stypendium.
 - Wypłata stypendium ustaje z ostatnim dniem miesiąca, w którym doktorant został skreślony z listy doktorantów lub w którym upłynął ustawowy termin pobierania stypendium.
 
-## Stypendia w projektach badawczych
+::::
+
+## Stypendia w projektach badawczych {#stypendia-w-projektach-badawczych}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Poza limitami przyjęć mogą być przyjęci kandydaci, których stypendium doktoranckie jest finansowane z innych źródeł niż subwencja — np. z projektów badawczych lub programów. Dla takich kandydatów, za zgodą Rektora, może być ogłoszona odrębna rekrutacja poza harmonogramem, uwzględniająca dodatkowe wymagania związane z projektem. Muszą oni jednak uzyskać co najmniej minimalny wynik punktowy w postępowaniu rekrutacyjnym.
 
 Ogłoszenia o takich konkursach pojawiają się w [Aktualnościach](/aktualnosci) Instytutu — np. w kwietniu 2026 r. [ogłoszono konkurs](/aktualnosci/2026-04-30-konkurs-na-stypendium-dla-doktoranta) na czteroletnie stypendium naukowe dla doktoranta w projekcie „Układy równań i stopnie wzrostu w grupach”, kierowanym przez dr. Motiejusa Valiunasa.
 
-## Granty, staże i wyjazdy
+::::
+
+## Granty, staże i wyjazdy {#granty-staże-i-wyjazdy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Wnioski grantowe.** Program kształcenia w Kolegium Doktorskim Matematyki wymaga od doktoranta wykazania się umiejętnością przygotowania wniosku o finansowanie projektu badawczego. Zgodnie z regulaminem Szkoły Doktorskiej doktorant ma prawo do wsparcia organizacyjnego i merytorycznego w przygotowywaniu wniosków o granty oraz w pozyskiwaniu stypendiów krajowych i zagranicznych.
 - **Delegacje i granty.** Według programu kształcenia Kolegium (od 2024/25) doktoranci mogą otrzymywać delegacje służbowe i granty naukowe, podobnie jak pracownicy naukowo-dydaktyczni.
@@ -71,7 +115,13 @@ Ogłoszenia o takich konkursach pojawiają się w [Aktualnościach](/aktualnosci
 - **Co-tutelle.** Zasady zawierania umów o wspólnym promotorstwie (co-tutelle) określa [zarządzenie Rektora nr 167/2021](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/Nr-167_2021-z-dnia-25.10.2021-r.-cotutelle-3.pdf).
 - **Granty Młody Badacz** w programie Inicjatywa Doskonałości – Uczelnia Badawcza, opisywane na poprzedniej wersji tej strony, nie są już prowadzone — edycje z lat 2020–2025 zostały zakończone ([informacja o zakończonych edycjach](https://uwr.edu.pl/uczelnia-badawcza/konkursy-2/zakonczone/mlody-badacz-2020-2025/)).
 
-## Inne świadczenia
+::::
+
+## Inne świadczenia {#inne-świadczenia}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - **Kredyt studencki** — mogą się o niego ubiegać doktoranci, którzy nie ukończyli 35. roku życia; kredyt udziela się na okres kształcenia w szkole doktorskiej tylko raz, nie dłużej niż na 4 lata.
 - **Dom studencki** — doktorant może ubiegać się o zakwaterowanie w domu studenckim, również z małżonkiem i dziećmi.
@@ -81,3 +131,5 @@ Ogłoszenia o takich konkursach pojawiają się w [Aktualnościach](/aktualnosci
 Źródła: ustawa z dnia 20 lipca 2018 r. — Prawo o szkolnictwie wyższym i nauce (art. 209–211) oraz [regulamin Szkoły Doktorskiej UWr](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/07/Obwieszczenie-z-dnia-5.07.2023-r.-w-sprawie-ogloszenia-tekstu-jednolitego-uchwalyNr-134-2019-regulamin-Szkoly-Doktorskiej-UWr-1.pdf).
 
 Zobacz też: [Rekrutacja](/studia/szkola-doktorska/rekrutacja) · [Dokumenty i wzory](/studia/szkola-doktorska/dokumenty)
+
+::::

@@ -17,44 +17,26 @@ content:
         label: Tytuł
         type: string
         required: true
-      - name: body
-        label: Treść
-        description: |-
-          Tekst sekcji „O studiach” (pierwszy akapit strona pokazuje większą czcionką).
-
-          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-          Kilka układów strona rozpoznaje sama:
-
-          • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-          • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-          • Lista samych linków = lista plików (PDF / strona).
-
-          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-          • Plik PDF: wgraj w „Media” i wklej link.
-
-          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-        type: code
-        options:
-          format: markdown
       - name: tytul_en
         label: Tytuł EN
         type: string
+      - name: body
+        label: Treść
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
+        type: code
+        options:
+          format: markdown
       - name: tresc_en
         label: Treść EN
         type: code
         options:
           format: markdown
-        description: Tekst „O studiach” po angielsku, w tym samym układzie co Treść. Puste = strona angielska pokaże tekst polski.
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
+      - name: format_tresci
+        label: Format treści
+        type: string
+        hidden: true
+        default: jawne
       - name: wstep
         label: Wstęp pod tytułem (1–3 zdania)
         type: text
@@ -413,7 +395,7 @@ content:
             hidden: true
   - name: strony
     label: Strony studiów
-    description: Adres strony = ścieżka pliku, np. studia/matematyka.md → /studia/matematyka
+    description: "Wszystkie podstrony działu Studia, także podstrony szkoły doktorskiej. Markdown PL/EN i jawne znaczniki układu. Nagłówki ## tworzą spis strony."
     type: collection
     path: src/content/strony/studia
     format: yaml-frontmatter
@@ -428,42 +410,26 @@ content:
         label: Tytuł
         type: string
         required: true
+      - name: tytul_en
+        label: Tytuł EN
+        type: string
       - name: body
         label: Treść
         type: code
         options:
           format: markdown
-        description: |-
-          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-          Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-          • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-          • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-          • Lista samych linków = lista plików (PDF / strona).
-
-          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-          • Plik PDF: wgraj w „Media” i wklej link.
-
-          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-      - name: tytul_en
-        label: Tytuł EN
-        type: string
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha."
       - name: tresc_en
         label: Treść EN
-        description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha."
         type: code
         options:
           format: markdown
+      - name: format_tresci
+        label: Format treści
+        type: string
+        hidden: true
+        default: jawne
       - name: opis
         label: Krótki opis (pod tytułem i w Google)
         type: text
@@ -511,11 +477,11 @@ content:
               label: Tylko menu działu (podstrony)
             - name: brak
               label: Bez prawego paska (strona na całą szerokość)
-      - name: bloki
-        label: Kafelki, oś i kontakty z list — zob. ściągawka
+      - name: opublikowany
+        label: Uwzględniaj w zestawieniach
         type: boolean
-        default: false
-        description: "Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy."
+        default: true
+        hidden: true
   - name: rok-akademicki
     label: Rok akademicki — tekst strony
     description: Kolory, terminy semestru, dni wolne i zamiany dni wpisuje się w „Kalendarz zajęć (kolory dni)”; tu tylko tekst.
@@ -527,41 +493,18 @@ content:
         label: Tytuł
         type: string
         required: true
+      - name: tytul_en
+        label: Tytuł EN
+        type: string
       - name: body
         label: Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru)
         type: code
         options:
           format: markdown
-        description: |-
-          Tekst wspólny pod tabelą „Rok w skrócie” (bez dat semestru); między Treścią a Końcem strony strona wstawia kalendarz.
-
-          Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-          Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-          • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-          • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-          • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-          • Lista samych linków = lista plików (PDF / strona).
-
-          • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-          • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-          • Plik PDF: wgraj w „Media” i wklej link.
-
-          • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-          Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-      - name: tytul_en
-        label: Tytuł EN
-        type: string
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
       - name: tresc_en
         label: Treść EN
-        description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
         type: code
         options:
           format: markdown
@@ -570,12 +513,18 @@ content:
         type: code
         options:
           format: markdown
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
       - name: dalej_en
         label: Koniec strony EN
-        description: Koniec strony po angielsku, w tym samym układzie. Puste = strona angielska pokaże tekst polski.
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj w podglądzie brancha. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
         type: code
         options:
           format: markdown
+      - name: format_tresci
+        label: Format treści
+        type: string
+        hidden: true
+        default: jawne
       - name: opis
         label: Krótki opis
         type: text
@@ -588,11 +537,6 @@ content:
       - name: haslo_en
         label: "EN: hasło na banerze"
         type: string
-      - name: bloki
-        label: Kafelki, oś i kontakty z list — zob. ściągawka
-        type: boolean
-        default: false
-        description: "Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy."
   - name: kolory-dni
     label: Kalendarz zajęć (kolory dni)
     description: "Kolory liczą się same: wpisz okres zajęć, dni wolne (dni rektorskie, przerwy) i zamiany dni z zarządzenia o organizacji roku. Święta ustawowe są uwzględniane automatycznie. Podgląd: /studia/rok-akademicki (każdy dzień tygodnia powinien wypaść 15 razy). Terminy sesji i przerw do tabeli „Rok w skrócie” — w polu Terminy przy semestrze."

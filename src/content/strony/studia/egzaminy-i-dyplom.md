@@ -1,26 +1,38 @@
 ---
-tytul: "Egzaminy i dyplom"
+tytul: Egzaminy i dyplom
 opis: "Jak ukończyć studia na kierunku matematyka: promotor i temat pracy, system APD, egzamin licencjacki i magisterski, terminy oraz zadania z poprzednich lat."
-tytul_en: "Exams and diploma"
+tytul_en: Exams and diploma
 opis_en: "How to complete a degree in mathematics: supervisor and thesis topic, the APD system, bachelor's and master's exams, dates and past exam papers."
-haslo: "Droga do dyplomu"
-haslo_en: "The road to your diploma"
+haslo: Droga do dyplomu
+haslo_en: The road to your diploma
 liczby:
-- n: "81"
-  etykieta: "zestawów licencjackich"
-  etykieta_en: "bachelor's exam papers"
-- n: "65"
-  etykieta: "zestawów magisterskich"
-  etykieta_en: "master's exam papers"
-- n: "25"
-  etykieta: "lat archiwum zadań"
-  etykieta_en: "years of past papers"
+  - n: "81"
+    etykieta: zestawów licencjackich
+    etykieta_en: bachelor's exam papers
+  - n: "65"
+    etykieta: zestawów magisterskich
+    etykieta_en: master's exam papers
+  - n: "25"
+    etykieta: lat archiwum zadań
+    etykieta_en: years of past papers
 tresc_en: |
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
+
   A guide to completing your degree in mathematics: choosing a supervisor and thesis topic, submitting the thesis in the APD system, the bachelor's and master's exams, dates and past exam papers. The formal rules — the Diploma Theses Committee, thesis assessment, the final degree grade and answers to frequent questions — are described in the [Diploma procedure](/en/studia/procedura-dyplomowania).
 
   > **Next diploma exam: 15 February 2027.** Detailed dates for registration and for the steps in the APD system are announced by the Institute before each exam session. For an idea of how a session runs, see the [2025/26 schedule](#dates).
 
-  ## Path to the diploma
+  ::::
+
+  ## Path to the diploma {#path-to-the-diploma}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   ### Bachelor's studies (first cycle)
 
@@ -51,7 +63,13 @@ tresc_en: |
 
   Students of Artificial Intelligence in Data Science (SIAD) — information on the team project and the diploma exam is on the [SIAD programme page](/en/studia/siad).
 
-  ## Supervisor and thesis topic
+  ::::
+
+  ## Supervisor and thesis topic {#supervisor-and-thesis-topic}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   At the Institute students choose the supervisor of their diploma thesis (bachelor's or master's) themselves. This lets you match the subject of the thesis to your interests, and writing the thesis is based on individual cooperation with the supervisor. You can obtain a topic in two ways:
 
@@ -75,7 +93,13 @@ tresc_en: |
 
   Changing the topic requires the approval of the Diploma Theses Committee, and changing the supervisor requires the Dean's consent; details are in the [Diploma procedure](/en/studia/procedura-dyplomowania).
 
-  ## Writing the thesis
+  ::::
+
+  ## Writing the thesis {#writing-the-thesis}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The thesis must follow the [diploma thesis guidelines](/pliki/studia/46-2017.pdf) adopted by the Faculty Council; the [commentary of the Diploma Theses Committee](/pliki/studia/komentarz_do_wytycznych_dla_prac_dyplomowych.pdf) explains them with examples (both in Polish). The key rules:
 
@@ -88,7 +112,13 @@ tresc_en: |
 
   Before the exam every thesis is checked with anti-plagiarism software.
 
-  ## Submitting the thesis in APD
+  ::::
+
+  ## Submitting the thesis in APD {#submitting-the-thesis-in-apd}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   > Diploma theses are submitted only electronically in the [Diploma Theses Archive (APD)](https://apd.uni.wroc.pl) — students **do not submit a paper copy** to the Faculty Office (Rector's orders no. 111 and 112/2022).
 
@@ -99,7 +129,13 @@ tresc_en: |
 
   The full requirements for admission to the diploma exam (§ 62 of the Study Regulations) are described in the [Diploma procedure](/en/studia/procedura-dyplomowania).
 
-  ## Bachelor's exam
+  ::::
+
+  ## Bachelor's exam {#bachelors-exam}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The bachelor's exam is written; it is organised by the Diploma Exams Committee chaired by the Vice-Dean for Mathematics Education.
 
@@ -124,7 +160,13 @@ tresc_en: |
 
   In the curriculum from 2026/27 the written diploma exam covers the courses: Mathematical Analysis 1–3, Linear Algebra 1–2, Algebra 1, Differential Equations 1 and Probability 1.
 
-  ## Master's exam
+  ::::
+
+  ## Master's exam {#masters-exam}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The master's exam has a written and an oral part; it is organised by the Diploma Exams Committee chaired by the Vice-Dean for Mathematics Education. The written part tests knowledge in your specialisation, and the oral part concerns the subject of your master's thesis.
 
@@ -173,7 +215,13 @@ tresc_en: |
 
   The master's exam grade is ¾ of the written part grade plus ¼ of the oral part grade. A positive grade in the oral part is required to pass. If you fail the oral part, the Dean sets a second date — without repeating the written part.
 
-  ## Dates
+  ::::
+
+  ## Dates {#dates}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   Diploma exams are held three times a year: in February, June and September. You must register for the written exam within the set period; at the same time you upload the thesis to APD. Next exam: **15 February 2027**.
 
@@ -190,18 +238,36 @@ tresc_en: |
   | Written master's exam (9:00–11:00) | 18 Feb | 26 Jun | 9 Sep |
   | Oral master's exams | 20 Feb | 30 Jun | 11 Sep |
 
-  ## Past exam papers
+  ::::
+
+  ## Past exam papers {#past-exam-papers}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The [exam archive](/en/studia/egzaminy-i-dyplom/zadania) contains tests with answers and open problems from bachelor's exams and problems from the written part of master's exams, 2002–2026. The most recent:
 
   - bachelor's exam, September 2026: [test](/pliki/studia/egzaminy/test-2609.pdf), [test with answers](/pliki/studia/egzaminy/odp-2609.pdf), [open problems](/pliki/studia/egzaminy/otw-2609.pdf),
   - master's exam, February 2026: [problems for all specialisations](/pliki/studia/egzaminy/mag26-02.pdf).
 
-  ## Best diploma thesis competition
+  ::::
+
+  ## Best diploma thesis competition {#best-diploma-thesis-competition}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   The Faculty of Mathematics and Computer Science runs a competition for the best diploma theses, including the categories of the best bachelor's thesis and the best master's thesis in mathematics. Faculty graduates whose theses defended in the given period received a very good grade may take part; the authors of the best theses present them at the competition final. Rules, application deadlines and results of past editions: [the competition on the Faculty website](https://wmi.uwr.edu.pl/konkurs-na-prace-dyplomowa/).
 
-  ## Documents and links
+  ::::
+
+  ## Documents and links {#documents-and-links}
+
+  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+  ::::proza
 
   - [Study Regulations of the University of Wrocław](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) — Senate resolution no. 68/2024; completion of studies is covered in chapter XI (§ 58–66) (in Polish)
   - [Diploma thesis guidelines (PDF)](/pliki/studia/46-2017.pdf) — Faculty Council resolution no. 46/2017 (in Polish)
@@ -211,14 +277,28 @@ tresc_en: |
   - [Form E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) — reporting the supervisor and thesis subject
   - [Diploma Theses Archive (APD)](https://apd.uni.wroc.pl)
   - [Guide to the bachelor's curriculum from 2026/27 (PDF)](/pliki/studia/przewodnik-mt-lic.pdf) and [to the master's curriculum from 2026/27 (PDF)](/pliki/studia/przewodnik-mt-mgr.pdf) (in Polish)
+
+  ::::
 opublikowany: true
+format_tresci: jawne
 ---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Przewodnik po zakończeniu studiów na kierunku matematyka: wybór promotora i tematu pracy, złożenie pracy w systemie APD, egzamin licencjacki i magisterski, terminy oraz zadania z poprzednich lat. Zasady formalne — Komisja Prac Dyplomowych, ocena pracy, wynik studiów i odpowiedzi na częste pytania — opisuje [Procedura dyplomowania](/studia/procedura-dyplomowania).
 
 > **Najbliższy termin egzaminu dyplomowego: 15 lutego 2027 r.** Szczegółowe terminy zapisów i czynności w systemie APD Instytut podaje przed każdą sesją. Orientacyjny przebieg sesji pokazuje [harmonogram z roku 2025/26](#terminy).
 
-## Droga do dyplomu
+::::
+
+## Droga do dyplomu {#droga-do-dyplomu}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 ### Studia I stopnia (licencjackie)
 
@@ -249,7 +329,13 @@ W programie od 2026/27 za pozytywnie ocenioną pracę dyplomową otrzymujesz 12 
 
 Studenci kierunku Sztuczna inteligencja w analizie danych (SIAD) — informacje o projekcie zespołowym i egzaminie dyplomowym znajdziesz na stronie [kierunku SIAD](/studia/siad).
 
-## Promotor i temat pracy
+::::
+
+## Promotor i temat pracy {#promotor-i-temat-pracy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 W Instytucie student sam wybiera promotora pracy dyplomowej (licencjackiej i magisterskiej). Dzięki temu możesz dobrać tematykę pracy do swoich zainteresowań, a pisanie pracy opiera się na indywidualnej współpracy z promotorem. Temat możesz uzyskać na dwa sposoby:
 
@@ -273,7 +359,13 @@ Przewodnik po programie studiów II stopnia obowiązującym od 2026/27 podaje te
 
 Zmiana tematu wymaga akceptacji Komisji Prac Dyplomowych, a zmiana promotora — zgody Dziekana; szczegóły w [Procedurze dyplomowania](/studia/procedura-dyplomowania).
 
-## Pisanie pracy
+::::
+
+## Pisanie pracy {#pisanie-pracy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Pracę przygotowujesz zgodnie z [wytycznymi dla prac dyplomowych](/pliki/studia/46-2017.pdf) przyjętymi przez Radę Wydziału; [komentarz Komisji Prac Dyplomowych](/pliki/studia/komentarz_do_wytycznych_dla_prac_dyplomowych.pdf) wyjaśnia je na przykładach. Najważniejsze zasady:
 
@@ -286,7 +378,13 @@ Pracę przygotowujesz zgodnie z [wytycznymi dla prac dyplomowych](/pliki/studia/
 
 Przed egzaminem każda praca jest sprawdzana programem antyplagiatowym.
 
-## Praca w systemie APD
+::::
+
+## Praca w systemie APD {#praca-w-systemie-apd}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 > Prace dyplomowe składa się wyłącznie w formie elektronicznej w systemie [Archiwum Prac Dyplomowych (APD)](https://apd.uni.wroc.pl) — studenci **nie składają w dziekanacie wersji papierowej** (zarządzenia Rektora UWr nr 111 i 112/2022).
 
@@ -297,7 +395,13 @@ Przed egzaminem każda praca jest sprawdzana programem antyplagiatowym.
 
 Pełne warunki dopuszczenia do egzaminu dyplomowego (§ 62 Regulaminu studiów) opisuje [Procedura dyplomowania](/studia/procedura-dyplomowania).
 
-## Egzamin licencjacki
+::::
+
+## Egzamin licencjacki {#egzamin-licencjacki}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Egzamin licencjacki jest pisemny; organizuje go Komisja Egzaminów Dyplomowych pod przewodnictwem prodziekana ds. dydaktyki matematyki.
 
@@ -322,7 +426,13 @@ Komisja może obniżyć progi punktowe. Wyniki są dostępne w USOS (przedmiot �
 
 W programie od 2026/27 zakres pisemnego egzaminu dyplomowego obejmuje treści przedmiotów: Analiza matematyczna 1–3, Algebra liniowa 1–2, Algebra 1, Równania różniczkowe 1 i Rachunek prawdopodobieństwa 1.
 
-## Egzamin magisterski
+::::
+
+## Egzamin magisterski {#egzamin-magisterski}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Egzamin magisterski składa się z części pisemnej i ustnej; organizuje go Komisja Egzaminów Dyplomowych pod przewodnictwem prodziekana ds. dydaktyki matematyki. Część pisemna sprawdza wiedzę z zakresu Twojej specjalności, a część ustna dotyczy tematyki pracy magisterskiej.
 
@@ -371,7 +481,13 @@ Specjalności matematyka w ekonomii nie ma w programie od 2026/27 — mogą ją 
 
 Ocena z egzaminu magisterskiego to ¾ oceny z części pisemnej i ¼ oceny z części ustnej. Warunkiem zdania egzaminu jest pozytywna ocena z części ustnej. Jeśli nie zdasz części ustnej, Dziekan wyznacza drugi termin — bez powtarzania części pisemnej.
 
-## Terminy
+::::
+
+## Terminy {#terminy}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Egzaminy dyplomowe odbywają się trzy razy w roku: w lutym, czerwcu i wrześniu. Na egzamin pisemny trzeba się zapisać w wyznaczonym terminie; w tym samym czasie wprowadza się pracę do systemu APD. Najbliższy egzamin: **15 lutego 2027 r.**
 
@@ -388,18 +504,36 @@ Szczegółowe terminy na rok 2026/27 Instytut podaje przed każdą sesją. Poni�
 | Pisemny egzamin magisterski (9:00–11:00) | 18.02 | 26.06 | 9.09 |
 | Ustne egzaminy magisterskie | 20.02 | 30.06 | 11.09 |
 
-## Zadania z poprzednich lat
+::::
+
+## Zadania z poprzednich lat {#zadania-z-poprzednich-lat}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 W [archiwum zadań](/studia/egzaminy-i-dyplom/zadania) znajdziesz testy z odpowiedziami i zadania otwarte z egzaminów licencjackich oraz zadania z części pisemnej egzaminów magisterskich z lat 2002–2026. Najnowsze:
 
 - egzamin licencjacki, wrzesień 2026: [test](/pliki/studia/egzaminy/test-2609.pdf), [test z odpowiedziami](/pliki/studia/egzaminy/odp-2609.pdf), [zadania otwarte](/pliki/studia/egzaminy/otw-2609.pdf),
 - egzamin magisterski, luty 2026: [zadania dla wszystkich specjalności](/pliki/studia/egzaminy/mag26-02.pdf).
 
-## Konkurs na najlepszą pracę dyplomową
+::::
+
+## Konkurs na najlepszą pracę dyplomową {#konkurs-na-najlepszą-pracę-dyplomową}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 Wydział Matematyki i Informatyki organizuje konkurs na najlepsze prace dyplomowe, m.in. w kategoriach najlepszej pracy licencjackiej i najlepszej pracy magisterskiej z matematyki. Mogą w nim wziąć udział absolwenci Wydziału, których prace obronione w danym okresie otrzymały ocenę bardzo dobrą; autorzy najlepszych prac prezentują je podczas finału konkursu. Regulamin, terminy zgłoszeń i wyniki kolejnych edycji: [konkurs na stronie Wydziału](https://wmi.uwr.edu.pl/konkurs-na-prace-dyplomowa/).
 
-## Dokumenty i linki
+::::
+
+## Dokumenty i linki {#dokumenty-i-linki}
+
+<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
+
+::::proza
 
 - [Regulamin studiów na Uniwersytecie Wrocławskim](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) — uchwała nr 68/2024 Senatu UWr; ukończeniu studiów poświęcony jest rozdział XI (§ 58–66)
 - [Wytyczne dla prac dyplomowych (PDF)](/pliki/studia/46-2017.pdf) — uchwała Rady Wydziału nr 46/2017
@@ -409,3 +543,5 @@ Wydział Matematyki i Informatyki organizuje konkurs na najlepsze prace dyplomow
 - [Formularz E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) — zgłoszenie promotora i tematyki pracy
 - [Archiwum Prac Dyplomowych (APD)](https://apd.uni.wroc.pl)
 - [Przewodnik po programie studiów I stopnia od 2026/27 (PDF)](/pliki/studia/przewodnik-mt-lic.pdf) i [II stopnia od 2026/27 (PDF)](/pliki/studia/przewodnik-mt-mgr.pdf)
+
+::::
