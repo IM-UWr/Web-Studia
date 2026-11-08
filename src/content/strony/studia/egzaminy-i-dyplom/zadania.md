@@ -6,21 +6,15 @@ opis_en: Archive of written bachelor's and master's exam papers in mathematics (
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Problems from the written diploma exams in mathematics, 2002–2026: the bachelor's exam (tests, answers, open problems) and the written part of the master's exam. Exam rules, syllabi and dates are on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page. The exam papers are in Polish.
 
   > Past papers show the type and level of the problems. The current syllabus is set by the documents of the Diploma Exams Committee — the [bachelor's exam syllabus](/pliki/studia/egzlic_zagadnienia.pdf) and the [master's exam syllabi](/en/studia/egzaminy-i-dyplom#masters-exam-syllabi).
 
-  ::::
-
   ## Bachelor's exam {#bachelors-exam}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   For each sitting you will find the test, the same test with answers and the open problems; for a few sittings also worked solutions. In years with two February sittings they are marked as the 1st and 2nd sitting. A dash (—) means the file is not available.
 
@@ -120,13 +114,9 @@ tresc_en: |
   |  | June | [test](/pliki/studia/egzaminy/test-0206.pdf) | [answers](/pliki/studia/egzaminy/odp-0206.pdf) | [problems](/pliki/studia/egzaminy/otw-0206.pdf) | — |
   |  | September | [test](/pliki/studia/egzaminy/test-0209.pdf) | [answers](/pliki/studia/egzaminy/odp-0209.pdf) | [problems](/pliki/studia/egzaminy/otw-0209.pdf) | — |
 
-  ::::
-
   ## Master's exam {#masters-exam}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Each file contains the written-part problems for all specialisations offered in that year (the names of specialisations have changed over the years). A dash (—) means the set from that sitting is not available.
 
@@ -157,28 +147,20 @@ tresc_en: |
   | 2003/04 | — | [June](/pliki/studia/egzaminy/mag04-06.pdf) | [September](/pliki/studia/egzaminy/mag04-09.pdf) |
   | 2002/03 | [February](/pliki/studia/egzaminy/mag03-02.pdf) | [June](/pliki/studia/egzaminy/mag03-06.pdf) | [September](/pliki/studia/egzaminy/mag03-09.pdf) |
   | 2001/02 | [April (trial exam)](/pliki/studia/egzaminy/mag02-04.pdf) | [June](/pliki/studia/egzaminy/mag02-06.pdf) | [September](/pliki/studia/egzaminy/mag02-09.pdf) |
-
-  ::::
 opublikowany: true
 format_tresci: jawne
 ---
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Zadania z pisemnych egzaminów dyplomowych na kierunku matematyka z lat 2002–2026: egzaminu licencjackiego (testy, odpowiedzi, zadania otwarte) i części pisemnej egzaminu magisterskiego. Zasady egzaminów, zakresy materiału i terminy znajdziesz na stronie [Egzaminy i dyplom](/studia/egzaminy-i-dyplom).
 
 > Zadania z lat ubiegłych pokazują typ i poziom zadań. Obowiązujący zakres materiału określają aktualne dokumenty Komisji Egzaminów Dyplomowych — [zakres egzaminu licencjackiego](/pliki/studia/egzlic_zagadnienia.pdf) i [zakresy egzaminu magisterskiego](/studia/egzaminy-i-dyplom#zakresy-egzaminu-magisterskiego).
 
-::::
-
 ## Egzamin licencjacki {#egzamin-licencjacki}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Dla każdego terminu dostępne są: test, ten sam test z odpowiedziami oraz zadania otwarte; dla kilku terminów także rozwiązania zadań. W latach, w których w lutym odbywały się dwa terminy egzaminu, oznaczono je jako I i II termin. Znak „—” oznacza, że dany plik nie jest dostępny.
 
@@ -278,13 +260,9 @@ Dla każdego terminu dostępne są: test, ten sam test z odpowiedziami oraz zada
 |  | czerwiec | [test](/pliki/studia/egzaminy/test-0206.pdf) | [odpowiedzi](/pliki/studia/egzaminy/odp-0206.pdf) | [zadania](/pliki/studia/egzaminy/otw-0206.pdf) | — |
 |  | wrzesień | [test](/pliki/studia/egzaminy/test-0209.pdf) | [odpowiedzi](/pliki/studia/egzaminy/odp-0209.pdf) | [zadania](/pliki/studia/egzaminy/otw-0209.pdf) | — |
 
-::::
-
 ## Egzamin magisterski {#egzamin-magisterski}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Każdy plik zawiera zadania z części pisemnej dla wszystkich specjalności prowadzonych w danym roku (nazwy specjalności zmieniały się na przestrzeni lat). Znak „—” oznacza, że zestaw z danego terminu nie jest dostępny.
 
@@ -315,5 +293,3 @@ Każdy plik zawiera zadania z części pisemnej dla wszystkich specjalności pro
 | 2003/04 | — | [czerwiec](/pliki/studia/egzaminy/mag04-06.pdf) | [wrzesień](/pliki/studia/egzaminy/mag04-09.pdf) |
 | 2002/03 | [luty](/pliki/studia/egzaminy/mag03-02.pdf) | [czerwiec](/pliki/studia/egzaminy/mag03-06.pdf) | [wrzesień](/pliki/studia/egzaminy/mag03-09.pdf) |
 | 2001/02 | [kwiecień (egzamin próbny)](/pliki/studia/egzaminy/mag02-04.pdf) | [czerwiec](/pliki/studia/egzaminy/mag02-06.pdf) | [wrzesień](/pliki/studia/egzaminy/mag02-09.pdf) |
-
-::::

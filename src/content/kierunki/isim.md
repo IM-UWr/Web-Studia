@@ -6,9 +6,7 @@ tresc_en: |
 
   ## About {#o-kierunku}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ISIM is a three-year, full-time bachelor's programme taught in Polish and run jointly by the Institute of Computer Science and the Mathematical Institute of the University of Wrocław. It is an interdisciplinary programme: throughout your studies you build knowledge and skills in computer science and mathematics in parallel, and you design your own study path — according to your interests and abilities, with the help of a tutor.
 
@@ -72,8 +70,6 @@ tresc_en: |
   | Exams | dates for compulsory courses are set centrally and published in mid-October ([Classes and office hours](/en/studia/zajecia)); other dates are set by the lecturer | dates are given by lecturers in the [Exams section](https://zapisy.ii.uni.wroc.pl/session/) |
 
   The Institute of Computer Science registration system is also used to vote for the courses to be taught in the next academic year, to choose a thesis and to evaluate classes anonymously.
-
-  ::::
 
   ## Why join {#dlaczego}
 
@@ -163,15 +159,11 @@ tresc_en: |
 
   ## After graduation {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ISIM graduates can continue with master's studies in mathematics, computer science and artificial intelligence at the Faculty of Mathematics and Computer Science, University of Wrocław, as well as at other leading universities in Poland and abroad. They find work in IT and FinTech companies, banks, insurance, consulting and leasing companies, and research centres, among others.
 
   If you plan a master's degree in computer science, pass all compulsory computer science courses at the (M) level. If you are considering a master's in mathematics, take the mathematics courses in their advanced versions. Master's studies at the Mathematical Institute are described on the [Mathematics](/en/studia/matematyka) page.
-
-  ::::
 
   ## FAQ {#pytania}
 
@@ -303,9 +295,7 @@ baner:
 
 ## O kierunku {#o-kierunku}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 ISIM to trzyletnie studia licencjackie — stacjonarne, prowadzone po polsku — które Instytut Informatyki i Instytut Matematyczny Uniwersytetu Wrocławskiego prowadzą wspólnie. To kierunek interdyscyplinarny: przez całe studia równolegle zdobywasz wiedzę i umiejętności z informatyki i matematyki, a ścieżkę kształcenia układasz samodzielnie — według swoich zainteresowań i możliwości, z pomocą tutora.
 
@@ -369,8 +359,6 @@ Wybór przedmiotów uzgadniasz z tutorem. Co semestr, w ciągu trzech tygodni od
 | Egzaminy | terminy z przedmiotów obowiązkowych ustalane centralnie i ogłaszane w połowie października ([Zajęcia i konsultacje](/studia/zajecia)); pozostałe podaje wykładowca | terminy podają wykładowcy w [sekcji Egzaminy](https://zapisy.ii.uni.wroc.pl/session/) |
 
 System Zapisów Instytutu Informatyki służy też do głosowania nad przedmiotami na kolejny rok akademicki, wyboru pracy dyplomowej i anonimowej oceny zajęć.
-
-::::
 
 ## Dlaczego warto {#dlaczego}
 
@@ -460,15 +448,11 @@ Dla osób, które rozpoczęły studia przed rokiem 2022.
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Absolwenci ISIM mogą kontynuować naukę na studiach II stopnia na kierunkach matematyka, informatyka i sztuczna inteligencja na Wydziale Matematyki i Informatyki UWr, a także na innych czołowych uczelniach w kraju i za granicą. Pracę znajdują m.in. w firmach IT i FinTech, bankach, firmach ubezpieczeniowych, doradczych i leasingowych oraz w centrach badawczych.
 
 Jeśli planujesz studia magisterskie z informatyki, zalicz wszystkie obowiązkowe przedmioty informatyczne na poziomie (M). Jeśli myślisz o magisterium z matematyki, zaliczaj przedmioty matematyczne w wersji zaawansowanej. Studia magisterskie w Instytucie Matematycznym opisuje strona [Matematyka](/studia/matematyka).
-
-::::
 
 ## Pytania i odpowiedzi {#pytania}
 

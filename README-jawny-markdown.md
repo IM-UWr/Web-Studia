@@ -4,7 +4,7 @@ Otwierając Pages CMS wybierz repozytorium Web-Studia i branch `main`. Wszystkie
 
 - **Kierunki**: nazwy, treść Markdown PL/EN, dane, baner w jednym formularzu.
 - **Specjalności**: wszystkie specjalności razem; Markdown, wybór opiekunów i seminariów, baner w jednym formularzu.
-- **Strony**: wszystkie 15 pozostałych podstron Studiów, również w podfolderach. Zwykłe teksty, listy i tabele są opisane blokami `proza`; nagłówki mają stabilne kotwice.
+- **Strony**: wszystkie 15 pozostałych podstron Studiów, również w podfolderach. Zwykłe teksty, listy i tabele nie wymagają otoczek; nagłówki mają stabilne kotwice.
 - **Strona działu Studia** i **Rok akademicki**: również jawny Markdown, z komentarzami wyjaśniającymi położenie tekstu względem części generowanych z danych.
 - Kafelki specjalności są częścią Markdownu **kierunku** (`:::specjalnosci`). Ich tekst i kolejność edytuje autor kierunku.
 - Nagłówki można zmieniać; wyglądem sterują znaczniki `:::nazwa` i `::wstawka`. Komentarze przy blokach objaśniają zapis.

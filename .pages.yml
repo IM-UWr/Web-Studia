@@ -22,7 +22,7 @@ content:
         type: string
       - name: body
         label: Treść
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
         type: code
         options:
           format: markdown
@@ -31,7 +31,7 @@ content:
         type: code
         options:
           format: markdown
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
       - name: format_tresci
         label: Format treści
         type: string
@@ -418,10 +418,10 @@ content:
         type: code
         options:
           format: markdown
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
       - name: tresc_en
         label: Treść EN
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
         type: code
         options:
           format: markdown
@@ -501,10 +501,10 @@ content:
         type: code
         options:
           format: markdown
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
       - name: tresc_en
         label: Treść EN
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
         type: code
         options:
           format: markdown
@@ -513,10 +513,10 @@ content:
         type: code
         options:
           format: markdown
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
       - name: dalej_en
         label: Koniec strony EN
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst umieść w :::proza … :::. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. Tekst jest dodatkiem do kalendarza generowanego z danych semestrów."
         type: code
         options:
           format: markdown

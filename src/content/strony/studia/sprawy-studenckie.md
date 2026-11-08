@@ -8,19 +8,13 @@ haslo_en: What to arrange, where and how
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   A guide for students of the Mathematical Institute: who handles what, how to deal with the most common matters, where to find scholarships, exchanges and support. The Institute's deadlines and forms (course registration, specialisation, thesis supervisor) are listed on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
 
-  ::::
-
   ## Where to go {#where-to-go}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Matter | Where |
   | --- | --- |
@@ -49,13 +43,9 @@ tresc_en: |
 
   **Vice-Dean for Mathematics Teaching and Student Affairs:** Dr hab. Andrzej Raczyński, [Andrzej.Raczynski@uwr.edu.pl](mailto:Andrzej.Raczynski@uwr.edu.pl) — office hours on Mondays 11:00–12:00. Changes and cancellations: [Dean's office hours](https://wmi.uwr.edu.pl/dziekanat/dyzury-dziekanskie/).
 
-  ::::
-
   ## Who is responsible {#who-is-responsible}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Role | Person | Contact |
   | --- | --- | --- |
@@ -68,13 +58,9 @@ tresc_en: |
   | Dean's Plenipotentiary for the Safety of Students and PhD Students | Dr hab. Ziemowit Rzeszotnik | room 706, [Ziemowit.Rzeszotnik@math.uni.wroc.pl](mailto:Ziemowit.Rzeszotnik@math.uni.wroc.pl) |
   | Dean's Plenipotentiary for Equal Treatment and Anti-Discrimination | Dr Paweł Laskoś-Grabowski | see [Faculty authorities](https://wmi.uwr.edu.pl/wladze-wydzialu/) |
 
-  ::::
-
   ## USOSweb and official communication {#usosweb-and-official-communication}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [USOSweb](https://usosweb.uwr.edu.pl/) — course registration, grades, decisions and payments; your study record is kept in USOS.
   - [University e-mail (Office 365)](https://login.microsoftonline.com/) — accounts in USOSweb and Office 365 are created after admission (see [First year](/en/studia/pierwszy-rok)).
@@ -84,13 +70,9 @@ tresc_en: |
 
   Your student ID card confirms your student status. A first-cycle graduate may keep the card until 31 October of the year of graduation (§ 3).
 
-  ::::
-
   ## Common matters step by step {#common-matters-step-by-step}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Decisions on the course of studies are taken by the Dean (Vice-Dean). A request is submitted to the **Faculty Office** within the deadline set in the Study Regulations or announced by the Dean. It must be signed and include your name, programme, year of study, student ID number, postal address, telephone and e-mail, what the request concerns and to whom it is addressed (§ 67). Faculty forms (e.g. request for enrolment, request for recognition of a course): [Request forms (WMI)](https://wmi.uwr.edu.pl/dziekanat/dokumenty/formularze-podan/).
 
@@ -162,13 +144,9 @@ tresc_en: |
   - If your absence from an exam is excused, the examiner restores your right to that attempt on another date (§ 34).
   - Against other decisions of the Dean you may request reconsideration within 14 days of their delivery (§ 67).
 
-  ::::
-
   ## Scholarships and financial aid {#scholarships-and-financial-aid}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Available benefits: **social scholarship** (which may be increased for living in a student dormitory or other accommodation), **scholarship for students with disabilities**, **emergency grant**, **Rector's scholarship** and the **Minister's scholarship for significant achievements**.
 
@@ -179,13 +157,9 @@ tresc_en: |
 
   At the Faculty, financial aid is handled by Monika Retmaniak, MA (Faculty Office, phone 71 375 7890).
 
-  ::::
-
   ## Exchange programmes {#exchange-programmes}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Part of your studies can be completed at another university in Poland or abroad. Before leaving, agree with the programme coordinator on the list of courses you want to take; on this basis the Dean sets the learning outcomes, ECTS credits and the deadline for passing (§ 27).
 
@@ -204,38 +178,26 @@ tresc_en: |
 
   [ISEP](https://international.uni.wroc.pl/wymiana-wyjazdy/inne-wymiany) is a worldwide exchange network; currently it offers one-semester stays at universities in the USA. Other offers: [UWr International Office](https://international.uni.wroc.pl/wymiana-wyjazdy).
 
-  ::::
-
   ## Careers and jobs {#careers-and-jobs}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Job, internship and traineeship offers** are published in the [news](/en/aktualnosci) (type "Career").
   - **Employers** wishing to publish an offer should send it to Dr Jan Kraszewski ([Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl)). Business contact coordinators of the Institute: Prof. Ewa Damek ([Ewa.Damek@math.uni.wroc.pl](mailto:Ewa.Damek@math.uni.wroc.pl)), Dr Przemysław Klusik ([Przemyslaw.Klusik@math.uni.wroc.pl](mailto:Przemyslaw.Klusik@math.uni.wroc.pl)), Dr hab. Krzysztof Topolski ([Krzysztof.Topolski@math.uni.wroc.pl](mailto:Krzysztof.Topolski@math.uni.wroc.pl)).
   - [UWr Career Office](https://biurokarier.uwr.edu.pl/) (ul. Kuźnicza 49A) — [job offers](https://biurokarier.uwr.edu.pl/jobs), [traineeship programmes](https://biurokarier.uwr.edu.pl/programy-stazowe/), [career counselling](https://biurokarier.uwr.edu.pl/doradztwo-konsultacje/).
 
-  ::::
-
   ## Student government and student clubs {#student-government-and-student-clubs}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Faculty Student Government Council of WMI (WRSS WMI)** — [wrsswmi@uniwroc.onmicrosoft.com](mailto:wrsswmi@uniwroc.onmicrosoft.com), [Facebook](https://www.facebook.com/WRSSWMI/). It represents students before the Faculty authorities.
   - [Student Government of the University of Wrocław](https://samorzadstudentow.uwr.edu.pl/) — [Regulations of the Student Government](https://samorzadstudentow.uwr.edu.pl/wp-content/uploads/sites/507/2025/09/Nr-157_2019-z-dnia-30.12.2019-r.-REGULAMIN_samorzadu-studentow-1.pdf). Each year or group is represented by its elected student representative (*starosta*).
   - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) — among others co-organises the school [Baby Steps Beyond the Horizon](/en/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
   - [Applied Mathematics Club](https://www.facebook.com/KNZM.UWr/)
 
-  ::::
-
   ## Support {#support}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Tutoring room** (room 202) — senior students help with mathematical problems, especially first-year students ([details](/en/aktualnosci/2026-10-17-rusza-tutornia)).
   - **Academic ombudspersons of WMI** — students, PhD students and staff can turn to them with problems concerning the institute/faculty community. The ombudsperson listens, diagnoses the problem and gives advice or help, acting confidentially, impartially, informally and independently of the university authorities. Prof. Ewa Damek — [edamek@math.uni.wroc.pl](mailto:edamek@math.uni.wroc.pl), room 901 (Mathematical Institute); Jarosław Byrka — [jaroslaw.byrka@cs.uni.wroc.pl](mailto:jaroslaw.byrka@cs.uni.wroc.pl), room 244 (Institute of Computer Science). It is best to arrange contact by e-mail first ([details](https://wmi.uwr.edu.pl/wladze-wydzialu/)).
@@ -246,13 +208,9 @@ tresc_en: |
 
   > In an emergency threatening life or health, call **112**.
 
-  ::::
-
   ## Regulations {#regulations}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [Study Regulations of the University of Wrocław](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) (Senate Resolution No. 68/2024) and the [amendment](https://uwr.edu.pl/wp-content/uploads/2026/08/Uchwala-Nr-35_2026-Senatu-UWr-z-2026-04-22-zmieniajaca-uchwale-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim.pdf) (Resolution No. 35/2026, resignation via USOS from 1 October 2026) — [all versions](https://uwr.edu.pl/regulamin-studiow/)
   - [Minimum requirements for semester completion in Mathematics](https://bip.uni.wroc.pl/download/attachment/37996/uchwala-nr-10-w-sprawie-okreslenia-minimalnych-warunkow-zaliczenia-semestru-na-kierunku-matematyka.pdf) (Faculty Council Resolution No. 10/2023)
@@ -260,26 +218,18 @@ tresc_en: |
   - [Regulations on benefits for students](https://uwr.edu.pl/wp-content/uploads/2026/10/Tekst-ujednolicony-zarz.-196-2023-Regulamin-swiadczen-dla-studentow-po-zarz.-153-2026.pdf) (Rector's Order No. 196/2023, consolidated text)
   - [Study records in USOS](https://bip.uni.wroc.pl/download/attachment/27171/nr-160_2020-z-dnia-18122020-r-dokumentacja-w-usos.pdf) (Rector's Order No. 160/2020)
   - Other regulations for the programme (foreign languages, physical education, teacher training, diploma theses): [Mathematics — regulations](/en/studia/matematyka#akty)
-
-  ::::
 opublikowany: true
 format_tresci: jawne
 ---
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Przewodnik dla studentów Instytutu Matematycznego: kto czym się zajmuje, jak załatwić najczęstsze sprawy, gdzie szukać stypendiów, wymian i wsparcia. Terminy i formularze Instytutu (zapisy, specjalność, promotor) są na stronie kierunku: [Matematyka — terminy i formularze](/studia/matematyka#terminy).
 
-::::
-
 ## Gdzie załatwić sprawę {#gdzie-załatwić-sprawę}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 | Sprawa | Gdzie |
 | --- | --- |
@@ -308,13 +258,9 @@ Studenci kierunku *sztuczna inteligencja w analizie danych* — kontakty na [str
 
 **Prodziekan ds. dydaktyki matematyki i spraw studenckich:** dr hab. Andrzej Raczyński, [Andrzej.Raczynski@uwr.edu.pl](mailto:Andrzej.Raczynski@uwr.edu.pl) — dyżur w poniedziałki 11:00–12:00. Zmiany i odwołania dyżurów: [Dyżury dziekańskie](https://wmi.uwr.edu.pl/dziekanat/dyzury-dziekanskie/).
 
-::::
-
 ## Kto za co odpowiada {#kto-za-co-odpowiada}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 | Funkcja | Osoba | Kontakt |
 | --- | --- | --- |
@@ -327,13 +273,9 @@ Studenci kierunku *sztuczna inteligencja w analizie danych* — kontakty na [str
 | Pełnomocnik Dziekana ds. bezpieczeństwa doktorantów i studentów | dr hab. Ziemowit Rzeszotnik | pok. 706, [Ziemowit.Rzeszotnik@math.uni.wroc.pl](mailto:Ziemowit.Rzeszotnik@math.uni.wroc.pl) |
 | Pełnomocnik Dziekana ds. równego traktowania i przeciwdziałania dyskryminacji | dr Paweł Laskoś-Grabowski | zob. [Władze wydziału](https://wmi.uwr.edu.pl/wladze-wydzialu/) |
 
-::::
-
 ## USOSweb i komunikacja {#usosweb-i-komunikacja}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - [USOSweb](https://usosweb.uwr.edu.pl/) — rejestracja na zajęcia, oceny, decyzje i płatności; w USOS prowadzona jest dokumentacja przebiegu studiów.
 - [Poczta uczelniana (Office 365)](https://login.microsoftonline.com/) — konta w USOSweb i Office 365 zakładane są po rekrutacji (zob. [Pierwszy rok](/studia/pierwszy-rok)).
@@ -343,13 +285,9 @@ Studenci kierunku *sztuczna inteligencja w analizie danych* — kontakty na [str
 
 Legitymacja studencka potwierdza status studenta. Absolwent studiów I stopnia może ją zachować do 31 października roku ukończenia studiów (§ 3).
 
-::::
-
 ## Najczęstsze sprawy krok po kroku {#najczęstsze-sprawy-krok-po-kroku}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Rozstrzygnięcia w sprawach toku studiów podejmuje dziekan (prodziekan). Wniosek składa się w **dziekanacie** w terminie określonym w Regulaminie studiów lub ogłoszonym przez dziekana. Wniosek musi być podpisany i zawierać: imię i nazwisko, kierunek, rok studiów, numer albumu, adres korespondencyjny, telefon i e-mail, czego dotyczy i do kogo jest skierowany (§ 67). Formularze wydziałowe (m.in. podanie o wpis, podanie o uznanie przedmiotu): [Formularze podań (WMI)](https://wmi.uwr.edu.pl/dziekanat/dokumenty/formularze-podan/).
 
@@ -421,13 +359,9 @@ Studenci z niepełnosprawnościami i ze szczególnymi potrzebami mają prawo do 
 - Jeśli usprawiedliwisz nieobecność na egzaminie, egzaminator przywraca prawo do tego terminu w innym dniu (§ 34).
 - Od innych rozstrzygnięć dziekana możesz złożyć wniosek o ponowne rozpatrzenie sprawy w ciągu 14 dni od ich doręczenia (§ 67).
 
-::::
-
 ## Stypendia i pomoc materialna {#stypendia-i-pomoc-materialna}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Dostępne świadczenia: **stypendium socjalne** (z możliwością zwiększenia z tytułu zamieszkania w domu studenckim lub innym obiekcie), **stypendium dla osób niepełnosprawnych**, **zapomoga**, **stypendium rektora** oraz **stypendium ministra za znaczące osiągnięcia**.
 
@@ -438,13 +372,9 @@ Dostępne świadczenia: **stypendium socjalne** (z możliwością zwiększenia z
 
 Na wydziale sprawy pomocy materialnej prowadzi mgr Monika Retmaniak (dziekanat, tel. 71 375 7890).
 
-::::
-
 ## Wymiany studenckie {#wymiany-studenckie}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Część studiów możesz zrealizować na innej uczelni w kraju lub za granicą. Przed wyjazdem uzgodnij z koordynatorem programu wykaz zajęć, które chcesz tam realizować; na tej podstawie dziekan określa efekty uczenia się, punkty ECTS i termin zaliczenia (§ 27).
 
@@ -463,38 +393,26 @@ Bezpłatna wymiana z uczelniami w Polsce na semestr lub cały rok. Rekrutacja: 1
 
 [ISEP](https://international.uni.wroc.pl/wymiana-wyjazdy/inne-wymiany) to ogólnoświatowa sieć wymiany studenckiej; obecnie umożliwia jednosemestralne wyjazdy na uczelnie w USA. Inne oferty: [Biuro Współpracy Międzynarodowej UWr](https://international.uni.wroc.pl/wymiana-wyjazdy).
 
-::::
-
 ## Kariera i praca {#kariera-i-praca}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - **Oferty pracy, praktyk i staży** publikujemy w [aktualnościach](/aktualnosci) (rodzaj „Kariera”).
 - **Pracodawcy**, którzy chcą zamieścić ogłoszenie, mogą je przesłać do dr. Jana Kraszewskiego ([Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl)). Koordynatorzy Instytutu ds. kontaktów z biznesem: prof. dr hab. Ewa Damek ([Ewa.Damek@math.uni.wroc.pl](mailto:Ewa.Damek@math.uni.wroc.pl)), dr inż. Przemysław Klusik ([Przemyslaw.Klusik@math.uni.wroc.pl](mailto:Przemyslaw.Klusik@math.uni.wroc.pl)), dr hab. Krzysztof Topolski ([Krzysztof.Topolski@math.uni.wroc.pl](mailto:Krzysztof.Topolski@math.uni.wroc.pl)).
 - [Biuro Karier UWr](https://biurokarier.uwr.edu.pl/) (ul. Kuźnicza 49A) — [oferty pracy](https://biurokarier.uwr.edu.pl/jobs), [programy stażowe](https://biurokarier.uwr.edu.pl/programy-stazowe/), [doradztwo zawodowe](https://biurokarier.uwr.edu.pl/doradztwo-konsultacje/).
 
-::::
-
 ## Samorząd i koła naukowe {#samorząd-i-koła-naukowe}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - **Wydziałowa Rada Samorządu Studentów WMI (WRSS WMI)** — [wrsswmi@uniwroc.onmicrosoft.com](mailto:wrsswmi@uniwroc.onmicrosoft.com), [Facebook](https://www.facebook.com/WRSSWMI/). Reprezentuje studentów wobec władz wydziału.
 - [Samorząd Studentów Uniwersytetu Wrocławskiego](https://samorzadstudentow.uwr.edu.pl/) — [Regulamin Samorządu Studentów](https://samorzadstudentow.uwr.edu.pl/wp-content/uploads/sites/507/2025/09/Nr-157_2019-z-dnia-30.12.2019-r.-REGULAMIN_samorzadu-studentow-1.pdf). Reprezentantem roku lub grupy jest wybrany starosta.
 - [Koło Naukowe Matematyków Teoretyków](https://www.facebook.com/knmtuwr) — współorganizuje m.in. szkołę [Baby Steps Beyond the Horizon](/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
 - [Koło Naukowe Zastosowań Matematyki](https://www.facebook.com/KNZM.UWr/)
 
-::::
-
 ## Wsparcie {#wsparcie}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - **Tutornia** (sala 202) — starsi studenci pomagają w problemach matematycznych, szczególnie studentom pierwszego roku ([szczegóły](/aktualnosci/2026-10-17-rusza-tutornia)).
 - **Rzecznicy akademiccy WMI** — mogą się do nich zwracać studenci, doktoranci i pracownicy w sprawach dotyczących funkcjonowania społeczności instytutu i wydziału. Rzecznik wysłuchuje, diagnozuje problem i udziela porady lub pomocy; działa poufnie, bezstronnie, nieformalnie i niezależnie od władz uczelni. Prof. dr hab. Ewa Damek — [edamek@math.uni.wroc.pl](mailto:edamek@math.uni.wroc.pl), pok. 901 (Instytut Matematyczny); Jarosław Byrka — [jaroslaw.byrka@cs.uni.wroc.pl](mailto:jaroslaw.byrka@cs.uni.wroc.pl), pok. 244 (Instytut Informatyki). Najlepiej najpierw umówić się e-mailem ([szczegóły](https://wmi.uwr.edu.pl/wladze-wydzialu/)).
@@ -505,13 +423,9 @@ Bezpłatna wymiana z uczelniami w Polsce na semestr lub cały rok. Rekrutacja: 1
 
 > W nagłym zagrożeniu życia lub zdrowia dzwoń pod numer alarmowy **112**.
 
-::::
-
 ## Przepisy {#przepisy}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - [Regulamin studiów na Uniwersytecie Wrocławskim](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf) (uchwała Senatu nr 68/2024) i jego [zmiana](https://uwr.edu.pl/wp-content/uploads/2026/08/Uchwala-Nr-35_2026-Senatu-UWr-z-2026-04-22-zmieniajaca-uchwale-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim.pdf) (uchwała nr 35/2026 — rezygnacja przez USOS od 1 października 2026 r.) — [strona regulaminu](https://uwr.edu.pl/regulamin-studiow/)
 - [Minimalne warunki zaliczenia semestru na kierunku matematyka](https://bip.uni.wroc.pl/download/attachment/37996/uchwala-nr-10-w-sprawie-okreslenia-minimalnych-warunkow-zaliczenia-semestru-na-kierunku-matematyka.pdf) (uchwała Rady Wydziału nr 10/2023)
@@ -519,5 +433,3 @@ Bezpłatna wymiana z uczelniami w Polsce na semestr lub cały rok. Rekrutacja: 1
 - [Regulamin świadczeń dla studentów](https://uwr.edu.pl/wp-content/uploads/2026/10/Tekst-ujednolicony-zarz.-196-2023-Regulamin-swiadczen-dla-studentow-po-zarz.-153-2026.pdf) (zarządzenie Rektora nr 196/2023, tekst ujednolicony)
 - [Dokumentacja przebiegu studiów w USOS](https://bip.uni.wroc.pl/download/attachment/27171/nr-160_2020-z-dnia-18122020-r-dokumentacja-w-usos.pdf) (zarządzenie Rektora nr 160/2020)
 - Pozostałe akty dla kierunku (lektoraty, wychowanie fizyczne, kształcenie nauczycieli, prace dyplomowe): [Matematyka — akty prawne](/studia/matematyka#akty)
-
-::::

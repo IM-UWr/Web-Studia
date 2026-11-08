@@ -4,9 +4,7 @@ tytul_en: Study
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   We teach mathematics the way we practise it. Classes are taught by active researchers, and the programme combines solid foundations with plenty of choice: from the first year you can match the level of your classes to your abilities and, later on, choose the direction of your own development. The studies teach precise thinking, posing and solving problems, and working with mathematical models and data — skills valued in research, business, technology and education.
 
@@ -17,8 +15,6 @@ tresc_en: |
   You are not on your own at the start. Every year group has its coordinator, and in the tutoring room older students help with problems and with catching up. Outside classes, student research clubs organise lectures, workshops and schools, and the Institute's research seminars are open to everyone interested. A semester or a year at another university — in Poland or abroad — can be spent through exchange programmes such as Erasmus+ and MOST. This section also has everything you need day to day: the timetable, the academic calendar with day colours, the rules for course registration, deadlines and forms, and information on examinations and the diploma.
 
   The quality of our teaching is confirmed by the distinction awarded to the mathematics programme by the Polish Accreditation Committee. Our graduates work at technology companies, banks and insurers, in schools and at universities — wherever rigorous thinking and the ability to solve unusual problems count.
-
-  ::::
 wstep: "Matematyka, sztuczna inteligencja w analizie danych i ISIM: studia I i II stopnia, szkoła doktorska oraz studia podyplomowe dla nauczycieli."
 wstep_en: "Mathematics, Artificial Intelligence in Data Science and ISIM: bachelor's and master's studies, a doctoral school and postgraduate studies for teachers."
 haslo: Studiuj matematykę we Wrocławiu
@@ -46,9 +42,7 @@ format_tresci: jawne
 
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Uczymy matematyki tak, jak ją uprawiamy. Zajęcia prowadzą aktywni badacze, a program łączy solidne podstawy z dużą swobodą wyboru: od pierwszego roku można dopasować poziom zajęć do swoich możliwości, a z czasem — wybrać kierunek własnego rozwoju. Studia uczą precyzyjnego myślenia, stawiania i rozwiązywania problemów oraz pracy z modelami matematycznymi i danymi, czyli umiejętności cenionych w nauce, gospodarce, technologii i edukacji.
 
@@ -59,5 +53,3 @@ Osobom, które chcą łączyć matematykę z informatyką, proponujemy kierunki 
 Na starcie nie zostajesz sam. Każdy rocznik ma swojego opiekuna, a w tutorni starsi studenci pomagają w rozwiązywaniu zadań i w nadrabianiu zaległości. Poza zajęciami działają studenckie koła naukowe, które organizują wykłady, warsztaty i szkoły, a seminaria naukowe Instytutu są otwarte dla wszystkich zainteresowanych. Semestr lub rok na innej uczelni — w Polsce albo za granicą — można spędzić w ramach programów wymiany, takich jak Erasmus+ i MOST. W tym dziale znajdziesz też wszystko, czego potrzeba na co dzień: plan zajęć, kalendarz roku akademickiego z kolorami dni, zasady zapisów na zajęcia, terminy i formularze oraz informacje o egzaminach i dyplomie.
 
 Jakość kształcenia potwierdza ocena wyróżniająca, którą Polska Komisja Akredytacyjna przyznała kierunkowi matematyka. Nasi absolwenci pracują w firmach technologicznych, bankach i towarzystwach ubezpieczeniowych, w szkołach i na uczelniach — wszędzie tam, gdzie liczy się ścisłe myślenie i umiejętność rozwiązywania nietypowych problemów.
-
-::::

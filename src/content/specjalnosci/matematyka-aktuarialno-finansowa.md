@@ -41,9 +41,7 @@ tresc_en: |
 
   ## About {#o-specjalnosci}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Actuarial and financial mathematics is about describing and pricing risk. How much should a life insurance policy cost? What reserves must an insurer hold, and how likely is its ruin? What is a derivative worth, and how do you build a portfolio that protects against price movements? To answer such questions you need probability theory and stochastic processes — and that is the core of this specialisation. It is offered in the mathematics programme in **both the first and the second cycle**.
 
@@ -78,8 +76,6 @@ tresc_en: |
   For those who enjoy probability theory and want to use it to price risk — in insurance and in financial markets. If you are not sure yet, take **Actuarial and Financial Overview** in semester 2: the course is meant to introduce the specialisation and help you decide, and if you choose a different path, it counts as an elective.
 
   :::
-
-  ::::
 
   ## Useful pages {#linki}
 
@@ -210,9 +206,7 @@ tresc_en: |
 
   ## Careers {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   According to the study programme (UWr Senate resolution no. 48/2026), graduates of this specialisation — like those of data analysis and applied mathematics — are prepared to work in sectors of the economy that require high professional competence, critical thinking and solving non-standard problems. They can find employment, for example, **in the financial and insurance sector as an actuary or a risk specialist**.
 
@@ -225,8 +219,6 @@ tresc_en: |
   - junior specialist positions in credit risk modelling, market risk analysis, model validation and capital adequacy at banks (2022),
   - a job at a mutual insurance company for a graduate or final-year student (2023),
   - earlier also, for example, work on verifying risk models submitted by insurers at the Polish Financial Supervision Authority (KNF) (2017).
-
-  ::::
 
   ## Sample thesis topics {#tematy}
 
@@ -338,9 +330,7 @@ format_tresci: jawne
 
 ## O specjalności {#o-specjalnosci}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka aktuarialno-finansowa zajmuje się opisem i wyceną ryzyka. Ile powinna kosztować polisa na życie? Jakie rezerwy musi utrzymywać ubezpieczyciel i jak duże jest prawdopodobieństwo jego ruiny? Ile jest wart instrument pochodny i jak zbudować portfel, który zabezpiecza przed zmianami cen? Do odpowiedzi na takie pytania potrzebny jest rachunek prawdopodobieństwa i procesy stochastyczne — i to one stanowią trzon tej specjalności. Jest prowadzona na kierunku matematyka **zarówno na studiach I, jak i II stopnia**.
 
@@ -375,8 +365,6 @@ Osoby, które rozpoczęły studia w lutym 2026 r. lub wcześniej, realizują dot
 Dla osób, które lubią rachunek prawdopodobieństwa i chcą go użyć do wyceny ryzyka — w ubezpieczeniach i na rynkach finansowych. Jeśli się wahasz, zapisz się w semestrze 2 na **Przegląd aktuarialno-finansowy**: ten przedmiot ma właśnie przedstawić specjalność i pomóc w jej wyborze, a jeśli wybierzesz inną drogę, zaliczy się jako przedmiot do wyboru.
 
 :::
-
-::::
 
 ## Przydatne strony {#linki}
 
@@ -507,9 +495,7 @@ Dla osób, które lubią rachunek prawdopodobieństwa i chcą go użyć do wycen
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Według programu studiów (uchwała Senatu UWr nr 48/2026) absolwent tej specjalności — podobnie jak absolwenci analizy danych i matematyki stosowanej — jest przygotowany do pracy w sektorach gospodarki wymagających wysokich kompetencji zawodowych, krytycznego myślenia i rozwiązywania nietypowych problemów. Może znaleźć zatrudnienie np. **w sektorze finansowym i ubezpieczeniowym jako aktuariusz lub specjalista ds. ryzyka**.
 
@@ -522,8 +508,6 @@ Jak to wygląda w praktyce, widać w dziale [Oferty pracy](/aktualnosci?rodzaj=k
 - stanowiska młodszego specjalisty ds. modelowania ryzyka kredytowego, analiz ryzyka rynkowego, walidacji modeli i adekwatności kapitałowej w bankach (2022),
 - praca w towarzystwie ubezpieczeń wzajemnych dla absolwenta lub studenta ostatniego roku (2023),
 - wcześniej także np. praca przy weryfikacji modeli ryzyka składanych przez ubezpieczycieli w Komisji Nadzoru Finansowego (2017).
-
-::::
 
 ## Przykładowe tematy prac {#tematy}
 

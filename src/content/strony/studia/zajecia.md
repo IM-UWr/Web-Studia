@@ -8,19 +8,13 @@ haslo_en: Registration, office hours, exams
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   A guide to classes at the Mathematical Institute: how and when to register for courses in USOSweb, which form to submit in special situations, and where to find the timetable, exam dates and lecturers' office hours. Specialisation declarations and the choice of a thesis supervisor (forms C1–C3 and E) are described on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
 
-  ::::
-
   ## Upcoming deadlines {#upcoming-deadlines}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Winter semester 2026/27:
 
@@ -33,26 +27,18 @@ tresc_en: |
 
   The full calendar of the year is on the [Academic year](/en/studia/rok-akademicki) page.
 
-  ::::
-
   ## Timetable and course offer {#timetable-and-course-offer}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Timetable:** [winter semester 2026/27](/en/studia/plan-zajec#zimowy), [summer semester 2026/27](/en/studia/plan-zajec#letni). Together with the timetable, the full list of courses offered in the semester (by category, including one-off courses) is published before the semester starts.
   - **Day colours:** classes held every other week follow the day colours, not the week parity shown in USOS — see [Day colours](/en/studia/rok-akademicki#day-colours).
   - **Course descriptions:** [course catalogue in USOSweb](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) — syllabuses, including prerequisites (the “Założenia” section).
   - **First-year timetable** and information for new students: [First year](/en/studia/pierwszy-rok).
 
-  ::::
-
   ## Office hours {#konsultacje}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Every member of staff who teaches sets aside time each week to meet students — two hours a week (PhD students: one hour). This is the best place to ask about material you do not understand: go to your lecturer or class teacher (you may also go to any other member of staff) and prepare specific questions beforehand.
 
@@ -66,13 +52,9 @@ tresc_en: |
   - also check the lecturer's profile in [USOSweb](https://usosweb.uwr.edu.pl/);
   - if in doubt, ask the lecturer in class or arrange a meeting by e-mail.
 
-  ::::
-
   ## Course registration {#course-registration}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   You register for Mathematical Institute courses yourself in [USOSweb](https://usosweb.uwr.edu.pl/). Exceptions:
 
@@ -114,13 +96,9 @@ tresc_en: |
   - For courses taught at two levels you may be registered for only one level at a time.
   - If you decide to drop a course, withdraw at once instead of waiting for registration to end — especially for classes with a limited number of places.
 
-  ::::
-
   ## Prerequisites {#prerequisites}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   A course's prerequisites are listed in USOS, in the “Założenia” section of the syllabus. Note that:
 
@@ -134,13 +112,9 @@ tresc_en: |
 
   Graduates of other universities who are unsure whether they meet the prerequisites should consult the lecturer, who takes the final decision.
 
-  ::::
-
   ## Standard and extended versions {#standard-and-extended-versions}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   The key compulsory courses of the first semesters are taught at two levels: a **standard** and an **extended version** (marked with the letter R or a Roman numeral, e.g. *Algebra liniowa 1R* (Linear algebra 1R), *Analiza matematyczna I* (Advanced calculus I)). Both cover a comparable range of material, but the extended version treats it in more depth — with complete proofs of most theorems and more emphasis on harder problems.
 
@@ -153,13 +127,9 @@ tresc_en: |
 
   A student of *mathematics* or ISIM may switch from the extended to the standard version of a compulsory course even after registration has closed: submit [Form B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) within the period agreed by the lecturers of both versions and announced by the end of the second week of classes. This switch does not use up the one-time right to withdraw from a course (A1/A2).
 
-  ::::
-
   ## Forms {#forms}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Form | Purpose | Deadline |
   | --- | --- | --- |
@@ -181,26 +151,18 @@ tresc_en: |
   2. withdrawal from an e-learning course run with Hasselt University — Form H2 (see [E-learning](#e-learning));
   3. **one-time withdrawal from a course** — once per degree (once in the bachelor's and once in the master's programme), by **30 November** (winter semester) or **30 April** (summer semester): Form A1 (bachelor's) or A2 (master's). For courses with a team project (e.g. *Zespołowy projekt specjalnościowy*, in English Specialisation team project) the lecturer's consent is also required. This right is independent of the corresponding right at the Institute of Computer Science.
 
-  ::::
-
   ## Repeating a course {#repeating-a-course}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - A student who has failed a compulsory course must register for it again at the first opportunity; repeating a course is subject to a fee.
   - Tutorials or labs you have already passed remain valid: if you failed only the exam, after registering again you attend only the lecture and take the exam. Because USOS requires registration for all forms of classes, register for **group no. 99** in that case. For courses with both tutorials and labs, this rule applies to each of them separately.
   - The rule does not apply to a new course of study (e.g. after re-admission or in the master's programme). If you are unsure whether a credit is still valid, contact the [Faculty Office](/en/studia/sprawy-studenckie).
   - For a course taught at two levels, you may choose the version of the course you repeat (the standard version is recommended).
 
-  ::::
-
   ## Exam session {#exam-session}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   In the academic year 2026/27 the winter exam session runs from 6 to 16 February 2027 and the resit session from 17 to 23 February 2027; in the summer semester — from 18 June to 1 July 2027 and from 1 to 9 September 2027 ([Academic year](/en/studia/rok-akademicki)).
 
@@ -222,13 +184,9 @@ tresc_en: |
   - The curriculum may include at most 8 exams per academic year and at most 5 per session (§ 30).
   - Check your grades in USOSweb and report a wrong or missing grade to the teacher within 3 working days. Appeals and other procedures: [Student affairs](/en/studia/sprawy-studenckie).
 
-  ::::
-
   ## E-learning {#e-learning}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ### Courses run with Hasselt University
 
@@ -258,13 +216,9 @@ tresc_en: |
 
   Pages of selected Mathematical Institute courses are on the Moodle platform [SKOS](https://skos.ii.uni.wroc.pl/course/index.php?categoryid=21).
 
-  ::::
-
   ## Other institutes and faculties {#other-institutes-and-faculties}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ### Institute of Computer Science
 
@@ -276,13 +230,9 @@ tresc_en: |
 
   You may take a course taught at another faculty of the University and count it towards your studies with the consent of the Dean of the Faculty of Mathematics and Computer Science and of the dean of the faculty offering the course (contact that faculty's office). This applies in particular to the humanities or social sciences elective and, in the master's programme, to courses in the foundations of the natural or exact sciences. The Dean decides how the course is included in your study plan; courses counted as extracurricular are not included in the settlement of your studies but are recorded in the diploma supplement (§ 28 of the Study Regulations). Request forms: [Request forms (Faculty, Polish)](https://wmi.uwr.edu.pl/dziekanat/dokumenty/formularze-podan/).
 
-  ::::
-
   ## Language courses and PE {#language-courses-and-pe}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ### Foreign language courses
 
@@ -304,39 +254,27 @@ tresc_en: |
   - Some classes are partly paid; the fee is due within 14 days of the end of the correction period, and if you do not withdraw during the correction period you are charged even if you do not attend.
   - Rules: [regulations on PE classes and assessment (Rector's order no. 148/2026, Polish)](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867).
 
-  ::::
-
   ## Contact {#contact}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Matter | Who | Contact |
   | --- | --- | --- |
   | Registration and withdrawals, timetable | Teaching office of the Mathematical Institute — Justyna Jędrzejewska-Idczak | room 315, phone 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl) |
   | Consent to enrol without meeting the prerequisites (B1) | Deputy Director for Teaching — Dr Tomasz Elsner | room 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
   | Validity of credits, passing the semester, requests to the Dean | Faculty Office (WMI) | [Student affairs](/en/studia/sprawy-studenckie) |
-
-  ::::
 opublikowany: true
 format_tresci: jawne
 ---
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Przewodnik po zajęciach w Instytucie Matematycznym: jak i kiedy zapisać się na przedmioty w USOSweb, jaki formularz złożyć w nietypowej sytuacji, gdzie szukać planu zajęć, terminów egzaminów i konsultacji prowadzących. Deklaracje specjalności i zgłoszenie promotora (formularze C1–C3 i E) opisuje strona kierunku: [Matematyka — terminy i formularze](/studia/matematyka#terminy).
 
-::::
-
 ## Najbliższe terminy {#najbliższe-terminy}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Semestr zimowy 2026/27:
 
@@ -349,26 +287,18 @@ Semestr zimowy 2026/27:
 
 Pełny kalendarz roku jest na stronie [Rok akademicki](/studia/rok-akademicki).
 
-::::
-
 ## Plan zajęć i oferta przedmiotów {#plan-zajęć-i-oferta-przedmiotów}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - **Plan zajęć:** [semestr zimowy 2026/27](/studia/plan-zajec#zimowy), [semestr letni 2026/27](/studia/plan-zajec#letni). Razem z planem przed początkiem semestru publikowana jest pełna lista przedmiotów oferowanych w danym semestrze (z podziałem na kategorie, także przedmioty oferowane jednorazowo).
 - **Kolory dni:** zajęcia odbywające się co drugi tydzień planowane są według kolorów dni, a nie parzystości tygodni podawanej w USOS — zob. [Kolory dni](/studia/rok-akademicki#kolory-dni).
 - **Opisy przedmiotów:** [katalog przedmiotów w USOSweb](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) — sylabusy, w tym wymagania wstępne (sekcja „Założenia”).
 - **Plan zajęć 1. roku** i informacje dla nowych studentów: [Pierwszy rok](/studia/pierwszy-rok).
 
-::::
-
 ## Konsultacje {#konsultacje}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Każdy pracownik prowadzący zajęcia przeznacza co tydzień czas na spotkania ze studentami — dwie godziny w tygodniu (doktoranci — godzinę). To najlepsze miejsce, żeby zapytać o niezrozumiały materiał: przyjdź do swojego wykładowcy lub prowadzącego ćwiczenia (możesz też pójść do każdego innego pracownika) i przygotuj wcześniej konkretne pytania.
 
@@ -382,13 +312,9 @@ Do tego czasu:
 - zajrzyj też do wizytówki prowadzącego w [USOSweb](https://usosweb.uwr.edu.pl/);
 - w razie wątpliwości zapytaj prowadzącego na zajęciach albo umów się z nim e-mailem.
 
-::::
-
 ## Zapisy na zajęcia {#zapisy-na-zajęcia}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Na zajęcia Instytutu Matematycznego zapisujesz się samodzielnie w [USOSweb](https://usosweb.uwr.edu.pl/). Wyjątki:
 
@@ -430,13 +356,9 @@ Na przedmioty kształcenia nauczycielskiego (kategoria N) prowadzona jest w USOS
 - Na przedmiot prowadzony na dwóch poziomach możesz być zapisany jednocześnie tylko na jednym poziomie.
 - Jeśli rezygnujesz z przedmiotu, wypisz się od razu, nie czekając na koniec zapisów — szczególnie z zajęć z ograniczoną liczbą miejsc.
 
-::::
-
 ## Wymagania wstępne {#wymagania-wstępne}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Wymagania wstępne przedmiotu znajdziesz w USOS, w sekcji „Założenia” sylabusa. Przy tym:
 
@@ -450,13 +372,9 @@ Jeśli nie spełniasz wymagań, w wyjątkowych przypadkach możesz mimo to zreal
 
 Absolwenci innych uczelni, którzy nie są pewni, czy spełniają wymagania wstępne, ustalają to z prowadzącym zajęcia — to on podejmuje ostateczną decyzję.
 
-::::
-
 ## Wersja standardowa i rozszerzona {#wersja-standardowa-i-rozszerzona}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Najważniejsze przedmioty obowiązkowe pierwszych semestrów prowadzone są na dwóch poziomach: w **wersji standardowej** i **rozszerzonej** (oznaczanej literą R lub numerem rzymskim, np. *Algebra liniowa 1R*, *Analiza matematyczna I*). Obie wersje obejmują porównywalny zakres materiału, ale rozszerzona omawia go głębiej — z pełnymi dowodami większości twierdzeń i z większym naciskiem na trudniejsze zadania.
 
@@ -469,13 +387,9 @@ Najważniejsze przedmioty obowiązkowe pierwszych semestrów prowadzone są na d
 
 Student kierunku *matematyka* lub ISIM może przenieść się z rozszerzonej na standardową wersję przedmiotu obowiązkowego także po zamknięciu zapisów: składa [Formularz B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) w terminie ustalonym wspólnie przez wykładowców obu wersji i ogłoszonym do końca drugiego tygodnia zajęć. Taka zmiana nie wykorzystuje jednorazowego prawa do wypisania się z przedmiotu (A1/A2).
 
-::::
-
 ## Formularze {#formularze}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 | Formularz | Do czego służy | Termin |
 | --- | --- | --- |
@@ -497,26 +411,18 @@ Po zamknięciu II tury wypisać się z przedmiotu można tylko w trzech sytuacja
 2. wyrejestrowanie z kursu e-learningowego z Hasselt University — Formularz H2 (zob. [E-learning](#e-learning));
 3. **jednorazowe wypisanie z przedmiotu** — raz na studiach każdego stopnia (raz na licencjackich i raz na magisterskich), do **30 listopada** (semestr zimowy) lub **30 kwietnia** (semestr letni): Formularz A1 (studia I stopnia) lub A2 (studia II stopnia). Przy przedmiotach z projektem zespołowym (np. *Zespołowy projekt specjalnościowy*) potrzebna jest dodatkowo zgoda prowadzącego. To prawo przysługuje niezależnie od analogicznego uprawnienia w Instytucie Informatyki.
 
-::::
-
 ## Powtarzanie przedmiotu {#powtarzanie-przedmiotu}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - Student, który nie zaliczył przedmiotu obowiązkowego, musi zapisać się na niego ponownie w pierwszym możliwym terminie; powtarzanie przedmiotu jest odpłatne.
 - Zaliczone wcześniej ćwiczenia lub laboratoria pozostają ważne: jeśli nie zdałeś tylko egzaminu, po ponownym zapisie chodzisz wyłącznie na wykład i przystępujesz do egzaminu. Ponieważ USOS wymaga zapisu na wszystkie formy zajęć, zapisz się wtedy do **grupy nr 99**. Przy przedmiotach z ćwiczeniami i laboratoriami zasadę stosuje się osobno do każdej z tych form.
 - Zasada nie dotyczy nowego toku studiów (np. po ponownej rekrutacji lub na studiach II stopnia). W razie wątpliwości co do ważności zaliczenia skontaktuj się z [dziekanatem](/studia/sprawy-studenckie).
 - Przy przedmiocie prowadzonym na dwóch poziomach możesz wybrać wersję powtarzanego przedmiotu (zalecana jest wersja standardowa).
 
-::::
-
 ## Sesja egzaminacyjna {#sesja-egzaminacyjna}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 W roku akademickim 2026/27 zimowa sesja egzaminacyjna trwa od 6 do 16 lutego 2027 r., a sesja poprawkowa od 17 do 23 lutego 2027 r.; w semestrze letnim — od 18 czerwca do 1 lipca 2027 r. oraz od 1 do 9 września 2027 r. ([Rok akademicki](/studia/rok-akademicki)).
 
@@ -538,13 +444,9 @@ Terminy egzaminów z wykładów nieujętych w tych harmonogramach ogłasza wykł
 - Program studiów może przewidywać najwyżej 8 egzaminów w roku akademickim i najwyżej 5 w sesji (§ 30).
 - Sprawdzaj oceny w USOSweb, a błędną lub brakującą ocenę zgłoś prowadzącemu w ciągu 3 dni roboczych. Odwołania i inne procedury: [Sprawy studenckie](/studia/sprawy-studenckie).
 
-::::
-
 ## E-learning {#e-learning}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 ### Kursy z Hasselt University
 
@@ -574,13 +476,9 @@ Szczegóły: [E-learning courses (PDF, po angielsku)](/pliki/studia/zajecia/e-le
 
 Strony wybranych przedmiotów Instytutu Matematycznego są na platformie Moodle [SKOS](https://skos.ii.uni.wroc.pl/course/index.php?categoryid=21).
 
-::::
-
 ## Inne instytuty i wydziały {#inne-instytuty-i-wydziały}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 ### Instytut Informatyki
 
@@ -592,13 +490,9 @@ O zaliczeniu przedmiotu z Instytutu Informatyki do puli przedmiotów matematyczn
 
 Przedmiot prowadzony na innym wydziale Uniwersytetu możesz zrealizować i zaliczyć do toku studiów za zgodą Dziekana Wydziału Matematyki i Informatyki oraz dziekana wydziału, który prowadzi przedmiot (w tej sprawie kontaktuj się z dziekanatem tamtego wydziału). Dotyczy to zwłaszcza przedmiotu z dziedziny nauk humanistycznych lub społecznych, a na studiach II stopnia także przedmiotów z podstaw nauk ścisłych lub przyrodniczych. Sposób uwzględnienia przedmiotu w planie studiów określa Dziekan; przedmioty zaliczone jako ponadprogramowe nie są wliczane do rozliczenia studiów, ale trafiają do suplementu do dyplomu (§ 28 Regulaminu studiów). Formularze podań: [Formularze podań (WMI)](https://wmi.uwr.edu.pl/dziekanat/dokumenty/formularze-podan/).
 
-::::
-
 ## Lektoraty i WF {#lektoraty-i-wf}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 ### Lektoraty
 
@@ -620,18 +514,12 @@ Zasady: [lektoraty — nowy program (zarządzenie Rektora nr 138/2026)](https://
 - Część zajęć jest częściowo płatna: opłatę wnosi się w ciągu 14 dni od zakończenia korekt, a kto nie wypisze się w terminie korekt, płaci także wtedy, gdy nie uczestniczy w zajęciach.
 - Zasady: [regulamin organizacji zajęć i zaliczeń wychowania fizycznego (zarządzenie Rektora nr 148/2026)](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867).
 
-::::
-
 ## Kontakt {#kontakt}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 | Sprawa | Kto | Kontakt |
 | --- | --- | --- |
 | Zapisy i wypisy z zajęć, plan zajęć | Sekretariat dydaktyczny Instytutu Matematycznego — Justyna Jędrzejewska-Idczak | pok. 315, tel. 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl) |
 | Zgoda na wpis bez spełnionych wymagań wstępnych (B1) | Zastępca dyrektora ds. dydaktycznych — dr Tomasz Elsner | pok. 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
 | Ważność zaliczeń, zaliczenie semestru, podania do dziekana | Dziekanat Wydziału Matematyki i Informatyki | [Sprawy studenckie](/studia/sprawy-studenckie) |
-
-::::

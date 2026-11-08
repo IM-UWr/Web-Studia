@@ -38,9 +38,7 @@ tresc_en: |
 
   ## About {#o-specjalnosci}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Data analysis lies where mathematical statistics, probability and computing meet: the aim is to draw reliable conclusions from data — often large and high-dimensional — and to know how far those conclusions can be trusted. The data analysis (AD) specialisation teaches both sides of this work: the mathematical theory behind statistical methods and the practical skills of programming and working with data. It is offered in the mathematics programme at both the first-cycle (bachelor's) and second-cycle (master's) level.
 
@@ -71,8 +69,6 @@ tresc_en: |
   For students who enjoy probability and statistics, want to program and work with data, and want to understand the mathematical foundations of statistical methods and machine learning. At the second-cycle level the specialisation assumes knowledge of the first-cycle courses **Programming and data analysis in R**, **Linear models** and **Statistics**.
 
   :::
-
-  ::::
 
   ## Useful pages {#linki}
 
@@ -210,17 +206,13 @@ tresc_en: |
 
   ## Careers {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   According to the study programme, graduates of the data analysis specialisation are prepared to work in sectors of the economy that require high professional competence, critical thinking and the ability to solve non-standard problems. They can work, for example, as **data analysts**. The programme stresses that today's economy, built on the analysis of large data sets, needs specialists in statistics, stochastic modelling and advanced computational techniques. Graduates of specialisations such as data analysis are needed in industry and in innovative start-ups, where a thorough understanding of data science tools is essential.
 
   After the second cycle, graduates' competences are particularly sought after in positions requiring the highest level of specialisation, such as **Data Scientist**. Graduates can not only use ready-made tools but also adapt existing methods or develop new ones. They are also prepared to continue at a doctoral school.
 
   The Institute publishes job and internship offers from employers on its website. In 2022–2026 these included positions such as Junior Data Scientist and Data Scientist, credit risk modelling and model validation specialists at banks, a data and modelling analyst at the Ministry of Health, and internships in the DATA START programme.
-
-  ::::
 
   ## Sample thesis topics {#tematy}
 
@@ -330,9 +322,7 @@ format_tresci: jawne
 
 ## O specjalności {#o-specjalnosci}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Analiza danych to dziedzina na styku statystyki matematycznej, rachunku prawdopodobieństwa i informatyki. Chodzi w niej o to, żeby z danych — często dużych i wielowymiarowych — wyciągać wiarygodne wnioski i umieć ocenić, na ile można im ufać. Specjalność analiza danych (AD) uczy obu stron tej pracy: matematycznej teorii stojącej za metodami statystycznymi oraz praktycznych umiejętności programowania i pracy z danymi. Jest prowadzona na kierunku matematyka zarówno na studiach I stopnia (licencjackich), jak i II stopnia (magisterskich).
 
@@ -363,8 +353,6 @@ Na studiach I stopnia specjalność deklarujesz pod koniec 4. semestru, a jej pr
 Dla osób, które lubią rachunek prawdopodobieństwa i statystykę, chcą programować i pracować z danymi, a przy tym rozumieć matematyczne podstawy metod statystycznych i uczenia maszynowego. Na studiach II stopnia specjalność zakłada znajomość materiału przedmiotów **Programowanie i analiza danych w R**, **Modele liniowe** i **Statystyka** ze studiów I stopnia.
 
 :::
-
-::::
 
 ## Przydatne strony {#linki}
 
@@ -502,17 +490,13 @@ Dla osób, które lubią rachunek prawdopodobieństwa i statystykę, chcą progr
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Według programu studiów absolwent specjalności analiza danych jest przygotowany do pracy w sektorach gospodarki wymagających wysokich kompetencji zawodowych, krytycznego myślenia i umiejętności rozwiązywania nietypowych problemów. Może pracować np. jako **analityk danych**. Program podkreśla, że współczesna gospodarka, oparta na analizie dużych zbiorów danych, potrzebuje specjalistów od statystyki, modelowania stochastycznego i zaawansowanych technik obliczeniowych. Absolwenci takich specjalności jak analiza danych są potrzebni w przemyśle i w innowacyjnych startupach, gdzie trzeba dogłębnie rozumieć narzędzia data science.
 
 Po studiach II stopnia kompetencje absolwenta są szczególnie pożądane na stanowiskach wymagających najwyższego poziomu specjalizacji, takich jak **Data Scientist**. Absolwent potrafi przy tym nie tylko stosować gotowe narzędzia, ale też dostosowywać istniejące metody lub opracowywać nowe. Jest również przygotowany do nauki w szkole doktorskiej.
 
 Na stronie Instytutu publikowane są oferty pracy i staży od pracodawców. W latach 2022–2026 były wśród nich m.in. stanowiska Junior Data Scientist i Data Scientist, specjalisty ds. modelowania ryzyka kredytowego i walidacji modeli w bankach, analityka ds. danych i modelowania w Ministerstwie Zdrowia oraz staże w programie DATA START.
-
-::::
 
 ## Przykładowe tematy prac {#tematy}
 

@@ -8,32 +8,22 @@ haslo_en: How to become a PhD student
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Admission to the Doctoral School of the University of Wrocław is by competition and takes place within doctoral colleges. Candidates in mathematics apply to the **Doctoral College of Mathematics**. The admission rules are adopted each year by the University Senate, and the schedule and number of places are set by orders of the Rector. This page describes the rules of the most recent admission round (for 2026/27).
 
-  ::::
-
   ## Key information {#key-information}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **You need a supervisor before you apply.** The prospective main supervisor must hold a habilitation or the title of professor. Contact details of the mathematicians are in the [staff directory](/en/pracownicy).
   - Admission is based on a **written entrance exam** in mathematics.
   - Number of places: **8** (according to the Institute's information for the 2026/27 admission round).
   - Beyond the admission limits, candidates whose doctoral stipend is funded from other sources (e.g. research projects) may also be admitted; for them a separate admission round outside the regular schedule may be announced, with the Rector's consent.
 
-  ::::
-
   ## Who can apply {#who-can-apply}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Under the admission rules for 2026/27 (UWr Senate Resolution No. 126/2025), a candidate may take part in the admission procedure if they:
 
@@ -44,13 +34,9 @@ tresc_en: |
 
   Before the exam of a candidate without a master's degree, the admissions committee decides, on the basis of the documents provided and by a majority vote, whether to admit them to the procedure.
 
-  ::::
-
   ## How admission works {#how-admission-works}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   1. **Find a supervisor.** Obtain an opinion from an independent researcher on your suitability for research, including written consent to act as your supervisor.
   2. **Register in IRKa** and pay the admission fee.
@@ -61,13 +47,9 @@ tresc_en: |
 
   A refusal of admission is an administrative decision. Within 14 days of its delivery you may request reconsideration of the case, or within 30 days file a complaint with the Provincial Administrative Court in Wrocław.
 
-  ::::
-
   ## Entrance exam {#entrance-exam}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - The exam is written. The same problems are prepared in Polish and in English; the candidate chooses the language.
   - Candidates receive **12 problems**; the committee grades the **6 best-solved** ones, each on a scale of 0–6 points.
@@ -75,13 +57,9 @@ tresc_en: |
   - Scope: courses taught in mathematics degree programmes, in particular analysis I–III, linear algebra and algebra I, differential equations, elements of metric topology and set theory, and probability and statistics.
   - Recommended reading: exam problems from previous years ([see below](#entrance-exam-problems-from-previous-years)).
 
-  ::::
-
   ## Required documents {#required-documents}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   1. The application for admission to the Doctoral School printed from the IRK system and signed by the candidate, with consent to the processing of personal data.
   2. A copy of the master's (or long-cycle master's) diploma together with the original for inspection, or a certificate of completion of studies (this year's graduates submit the diploma later); in exceptional cases justified by research achievements of the highest quality — a copy of the bachelor's diploma or a certificate of completion of the third year of a long-cycle master's programme. A diploma issued in a foreign language must be submitted with a Polish translation by a sworn translator (or a Polish consul); a diploma obtained abroad must be legalised or carry an apostille.
@@ -90,13 +68,9 @@ tresc_en: |
   5. The candidate's statement on whether they hold a doctoral degree and whether they are or have ever been a doctoral student of another college of the UWr Doctoral School or of another doctoral school.
   6. Candidates without a master's degree: an opinion from an independent researcher justifying the high level of the candidate's research achievements.
 
-  ::::
-
   ## Admission 2026/27 (completed) {#admission-202627-completed}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Stage | Date |
   | --- | --- |
@@ -119,13 +93,9 @@ tresc_en: |
   - [Rector's Order No. 85/2026 — IRKa registration procedure](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Nr-85-2026-z-dni-25.05.2026-IRKa-doktorantow_-1.pdf) · [English version](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Ordinance-85-2026-of-the-Rector-of-the-University-of-Wroclaw-of-25-May-2026-on-the-introduction-of-the-Procedure-of-registration-in-the-system-of-the-Internet-Registration-of-Candidates-IRK-.pdf)
   - Candidate's statement: [Polish version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [English version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
 
-  ::::
-
   ## Entrance exam problems from previous years {#entrance-exam-problems-from-previous-years}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Problems of the entrance exams to doctoral studies and to the Doctoral College of Mathematics (in Polish):
 
@@ -134,50 +104,34 @@ tresc_en: |
   - [2014](/pliki/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/szkola-doktorska/egzaminy/zadania2021.pdf)
   - [2024](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
 
-  ::::
-
   ## Contact {#contact}
 
-  <!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Doctoral School secretary at the Institute: Ewa Lamch, MA, room 303, phone 71 375 7494, [ewa.lamch@math.uni.wroc.pl](mailto:ewa.lamch@math.uni.wroc.pl). Head of the Doctoral College of Mathematics: Prof. Piotr Kowalski, room 502, [piotr.kowalski@math.uni.wroc.pl](mailto:piotr.kowalski@math.uni.wroc.pl).
 
   See also: [Stipends and grants](/en/studia/szkola-doktorska/stypendia-i-granty) · [Documents and forms](/en/studia/szkola-doktorska/dokumenty) · [UWr Doctoral School](https://szd.uwr.edu.pl/)
-
-  ::::
 opublikowany: true
 format_tresci: jawne
 ---
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Rekrutacja do Szkoły Doktorskiej Uniwersytetu Wrocławskiego odbywa się w drodze konkursu, w ramach kolegiów doktorskich. Kandydaci w dyscyplinie matematyka ubiegają się o przyjęcie do **Kolegium Doktorskiego Matematyki**. Zasady rekrutacji uchwala co roku Senat UWr, a harmonogram i limity przyjęć określają zarządzenia Rektora. Na tej stronie opisujemy zasady ostatniej rekrutacji (na rok 2026/27).
 
-::::
-
 ## Najważniejsze informacje {#najważniejsze-informacje}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - **Przed rejestracją musisz mieć przyszłego promotora.** Promotor główny musi mieć stopień doktora habilitowanego lub tytuł profesora. Dane kontaktowe matematyków są w [spisie pracowników](/pracownicy).
 - Podstawą przyjęcia jest **pisemny egzamin kwalifikacyjny** z matematyki.
 - Limit miejsc: **8** (według informacji Instytutu dla rekrutacji 2026/27).
 - Poza limitami przyjęć mogą być przyjęci kandydaci, których stypendium doktoranckie jest finansowane z innych źródeł (np. z projektów badawczych); dla nich, za zgodą Rektora, może być ogłoszona odrębna rekrutacja poza harmonogramem.
 
-::::
-
 ## Kto może kandydować {#kto-może-kandydować}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Według zasad rekrutacji na rok 2026/27 (uchwała Senatu UWr nr 126/2025) do postępowania kwalifikacyjnego może być dopuszczony kandydat, który:
 
@@ -188,13 +142,9 @@ Według zasad rekrutacji na rok 2026/27 (uchwała Senatu UWr nr 126/2025) do pos
 
 Przed egzaminem kandydata, który nie ma tytułu magistra, komisja rekrutacyjna na podstawie dostarczonych dokumentów decyduje (większością głosów) o dopuszczeniu go do postępowania kwalifikacyjnego.
 
-::::
-
 ## Jak przebiega rekrutacja {#jak-przebiega-rekrutacja}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 1. **Znajdź promotora.** Potrzebna jest opinia samodzielnego pracownika naukowego o Twojej przydatności do pracy naukowej, zawierająca pisemną zgodę na pełnienie funkcji promotora.
 2. **Zarejestruj się w IRKa** i wnieś opłatę rekrutacyjną.
@@ -205,13 +155,9 @@ Przed egzaminem kandydata, który nie ma tytułu magistra, komisja rekrutacyjna 
 
 Odmowa przyjęcia następuje w drodze decyzji administracyjnej. W ciągu 14 dni od jej doręczenia można złożyć wniosek o ponowne rozpatrzenie sprawy, a w ciągu 30 dni — skargę do Wojewódzkiego Sądu Administracyjnego we Wrocławiu.
 
-::::
-
 ## Egzamin kwalifikacyjny {#egzamin-kwalifikacyjny}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 - Egzamin jest pisemny. Zestawy tych samych zadań są przygotowane po polsku i po angielsku — kandydat wybiera język.
 - Kandydat otrzymuje **12 zadań**, z których komisja ocenia **6 najlepiej rozwiązanych**; każde zadanie jest punktowane w skali 0–6.
@@ -219,13 +165,9 @@ Odmowa przyjęcia następuje w drodze decyzji administracyjnej. W ciągu 14 dni 
 - Zakres: przedmioty wykładane na studiach matematycznych, w szczególności analiza I–III, algebra liniowa i algebra I, równania różniczkowe, elementy topologii metrycznej i teorii mnogości, rachunek prawdopodobieństwa i statystyka.
 - Zalecana literatura: zestawy zadań egzaminacyjnych z lat ubiegłych ([poniżej](#zadania-z-egzaminów-z-poprzednich-lat)).
 
-::::
-
 ## Wymagane dokumenty {#wymagane-dokumenty}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 1. Podanie o przyjęcie do Szkoły Doktorskiej wydrukowane z systemu IRK i podpisane przez kandydata, wraz ze zgodą na przetwarzanie danych osobowych.
 2. Kserokopia dyplomu ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich (z oryginałem do wglądu) albo zaświadczenie o ukończeniu studiów (tegoroczni absolwenci dostarczają dyplom w terminie późniejszym); w wyjątkowych przypadkach, uzasadnionych najwyższą jakością osiągnięć naukowych — kserokopia dyplomu studiów pierwszego stopnia lub zaświadczenie z dziekanatu o ukończeniu trzeciego roku jednolitych studiów magisterskich. Do dyplomu w języku obcym trzeba dołączyć tłumaczenie na język polski poświadczone przez tłumacza przysięgłego (lub polskiego konsula); dyplom uzyskany za granicą wymaga legalizacji lub apostille.
@@ -234,13 +176,9 @@ Odmowa przyjęcia następuje w drodze decyzji administracyjnej. W ciągu 14 dni 
 5. Oświadczenie kandydata o tym, czy ma stopień doktora oraz czy jest bądź kiedykolwiek był doktorantem innego kolegium Szkoły Doktorskiej UWr lub innej szkoły doktorskiej.
 6. Kandydaci bez tytułu magistra: opinia samodzielnego pracownika naukowego uzasadniająca wysoki poziom dorobku naukowego kandydata.
 
-::::
-
 ## Rekrutacja 2026/27 (zakończona) {#rekrutacja-202627-zakończona}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 | Etap | Termin |
 | --- | --- |
@@ -263,13 +201,9 @@ Dokumenty:
 - [Zarządzenie Rektora nr 85/2026 — procedura rejestracji w systemie IRKa](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Nr-85-2026-z-dni-25.05.2026-IRKa-doktorantow_-1.pdf) · [wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Ordinance-85-2026-of-the-Rector-of-the-University-of-Wroclaw-of-25-May-2026-on-the-introduction-of-the-Procedure-of-registration-in-the-system-of-the-Internet-Registration-of-Candidates-IRK-.pdf)
 - Oświadczenie kandydata do Szkoły Doktorskiej: [wersja polska (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [wersja angielska (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
 
-::::
-
 ## Zadania z egzaminów z poprzednich lat {#zadania-z-egzaminów-z-poprzednich-lat}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Zestawy zadań z egzaminów wstępnych na studia doktoranckie i do Kolegium Doktorskiego Matematyki:
 
@@ -278,16 +212,10 @@ Zestawy zadań z egzaminów wstępnych na studia doktoranckie i do Kolegium Dokt
 - [2014](/pliki/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/szkola-doktorska/egzaminy/zadania2021.pdf)
 - [2024](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
 
-::::
-
 ## Kontakt {#kontakt}
 
-<!-- PROZA: Zwykłe akapity, listy, cytaty i tabele. Aby zastosować specjalny układ, użyj opisanego bloku, np. :::etapy. Nie usuwaj końcowego :::: poniżej. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Sekretarz Szkoły Doktorskiej w Instytucie: mgr Ewa Lamch, pokój 303, tel. 71 375 7494, [ewa.lamch@math.uni.wroc.pl](mailto:ewa.lamch@math.uni.wroc.pl). Kierownik Kolegium Doktorskiego Matematyki: prof. dr hab. Piotr Kowalski, pokój 502, [piotr.kowalski@math.uni.wroc.pl](mailto:piotr.kowalski@math.uni.wroc.pl).
 
 Zobacz też: [Stypendia i granty](/studia/szkola-doktorska/stypendia-i-granty) · [Dokumenty i wzory](/studia/szkola-doktorska/dokumenty) · [Szkoła Doktorska UWr](https://szd.uwr.edu.pl/)
-
-::::

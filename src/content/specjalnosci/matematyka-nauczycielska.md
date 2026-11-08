@@ -48,9 +48,7 @@ tresc_en: |
 
   ## About {#o-specjalnosci}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   *Mathematics teaching* is the specialisation for those who want to teach mathematics in schools. It combines a solid mathematics degree with psychological, pedagogical and didactic training, and you test your skills during placements in primary and secondary schools. Teacher training is governed by the national standard for teacher training (Regulation of the Minister of Science and Higher Education of 25 July 2019), which sets out the requirements for obtaining the qualification to teach in schools; at the University of Wrocław the rules for this training are set out in Rector's Ordinance No. 13/2021. As the curriculum states, graduates of the master's programme in this specialisation are fully qualified to teach mathematics in schools.
 
@@ -83,8 +81,6 @@ tresc_en: |
   For those who want to teach mathematics in schools — and enjoy not only solving problems but also explaining them to others. You decide early: you declare this specialisation as early as the 1st semester of the bachelor's programme (by 31 December), because the teacher-training courses start in the 2nd semester. Teacher training assumes you complete the master's programme — only the master's degree gives you full teaching qualifications.
 
   :::
-
-  ::::
 
   ## Useful pages {#linki}
 
@@ -249,9 +245,7 @@ tresc_en: |
 
   ## Careers {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   The specialisation prepares you to work as a mathematics teacher. After the bachelor's degree you have a solid subject background for teaching mathematics in primary school. Full qualifications to teach mathematics in schools come with the master's degree — the master's curriculum lists the professional qualification for this specialisation as the qualification to work as a mathematics teacher. Under current regulations, teaching qualifications are granted only to holders of a master's degree.
 
@@ -260,8 +254,6 @@ tresc_en: |
   The Institute's [job offers page](/aktualnosci?rodzaj=kariera) (Polish) regularly lists schools from Wrocław and the region looking for mathematics teachers — some offers are also open to final-year students. Our graduates teach in many schools in the region: the first Lower Silesian Congress of Mathematics Teachers at our Faculty (2025) was attended by over 120 teachers, many of them our graduates.
 
   The Institute also runs a postgraduate qualification programme in *Teaching Mathematics* — see [postgraduate studies](/en/studia/podyplomowe).
-
-  ::::
 
   ## Sample thesis topics {#tematy}
 
@@ -375,9 +367,7 @@ format_tresci: jawne
 
 ## O specjalności {#o-specjalnosci}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Specjalność *matematyka nauczycielska* jest dla osób, które chcą uczyć matematyki w szkole. Łączy solidne studia matematyczne z przygotowaniem psychologicznym, pedagogicznym i dydaktycznym, a umiejętności sprawdzasz podczas praktyk w szkole podstawowej i ponadpodstawowej. Kształcenie nauczycielskie podlega standardowi kształcenia przygotowującego do wykonywania zawodu nauczyciela (rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z 25 lipca 2019 r.), który określa wymagania niezbędne do uzyskania uprawnień do nauczania w szkole; na Uniwersytecie Wrocławskim tryb tego kształcenia określa zarządzenie Rektora nr 13/2021. Jak zapisano w programie studiów, absolwent studiów II stopnia tej specjalności ma pełne kwalifikacje do nauczania matematyki w szkołach.
 
@@ -410,8 +400,6 @@ Jeśli rozpocząłeś/rozpoczęłaś studia w latach 2022/23–2025/26, obowiąz
 Dla osób, które chcą uczyć matematyki w szkole — i lubią nie tylko rozwiązywać zadania, ale też tłumaczyć je innym. Decyzję podejmujesz wcześnie: specjalność deklarujesz już w 1. semestrze studiów I stopnia (do 31 grudnia), bo przedmioty kształcenia nauczycielskiego zaczynają się w 2. semestrze. Kształcenie nauczycielskie zakłada ukończenie studiów II stopnia — pełne kwalifikacje do nauczania daje dopiero tytuł magistra.
 
 :::
-
-::::
 
 ## Przydatne strony {#linki}
 
@@ -576,9 +564,7 @@ Dla osób, które chcą uczyć matematyki w szkole — i lubią nie tylko rozwi�
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Specjalność przygotowuje do pracy nauczyciela matematyki. Po studiach I stopnia masz gruntowne przygotowanie merytoryczne do pracy nauczyciela matematyki w szkole podstawowej. Pełne kwalifikacje do nauczania matematyki w szkołach daje ukończenie studiów II stopnia — program studiów magisterskich wskazuje dla tej specjalności uprawnienie zawodowe: kwalifikacje do wykonywania zawodu nauczyciela matematyki. Zgodnie z obowiązującymi przepisami kwalifikacje do wykonywania zawodu nauczyciela otrzymują wyłącznie osoby z tytułem zawodowym magistra.
 
@@ -587,8 +573,6 @@ Według programu studiów kształcenie na tej specjalności odpowiada na istotny
 Na stronie Instytutu z [ofertami pracy](/aktualnosci?rodzaj=kariera) regularnie pojawiają się ogłoszenia szkół z Wrocławia i regionu, które szukają nauczycieli matematyki — niektóre są skierowane także do studentów ostatnich lat. Absolwenci Instytutu uczą w wielu szkołach regionu: w pierwszym Dolnośląskim Kongresie Nauczycieli Matematyki na naszym Wydziale (2025) wzięło udział ponad 120 nauczycieli, częstokroć naszych absolwentów.
 
 Instytut prowadzi też kwalifikacyjne studia podyplomowe *Nauczanie matematyki* — zobacz [studia podyplomowe](/studia/podyplomowe).
-
-::::
 
 ## Przykładowe tematy prac {#tematy}
 

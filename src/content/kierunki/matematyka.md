@@ -6,15 +6,11 @@ tresc_en: |
 
   ## About {#o-kierunku}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
 
   Studies are full-time and taught in Polish. After the bachelor's degree you can continue with the two-year master's programme.
-
-  ::::
 
   ## Why join {#dlaczego}
 
@@ -180,9 +176,7 @@ tresc_en: |
 
   ## Teaching placements {#praktyki}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Teaching placements are compulsory for students of the *mathematics teaching* specialisation. Their programme and organisation are set out in the regulations; after the placement the school issues an assessment and a completion form.
 
@@ -198,19 +192,13 @@ tresc_en: |
 
   :::
 
-  ::::
-
   ## After graduation {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Mathematics teaches precise thinking and problem solving, so graduates find work in many places: data analysis and IT, banking and insurance, research centres, schools and universities.
 
   The best master's graduates can continue at the [doctoral school](/en/studia/szkola-doktorska). Employment and salary data for mathematics graduates of the University of Wrocław are published by the national [Graduate Tracking System (ELA)](https://ela.nauka.gov.pl/).
-
-  ::::
 
   ## FAQ {#pytania}
 
@@ -323,17 +311,13 @@ baner:
 
 ## O kierunku {#o-kierunku}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka na Uniwersytecie Wrocławskim łączy solidne podstawy matematyki teoretycznej z zastosowaniami — od analizy danych i modelowania, przez ubezpieczenia, po nauczanie. Zajęcia prowadzą pracownicy naukowi Instytutu Matematycznego, jednego z najsilniejszych ośrodków matematycznych w Polsce.
 
 Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuować naukę na dwuletnich studiach magisterskich.
 
 <!-- KAFELKI: Każdy punkt listy zaczyna się od **Tytułu**, po którym jest — i opis. Jeden punkt to jeden kafelek. -->
-
-::::
 
 ## Dlaczego warto {#dlaczego}
 
@@ -527,9 +511,7 @@ Dla osób, które rozpoczęły studia przed rokiem 2022.
 
 ## Praktyki pedagogiczne {#praktyki}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczycielska*. Ich program i zasady organizacji opisuje regulamin; po praktyce szkoła wystawia ocenę kompetencji i kartę zaliczenia.
 
@@ -545,21 +527,15 @@ Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczyci
 
 :::
 
-::::
-
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka uczy precyzyjnego myślenia i rozwiązywania problemów, dlatego absolwenci znajdują pracę w wielu miejscach: w analizie danych i IT, w bankach i ubezpieczeniach, w ośrodkach badawczych, w szkołach i na uczelniach.
 
 Najlepsi absolwenci studiów magisterskich mogą kontynuować naukę w [szkole doktorskiej](/studia/szkola-doktorska). Dane o zatrudnieniu i zarobkach absolwentów matematyki na UWr publikuje ogólnopolski system [Ekonomiczne Losy Absolwentów](https://ela.nauka.gov.pl/).
 
 <!-- PYTANIA ROZWIJANE: Nagłówek ### zakończony ? tworzy pytanie. Odpowiedź trwa do następnego nagłówka. Zachowaj znak zapytania. -->
-
-::::
 
 ## Pytania i odpowiedzi {#pytania}
 

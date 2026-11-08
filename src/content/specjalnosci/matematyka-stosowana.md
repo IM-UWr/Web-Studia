@@ -38,9 +38,7 @@ tresc_en: |
 
   ## About {#o-specjalnosci}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Applied mathematics describes real-world phenomena in the language of mathematics: how a population grows, how an epidemic spreads, how a chemical substance diffuses, or how patterns form in reaction–diffusion systems. In this specialisation you learn to build such models — deterministic ones (based on differential equations) and random ones (based on stochastic processes) — to study their properties, and then to solve them numerically and test them in computer simulations.
 
@@ -73,8 +71,6 @@ tresc_en: |
   For those who enjoy differential equations and probability, want to combine mathematics with programming and computation, and are interested in applications of mathematics in the natural sciences — from population dynamics and epidemics to physics and earth sciences.
 
   :::
-
-  ::::
 
   ## Useful pages {#linki}
 
@@ -233,15 +229,11 @@ tresc_en: |
 
   ## Careers {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   According to the curriculum (UWr Senate resolution no. 48/2026), graduates of the applied mathematics specialisation — like those of data analysis and actuarial and financial mathematics — are prepared to work in sectors of the economy that require high professional competence, critical thinking and the ability to solve non-standard problems. The curriculum stresses that graduates of specialisations such as data analysis or applied mathematics are essential in industry and in innovative start-ups, where a thorough understanding of data science tools is needed; as an example of a position for graduates of the programme it names, among others, data analyst.
 
   First-cycle studies also provide good preparation for second-cycle studies, and the best master's graduates can continue at the [doctoral school](/studia/szkola-doktorska). Employment and salary data for mathematics graduates of the University of Wrocław are published by the national [Graduate Tracking System (ELA)](https://ela.nauka.gov.pl/).
-
-  ::::
 
   ## Sample thesis topics {#tematy}
 
@@ -356,9 +348,7 @@ format_tresci: jawne
 
 ## O specjalności {#o-specjalnosci}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka stosowana zajmuje się opisem rzeczywistych zjawisk językiem matematyki: jak rośnie populacja, jak szerzy się epidemia, jak dyfunduje substancja chemiczna czy jak w układach reakcji-dyfuzji powstają wzory. Na tej specjalności uczysz się budować takie modele — deterministyczne (oparte na równaniach różniczkowych) i losowe (oparte na procesach stochastycznych) — badać ich własności, a następnie rozwiązywać je numerycznie i sprawdzać w symulacjach komputerowych.
 
@@ -391,8 +381,6 @@ Opisany plan obowiązuje osoby, które rozpoczęły studia w październiku 2026 
 Dla osób, które lubią równania różniczkowe i rachunek prawdopodobieństwa, chcą łączyć matematykę z programowaniem i obliczeniami oraz interesują się zastosowaniami matematyki w naukach przyrodniczych — od dynamiki populacji i epidemii po fizykę i nauki o Ziemi.
 
 :::
-
-::::
 
 ## Przydatne strony {#linki}
 
@@ -551,15 +539,11 @@ Dla osób, które lubią równania różniczkowe i rachunek prawdopodobieństwa,
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Według programu studiów (uchwała Senatu UWr nr 48/2026) absolwenci specjalności matematyka stosowana — podobnie jak analizy danych i matematyki aktuarialno-finansowej — są przygotowani do pracy w sektorach gospodarki wymagających wysokich kompetencji zawodowych, krytycznego myślenia i umiejętności rozwiązywania nietypowych problemów. Program podkreśla, że absolwenci specjalności takich jak analiza danych czy matematyka stosowana są niezbędni w przemyśle oraz w innowacyjnych startupach, gdzie konieczne jest dogłębne zrozumienie narzędzi data science; jako przykładowe stanowisko dla absolwentów kierunku wymienia m.in. analityka danych.
 
 Studia I stopnia dają też dobre przygotowanie do studiów II stopnia, a najlepsi absolwenci studiów magisterskich mogą kontynuować naukę w [szkole doktorskiej](/studia/szkola-doktorska). Dane o zatrudnieniu i zarobkach absolwentów matematyki na UWr publikuje ogólnopolski system [Ekonomiczne Losy Absolwentów](https://ela.nauka.gov.pl/).
-
-::::
 
 ## Przykładowe tematy prac {#tematy}
 

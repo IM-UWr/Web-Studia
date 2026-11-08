@@ -6,9 +6,7 @@ tresc_en: |
 
   ## About the Doctoral College {#o-kierunku}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   The **Doctoral College of Mathematics** is part of the Doctoral School of the University of Wrocław and operates at the Faculty of Mathematics and Computer Science. Its aim is to prepare doctoral students to write a doctoral thesis and to carry out independent research and teaching in mathematics.
 
@@ -36,8 +34,6 @@ tresc_en: |
   ### People and defences
 
   The Institute's doctoral students are listed in the [staff directory](/en/pracownicy). Defence notices, theses and reviews are published on the [PhD defences](/en/obrony-doktorskie) page. All doctoral students of the University form the [Doctoral Students' Council of the University of Wrocław](https://doktoranci.uwr.edu.pl/).
-
-  ::::
 
   ## Doctoral school pages {#strony}
 
@@ -302,9 +298,7 @@ baner:
 
 ## O Kolegium Doktorskim {#o-kierunku}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 **Kolegium Doktorskie Matematyki** działa w ramach Szkoły Doktorskiej Uniwersytetu Wrocławskiego, na Wydziale Matematyki i Informatyki. Jego celem jest przygotowanie doktorantów do napisania rozprawy doktorskiej i prowadzenia samodzielnej pracy naukowo-dydaktycznej w zakresie matematyki.
 
@@ -332,8 +326,6 @@ W ciągu 14 dni od rozpoczęcia kształcenia w szkole doktorskiej doktorant jest
 ### Ludzie i obrony
 
 Doktoranci Instytutu są w [spisie pracowników](/pracownicy). Zawiadomienia o obronach, rozprawy i recenzje publikujemy na stronie [Obrony doktorskie](/obrony-doktorskie). Wszyscy doktoranci Uniwersytetu tworzą [Samorząd Doktorantów Uniwersytetu Wrocławskiego](https://doktoranci.uwr.edu.pl/).
-
-::::
 
 ## Strony szkoły doktorskiej {#strony}
 

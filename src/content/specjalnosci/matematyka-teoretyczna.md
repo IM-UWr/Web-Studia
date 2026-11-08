@@ -37,9 +37,7 @@ tresc_en: |
 
   ## About {#o-specjalnosci}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Theoretical mathematics is a specialisation offered at both bachelor's and master's level for those who want to get to know mathematics from the inside — to understand how its key theories are built and why its theorems are true. Its graduates have organised, in-depth knowledge of key mathematical theories and are fluent in carrying out rigorous proofs. The core of the specialisation is category T — a closed list of core elective courses designed to give you broad knowledge of many different areas of mathematics. That is why a high level of difficulty is not the main criterion for including a course on the list, and the number of courses from each area is deliberately limited.
 
@@ -72,8 +70,6 @@ tresc_en: |
   For those who want to understand how mathematical theories are built, enjoy getting to the heart of a proof, and are thinking about advanced master's studies and later research work — including at a university. The specialisation requires the extended (R) versions of several key courses, so be ready for a more demanding programme.
 
   :::
-
-  ::::
 
   ## Useful pages {#linki}
 
@@ -238,9 +234,7 @@ tresc_en: |
 
   ## Careers {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Theoretical mathematics is above all a path for future researchers. The curriculum (UWr Senate resolution no. 48/2026) describes it as follows:
 
@@ -250,8 +244,6 @@ tresc_en: |
   The specialisation prepares people for research and teaching at universities. Its graduates form the talent pool that keeps up the standard of higher education and the development of science.
 
   The natural next step is the [Doctoral School](/studia/szkola-doktorska). Among the Institute's research projects there are also projects in theoretical mathematics led by people holding a master's degree, e.g. “Boundaries of Helly groups” and “Free and iterative operators on fields” (see [Grants](/nauka/granty)).
-
-  ::::
 
   ## Sample thesis topics {#tematy}
 
@@ -370,9 +362,7 @@ format_tresci: jawne
 
 ## O specjalności {#o-specjalnosci}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka teoretyczna to specjalność prowadzona na studiach I i II stopnia dla osób, które chcą poznać matematykę od środka — zrozumieć, jak zbudowane są jej kluczowe teorie i dlaczego twierdzenia są prawdziwe. Jej absolwentki i absolwenci mają uporządkowaną i pogłębioną wiedzę z zakresu kluczowych teorii matematycznych oraz biegłość w przeprowadzaniu rygorystycznych dowodów twierdzeń. Trzonem specjalności jest kategoria T — zamknięta lista przedmiotów podstawowych do wyboru, pomyślana tak, by dać Ci szeroką wiedzę z różnorodnych działów matematyki. Dlatego głównym kryterium umieszczenia przedmiotu na liście nie jest wysoki poziom zaawansowania, a liczba przedmiotów z każdego działu jest celowo ograniczona.
 
@@ -405,8 +395,6 @@ Jeśli zaczęłaś lub zacząłeś studia w latach 2022/23–2025/26, obowiązuj
 Dla osób, które chcą zrozumieć, jak zbudowane są teorie matematyczne, lubią dochodzić do sedna dowodu i myślą o zaawansowanych studiach magisterskich, a potem o pracy badawczej — także na uczelni. Specjalność wymaga rozszerzonych (R) wersji kilku kluczowych przedmiotów, więc przygotuj się na bardziej wymagający tok studiów.
 
 :::
-
-::::
 
 ## Przydatne strony {#linki}
 
@@ -571,9 +559,7 @@ Dla osób, które chcą zrozumieć, jak zbudowane są teorie matematyczne, lubi�
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Matematyka teoretyczna to ścieżka przede wszystkim dla przyszłych badaczek i badaczy. Program studiów (uchwała Senatu UWr nr 48/2026) opisuje ją tak:
 
@@ -583,8 +569,6 @@ Matematyka teoretyczna to ścieżka przede wszystkim dla przyszłych badaczek i 
 Specjalność przygotowuje kadry do pracy badawczej i dydaktycznej w szkołach wyższych. Jej absolwentki i absolwenci stanowią zaplecze, które pozwala utrzymać poziom kształcenia wyższego i rozwój nauki.
 
 Naturalną kontynuacją jest [Szkoła Doktorska](/studia/szkola-doktorska). Wśród projektów badawczych Instytutu są też projekty z matematyki teoretycznej kierowane przez osoby z tytułem magistra, np. „Brzegi grup Helly’ego” i „Wolne i iteratywne operatory na ciałach” (zob. [Projekty i granty](/nauka/granty)).
-
-::::
 
 ## Przykładowe tematy prac {#tematy}
 

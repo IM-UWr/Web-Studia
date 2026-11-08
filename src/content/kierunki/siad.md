@@ -6,9 +6,7 @@ tresc_en: |
 
   ## About {#o-kierunku}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Artificial Intelligence in Data Science is a three-year (six-semester), full-time, general academic bachelor's programme run by the Mathematical Institute at the Faculty of Mathematics and Computer Science, University of Wrocław. It was launched in the 2025/26 academic year in response to labour-market demand.
 
@@ -23,8 +21,6 @@ tresc_en: |
   - statistical inference.
 
   Studies are taught in Polish and lead to the licencjat (bachelor's) degree.
-
-  ::::
 
   ## Why join {#dlaczego}
 
@@ -88,17 +84,13 @@ tresc_en: |
 
   ## After graduation {#po-studiach}
 
-  <!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-  ::::proza
+  <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Graduates have up-to-date knowledge of methods and tools for data analysis using artificial intelligence, built on a thorough grounding in mathematics and computer science. They can create AI-based services, solve practical data analysis problems, and automate and streamline operations in various industries.
 
   Example roles after graduation: data analyst, machine learning engineer, data engineer, AI researcher, AI consultant, AI start-up founder.
 
   The Faculty of Mathematics and Computer Science also runs [Artificial Intelligence](https://studia-wmi.uwr.edu.pl/si/), a master's programme taught jointly by the Institute of Computer Science and the Mathematical Institute.
-
-  ::::
 
   ## FAQ {#pytania}
 
@@ -198,9 +190,7 @@ baner:
 
 ## O kierunku {#o-kierunku}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Sztuczna inteligencja w analizie danych to trzyletnie (sześciosemestralne) stacjonarne studia I stopnia o profilu ogólnoakademickim, prowadzone w Instytucie Matematycznym na Wydziale Matematyki i Informatyki UWr. Kierunek uruchomiono w roku akademickim 2025/26 w odpowiedzi na zapotrzebowanie rynku pracy.
 
@@ -215,8 +205,6 @@ Celem studiów jest przygotowanie do rozwiązywania złożonych problemów prakt
 - wnioskowania statystycznego.
 
 Studia prowadzone są w języku polskim i kończą się uzyskaniem tytułu zawodowego licencjata.
-
-::::
 
 ## Dlaczego warto {#dlaczego}
 
@@ -280,17 +268,13 @@ Program obowiązuje cykle kształcenia rozpoczynające się od roku akademickieg
 
 ## Po studiach {#po-studiach}
 
-<!-- PROZA: Zwykły tekst zachowuje dotychczasową typografię; jawne bloki mogą stać między akapitami. -->
-
-::::proza
+<!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
 Absolwent ma nowoczesną wiedzę o metodach i narzędziach analizy danych z wykorzystaniem sztucznej inteligencji, opartą na gruntownym przygotowaniu z matematyki i informatyki. Potrafi tworzyć usługi oparte na sztucznej inteligencji, rozwiązywać praktyczne problemy analizy danych oraz automatyzować i usprawniać operacje w różnych branżach.
 
 Przykładowe role po studiach: analityk danych, inżynier uczenia maszynowego, inżynier danych, badacz AI, konsultant AI, twórca startupów AI.
 
 Na Wydziale Matematyki i Informatyki prowadzony jest także kierunek [Sztuczna inteligencja](https://studia-wmi.uwr.edu.pl/si/) — studia II stopnia, prowadzone wspólnie przez Instytut Informatyki i Instytut Matematyczny.
-
-::::
 
 ## Pytania i odpowiedzi {#pytania}
 
