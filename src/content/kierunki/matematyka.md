@@ -1,7 +1,7 @@
 ---
 nazwa: Matematyka
 nazwa_en: Mathematics
-tresc_en: |
+tresc_en: |+
   ## About
 
   Mathematics at the University of Wrocław combines a solid foundation in pure mathematics with applications — from data analysis and modelling to insurance and teaching. Classes are taught by researchers of the Mathematical Institute, one of the strongest mathematical centres in Poland.
@@ -169,11 +169,15 @@ tresc_en: |
   - [Teacher training](https://bip.uni.wroc.pl/download/attachment/33781/tekst-ujednolicony-13-2021-ksztalcenie-nauczycieli.pdf?v=1653983960)
   - [Organisation of teaching placements](https://bip.uni.wroc.pl/download/attachment/30835/nr-122-2021-rektora-uwr-z-dnia-4082021-r-w-sprawie-organizacjii-przebiegu-nauczycielskich-praktyk-zawodowych-przewidzianych-w-programach-studiow-w-uwr.pdf?v=1628079503)
 ---
+<!-- SEKCJE: Nagłówki ## tworzą sekcje i spis strony. Zachowaj ich nazwy, aby utrzymać rozpoznawane sekcje i kotwice. Akapity oddzielaj pustą linią. Komentarze HTML są instrukcjami dla redaktorów, niewidocznymi na stronie. -->
+
 ## O kierunku
 
 Matematyka na Uniwersytecie Wrocławskim łączy solidne podstawy matematyki teoretycznej z zastosowaniami — od analizy danych i modelowania, przez ubezpieczenia, po nauczanie. Zajęcia prowadzą pracownicy naukowi Instytutu Matematycznego, jednego z najsilniejszych ośrodków matematycznych w Polsce.
 
 Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuować naukę na dwuletnich studiach magisterskich.
+
+<!-- KAFELKI: Każdy punkt listy zaczyna się od **Tytułu**, po którym jest — i opis. Jeden punkt to jeden kafelek. -->
 
 ## Dlaczego warto
 
@@ -184,50 +188,65 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
 ## Jak wyglądają studia
 
+<!-- OŚ SEMESTRÓW: Numer i **Etykieta: Tytuł** tworzą krok osi. Przed dwukropkiem jest mała etykieta, po nim tytuł. Po — jest opis. Termin: i Formularz: tworzą pary etykieta–wartość. Sam link w osobnej linii tworzy przycisk. Kontynuacje wcinaj 3 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku. Nie pogrubiaj Termin:. -->
+
 ### Studia I stopnia (licencjackie)
 
-1. **Semestry 1–2: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.
-
-  Termin: Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)  
+1. **Semestry 1–2: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
+   Termin: Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)  
    Formularz: Formularz C1
 2. **Semestry 3–4: Poszerzanie i wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
    Termin: Deklaracja specjalności do 30 czerwca (4. semestr)  
    [Formularz C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
 3. **Semestry 5–6: Specjalność i dyplom licencjacki** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
+<!-- OŚ SEMESTRÓW: Jak wyżej: numer, **Etykieta: Tytuł**, separator — i opis. Linie Termin: i formularza wcinaj 3 spacjami. Na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kroku. Termin: pozostaw bez pogrubienia. -->
+
 ### Studia II stopnia (magisterskie)
 
-1. **Semestr 1: Wybór specjalności magisterskiej** — Na studiach magisterskich od początku realizujesz wybraną specjalność.
-
-  Termin: Deklaracja specjalności do 15 października  
+1. **Semestr 1: Wybór specjalności magisterskiej** — Na studiach magisterskich od początku realizujesz wybraną specjalność.  
+   Termin: Deklaracja specjalności do 15 października  
    [Formularz C3](https://forms.cloud.microsoft/e/LKA4mEgVtN)
-2. **Semestry 2–3: Seminarium i wybór promotora** — Seminarium magisterskie uczy mówienia i pisania o matematyce. Pod koniec 2. lub na początku 3. semestru wybierasz promotora i tematykę pracy.
-
-  Termin: Zgłoszenie promotora do 31 października (rekrutacja letnia) lub 31 marca (zimowa)  
+2. **Semestry 2–3: Seminarium i wybór promotora** — Seminarium magisterskie uczy mówienia i pisania o matematyce. Pod koniec 2. lub na początku 3. semestru wybierasz promotora i tematykę pracy.  
+   Termin: Zgłoszenie promotora do 31 października (rekrutacja letnia) lub 31 marca (zimowa)  
    [Formularz E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u)
 3. **Semestr 4: Praca i egzamin magisterski** — Praca magisterska i egzamin: część pisemna z zakresu specjalności oraz ustna z prezentacją pracy.
 
 Szczegóły egzaminów i prac dyplomowych: [Egzaminy i dyplom](/studia/egzaminy-i-dyplom).
 
+<!-- SPECJALNOŚCI: Pod tym nagłówkiem strona automatycznie wstawia kafelki specjalności z danych. Brak ręcznej listy jest zamierzony. Zachowaj nagłówek. -->
+
 ## Specjalności
+
+<!-- TABELA: Cztery kolumny rozdzielone |. Krótki separator |-|-|-|-| oddziela nagłówek od danych. [B1][B1] odsyła do adresu zebranego pod tabelą. Spacje wyrównują tylko plik źródłowy. -->
 
 ## Terminy i formularze
 
+| Sprawa                                                  | Kogo dotyczy                         | Termin                                        | Formularz       |
+|-|-|-|-|
+| Podanie o wpis bez spełnionych wymogów wstępnych        | studia I stopnia                     | do 1 października                             | [B1][B1]        |
+| Deklaracja specjalności (II stopień)                    | 1. semestr studiów II stopnia        | do 15 października                            | [C3][C3]        |
+| Zgłoszenie promotora i tematyki pracy magisterskiej     | studia II stopnia, rekrutacja letnia | do 31 października                            | [E][E]          |
+| Wypisanie z przedmiotu (raz na studiach danego stopnia) | wszyscy studenci                     | do 30 listopada (zima), do 30 kwietnia (lato) | [A1 / A2][A1A2] |
+| Deklaracja specjalności nauczycielskiej                 | 1. semestr studiów I stopnia         | do 31 grudnia                                 | C1              |
+| Zgłoszenie promotora i tematyki pracy magisterskiej     | studia II stopnia, rekrutacja zimowa | do 31 marca                                   | [E][E]          |
+| Deklaracja specjalności (I stopień)                     | 4. semestr studiów I stopnia         | do 30 czerwca                                 | [C2][C2]        |
+| Wpis ponad limit miejsc w grupie                        | wszyscy studenci                     | od II tury zapisów                            | [B2][B2]        |
+| Zmiana wersji rozszerzonej przedmiotu na standardową    | wszyscy studenci                     | w terminie ogłoszonym przez wykładowcę        | [B3][B3]        |
 
-| Sprawa | Kogo dotyczy | Termin | Formularz |
-| ------------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Podanie o wpis bez spełnionych wymogów wstępnych | studia I stopnia | do 1 października | [B1](https://forms.cloud.microsoft/e/RTghLnJNC5) |
-| Deklaracja specjalności (II stopień) | 1. semestr studiów II stopnia | do 15 października | [C3](https://forms.cloud.microsoft/e/LKA4mEgVtN) |
-| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja letnia | do 31 października | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |
-| Wypisanie z przedmiotu (raz na studiach danego stopnia) | wszyscy studenci | do 30 listopada (zima), do 30 kwietnia (lato) | [A1 / A2](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u) |
-| Deklaracja specjalności nauczycielskiej | 1. semestr studiów I stopnia | do 31 grudnia | C1 |
-| Zgłoszenie promotora i tematyki pracy magisterskiej | studia II stopnia, rekrutacja zimowa | do 31 marca | [E](https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u) |
-| Deklaracja specjalności (I stopień) | 4. semestr studiów I stopnia | do 30 czerwca | [C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L) |
-| Wpis ponad limit miejsc w grupie | wszyscy studenci | od II tury zapisów | [B2](https://forms.cloud.microsoft/e/YD9MMgg0PD) |
-| Zmiana wersji rozszerzonej przedmiotu na standardową | wszyscy studenci | w terminie ogłoszonym przez wykładowcę | [B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) |
+<!-- ADRESY FORMULARZY: Zmieniaj adresy poniżej. Oznaczenia odpowiadają odwołaniom w tabeli. C1 nie ma linku w oryginale. -->
 
+[B1]: https://forms.cloud.microsoft/e/RTghLnJNC5
+[C3]: https://forms.cloud.microsoft/e/LKA4mEgVtN
+[E]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNkVPUVc4SUxCTkQ5MzdSQTYyS0YxTzBHMy4u
+[A1A2]: https://forms.office.com/Pages/ResponsePage.aspx?id=-b5xKxM7MkS19B9awieNDLjzAPP4phpMtcTE0K7u9RpUNFVMTVJNNklRVUdTOEdYQzc4WFFHQTgySy4u
+[C2]: https://forms.cloud.microsoft/e/SWEQQ1YF5L
+[B2]: https://forms.cloud.microsoft/e/YD9MMgg0PD
+[B3]: https://forms.cloud.microsoft/e/h0HMFkuYvb
 
 Wszystkie formularze i zasady rejestracji: [Zajęcia i konsultacje](/studia/zajecia).
+
+<!-- ZAKŁADKI: Nagłówki ### w tej sekcji tworzą zakładki. Tekst i listy pod nagłówkiem należą do danej zakładki. Listy odnośników zawierające pliki są wyświetlane jako listy dokumentów z rozpoznanym typem pliku. -->
 
 ## Program studiów
 
@@ -257,6 +276,8 @@ Dla osób, które rozpoczęły studia przed rokiem 2022.
 
 - [Archiwalne programy studiów](/studia/archiwalne-programy)
 
+<!-- DOKUMENTY: Każdy punkt zaczyna się linkiem. Strona sama rozpoznaje typ pliku i dodaje ikonę. Jeden dokument na punkt. -->
+
 ## Praktyki pedagogiczne
 
 Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczycielska*. Ich program i zasady organizacji opisuje regulamin; po praktyce szkoła wystawia ocenę kompetencji i kartę zaliczenia.
@@ -272,6 +293,8 @@ Praktyki pedagogiczne obowiązują studentów specjalności *matematyka nauczyci
 Matematyka uczy precyzyjnego myślenia i rozwiązywania problemów, dlatego absolwenci znajdują pracę w wielu miejscach: w analizie danych i IT, w bankach i ubezpieczeniach, w ośrodkach badawczych, w szkołach i na uczelniach.
 
 Najlepsi absolwenci studiów magisterskich mogą kontynuować naukę w [szkole doktorskiej](/studia/szkola-doktorska). Dane o zatrudnieniu i zarobkach absolwentów matematyki na UWr publikuje ogólnopolski system [Ekonomiczne Losy Absolwentów](https://ela.nauka.gov.pl/).
+
+<!-- PYTANIA ROZWIJANE: Nagłówek ### zakończony ? tworzy pytanie. Odpowiedź trwa do następnego nagłówka. Zachowaj znak zapytania. -->
 
 ## Pytania i odpowiedzi
 
@@ -303,24 +326,28 @@ W tutorni (sala 202), gdzie starsi studenci pomagają w zadaniach, u opiekuna ro
 
 Trzy razy w roku: w lutym, czerwcu i wrześniu. Zasady, zakres i terminy: [Egzaminy i dyplom](/studia/egzaminy-i-dyplom).
 
+<!-- KONTAKTY: Punkt zaczyna się *rolą*, potem jest **osoba lub instytucja**. e-mail:, tel.: i pokój: tworzą pary etykieta–wartość. Kontynuacje wcinaj 2 spacjami; na końcu poprzedniej linii zostaw 2 spacje. Bez pustych linii wewnątrz kontaktu. -->
+
 ## Kontakt
 
 - *Sekretariat dydaktyczny*  
-**Justyna Jędrzejewska-Idczak**  
-e-mail: [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl)  
-tel.: 71 375 7436  
-pokój: 315
+  **Justyna Jędrzejewska-Idczak**  
+  e-mail: [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl)  
+  tel.: 71 375 7436  
+  pokój: 315
 - *Zastępca dyrektora ds. dydaktycznych*  
-**dr Tomasz Elsner**  
-e-mail: [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl)  
-pokój: 305
+  **dr Tomasz Elsner**  
+  e-mail: [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl)  
+  pokój: 305
 - *Opiekun I roku*  
-**dr Jan Kraszewski**  
-e-mail: [jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl)
+  **dr Jan Kraszewski**  
+  e-mail: [jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl)
 - *Dziekanat WMI*  
-**ul. Joliot-Curie 15**  
-e-mail: [dziekanat.wmi@uwr.edu.pl](mailto:dziekanat.wmi@uwr.edu.pl)  
-tel.: 71 375 7890
+  **ul. Joliot-Curie 15**  
+  e-mail: [dziekanat.wmi@uwr.edu.pl](mailto:dziekanat.wmi@uwr.edu.pl)  
+  tel.: 71 375 7890
+
+<!-- LINKI I PLIKI: Jeden punkt to jeden odnośnik. Jeśli sekcja zawiera plik, strona tworzy listę dokumentów i rozpoznaje ich typy. Tekst w [nawiasach] to nazwa, adres w (nawiasach) to cel linku. -->
 
 ## Akty prawne
 
@@ -334,4 +361,3 @@ tel.: 71 375 7890
 - [Wychowanie fizyczne](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867)
 - [Kształcenie przygotowujące do zawodu nauczyciela](https://bip.uni.wroc.pl/download/attachment/33781/tekst-ujednolicony-13-2021-ksztalcenie-nauczycieli.pdf?v=1653983960)
 - [Organizacja praktyk nauczycielskich](https://bip.uni.wroc.pl/download/attachment/30835/nr-122-2021-rektora-uwr-z-dnia-4082021-r-w-sprawie-organizacjii-przebiegu-nauczycielskich-praktyk-zawodowych-przewidzianych-w-programach-studiow-w-uwr.pdf?v=1628079503)
-
