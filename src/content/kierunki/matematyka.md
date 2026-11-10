@@ -345,7 +345,8 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
 :::etapy
 
-1. **Semestry 1: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia. 2. **Semestry 2–4: Przedmioty obowiązkowe i wstępny wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
+1. **Semestry 1: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
+2. **Semestry 2–4: Przedmioty obowiązkowe i wstępny wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
 3. **Semestry 5–6: Przedmioty specjalnościowe.** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
 :::
