@@ -280,9 +280,11 @@ tresc_en: |
 
   :::
 format_tresci: jawne
+opublikowany: true
 baner:
   podtytul: Studia I i II stopnia
-  opis: Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie Matematycznym Uniwersytetu Wrocławskiego.
+  opis: Trzyletnie studia licencjackie i dwuletnie magisterskie w Instytucie
+    Matematycznym Uniwersytetu Wrocławskiego.
   haslo: Od teorii do zastosowań
   liczby:
     - wartosc: 3 lata
@@ -302,7 +304,8 @@ baner:
       etykieta: kategoria naukowa dyscypliny
       etykieta_en: research category of the discipline
   podtytul_en: Bachelor's and master's studies
-  opis_en: A three-year bachelor's and a two-year master's programme at the Mathematical Institute, University of Wrocław.
+  opis_en: A three-year bachelor's and a two-year master's programme at the
+    Mathematical Institute, University of Wrocław.
   haslo_en: From theory to applications
 ---
 <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
@@ -342,13 +345,8 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
 :::etapy
 
-1. **Semestry 1–2: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
-   Termin: Specjalność nauczycielska: deklaracja do 31 grudnia (1. semestr)  
-   Formularz: Formularz C1
-2. **Semestry 3–4: Poszerzanie i wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
-   Termin: Deklaracja specjalności do 30 czerwca (4. semestr)  
-   [Formularz C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
-3. **Semestry 5–6: Specjalność i dyplom licencjacki** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
+1. **Semestry 1: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia. 2. **Semestry 2–4: Przedmioty obowiązkowe i wstępny wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
+3. **Semestry 5–6: Przedmioty specjalnościowe.** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
 :::
 
