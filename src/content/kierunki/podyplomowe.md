@@ -1,20 +1,6 @@
 ---
-tytul: Studia podyplomowe
-opis: "Kwalifikacyjne Studia Podyplomowe Nauczanie Matematyki (3 semestry): dla kogo, program, rekrutacja, opłaty i kontakt."
-tytul_en: Postgraduate studies
-opis_en: "Postgraduate Qualification Programme in Teaching Mathematics (3 semesters): who it is for, curriculum, admission, fees and contact."
-haslo: Naucz się uczyć matematyki
-haslo_en: Learn to teach mathematics
-liczby:
-  - n: "3"
-    etykieta: semestry
-    etykieta_en: semesters
-  - n: "380"
-    etykieta: godzin zajęć
-    etykieta_en: hours of classes
-  - n: "90"
-    etykieta: godzin praktyk
-    etykieta_en: hours of teaching practice
+nazwa: Studia podyplomowe
+nazwa_en: Postgraduate studies
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
@@ -98,8 +84,23 @@ tresc_en: |
   **Programme director:** Dr hab. Ziemowit Rzeszotnik, [ziemowit.rzeszotnik@uwr.edu.pl](mailto:ziemowit.rzeszotnik@uwr.edu.pl)
 
   **Contact:** Mathematical Institute, University of Wrocław, pl. Grunwaldzki 2, 50-384 Wrocław, phone +48 71 375 74 94, [ewa.lamch@uwr.edu.pl](mailto:ewa.lamch@uwr.edu.pl)
-opublikowany: true
 format_tresci: jawne
+opublikowany: true
+baner:
+  opis: 'Kwalifikacyjne Studia Podyplomowe Nauczanie Matematyki (3 semestry): dla kogo, program, rekrutacja, opłaty i kontakt.'
+  haslo: Naucz się uczyć matematyki
+  liczby:
+    - wartosc: '3'
+      etykieta: semestry
+      etykieta_en: semesters
+    - wartosc: '380'
+      etykieta: godzin zajęć
+      etykieta_en: hours of classes
+    - wartosc: '90'
+      etykieta: godzin praktyk
+      etykieta_en: hours of teaching practice
+  opis_en: 'Postgraduate Qualification Programme in Teaching Mathematics (3 semesters): who it is for, curriculum, admission, fees and contact.'
+  haslo_en: Learn to teach mathematics
 ---
 <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
