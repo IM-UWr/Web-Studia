@@ -1,6 +1,7 @@
 ---
 nazwa: Indywidualne Studia Informatyczno-Matematyczne
 nazwa_en: Individual Studies in Computer Science and Mathematics
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

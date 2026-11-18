@@ -1,6 +1,7 @@
 ---
 nazwa: Szkoła doktorska
 nazwa_en: Doctoral school
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

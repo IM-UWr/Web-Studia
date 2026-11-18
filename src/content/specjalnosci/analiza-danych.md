@@ -33,6 +33,7 @@ do_uzupelnienia:
   - Brak osobnego dokumentu specjalności AD (takiego jak spec-matematyka-stosowana.pdf dla MS) — jeśli istnieje, dodać do Dokumentów.
 nazwa: Analiza danych
 nazwa_en: Data analysis
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

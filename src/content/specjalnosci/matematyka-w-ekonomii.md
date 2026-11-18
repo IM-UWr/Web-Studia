@@ -4,6 +4,7 @@ wygaszana: true
 bez_podstrony: true
 nazwa: Matematyka w ekonomii
 nazwa_en: Mathematics in economics
+opublikowany: true
 opiekunowie: []
 baner:
   opis: Specjalność wygaszana — dostępna wyłącznie dla studentów studiujących według starego programu.

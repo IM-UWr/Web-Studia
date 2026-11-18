@@ -33,6 +33,7 @@ do_uzupelnienia:
   - Termin zgłoszenia promotora (Formularz E) — przewodnik II stopnia podaje 30 października / 30 marca, strona kierunku 31 października / 31 marca; ujednolicić.
 nazwa: Matematyka stosowana
 nazwa_en: Applied mathematics
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

@@ -36,6 +36,7 @@ do_uzupelnienia:
   - Informacje o liczbie studentów / wielkości grup — brak w źródłach.
 nazwa: Matematyka aktuarialno-finansowa
 nazwa_en: Actuarial and financial mathematics
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

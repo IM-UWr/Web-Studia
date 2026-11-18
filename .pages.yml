@@ -20,6 +20,11 @@ content:
       - name: tytul_en
         label: Tytuł EN
         type: string
+      - name: opublikowany
+        label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
+        description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
+        type: boolean
+        default: true
       - name: body
         label: Treść
         description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony. To tekst sekcji „O studiach”; kafelki i ramka korzystają z pozostałych danych."
@@ -100,6 +105,11 @@ content:
       - name: nazwa_en
         label: Nazwa EN
         type: string
+      - name: opublikowany
+        label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
+        description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
+        type: boolean
+        default: true
       - name: body
         label: Treść Markdown
         type: code
@@ -117,10 +127,6 @@ content:
         type: string
         hidden: true
         default: jawne
-      - name: opublikowany
-        label: Uwzględniaj w zestawieniach
-        type: boolean
-        default: true
       - name: baner
         label: Baner
         type: object
@@ -194,6 +200,11 @@ content:
       - name: nazwa_en
         label: Nazwa EN
         type: string
+      - name: opublikowany
+        label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
+        description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
+        type: boolean
+        default: true
       - name: body
         label: Treść Markdown
         type: code
@@ -308,10 +319,6 @@ content:
         type: string
         list: true
         hidden: true
-      - name: opublikowany
-        label: Uwzględniaj w zestawieniach
-        type: boolean
-        default: true
       - name: baner
         label: Baner
         type: object
@@ -428,6 +435,11 @@ content:
       - name: tytul_en
         label: Tytuł EN
         type: string
+      - name: opublikowany
+        label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
+        description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
+        type: boolean
+        default: true
       - name: body
         label: Treść
         type: code
@@ -495,11 +507,6 @@ content:
               label: Tylko menu działu (podstrony)
             - name: brak
               label: Bez prawego paska (strona na całą szerokość)
-      - name: opublikowany
-        label: Uwzględniaj w zestawieniach
-        type: boolean
-        default: true
-        hidden: true
   - name: rok-akademicki
     label: Rok akademicki — tekst strony
     description: Kolory, terminy semestru, dni wolne i zamiany dni wpisuje się w „Kalendarz zajęć (kolory dni)”; tu tylko tekst.

@@ -1,6 +1,7 @@
 ---
 tytul: Studia
 tytul_en: Study
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 

@@ -43,6 +43,7 @@ do_uzupelnienia:
   - Seminarium badawcze lub koło naukowe związane ze specjalnością (na starej stronie jest tylko wzmianka z 2010 r. o SKN Matematyków Specjalności Nauczycielskiej) — czy istnieje.
 nazwa: Matematyka nauczycielska
 nazwa_en: Mathematics teaching
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

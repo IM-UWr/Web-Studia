@@ -32,6 +32,7 @@ do_uzupelnienia:
   - Opisy przedmiotów Teoria grafów i Języki formalne i złożoność obliczeniowa pochodzą z treści programowych uchwały 48/2026 (brak stron tych przedmiotów w katalogu USOS z kodem 28-MT)
 nazwa: Matematyka teoretyczna
 nazwa_en: Theoretical mathematics
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 

@@ -1,6 +1,7 @@
 ---
 nazwa: Sztuczna inteligencja w analizie danych
 nazwa_en: Artificial Intelligence in Data Science
+opublikowany: true
 tresc_en: |
   <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 
