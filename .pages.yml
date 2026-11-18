@@ -60,6 +60,7 @@ content:
           - name: wartosc
             label: Wartość (krótko, np. A+, PKA)
             type: string
+            required: true
           - name: wartosc_en
             label: "EN: wartość (puste = jak po polsku, np. liczby i lata)"
             type: string
@@ -69,6 +70,9 @@ content:
           - name: opis_en
             label: "EN: opis"
             type: string
+          - name: pozycja
+            type: boolean
+            hidden: true
       - name: sekretariat_zakres
         label: "Kontakt: czym zajmuje się sekretariat dydaktyczny"
         hidden: true
@@ -141,9 +145,11 @@ content:
               - name: wartosc
                 label: Wartość
                 type: string
+                required: true
               - name: etykieta
                 label: Podpis
                 type: string
+                required: true
               - name: etykieta_krotka
                 label: Krótszy podpis na telefon
                 type: string
@@ -156,6 +162,9 @@ content:
               - name: etykieta_krotka_en
                 label: "EN: krótszy podpis na telefon"
                 type: string
+              - name: pozycja
+                type: boolean
+                hidden: true
           - name: podtytul_en
             label: "EN: nadtytuł"
             type: string
@@ -230,6 +239,9 @@ content:
           - name: rola_en
             label: Rola EN
             type: string
+          - name: pozycja
+            type: boolean
+            hidden: true
       - name: zaklad
         label: Zakład
         type: select
@@ -344,6 +356,9 @@ content:
               - name: etykieta_en
                 label: Podpis EN
                 type: string
+              - name: pozycja
+                type: boolean
+                hidden: true
   - name: przypomnienia
     label: Przypomnienia o terminach
     description: "Terminy, które strona główna (Najbliższe wydarzenia) pokazuje kilka dni wcześniej, np. deklaracja specjalności. Po kliknięciu: link (zwykle tabela terminów na stronie kierunku)."
@@ -464,6 +479,9 @@ content:
           - name: etykieta_en
             label: "EN: podpis"
             type: string
+          - name: pozycja
+            type: boolean
+            hidden: true
       - name: pasek_boczny
         label: "Prawy pasek: spis „Na tej stronie”, menu działu czy oba (puste = domyślnie tylko spis)"
         type: select
@@ -607,36 +625,43 @@ content:
               - name: semestr_od
                 label: Semestr od
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: semestr_do
                 label: Semestr do
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: inauguracja
                 label: Uroczysta inauguracja roku (zwykle tylko zimą)
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: sesja_od
                 label: Sesja egzaminacyjna od
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: sesja_do
                 label: Sesja egzaminacyjna do
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: poprawkowa_od
                 label: Sesja poprawkowa od
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: poprawkowa_do
                 label: Sesja poprawkowa do
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: przerwy
@@ -650,13 +675,19 @@ content:
                   - name: od
                     label: Od
                     type: date
+                    required: true
+                    default: ""
                     options:
                       format: yyyy-MM-dd
                   - name: do
                     label: Do
                     type: date
+                    default: ""
                     options:
                       format: yyyy-MM-dd
+                  - name: pozycja
+                    type: boolean
+                    hidden: true
           - name: wolne
             label: Dni wolne od zajęć (święta ustawowe dodają się same)
             type: object
@@ -668,11 +699,14 @@ content:
               - name: od
                 label: Od
                 type: date
+                required: true
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: do
                 label: Do (puste = jeden dzień)
                 type: date
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: opis
@@ -681,6 +715,9 @@ content:
               - name: opis_en
                 label: "EN: opis"
                 type: string
+              - name: pozycja
+                type: boolean
+                hidden: true
           - name: zamiany
             label: Zamiany dni (np. w piątek zajęcia środowe)
             type: object
@@ -692,11 +729,14 @@ content:
               - name: data
                 label: Data
                 type: date
+                required: true
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: jak_dzien
                 label: Zajęcia według planu
                 type: select
+                required: true
                 options:
                   values:
                     - name: pon
@@ -709,6 +749,9 @@ content:
                       label: czwartku
                     - name: pt
                       label: piątku
+              - name: pozycja
+                type: boolean
+                hidden: true
           - name: wyjatki
             label: "Wyjątki: ręczny kolor jednego dnia (normalnie puste)"
             type: object
@@ -720,17 +763,23 @@ content:
               - name: data
                 label: Data
                 type: date
+                required: true
+                default: ""
                 options:
                   format: yyyy-MM-dd
               - name: kolor
                 label: Kolor
                 type: select
+                required: true
                 options:
                   values:
                     - name: niebieski
                       label: niebieski
                     - name: pomaranczowy
                       label: pomarańczowy
+              - name: pozycja
+                type: boolean
+                hidden: true
           - name: pdf
             label: Kalendarz PDF (opcjonalnie)
             type: file
