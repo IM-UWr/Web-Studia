@@ -35,6 +35,7 @@ o_studiach_fakty:
     wartosc_en: Tutoring room
     opis: starsi studenci pomagają osobom z pierwszego roku
     opis_en: older students help first-year students
+    adres: /studia/tutornia
 sekretariat_zakres: Zapisy i wypisy z zajęć, plan zajęć, deklaracje wyboru specjalności i promotora.
 sekretariat_zakres_en: Course registration and withdrawals, timetable, choice of specialisation and thesis supervisor.
 format_tresci: jawne

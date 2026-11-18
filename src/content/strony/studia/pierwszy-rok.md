@@ -20,7 +20,7 @@ tresc_en: |
 
   - [Guide for new mathematics students (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf) — required reading, please read it carefully.
   - [First-semester timetable for mathematics — corrected version of 9 October 2026 (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf). If in doubt, the most up-to-date (though less convenient) version is the [winter-semester timetable](/en/studia/plan-zajec#zimowy).
-  - The [tutoring room](/en/aktualnosci/2026-10-17-rusza-tutornia) has been open in room 202 since 19 October — the tutors' schedule is attached to the announcement.
+  - The [tutoring room](/en/studia/tutornia) has been open in room 202 since 19 October — the duty schedule is on the tutoring room page.
   - The [winter exam timetable](#first-year-exams) is available.
   - Accounts in the University systems (USOSweb and Office 365) have been created for you, and the login details were sent to the e-mail address you gave during admission. Please activate these accounts.
 
@@ -240,7 +240,7 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/en/aktualnosci/2026-10-17-rusza-tutornia).
+  - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/en/studia/tutornia).
   - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/en/studia/zajecia#konsultacje).
   - **Year coordinator** and **Prof. Ewa Damek** — see [Year coordinator and key people](#year-coordinator-and-key-people).
   - **Lecture notes** — free lecture notes and problem collections, including for Analiza matematyczna 1–2 and Wstęp do matematyki: [Lecture notes](/en/studia/skrypty).
@@ -375,7 +375,7 @@ Przewodnik dla osób zaczynających studia licencjackie w Instytucie Matematyczn
 
 - [Przewodnik dla nowo przyjętych studentów matematyki (PDF)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf) — lektura obowiązkowa, proszę czytać uważnie.
 - [Plan zajęć 1. semestru na kierunku matematyka — wersja poprawiona z 9 października 2026 r. (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf). W razie wątpliwości najbardziej aktualna, choć mniej wygodna, jest [ta wersja planu](/studia/plan-zajec#zimowy).
-- Od 19 października w sali 202 działa [tutornia](/aktualnosci/2026-10-17-rusza-tutornia) — plan dyżurów tutorów jest w załączniku do ogłoszenia.
+- Od 19 października w sali 202 działa [tutornia](/studia/tutornia) — plan dyżurów jest na stronie tutorni.
 - Dostępny jest [harmonogram egzaminów sesji zimowej](#egzaminy-pierwszego-roku).
 - Zostały dla Państwa utworzone konta w systemach UWr (USOSweb i Office 365), a dane dostępowe wysłano na adres e-mail podany podczas rekrutacji. Proszę aktywować te konta.
 
@@ -595,7 +595,7 @@ Rady z przewodnika:
 
 <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-- **Tutornia** (sala 202, poziom 200) — pokój wspólnej nauki, w którym starsi studenci (tutorzy) pomagają w rozwiązywaniu zadań. W semestrze zimowym 2026/27 działa od 19 października — [plan dyżurów tutorów](/aktualnosci/2026-10-17-rusza-tutornia).
+- **Tutornia** (sala 202, poziom 200) — pokój wspólnej nauki, w którym starsi studenci (tutorzy) pomagają w rozwiązywaniu zadań. W semestrze zimowym 2026/27 działa od 19 października — [plan dyżurów tutorów](/studia/tutornia).
 - **Konsultacje** — każdy prowadzący zajęcia ma dwie godziny konsultacji w tygodniu (doktoranci — godzinę). Najłatwiej pójść do swojego wykładowcy lub ćwiczeniowca; przygotuj się i wiedz, czego nie rozumiesz. Wykaz: [Konsultacje](/studia/zajecia#konsultacje).
 - **Opiekun roku** i **prof. Ewa Damek** — zob. [Opiekun roku i ważne osoby](#opiekun-roku-i-ważne-osoby).
 - **Skrypty** — bezpłatne skrypty i zbiory zadań, m.in. do Analizy matematycznej 1–2 i Wstępu do matematyki: [Skrypty](/studia/skrypty).
