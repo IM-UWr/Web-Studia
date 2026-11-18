@@ -1,3 +1,4 @@
+# Zlecenie 40: pola EN pod polskimi, etykiety „… EN”, usunięty krótszy podpis liczb kierunku (etykieta_krotka), opisy pól, które strona pokazuje inaczej, niż mówiła etykieta.
 media:
   input: public/pliki
   output: /pliki
@@ -43,16 +44,17 @@ content:
         hidden: true
         default: jawne
       - name: wstep
-        label: Wstęp pod tytułem (1–3 zdania)
+        label: Opis strony dla Google (1–2 zdania)
+        description: Trafia do Google i do podglądu linku; na samej stronie się nie wyświetla. Np. „Matematyka, sztuczna inteligencja w analizie danych…”. Puste = ogólny opis serwisu.
         type: text
       - name: wstep_en
-        label: "EN: wstęp"
+        label: "Opis strony dla Google EN"
         type: text
       - name: haslo
         label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
         type: string
       - name: haslo_en
-        label: "EN: hasło na banerze"
+        label: "Hasło na banerze EN"
         type: string
       - name: o_studiach_fakty
         label: Ramka „W skrócie” obok tekstu „O studiach” (komputer; puste = bez ramki; nie powtarzaj liczb z banera)
@@ -67,13 +69,13 @@ content:
             type: string
             required: true
           - name: wartosc_en
-            label: "EN: wartość (puste = jak po polsku, np. liczby i lata)"
+            label: "Wartość EN (puste = jak po polsku, np. liczby i lata)"
             type: string
           - name: opis
             label: Opis pod wartością
             type: string
           - name: opis_en
-            label: "EN: opis"
+            label: "Opis EN"
             type: string
           - name: pozycja
             type: boolean
@@ -83,7 +85,7 @@ content:
         hidden: true
         type: string
       - name: sekretariat_zakres_en
-        label: "EN: zakres sekretariatu"
+        label: "Zakres sekretariatu EN"
         hidden: true
         type: string
   - name: kierunki
@@ -133,12 +135,23 @@ content:
         fields:
           - name: podtytul
             label: Nadtytuł (np. Studia I i II stopnia)
+            description: "Na stronie się nie wyświetla: strona liczy z niego (i z Treści) stopnie studiów na stronie „Studia”, np. „Studia I i II stopnia”."
+            type: string
+          - name: podtytul_en
+            label: "Nadtytuł EN"
+            description: Na stronie się nie wyświetla.
             type: string
           - name: opis
             label: Zdanie pod nazwą
             type: text
+          - name: opis_en
+            label: "Zdanie pod nazwą EN"
+            type: text
           - name: haslo
             label: Hasło (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+            type: string
+          - name: haslo_en
+            label: "Hasło EN"
             type: string
           - name: liczby
             label: Liczby (np. 3 lata — studia I stopnia)
@@ -152,34 +165,19 @@ content:
                 label: Wartość
                 type: string
                 required: true
+              - name: wartosc_en
+                label: "Wartość EN (puste = jak po polsku, np. liczby)"
+                type: string
               - name: etykieta
                 label: Podpis
                 type: string
                 required: true
-              - name: etykieta_krotka
-                label: Krótszy podpis na telefon
-                type: string
-              - name: wartosc_en
-                label: "EN: wartość (puste = jak po polsku, np. liczby)"
-                type: string
               - name: etykieta_en
-                label: "EN: podpis"
-                type: string
-              - name: etykieta_krotka_en
-                label: "EN: krótszy podpis na telefon"
+                label: "Podpis EN"
                 type: string
               - name: pozycja
                 type: boolean
                 hidden: true
-          - name: podtytul_en
-            label: "EN: nadtytuł"
-            type: string
-          - name: opis_en
-            label: "EN: zdanie pod nazwą"
-            type: text
-          - name: haslo_en
-            label: "EN: hasło"
-            type: string
   - name: specjalnosci
     label: Specjalności
     type: collection
@@ -327,13 +325,13 @@ content:
             label: Jedno zdanie pod nazwą
             type: text
           - name: opis_en
-            label: "EN: zdanie pod nazwą"
+            label: "Zdanie pod nazwą EN"
             type: text
           - name: haslo
             label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
             type: string
           - name: haslo_en
-            label: "EN: hasło na banerze"
+            label: "Hasło na banerze EN"
             type: string
           - name: skrot
             label: Skrót (np. AD)
@@ -342,7 +340,7 @@ content:
             label: Poziom (np. studia I i II stopnia)
             type: string
           - name: poziom_en
-            label: "EN: poziom"
+            label: "Poziom EN"
             type: string
           - name: liczby
             label: Liczby w banerze
@@ -385,8 +383,14 @@ content:
             label: Sprawa (np. Deklaracja specjalności (I stopień))
             type: string
             required: true
+          - name: sprawa_en
+            label: "Sprawa EN"
+            type: string
           - name: podpis
             label: Podpis pod sprawą (np. 4. semestr studiów I stopnia · formularz C2)
+            type: string
+          - name: podpis_en
+            label: "Podpis EN"
             type: string
           - name: data
             label: Data
@@ -404,12 +408,6 @@ content:
             default: 14
           - name: adres
             label: Link (np. /studia/matematyka#terminy)
-            type: string
-          - name: sprawa_en
-            label: "EN: sprawa"
-            type: string
-          - name: podpis_en
-            label: "EN: podpis"
             type: string
           - name: uid
             label: Identyfikator w kalendarzach (techniczne, nie zmieniać)
@@ -458,16 +456,18 @@ content:
         hidden: true
         default: jawne
       - name: opis
-        label: Krótki opis (pod tytułem i w Google)
+        label: Krótki opis (Google i podgląd linku)
+        description: Na samej stronie się nie wyświetla. Puste = ogólny opis serwisu.
         type: text
       - name: opis_en
-        label: "EN: opis"
+        label: "Krótki opis EN"
         type: text
       - name: haslo
-        label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+        label: Hasło na banerze (jedna linia)
+        description: "Hasło i liczby (pole „Liczby…” niżej) pokazują się na banerze tylko razem: samo hasło albo same liczby się nie wyświetlają."
         type: string
       - name: haslo_en
-        label: "EN: hasło na banerze"
+        label: "Hasło na banerze EN"
         type: string
       - name: liczby
         label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
@@ -482,14 +482,14 @@ content:
             type: string
             required: true
           - name: n_en
-            label: "EN: liczba (puste = jak po polsku)"
+            label: "Liczba EN (puste = jak po polsku)"
             type: string
           - name: etykieta
             label: Podpis
             type: string
             required: true
           - name: etykieta_en
-            label: "EN: podpis"
+            label: "Podpis EN"
             type: string
           - name: pozycja
             type: boolean
@@ -554,13 +554,13 @@ content:
         label: Krótki opis
         type: text
       - name: opis_en
-        label: "EN: opis"
+        label: "Opis EN"
         type: text
       - name: haslo
         label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
         type: string
       - name: haslo_en
-        label: "EN: hasło na banerze"
+        label: "Hasło na banerze EN"
         type: string
   - name: kolory-dni
     label: Kalendarz zajęć (kolory dni)
@@ -585,16 +585,16 @@ content:
           - name: tytul
             label: Tytuł (szablon)
             type: string
+          - name: tytul_en
+            label: "Tytuł EN (szablon)"
+            type: string
           - name: tresc
             label: Treść (szablon, Markdown)
             type: code
             options:
               format: markdown
-          - name: tytul_en
-            label: "EN: tytuł (szablon)"
-            type: string
           - name: tresc_en
-            label: "EN: treść (szablon)"
+            label: "Treść EN (szablon)"
             type: code
             options:
               format: markdown
@@ -611,7 +611,7 @@ content:
             type: string
             required: true
           - name: nazwa_en
-            label: "EN: nazwa"
+            label: "Nazwa EN"
             type: string
           - name: poczatek
             label: Pierwszy dzień zajęć
@@ -720,7 +720,7 @@ content:
                 label: Opis (np. Przerwa świąteczna)
                 type: string
               - name: opis_en
-                label: "EN: opis"
+                label: "Opis EN"
                 type: string
               - name: pozycja
                 type: boolean
@@ -796,7 +796,7 @@ content:
             label: Uwaga nad kalendarzem (opcjonalnie)
             type: text
           - name: uwagi_en
-            label: "EN: uwaga"
+            label: "Uwaga EN"
             type: text
   - name: katalog-pracownikow
     label: Katalog opiekunów (tylko odczyt)

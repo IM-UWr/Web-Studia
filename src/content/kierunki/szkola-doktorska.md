@@ -286,8 +286,6 @@ baner:
     - wartosc: "270"
       etykieta: godzin zajęć obowiązkowych
       etykieta_en: hours of compulsory courses
-      etykieta_krotka: godzin zajęć
-      etykieta_krotka_en: hours of courses
     - wartosc: PL / EN
       etykieta: zajęcia po polsku lub angielsku
       etykieta_en: courses in Polish or English

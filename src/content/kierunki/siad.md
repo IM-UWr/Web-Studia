@@ -175,13 +175,9 @@ baner:
     - wartosc: "180"
       etykieta: punktów ECTS do ukończenia studiów
       etykieta_en: ECTS credits to graduate
-      etykieta_krotka: punktów ECTS
-      etykieta_krotka_en: ECTS credits
     - wartosc: "70"
       etykieta: punktów ECTS za zajęcia do wyboru
       etykieta_en: ECTS credits from electives
-      etykieta_krotka: ECTS do wyboru
-      etykieta_krotka_en: elective ECTS
     - wartosc: licencjat
       wartosc_en: Bachelor's
       etykieta: tytuł zawodowy

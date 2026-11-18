@@ -297,9 +297,7 @@ baner:
       etykieta_en: master's studies
     - wartosc: "5"
       etykieta: specjalności do wyboru
-      etykieta_krotka: specjalności
       etykieta_en: specialisations
-      etykieta_krotka_en: specialisations
     - wartosc: A+
       etykieta: kategoria naukowa dyscypliny
       etykieta_en: research category of the discipline

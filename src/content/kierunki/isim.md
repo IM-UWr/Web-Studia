@@ -280,8 +280,6 @@ baner:
     - wartosc: "210"
       etykieta: punktów ECTS do ukończenia studiów
       etykieta_en: ECTS credits to graduate
-      etykieta_krotka: punktów ECTS
-      etykieta_krotka_en: ECTS credits
     - wartosc: licencjat
       wartosc_en: Bachelor's
       etykieta: tytuł zawodowy absolwenta
@@ -289,8 +287,6 @@ baner:
     - wartosc: "2"
       etykieta: instytuty prowadzące kierunek
       etykieta_en: institutes running the programme
-      etykieta_krotka: instytuty prowadzące
-      etykieta_krotka_en: partner institutes
 ---
 <!-- UKŁAD JAWNY: Bloki :::nazwa … ::: sterują wyglądem. Nagłówki można zmieniać; {#id} zachowuje adres sekcji. Nie usuwaj końcowych znaczników. -->
 
