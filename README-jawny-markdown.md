@@ -13,6 +13,6 @@ Otwierając Pages CMS wybierz repozytorium Web-Studia i branch `main`. Wszystkie
 
 [Pełna instrukcja nowego Markdownu i znaczników](https://github.com/IM-UWr/Web-Core/blob/main/dok/jawny-markdown.md).
 
-`_cms/pracownicy` to katalog nazwisk do listy wyboru, bez danych kontaktowych. Nie edytuj go ręcznie. Po zmianie spisu pracowników odświeża go skrypt `synchronizuj-katalog-opiekunow.mjs` w Web-Core. Nie zmieniaj nazw plików istniejących pracowników: są identyfikatorami powiązań.
+`_cms/pracownicy` to katalog nazwisk do listy wyboru, bez danych kontaktowych. Nie edytuj go ręcznie. Po zmianie spisu pracowników odświeża go automat w Web-Pracownicy (do czasu jego włączenia skrypt `synchronizuj-katalog-pracownikow.mjs` w Web-Core; zlecenie 42). Osoba, która odeszła, zostaje w katalogu z dopiskiem „(były pracownik)”. Nie zmieniaj nazw plików istniejących pracowników: są identyfikatorami powiązań.
 
 Treści wymagają odpowiadającego parsera w Web-Core/main. Gdy zmieniasz sam tekst w CMS, zachowaj znaczniki bloków i identyfikatory sekcji. Przy zmianach formatu trzeba aktualizować kod i treści razem.
