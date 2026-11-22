@@ -1,8 +1,17 @@
 # Zlecenie 40: pola EN pod polskimi, etykiety „… EN”, usunięty krótszy podpis liczb kierunku (etykieta_krotka), opisy pól, które strona pokazuje inaczej, niż mówiła etykieta.
 # Zlecenie 42: wspólny „Katalog pracowników” (z polem „Pracuje w Instytucie”), wyszukiwanie opiekuna po nazwisku z polskimi literami.
+# Media (22.11.2026): tylko własne foldery repozytorium. Na stronie pliki ze wszystkich repozytoriów są we wspólnym /pliki,
+# a ten sam plik w dwóch repozytoriach zatrzymuje budowę; osobne foldery to wykluczają. Pilnuje skrypty/sprawdz_pola_cms.py (Web-Core).
 media:
-  input: public/pliki
-  output: /pliki
+- name: studia
+  label: 'Media: studia'
+  input: public/pliki/studia
+  output: /pliki/studia
+  rename: safe
+- name: szkola-doktorska
+  label: 'Media: szkoła doktorska'
+  input: public/pliki/szkola-doktorska
+  output: /pliki/szkola-doktorska
   rename: safe
 settings:
   commit:
@@ -797,6 +806,7 @@ content:
             label: Kalendarz PDF (opcjonalnie)
             type: file
             options:
+              media: studia
               path: public/pliki/studia/kolory-dni
           - name: uwagi
             label: Uwaga nad kalendarzem (opcjonalnie)
