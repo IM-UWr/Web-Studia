@@ -120,7 +120,7 @@ tresc_en: |
 
   :::pliki
 
-  - [Programme of the Doctoral College of Mathematics (cohorts from 2026/27, Polish)](/pliki/szkola-doktorska/programy/program_matematyka_od_2026_2027.pdf)
+  - [Programme of the Doctoral College of Mathematics (cohorts from 2026/27, Polish)](/pliki/studia/szkola-doktorska/programy/program_matematyka_od_2026_2027.pdf)
   - [UWr Senate Resolution No. 127/2025 amending the doctoral school programmes (Polish)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/Uchwala-Nr-127_2025-Senatu-UWr-zmieniajaca-uchwale-nr-161_2020-w-spr.programow-ksztalcenia-w-SD-UWr-dla-cykli-ksztalcenia-rozpoczynajacych-sie-w-r.a.2021_2022-i-nastepnych.pdf)
 
   :::
@@ -133,7 +133,7 @@ tresc_en: |
 
   :::pliki
 
-  - [UWr Senate Resolution No. 161/2024 — programmes for cohorts from 2025/26 (Polish)](/pliki/szkola-doktorska/programy/uchwala_nr_161_2024_senatu_uwr_z_2024-12-18_zm.uchwale_w_sprawie_programow_ksztalcenia_w_szkole_doktorskiej_w_r.a.2021_2022_i_nastepnych.pdf)
+  - [UWr Senate Resolution No. 161/2024 — programmes for cohorts from 2025/26 (Polish)](/pliki/studia/szkola-doktorska/programy/uchwala_nr_161_2024_senatu_uwr_z_2024-12-18_zm.uchwale_w_sprawie_programow_ksztalcenia_w_szkole_doktorskiej_w_r.a.2021_2022_i_nastepnych.pdf)
   - [Resolution No. 28/2024 on the programme of the Doctoral College of Mathematics from 2025/26 (Polish, BIP)](https://bip.uni.wroc.pl/download/attachment/43389/uchwala-nr-28-2024-w-sprawie-programu-ksztalcenia-do-kolegium-doktorskiego-matematyki-od-roku-akademickiego-2025_2026.pdf)
 
   :::
@@ -146,8 +146,8 @@ tresc_en: |
 
   :::pliki
 
-  - [Programme of the Doctoral College of Mathematics (from 2024/25, Polish)](/pliki/szkola-doktorska/programy/program_kdmat_od_2024_2025.pdf)
-  - [UWr Senate Resolution No. 224/2023 — programmes for cohorts from 2024/25 (Polish)](/pliki/szkola-doktorska/programy/uchwala_nr_224_2023_programy_ksztalcenia.pdf)
+  - [Programme of the Doctoral College of Mathematics (from 2024/25, Polish)](/pliki/studia/szkola-doktorska/programy/program_kdmat_od_2024_2025.pdf)
+  - [UWr Senate Resolution No. 224/2023 — programmes for cohorts from 2024/25 (Polish)](/pliki/studia/szkola-doktorska/programy/uchwala_nr_224_2023_programy_ksztalcenia.pdf)
 
   :::
 
@@ -159,8 +159,8 @@ tresc_en: |
 
   :::pliki
 
-  - [UWr Senate Resolution No. 145/2022 — programmes for cohorts from 2023/24 (Polish)](/pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr.pdf)
-  - [UWr Senate Resolution No. 145/2022 (English)](/pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr-en.pdf)
+  - [UWr Senate Resolution No. 145/2022 — programmes for cohorts from 2023/24 (Polish)](/pliki/studia/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr.pdf)
+  - [UWr Senate Resolution No. 145/2022 (English)](/pliki/studia/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr-en.pdf)
 
   :::
 
@@ -172,7 +172,7 @@ tresc_en: |
 
   :::pliki
 
-  - [UWr Senate Resolution No. 161/2020 — programmes for cohorts from 2021/22 (Polish)](/pliki/szkola-doktorska/programy/uchwala-nr-161_2020-senatu-uwr-z-dnia-2020-12-16-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr_1.pdf)
+  - [UWr Senate Resolution No. 161/2020 — programmes for cohorts from 2021/22 (Polish)](/pliki/studia/szkola-doktorska/programy/uchwala-nr-161_2020-senatu-uwr-z-dnia-2020-12-16-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr_1.pdf)
 
   :::
 
@@ -184,7 +184,7 @@ tresc_en: |
 
   :::pliki
 
-  - [UWr Senate Resolution No. 100/2019 on the doctoral school programmes (Polish)](/pliki/szkola-doktorska/programy/100_2019.pdf)
+  - [UWr Senate Resolution No. 100/2019 on the doctoral school programmes (Polish)](/pliki/studia/szkola-doktorska/programy/100_2019.pdf)
 
   :::
 
@@ -259,16 +259,16 @@ tresc_en: |
 
   - [Rules and regulations of the UWr Doctoral School (consolidated text of 5 July 2023, Polish)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/07/Obwieszczenie-z-dnia-5.07.2023-r.-w-sprawie-ogloszenia-tekstu-jednolitego-uchwalyNr-134-2019-regulamin-Szkoly-Doktorskiej-UWr-1.pdf)
   - [Rules and regulations of the UWr Doctoral School (English)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/ANNOUNCEMENT-of-the-Rector-of-the-University-of-Wroclaw-of-5-July-2023.pdf)
-  - [UWr Senate Resolution No. 131/2019 on the procedure for conferring doctoral and habilitation degrees (consolidated text of 16 February 2024, Polish)](/pliki/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf)
+  - [UWr Senate Resolution No. 131/2019 on the procedure for conferring doctoral and habilitation degrees (consolidated text of 16 February 2024, Polish)](/pliki/studia/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf)
   - [Rector's Ordinance No. 25/2021 — mid-term evaluation schedule and forms (as of 12 April 2024, Polish)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/TU-25-2021-zmiana-zarzadzenie-25-2021-harmonogram-przeprowadz.-oceny-srodokresowej-stan-na-12.04.2024.pdf)
   - [Rector's Ordinance No. 25/2021 on the mid-term evaluation (English)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/Regulation-No_70-2024-1.pdf)
   - [Rector's Ordinance No. 182/2023 on the documentation of doctoral training (Polish)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/08/182-2023-dokumentacja-przebiegu-ksztalcenia-SzD.pdf)
   - [Rector's Ordinance No. 182/2023 (English)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/09/Ordinance-No-182_2023.pdf)
-  - [Rector's Ordinance No. 161/2023 — plagiarism checks (JSA) and the APD system (Polish)](/pliki/szkola-doktorska/dokumenty/nr_161-2023_z_dnia_28.06.2023_-_apd_postepowanie_doktorskie.pdf)
+  - [Rector's Ordinance No. 161/2023 — plagiarism checks (JSA) and the APD system (Polish)](/pliki/studia/szkola-doktorska/dokumenty/nr_161-2023_z_dnia_28.06.2023_-_apd_postepowanie_doktorskie.pdf)
   - [Rector's Ordinance No. 167/2021 — co-tutelle agreements (Polish)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/Nr-167_2021-z-dnia-25.10.2021-r.-cotutelle-3.pdf)
-  - [Rector's Ordinance No. 7/2020 — social and health insurance of doctoral students (Polish)](/pliki/szkola-doktorska/dokumenty/regulamin_-ubezpieczenie_szkola_doktorska-2020.pdf)
-  - [Rector's Ordinance No. 230/2023 amending the rules for organising teaching (Polish)](/pliki/szkola-doktorska/dokumenty/230-2023_-_zm._zasad_organizacji_dydaktyki.pdf)
-  - [Rules of the UWr Doctoral Students' Council (Rector's Ordinance No. 153/2019, Polish)](/pliki/szkola-doktorska/dokumenty/regulamin_samorzadu_doktorantow_153-2019.pdf)
+  - [Rector's Ordinance No. 7/2020 — social and health insurance of doctoral students (Polish)](/pliki/studia/szkola-doktorska/dokumenty/regulamin_-ubezpieczenie_szkola_doktorska-2020.pdf)
+  - [Rector's Ordinance No. 230/2023 amending the rules for organising teaching (Polish)](/pliki/studia/szkola-doktorska/dokumenty/230-2023_-_zm._zasad_organizacji_dydaktyki.pdf)
+  - [Rules of the UWr Doctoral Students' Council (Rector's Ordinance No. 153/2019, Polish)](/pliki/studia/szkola-doktorska/dokumenty/regulamin_samorzadu_doktorantow_153-2019.pdf)
 
   :::
 format_tresci: jawne
@@ -410,7 +410,7 @@ Dla osób, które rozpoczęły kształcenie w roku akademickim 2026/27 lub póź
 
 :::pliki
 
-- [Program kształcenia w Kolegium Doktorskim Matematyki (cykle od 2026/27)](/pliki/szkola-doktorska/programy/program_matematyka_od_2026_2027.pdf)
+- [Program kształcenia w Kolegium Doktorskim Matematyki (cykle od 2026/27)](/pliki/studia/szkola-doktorska/programy/program_matematyka_od_2026_2027.pdf)
 - [Uchwała Senatu UWr nr 127/2025 zmieniająca uchwałę w sprawie programów kształcenia w Szkole Doktorskiej](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/Uchwala-Nr-127_2025-Senatu-UWr-zmieniajaca-uchwale-nr-161_2020-w-spr.programow-ksztalcenia-w-SD-UWr-dla-cykli-ksztalcenia-rozpoczynajacych-sie-w-r.a.2021_2022-i-nastepnych.pdf)
 
 :::
@@ -423,7 +423,7 @@ Dla osób, które rozpoczęły kształcenie w roku akademickim 2025/26.
 
 :::pliki
 
-- [Uchwała Senatu UWr nr 161/2024 — programy kształcenia dla cykli od 2025/26](/pliki/szkola-doktorska/programy/uchwala_nr_161_2024_senatu_uwr_z_2024-12-18_zm.uchwale_w_sprawie_programow_ksztalcenia_w_szkole_doktorskiej_w_r.a.2021_2022_i_nastepnych.pdf)
+- [Uchwała Senatu UWr nr 161/2024 — programy kształcenia dla cykli od 2025/26](/pliki/studia/szkola-doktorska/programy/uchwala_nr_161_2024_senatu_uwr_z_2024-12-18_zm.uchwale_w_sprawie_programow_ksztalcenia_w_szkole_doktorskiej_w_r.a.2021_2022_i_nastepnych.pdf)
 - [Uchwała nr 28/2024 w sprawie programu kształcenia w Kolegium Doktorskim Matematyki od roku akademickiego 2025/26 (BIP)](https://bip.uni.wroc.pl/download/attachment/43389/uchwala-nr-28-2024-w-sprawie-programu-ksztalcenia-do-kolegium-doktorskiego-matematyki-od-roku-akademickiego-2025_2026.pdf)
 
 :::
@@ -436,8 +436,8 @@ Dla osób, które rozpoczęły kształcenie w roku akademickim 2024/25.
 
 :::pliki
 
-- [Program kształcenia w Kolegium Doktorskim Matematyki (od 2024/25)](/pliki/szkola-doktorska/programy/program_kdmat_od_2024_2025.pdf)
-- [Uchwała Senatu UWr nr 224/2023 — programy kształcenia dla cykli od 2024/25](/pliki/szkola-doktorska/programy/uchwala_nr_224_2023_programy_ksztalcenia.pdf)
+- [Program kształcenia w Kolegium Doktorskim Matematyki (od 2024/25)](/pliki/studia/szkola-doktorska/programy/program_kdmat_od_2024_2025.pdf)
+- [Uchwała Senatu UWr nr 224/2023 — programy kształcenia dla cykli od 2024/25](/pliki/studia/szkola-doktorska/programy/uchwala_nr_224_2023_programy_ksztalcenia.pdf)
 
 :::
 
@@ -449,8 +449,8 @@ Dla osób, które rozpoczęły kształcenie w roku akademickim 2023/24.
 
 :::pliki
 
-- [Uchwała Senatu UWr nr 145/2022 — programy kształcenia dla cykli od 2023/24](/pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr.pdf)
-- [Uchwała Senatu UWr nr 145/2022 — wersja angielska](/pliki/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr-en.pdf)
+- [Uchwała Senatu UWr nr 145/2022 — programy kształcenia dla cykli od 2023/24](/pliki/studia/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr.pdf)
+- [Uchwała Senatu UWr nr 145/2022 — wersja angielska](/pliki/studia/szkola-doktorska/programy/uchwala-nr-145_2022-senatu-uwr-z-dnia-2022-12-21-zmieniajaca-uchwale-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr-en.pdf)
 
 :::
 
@@ -462,7 +462,7 @@ Dla osób, które rozpoczęły kształcenie w latach 2021/22–2022/23.
 
 :::pliki
 
-- [Uchwała Senatu UWr nr 161/2020 — programy kształcenia dla cykli od 2021/22](/pliki/szkola-doktorska/programy/uchwala-nr-161_2020-senatu-uwr-z-dnia-2020-12-16-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr_1.pdf)
+- [Uchwała Senatu UWr nr 161/2020 — programy kształcenia dla cykli od 2021/22](/pliki/studia/szkola-doktorska/programy/uchwala-nr-161_2020-senatu-uwr-z-dnia-2020-12-16-w-sprawie-programow-ksztalcenia-w-szkole-doktorskiej-uwr_1.pdf)
 
 :::
 
@@ -474,7 +474,7 @@ Dla osób, które rozpoczęły kształcenie w latach 2019/20–2020/21.
 
 :::pliki
 
-- [Uchwała Senatu UWr nr 100/2019 w sprawie programów kształcenia w Szkole Doktorskiej](/pliki/szkola-doktorska/programy/100_2019.pdf)
+- [Uchwała Senatu UWr nr 100/2019 w sprawie programów kształcenia w Szkole Doktorskiej](/pliki/studia/szkola-doktorska/programy/100_2019.pdf)
 
 :::
 
@@ -549,15 +549,15 @@ Doktoranci Instytutu są w [spisie pracowników](/pracownicy) (grupa „Doktoran
 
 - [Regulamin Szkoły Doktorskiej UWr (tekst jednolity, obwieszczenie Rektora z 5 lipca 2023 r.)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/07/Obwieszczenie-z-dnia-5.07.2023-r.-w-sprawie-ogloszenia-tekstu-jednolitego-uchwalyNr-134-2019-regulamin-Szkoly-Doktorskiej-UWr-1.pdf)
 - [Regulamin Szkoły Doktorskiej UWr — wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/ANNOUNCEMENT-of-the-Rector-of-the-University-of-Wroclaw-of-5-July-2023.pdf)
-- [Uchwała Senatu UWr nr 131/2019 w sprawie trybu postępowania o nadanie stopni doktora i doktora habilitowanego (tekst jednolity z 16 lutego 2024 r.)](/pliki/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf)
+- [Uchwała Senatu UWr nr 131/2019 w sprawie trybu postępowania o nadanie stopni doktora i doktora habilitowanego (tekst jednolity z 16 lutego 2024 r.)](/pliki/studia/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf)
 - [Zarządzenie Rektora nr 25/2021 — harmonogram i wzory dokumentów oceny śródokresowej (stan na 12 kwietnia 2024 r.)](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/TU-25-2021-zmiana-zarzadzenie-25-2021-harmonogram-przeprowadz.-oceny-srodokresowej-stan-na-12.04.2024.pdf)
 - [Zarządzenie Rektora nr 25/2021 (ocena śródokresowa) — wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/Regulation-No_70-2024-1.pdf)
 - [Zarządzenie Rektora nr 182/2023 w sprawie dokumentacji przebiegu kształcenia w Szkole Doktorskiej](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/08/182-2023-dokumentacja-przebiegu-ksztalcenia-SzD.pdf)
 - [Zarządzenie Rektora nr 182/2023 — wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/09/Ordinance-No-182_2023.pdf)
-- [Zarządzenie Rektora nr 161/2023 — sprawdzanie rozpraw w JSA i system APD](/pliki/szkola-doktorska/dokumenty/nr_161-2023_z_dnia_28.06.2023_-_apd_postepowanie_doktorskie.pdf)
+- [Zarządzenie Rektora nr 161/2023 — sprawdzanie rozpraw w JSA i system APD](/pliki/studia/szkola-doktorska/dokumenty/nr_161-2023_z_dnia_28.06.2023_-_apd_postepowanie_doktorskie.pdf)
 - [Zarządzenie Rektora nr 167/2021 — umowy co-tutelle](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/Nr-167_2021-z-dnia-25.10.2021-r.-cotutelle-3.pdf)
-- [Zarządzenie Rektora nr 7/2020 — Regulamin zgłaszania doktorantów do ubezpieczeń społecznych i zdrowotnego](/pliki/szkola-doktorska/dokumenty/regulamin_-ubezpieczenie_szkola_doktorska-2020.pdf)
-- [Zarządzenie Rektora nr 230/2023 — zmiana Zasad organizacji procesu dydaktycznego](/pliki/szkola-doktorska/dokumenty/230-2023_-_zm._zasad_organizacji_dydaktyki.pdf)
-- [Regulamin Samorządu Doktorantów UWr (zarządzenie Rektora nr 153/2019)](/pliki/szkola-doktorska/dokumenty/regulamin_samorzadu_doktorantow_153-2019.pdf)
+- [Zarządzenie Rektora nr 7/2020 — Regulamin zgłaszania doktorantów do ubezpieczeń społecznych i zdrowotnego](/pliki/studia/szkola-doktorska/dokumenty/regulamin_-ubezpieczenie_szkola_doktorska-2020.pdf)
+- [Zarządzenie Rektora nr 230/2023 — zmiana Zasad organizacji procesu dydaktycznego](/pliki/studia/szkola-doktorska/dokumenty/230-2023_-_zm._zasad_organizacji_dydaktyki.pdf)
+- [Regulamin Samorządu Doktorantów UWr (zarządzenie Rektora nr 153/2019)](/pliki/studia/szkola-doktorska/dokumenty/regulamin_samorzadu_doktorantow_153-2019.pdf)
 
 :::

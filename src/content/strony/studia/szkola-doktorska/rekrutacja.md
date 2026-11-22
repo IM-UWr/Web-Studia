@@ -85,13 +85,13 @@ tresc_en: |
 
   Documents (in Polish unless marked otherwise):
 
-  - [Admission schedule — Doctoral College of Mathematics (Annex 14 to Rector's Order No. 63/2026)](/pliki/szkola-doktorska/rekrutacja/kdmat_rekrutacja_2026.pdf)
+  - [Admission schedule — Doctoral College of Mathematics (Annex 14 to Rector's Order No. 63/2026)](/pliki/studia/szkola-doktorska/rekrutacja/kdmat_rekrutacja_2026.pdf)
   - [Rector's Order No. 63/2026 — detailed admission schedule of the Doctoral School for 2026/27](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/04/Nr-63-2026-z-dnia-13.04.2026-w-sprawie-wprowadzenia-harmonogramu-rekrutacji-do-Szkoly-Doktorskiej-UWr-2026-2027.pdf)
-  - [Admission rules — Doctoral College of Mathematics (Annex 14 to Resolution 126/2025)](/pliki/szkola-doktorska/rekrutacja/zasady_rekrutacji_matematyka_2026_2027.pdf)
+  - [Admission rules — Doctoral College of Mathematics (Annex 14 to Resolution 126/2025)](/pliki/studia/szkola-doktorska/rekrutacja/zasady_rekrutacji_matematyka_2026_2027.pdf)
   - [UWr Senate Resolution No. 126/2025 on the admission rules for 2026/27](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/Uchwala-Nr-126_2025-Senatu-UWr-z-2025-12-17-w-sprawie-zasad-rekrutacji-do-Szkoly-Doktorskiej-Uniwersytetu-Wroclawskiego-na-progeam-ksztalcenia-rozpoczynajacy-sie-w-r.a.2026_20275.pdf) · [English version](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/RESOLUTION-NO.-126-2025-Uchwala-Nr-126_2025-z-2025-12-17_eng.pdf)
-  - [Dean's Order No. 4/2026 on the admissions committees for 2026/27](/pliki/szkola-doktorska/rekrutacja/zarzadzenie_nr_4_w_sprawie_powolania_komisji_rekrutacyjnych_dla_kolegiow_doktorskich_szkoly_doktorskiej_2026-2027.pdf)
+  - [Dean's Order No. 4/2026 on the admissions committees for 2026/27](/pliki/studia/szkola-doktorska/rekrutacja/zarzadzenie_nr_4_w_sprawie_powolania_komisji_rekrutacyjnych_dla_kolegiow_doktorskich_szkoly_doktorskiej_2026-2027.pdf)
   - [Rector's Order No. 85/2026 — IRKa registration procedure](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Nr-85-2026-z-dni-25.05.2026-IRKa-doktorantow_-1.pdf) · [English version](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Ordinance-85-2026-of-the-Rector-of-the-University-of-Wroclaw-of-25-May-2026-on-the-introduction-of-the-Procedure-of-registration-in-the-system-of-the-Internet-Registration-of-Candidates-IRK-.pdf)
-  - Candidate's statement: [Polish version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [English version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
+  - Candidate's statement: [Polish version (DOCX)](/pliki/studia/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [English version (DOCX)](/pliki/studia/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
 
   ## Entrance exam problems from previous years {#zadania-z-egzaminów-z-poprzednich-lat}
 
@@ -99,10 +99,10 @@ tresc_en: |
 
   Problems of the entrance exams to doctoral studies and to the Doctoral College of Mathematics (in Polish):
 
-  - [2002](/pliki/szkola-doktorska/egzaminy/z2002.pdf) · [2003](/pliki/szkola-doktorska/egzaminy/z2003.pdf) · [2004](/pliki/szkola-doktorska/egzaminy/z2004.pdf) · [2005](/pliki/szkola-doktorska/egzaminy/z2005.pdf)
+  - [2002](/pliki/studia/szkola-doktorska/egzaminy/z2002.pdf) · [2003](/pliki/studia/szkola-doktorska/egzaminy/z2003.pdf) · [2004](/pliki/studia/szkola-doktorska/egzaminy/z2004.pdf) · [2005](/pliki/studia/szkola-doktorska/egzaminy/z2005.pdf)
   - [2006](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin06.pdf) · 2007: [June](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin07.pdf), [September](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz07bb.pdf) · [2008](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz08.pdf) · [2009](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz09.pdf) · [2010](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz10.pdf) · [2011](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2011.pdf) · [2012](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2012.pdf) · [2013](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2013.pdf)
-  - [2014](/pliki/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/szkola-doktorska/egzaminy/zadania2021.pdf)
-  - [2024](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
+  - [2014](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/studia/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/studia/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/studia/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/studia/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/studia/szkola-doktorska/egzaminy/zadania2021.pdf)
+  - [2024](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
 
   ## Contact {#kontakt}
 
@@ -193,13 +193,13 @@ W przypadku niewypełnienia limitu miejsc może się odbyć rekrutacja dodatkowa
 
 Dokumenty:
 
-- [Harmonogram rekrutacji — Kolegium Doktorskie Matematyki (załącznik nr 14 do zarządzenia Rektora nr 63/2026)](/pliki/szkola-doktorska/rekrutacja/kdmat_rekrutacja_2026.pdf)
+- [Harmonogram rekrutacji — Kolegium Doktorskie Matematyki (załącznik nr 14 do zarządzenia Rektora nr 63/2026)](/pliki/studia/szkola-doktorska/rekrutacja/kdmat_rekrutacja_2026.pdf)
 - [Zarządzenie Rektora nr 63/2026 — szczegółowy harmonogram rekrutacji do Szkoły Doktorskiej na rok 2026/27](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/04/Nr-63-2026-z-dnia-13.04.2026-w-sprawie-wprowadzenia-harmonogramu-rekrutacji-do-Szkoly-Doktorskiej-UWr-2026-2027.pdf)
-- [Zasady rekrutacji — Kolegium Doktorskie Matematyki (załącznik nr 14 do uchwały 126/2025)](/pliki/szkola-doktorska/rekrutacja/zasady_rekrutacji_matematyka_2026_2027.pdf)
+- [Zasady rekrutacji — Kolegium Doktorskie Matematyki (załącznik nr 14 do uchwały 126/2025)](/pliki/studia/szkola-doktorska/rekrutacja/zasady_rekrutacji_matematyka_2026_2027.pdf)
 - [Uchwała Senatu UWr nr 126/2025 w sprawie zasad rekrutacji na rok 2026/27](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/Uchwala-Nr-126_2025-Senatu-UWr-z-2025-12-17-w-sprawie-zasad-rekrutacji-do-Szkoly-Doktorskiej-Uniwersytetu-Wroclawskiego-na-progeam-ksztalcenia-rozpoczynajacy-sie-w-r.a.2026_20275.pdf) · [wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/02/RESOLUTION-NO.-126-2025-Uchwala-Nr-126_2025-z-2025-12-17_eng.pdf)
-- [Zarządzenie Dziekana WMI nr 4/2026 w sprawie powołania komisji rekrutacyjnych na rok 2026/27](/pliki/szkola-doktorska/rekrutacja/zarzadzenie_nr_4_w_sprawie_powolania_komisji_rekrutacyjnych_dla_kolegiow_doktorskich_szkoly_doktorskiej_2026-2027.pdf)
+- [Zarządzenie Dziekana WMI nr 4/2026 w sprawie powołania komisji rekrutacyjnych na rok 2026/27](/pliki/studia/szkola-doktorska/rekrutacja/zarzadzenie_nr_4_w_sprawie_powolania_komisji_rekrutacyjnych_dla_kolegiow_doktorskich_szkoly_doktorskiej_2026-2027.pdf)
 - [Zarządzenie Rektora nr 85/2026 — procedura rejestracji w systemie IRKa](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Nr-85-2026-z-dni-25.05.2026-IRKa-doktorantow_-1.pdf) · [wersja angielska](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Ordinance-85-2026-of-the-Rector-of-the-University-of-Wroclaw-of-25-May-2026-on-the-introduction-of-the-Procedure-of-registration-in-the-system-of-the-Internet-Registration-of-Candidates-IRK-.pdf)
-- Oświadczenie kandydata do Szkoły Doktorskiej: [wersja polska (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [wersja angielska (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
+- Oświadczenie kandydata do Szkoły Doktorskiej: [wersja polska (DOCX)](/pliki/studia/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [wersja angielska (DOCX)](/pliki/studia/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
 
 ## Zadania z egzaminów z poprzednich lat {#zadania-z-egzaminów-z-poprzednich-lat}
 
@@ -207,10 +207,10 @@ Dokumenty:
 
 Zestawy zadań z egzaminów wstępnych na studia doktoranckie i do Kolegium Doktorskiego Matematyki:
 
-- [2002](/pliki/szkola-doktorska/egzaminy/z2002.pdf) · [2003](/pliki/szkola-doktorska/egzaminy/z2003.pdf) · [2004](/pliki/szkola-doktorska/egzaminy/z2004.pdf) · [2005](/pliki/szkola-doktorska/egzaminy/z2005.pdf)
+- [2002](/pliki/studia/szkola-doktorska/egzaminy/z2002.pdf) · [2003](/pliki/studia/szkola-doktorska/egzaminy/z2003.pdf) · [2004](/pliki/studia/szkola-doktorska/egzaminy/z2004.pdf) · [2005](/pliki/studia/szkola-doktorska/egzaminy/z2005.pdf)
 - [2006](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin06.pdf) · 2007: [czerwiec](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin07.pdf), [wrzesień](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz07bb.pdf) · [2008](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz08.pdf) · [2009](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz09.pdf) · [2010](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egz10.pdf) · [2011](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2011.pdf) · [2012](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2012.pdf) · [2013](http://www.math.uni.wroc.pl/studia/studium_dr/templates/pliki/egzamin_2013.pdf)
-- [2014](/pliki/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/szkola-doktorska/egzaminy/zadania2021.pdf)
-- [2024](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
+- [2014](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/studia/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/studia/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/studia/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/studia/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/studia/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/studia/szkola-doktorska/egzaminy/zadania2021.pdf)
+- [2024](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/studia/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
 
 ## Kontakt {#kontakt}
 
