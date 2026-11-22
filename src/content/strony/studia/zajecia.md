@@ -32,7 +32,7 @@ tresc_en: |
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Timetable:** [winter semester 2026/27](/studia/plan-zajec#zimowy), [summer semester 2026/27](/studia/plan-zajec#letni). Together with the timetable, the full list of courses offered in the semester (by category, including one-off courses) is published before the semester starts.
-  - **Day colours:** classes held every other week follow the day colours, not the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#day-colours).
+  - **Day colours:** classes held every other week follow the day colours, not the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#kolory-dni).
   - **Course descriptions:** [course catalogue in USOSweb](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) — syllabuses, including prerequisites (the “Założenia” section).
   - **First-year timetable** and information for new students: [First year](/studia/pierwszy-rok).
 

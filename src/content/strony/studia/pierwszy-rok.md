@@ -224,7 +224,7 @@ tresc_en: |
 
   > Failing the same compulsory course twice usually results in removal from the list of students, and repeating a course has to be paid for.
 
-  The Institute does not use the week parity shown in USOS but **day colours**: for classes held every other week, one group meets on orange days and the other on blue days — see [Day colours](/studia/rok-akademicki#day-colours).
+  The Institute does not use the week parity shown in USOS but **day colours**: for classes held every other week, one group meets on orange days and the other on blue days — see [Day colours](/studia/rok-akademicki#kolory-dni).
 
   Advice from the guide:
 
@@ -323,7 +323,7 @@ tresc_en: |
 
   **Does my first-semester level affect my choice of specialisation?** No. The assignment applies only to first-semester courses.
 
-  **What are orange and blue days?** The Institute uses day colours instead of the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#day-colours).
+  **What are orange and blue days?** The Institute uses day colours instead of the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#kolory-dni).
 
   **My test went badly. Can I retake it?** In principle there are no retakes of individual tests — you have to do better in the next one. Some lecturers hold a resit test at the end of the semester; the rules are given at the beginning of the course.
 
