@@ -453,10 +453,10 @@ content:
         type: code
         options:
           format: markdown
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki, :::pary (- **Etykieta:** treść), :::grafik (grafik dyżurów: Sala:, Od:, Do:, potem jeden dyżur na linię). Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki, :::pary (- **Etykieta:** treść). Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
       - name: tresc_en
         label: Treść EN
-        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki, :::pary (- **Etykieta:** treść), :::grafik (pusty blok wstawia grafik z wersji polskiej). Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
+        description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki, :::pary (- **Etykieta:** treść). Komentarze objaśniają bloki. Zachowaj pasujące końcowe dwukropki. Wygląd sprawdzaj po przebudowaniu strony."
         type: code
         options:
           format: markdown
