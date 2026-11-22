@@ -35,7 +35,7 @@ tresc_en: |
 
   1. **Semester 1: Foundations** — Core courses, including mathematical analysis, linear algebra and an introduction to mathematics. The year coordinator and the tutoring room help you settle in.  
   2. **Semesters 2–4: Compulsory courses and a first choice of specialisation** — Further core courses and the first electives. At the end of the 4th semester you choose a specialisation.  
-  3. **Semesters 5–6: Specialisation courses** — Specialisation courses, a team specialisation project and a bachelor's thesis. Studies end with a written bachelor's exam (February, June or September).
+  3. **Semesters 5–6: Specialisation courses** — Specialisation courses and a team specialisation project. Studies end with a written bachelor's exam (February, June or September).
 
   :::
 
@@ -339,9 +339,9 @@ Studia są stacjonarne i prowadzone po polsku. Po licencjacie możesz kontynuowa
 
 :::etapy
 
-1. **Semestry 1: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
+1. **Semestr 1: Podstawy** — Przedmioty podstawowe, m.in. analiza matematyczna, algebra liniowa i wstęp do matematyki. Opiekun roku i tutornia pomagają wejść w studia.  
 2. **Semestry 2–4: Przedmioty obowiązkowe i wstępny wybór specjalności** — Kolejne przedmioty podstawowe i pierwsze przedmioty do wyboru. Pod koniec 4. semestru wybierasz specjalność.  
-3. **Semestry 5–6: Przedmioty specjalnościowe.** — Przedmioty specjalności, zespołowy projekt specjalnościowy i praca licencjacka. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
+3. **Semestry 5–6: Przedmioty specjalnościowe** — Przedmioty specjalności i zespołowy projekt specjalnościowy. Studia kończy pisemny egzamin licencjacki (luty, czerwiec lub wrzesień).
 
 :::
 
