@@ -10,9 +10,9 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  The formal rules for completing a degree in mathematics: who can be a supervisor and a reviewer, how a thesis topic is approved and changed, how the thesis is assessed, how the diploma exam works and how the final degree grade is calculated. The practical guide — the steps to take, the APD system, the format and scope of the exams, dates and past exam papers — is on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page.
+  The formal rules for completing a degree in mathematics: who can be a supervisor and a reviewer, how a thesis topic is approved and changed, how the thesis is assessed, how the diploma exam works and how the final degree grade is calculated. The practical guide — the steps to take, the APD system, the format and scope of the exams, dates and past exam papers — is on the [Exams and diploma](/studia/egzaminy-i-dyplom) page.
 
-  ## Legal basis {#legal-basis}
+  ## Legal basis {#podstawa-prawna}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -27,15 +27,15 @@ tresc_en: |
 
   > This page summarises the regulations — the legal acts listed above are binding. In case of doubt, the Study Regulations prevail.
 
-  ## Stages of the diploma process {#stages-of-the-diploma-process}
+  ## Stages of the diploma process {#etapy-dyplomowania}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  In the bachelor's programme under the previous curriculum the diploma process consists of the Team specialisation project, the bachelor's thesis and the written bachelor's exam; under the curriculum from 2026/27 bachelor's studies end with a written diploma exam, without a diploma thesis. In the master's programme it consists of Master's seminars 1 and 2, the master's thesis and the master's exam — written and oral. The individual steps are described in [Path to the diploma](/en/studia/egzaminy-i-dyplom#path-to-the-diploma).
+  In the bachelor's programme under the previous curriculum the diploma process consists of the Team specialisation project, the bachelor's thesis and the written bachelor's exam; under the curriculum from 2026/27 bachelor's studies end with a written diploma exam, without a diploma thesis. In the master's programme it consists of Master's seminars 1 and 2, the master's thesis and the master's exam — written and oral. The individual steps are described in [Path to the diploma](/studia/egzaminy-i-dyplom#droga-do-dyplomu).
 
   Team specialisation projects and master's seminars develop the competences needed for research: identifying research problems independently, finding and studying sources, and presenting extended arguments on a given subject in speech and writing. Part of these classes is getting to know the Faculty guidelines for diploma theses.
 
-  ## Diploma Theses Committee {#diploma-theses-committee}
+  ## Diploma Theses Committee {#komisja-prac-dyplomowych}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -47,7 +47,7 @@ tresc_en: |
   - publishes the list of approved topics on the Institute website,
   - at least every 3 years reviews the quality of diploma theses and the adequacy of their grades.
 
-  ## Supervisor and reviewer {#supervisor-and-reviewer}
+  ## Supervisor and reviewer {#promotor-i-recenzent}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -66,26 +66,26 @@ tresc_en: |
 
   Reviewers are appointed by a team set up by the Director of the Institute at the request of the chair of the Diploma Theses Committee, composed of staff members with expertise appropriate to the specialisation. A master's thesis must be assessed by at least one holder of the habilitation or a professor (§ 61(4)). By the date set by the Dean, the teaching office publishes the list of students with their thesis titles, supervisors and reviewers.
 
-  ## Thesis topic {#thesis-topic}
+  ## Thesis topic {#temat-pracy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Topic offer.** The Diploma Theses Committee collects, reviews and publishes the topics proposed by staff members ([current list of topics](/pliki/studia/tem7.pdf)). Under the Regulations, master's thesis topics are made available to students no later than two semesters, and bachelor's thesis topics one semester, before the end of studies (§ 58(1)).
   - **Choosing the topic.** A student either chooses a topic from the list and contacts the staff member who proposed it to confirm or refine it, or agrees on a topic outside the list with the staff member under whom they want to write the thesis.
-  - **Reporting.** As soon as the subject is agreed, the student fills in Form E ([deadlines and link](/en/studia/egzaminy-i-dyplom#supervisor-and-thesis-topic)). A topic not on the list is passed to the Diploma Theses Committee for approval.
+  - **Reporting.** As soon as the subject is agreed, the student fills in Form E ([deadlines and link](/studia/egzaminy-i-dyplom#promotor-i-temat-pracy)). A topic not on the list is passed to the Diploma Theses Committee for approval.
   - **Changing the topic.** A change going beyond a minor correction or clarification of the wording requires the approval of the Diploma Theses Committee. The supervisor informs the teaching office of the change.
   - **Joint thesis.** A thesis may be prepared by a team of students if the parts prepared by each person can be identified and the workload of each can be assessed (§ 60(2)). The topic of a joint thesis must be approved separately by the Diploma Theses Committee, and the size of the work should be adequate to the number of co-authors.
   - **Language and place of work.** In justified cases, with the Dean's consent, the thesis may be presented in a language other than the language of the studies and may be carried out at another faculty or outside the University (§ 60(3)–(4)).
 
-  ## Preparing and submitting the thesis {#preparing-and-submitting-the-thesis}
+  ## Preparing and submitting the thesis {#przygotowanie-i-złożenie-pracy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   The student prepares the thesis under the supervisor, individually or in a team, following the [diploma thesis guidelines](/pliki/studia/46-2017.pdf). The supervisor checks progress during individual or group consultations.
 
-  The thesis is submitted electronically in the Diploma Theses Archive (APD) by the date set by the Dean (§ 61(1)) — after the supervisor has accepted it and the APD system has been opened at the student's request ([how to do it](/en/studia/egzaminy-i-dyplom#submitting-the-thesis-in-apd)). The supervisor approves the thesis in APD and sends it for the anti-plagiarism check, which every thesis undergoes before the exam (§ 61(2)). If plagiarism is suspected, the procedure set out in the Rector's order is started.
+  The thesis is submitted electronically in the Diploma Theses Archive (APD) by the date set by the Dean (§ 61(1)) — after the supervisor has accepted it and the APD system has been opened at the student's request ([how to do it](/studia/egzaminy-i-dyplom#praca-w-systemie-apd)). The supervisor approves the thesis in APD and sends it for the anti-plagiarism check, which every thesis undergoes before the exam (§ 61(2)). If plagiarism is suspected, the procedure set out in the Rector's order is started.
 
-  ## Thesis assessment {#thesis-assessment}
+  ## Thesis assessment {#ocena-pracy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -97,7 +97,7 @@ tresc_en: |
 
   The Faculty Council guidelines of 2017 (item 4.5), adopted under the previous study regulations, set different rules for resolving differing grades: with a difference of 0.5 — the higher grade, with a difference of 1 — the mean, with a larger difference or a failing grade — a grade set by the Dean. The rules described above come from the Study Regulations in force since 1 October 2024.
 
-  ## Diploma exam {#diploma-exam}
+  ## Diploma exam {#egzamin-dyplomowy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -110,7 +110,7 @@ tresc_en: |
   - **The bachelor's exam** is held three times a year (in February, June and September) and is written. The exam grade is the grade of the written part.
   - **The master's exam** is held three times a year (in February, June and September) and has two parts: the first tests the core knowledge of the degree programme and the specialist knowledge of the specialisation (written, in mathematics), and the second — oral — concerns the master's thesis. A positive grade in the written part is required to take the oral part. The exam grade is ¾ of the written part grade plus ¼ of the oral part grade.
 
-  The scope, format and scoring of the exams are described on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page.
+  The scope, format and scoring of the exams are described on the [Exams and diploma](/studia/egzaminy-i-dyplom) page.
 
   ### Admission requirements
 
@@ -126,7 +126,7 @@ tresc_en: |
 
   A student who does not submit the diploma thesis on time, or does not take or does not pass the diploma exam within the deadlines of § 62(9)–(11), is removed from the list of students. Within 2 years of removal they may apply once to resume their studies without having to make up courses; the application must be submitted at least 7 days before the start of the assessment period (§ 66).
 
-  ## Final degree grade {#final-degree-grade}
+  ## Final degree grade {#wynik-studiów}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -151,7 +151,7 @@ tresc_en: |
   - **Studies started in 2023/24 or later:** a student whose unrounded final grade is higher than 4.80 receives a diploma with distinction.
   - **Studies started before 2023/24:** the exam committee may raise the final grade by 0.5 if the student received very good grades for both the thesis and the diploma exam.
 
-  ## FAQ {#faq}
+  ## FAQ {#pytania-i-odpowiedzi}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

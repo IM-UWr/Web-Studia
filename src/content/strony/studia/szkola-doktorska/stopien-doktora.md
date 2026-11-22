@@ -12,7 +12,7 @@ tresc_en: |
 
   Training at the Doctoral School ends with the submission of the doctoral thesis. The date of submission is the day on which the application to start the doctoral degree proceedings is filed, together with the thesis and the supervisor's positive opinion. The thesis must be submitted by the date set in the individual research plan (IPB). The proceedings in mathematics are conducted by the **Mathematics Discipline Council**.
 
-  ## Before submitting the thesis {#before-submitting-the-thesis}
+  ## Before submitting the thesis {#przed-złożeniem-rozprawy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -21,7 +21,7 @@ tresc_en: |
   3. **The supervisor** sends the thesis from APD to the Uniform Anti-Plagiarism System (JSA), evaluates the similarity report and, if there are no signs of copyright infringement, approves the thesis in APD and submits an electronic declaration admitting it to the defence together with a positive opinion.
   4. **Print the thesis** downloaded from APD (double-sided, Times New Roman 12, line spacing no larger than 1.5) in 4 copies bearing the automatically added control numbers, bound in thin cardboard (sea green), and deliver them to room 303 at the Mathematical Institute.
 
-  ## Application to start the proceedings {#application-to-start-the-proceedings}
+  ## Application to start the proceedings {#wniosek-o-wszczęcie-postępowania}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -37,9 +37,9 @@ tresc_en: |
   - a document confirming command of a modern foreign language at level B2 or higher — an exam at the UWr School of Foreign Languages (SPNJO), a certificate, or a diploma supplement;
   - information on any earlier or ongoing doctoral proceedings elsewhere, and other documents requested by the chair of the discipline council.
 
-  All steps should be completed **at least 2 weeks before** the planned meeting of the discipline council. Forms: [Documents and forms — doctoral thesis](/en/studia/szkola-doktorska/dokumenty#doctoral-thesis).
+  All steps should be completed **at least 2 weeks before** the planned meeting of the discipline council. Forms: [Documents and forms — doctoral thesis](/studia/szkola-doktorska/dokumenty#rozprawa-doktorska).
 
-  ## Reviews and defence {#reviews-and-defence}
+  ## Reviews and defence {#recenzje-i-obrona}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -48,11 +48,11 @@ tresc_en: |
   - A candidate who has received positive reviews from **at least 2 reviewers** may be admitted to the public defence.
   - The date of the defence cannot be earlier than 30 days after publication in BIP; the defence notice appears in BIP at least 10 days before the defence.
   - The defence is public. The candidate presents a summary of the thesis, the reviews are presented, followed by an open discussion in which everyone present may ask questions. In a closed session the discipline council then adopts a resolution on conferring the doctoral degree; in justified cases it may award the thesis a distinction.
-  - Defence notices of the Mathematical Institute, with theses and reviews: [PhD defences](/en/obrony-doktorskie).
+  - Defence notices of the Mathematical Institute, with theses and reviews: [PhD defences](/obrony-doktorskie).
 
   Sources: [procedure for submitting the doctoral thesis](/pliki/szkola-doktorska/dokumenty/procedura_zlozenia_rozprawy_doktorskiej.pdf), [UWr Senate Resolution No. 131/2019](/pliki/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf) (consolidated text of 16 February 2024), [Rector's Ordinance No. 161/2023](/pliki/szkola-doktorska/dokumenty/nr_161-2023_z_dnia_28.06.2023_-_apd_postepowanie_doktorskie.pdf) and the [application form](/pliki/szkola-doktorska/dokumenty/wniosek_wszczecie_postepowania_szd.pdf) (Annex 20 to Rector's Ordinance No. 182/2023), all in Polish.
 
-  ## Contact {#contact}
+  ## Contact {#kontakt}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

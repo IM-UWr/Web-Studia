@@ -20,17 +20,17 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  A guide to completing your degree in mathematics: choosing a supervisor and thesis topic, submitting the thesis in the APD system, the bachelor's and master's exams, dates and past exam papers. The formal rules — the Diploma Theses Committee, thesis assessment, the final degree grade and answers to frequent questions — are described in the [Diploma procedure](/en/studia/procedura-dyplomowania).
+  A guide to completing your degree in mathematics: choosing a supervisor and thesis topic, submitting the thesis in the APD system, the bachelor's and master's exams, dates and past exam papers. The formal rules — the Diploma Theses Committee, thesis assessment, the final degree grade and answers to frequent questions — are described in the [Diploma procedure](/studia/procedura-dyplomowania).
 
-  > **Next diploma exam: 15 February 2027.** Detailed dates for registration and for the steps in the APD system are announced by the Institute before each exam session. For an idea of how a session runs, see the [2025/26 schedule](#dates).
+  > **Next diploma exam: 15 February 2027.** Detailed dates for registration and for the steps in the APD system are announced by the Institute before each exam session. For an idea of how a session runs, see the [2025/26 schedule](#terminy).
 
-  ## Path to the diploma {#path-to-the-diploma}
+  ## Path to the diploma {#droga-do-dyplomu}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   ### Bachelor's studies (first cycle)
 
-  The rules depend on the curriculum you follow — [which curriculum applies to me?](/en/studia/matematyka#program)
+  The rules depend on the curriculum you follow — [which curriculum applies to me?](/studia/matematyka#program)
 
   | | Previous curriculum (studies started before 1 October 2026) | Curriculum from 2026/27 |
   | --- | --- | --- |
@@ -40,7 +40,7 @@ tresc_en: |
 
   **Previous curriculum:**
 
-  1. Agree on a bachelor's thesis topic with a supervisor and submit it using Form E — see [Supervisor and thesis topic](#supervisor-and-thesis-topic).
+  1. Agree on a bachelor's thesis topic with a supervisor and submit it using Form E — see [Supervisor and thesis topic](#promotor-i-temat-pracy).
   2. Write the thesis following the Faculty guidelines and, once your supervisor accepts it, submit it in the APD system.
   3. Pass all courses and take the written bachelor's exam (February, June or September).
 
@@ -55,9 +55,9 @@ tresc_en: |
 
   In the curriculum from 2026/27 a positively graded thesis gives 12 ECTS and the passed diploma exam 4 ECTS.
 
-  Students of Artificial Intelligence in Data Science (SIAD) — information on the team project and the diploma exam is on the [SIAD programme page](/en/studia/siad).
+  Students of Artificial Intelligence in Data Science (SIAD) — information on the team project and the diploma exam is on the [SIAD programme page](/studia/siad).
 
-  ## Supervisor and thesis topic {#supervisor-and-thesis-topic}
+  ## Supervisor and thesis topic {#promotor-i-temat-pracy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -66,7 +66,7 @@ tresc_en: |
   1. choose it from the [list of thesis topics](/pliki/studia/tem7.pdf) approved by the Diploma Theses Committee — some topics require additional knowledge, so it is best to contact the staff member who proposed the topic before choosing it;
   2. agree on a topic with your future supervisor during individual consultations — such a topic must be approved by the Diploma Theses Committee.
 
-  If you have trouble finding a supervisor, contact the coordinator of your specialisation (contacts on the [specialisation pages](/en/studia/matematyka#specjalnosci)).
+  If you have trouble finding a supervisor, contact the coordinator of your specialisation (contacts on the [specialisation pages](/studia/matematyka#specjalnosci)).
 
   Master's seminars introduce a chosen area of mathematics and develop the skills of speaking and writing about mathematics, but they do not replace the supervisor — no thesis topics are offered at the seminar, and the thesis is directed by the supervisor.
 
@@ -81,9 +81,9 @@ tresc_en: |
 
   The guide to the master's curriculum in force from 2026/27 gives the dates 30 October and 30 March. If you have not found a supervisor by then, submit a request for help describing the steps you have taken so far.
 
-  Changing the topic requires the approval of the Diploma Theses Committee, and changing the supervisor requires the Dean's consent; details are in the [Diploma procedure](/en/studia/procedura-dyplomowania).
+  Changing the topic requires the approval of the Diploma Theses Committee, and changing the supervisor requires the Dean's consent; details are in the [Diploma procedure](/studia/procedura-dyplomowania).
 
-  ## Writing the thesis {#writing-the-thesis}
+  ## Writing the thesis {#pisanie-pracy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -98,7 +98,7 @@ tresc_en: |
 
   Before the exam every thesis is checked with anti-plagiarism software.
 
-  ## Submitting the thesis in APD {#submitting-the-thesis-in-apd}
+  ## Submitting the thesis in APD {#praca-w-systemie-apd}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -109,9 +109,9 @@ tresc_en: |
   3. The supervisor approves the thesis in APD and sends it for the anti-plagiarism check; then the supervisor and the reviewer post their reviews and grades in APD — before the exam.
   4. At least **3 days before the exam**, settle all obligations towards the University, including the library e-clearance, following the [University Library instructions](https://www.bu.uni.wroc.pl/e-obiegowka-jak-rozliczyc-sie-z-biblioteka).
 
-  The full requirements for admission to the diploma exam (§ 62 of the Study Regulations) are described in the [Diploma procedure](/en/studia/procedura-dyplomowania).
+  The full requirements for admission to the diploma exam (§ 62 of the Study Regulations) are described in the [Diploma procedure](/studia/procedura-dyplomowania).
 
-  ## Bachelor's exam {#bachelors-exam}
+  ## Bachelor's exam {#egzamin-licencjacki}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -138,7 +138,7 @@ tresc_en: |
 
   In the curriculum from 2026/27 the written diploma exam covers the courses: Mathematical Analysis 1–3, Linear Algebra 1–2, Algebra 1, Differential Equations 1 and Probability 1.
 
-  ## Master's exam {#masters-exam}
+  ## Master's exam {#egzamin-magisterski}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -168,11 +168,11 @@ tresc_en: |
 
   | Specialisation | Syllabus | Applies to curriculum |
   | --- | --- | --- |
-  | [Data analysis](/en/studia/matematyka/analiza-danych) | [PDF](/pliki/studia/mgr21-ad-zakres.pdf) | from 1 October 2019 |
-  | [Actuarial and financial mathematics](/en/studia/matematyka/matematyka-aktuarialno-finansowa) | [PDF](/pliki/studia/mgr21-af-zakres.pdf) | from 1 October 2019 |
-  | [Mathematics teaching](/en/studia/matematyka/matematyka-nauczycielska) | [PDF](/pliki/studia/mgr22-na-zakres.pdf) | from 1 October 2022 |
-  | [Applied mathematics](/en/studia/matematyka/matematyka-stosowana) | [PDF](/pliki/studia/mgr21-st-zakres.pdf) | from 1 October 2019 |
-  | [Theoretical mathematics](/en/studia/matematyka/matematyka-teoretyczna) | [PDF](/pliki/studia/mgr21-te-zakres.pdf) | from 1 October 2019 |
+  | [Data analysis](/studia/matematyka/analiza-danych) | [PDF](/pliki/studia/mgr21-ad-zakres.pdf) | from 1 October 2019 |
+  | [Actuarial and financial mathematics](/studia/matematyka/matematyka-aktuarialno-finansowa) | [PDF](/pliki/studia/mgr21-af-zakres.pdf) | from 1 October 2019 |
+  | [Mathematics teaching](/studia/matematyka/matematyka-nauczycielska) | [PDF](/pliki/studia/mgr22-na-zakres.pdf) | from 1 October 2022 |
+  | [Applied mathematics](/studia/matematyka/matematyka-stosowana) | [PDF](/pliki/studia/mgr21-st-zakres.pdf) | from 1 October 2019 |
+  | [Theoretical mathematics](/studia/matematyka/matematyka-teoretyczna) | [PDF](/pliki/studia/mgr21-te-zakres.pdf) | from 1 October 2019 |
   | Mathematics in economics | [PDF](/pliki/studia/mgr21-ek-zakres.pdf) | from 1 October 2019 |
 
   > **Theoretical mathematics:** besides two problems in analysis and algebra you get two problems from two areas (items 3–9 of the document), which you choose **when registering for the exam**.
@@ -189,7 +189,7 @@ tresc_en: |
 
   The master's exam grade is ¾ of the written part grade plus ¼ of the oral part grade. A positive grade in the oral part is required to pass. If you fail the oral part, the Dean sets a second date — without repeating the written part.
 
-  ## Dates {#dates}
+  ## Dates {#terminy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -208,22 +208,22 @@ tresc_en: |
   | Written master's exam (9:00–11:00) | 18 Feb | 26 Jun | 9 Sep |
   | Oral master's exams | 20 Feb | 30 Jun | 11 Sep |
 
-  ## Past exam papers {#past-exam-papers}
+  ## Past exam papers {#zadania-z-poprzednich-lat}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  The [exam archive](/en/studia/egzaminy-i-dyplom/zadania) contains tests with answers and open problems from bachelor's exams and problems from the written part of master's exams, 2002–2026. The most recent:
+  The [exam archive](/studia/egzaminy-i-dyplom/zadania) contains tests with answers and open problems from bachelor's exams and problems from the written part of master's exams, 2002–2026. The most recent:
 
   - bachelor's exam, September 2026: [test](/pliki/studia/egzaminy/test-2609.pdf), [test with answers](/pliki/studia/egzaminy/odp-2609.pdf), [open problems](/pliki/studia/egzaminy/otw-2609.pdf),
   - master's exam, February 2026: [problems for all specialisations](/pliki/studia/egzaminy/mag26-02.pdf).
 
-  ## Best diploma thesis competition {#best-diploma-thesis-competition}
+  ## Best diploma thesis competition {#konkurs-na-najlepszą-pracę-dyplomową}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   The Faculty of Mathematics and Computer Science runs a competition for the best diploma theses, including the categories of the best bachelor's thesis and the best master's thesis in mathematics. Faculty graduates whose theses defended in the given period received a very good grade may take part; the authors of the best theses present them at the competition final. Rules, application deadlines and results of past editions: [the competition on the Faculty website](https://wmi.uwr.edu.pl/konkurs-na-prace-dyplomowa/).
 
-  ## Documents and links {#documents-and-links}
+  ## Documents and links {#dokumenty-i-linki}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

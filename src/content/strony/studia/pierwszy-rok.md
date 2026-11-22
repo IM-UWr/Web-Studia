@@ -12,19 +12,19 @@ tresc_en: |
 
   A guide for students starting bachelor's studies at the Mathematical Institute: in **mathematics**, in **artificial intelligence in data science** (SIAD) and — for the mathematical part of the programme — in **ISIM**. The most important information is at the top; full details are in the [Guide for new students (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf), prepared by the year coordinator.
 
-  ## Announcements {#announcements}
+  ## Announcements {#ogłoszenia}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   > The **health and safety (BHP) training** must be completed by **31 October 2026**. It is an online course; the details were sent to you by e-mail.
 
   - [Guide for new mathematics students (PDF, Polish)](/pliki/studia/pierwszy-rok/poradnik_26_27.pdf) — required reading, please read it carefully.
-  - [First-semester timetable for mathematics — corrected version of 9 October 2026 (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf). If in doubt, the most up-to-date (though less convenient) version is the [winter-semester timetable](/en/studia/plan-zajec#zimowy).
-  - The [tutoring room](/en/studia/tutornia) has been open in room 202 since 19 October — the duty schedule is on the tutoring room page.
+  - [First-semester timetable for mathematics — corrected version of 9 October 2026 (PDF)](/pliki/studia/pierwszy-rok/plan_26_27z_popr3.pdf). If in doubt, the most up-to-date (though less convenient) version is the [winter-semester timetable](/studia/plan-zajec#zimowy).
+  - The [tutoring room](/studia/tutornia) has been open in room 202 since 19 October — the duty schedule is on the tutoring room page.
   - The [winter exam timetable](#first-year-exams) is available.
   - Accounts in the University systems (USOSweb and Office 365) have been created for you, and the login details were sent to the e-mail address you gave during admission. Please activate these accounts.
 
-  ## First steps {#first-steps}
+  ## First steps {#pierwsze-kroki}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -34,7 +34,7 @@ tresc_en: |
   4. **Collect your student ID card** at the Faculty Office (dziekanat WMI, Mon–Thu 11:00–14:00), bringing your identity card. This applies to those who paid for the card in time. Certificates of student status are also issued there.
   5. **Complete the BHP training** — an online course, available in 2026 from 15 September to 31 October. It is compulsory.
   6. **Check your groups** in USOSweb: *Mój USOSweb* (My USOSweb) → *Grupy zajęciowe* (Class groups).
-  7. **Connect to eduroam Wi-Fi** — login `student_ID_number@uwr.edu.pl` and your Office 365 password; instructions: [Wireless network access](/en/instytut/infrastruktura-informatyczna/siec-bezprzewodowa).
+  7. **Connect to eduroam Wi-Fi** — login `student_ID_number@uwr.edu.pl` and your Office 365 password; instructions: [Wireless network access](/instytut/infrastruktura-informatyczna/siec-bezprzewodowa).
   8. **Get a library account** — complete the [library training](https://wmi.uwr.edu.pl/biblioteka-wydzialowa-szkolenie/) (an online course and a test; the access key is given on the training page).
   9. **Get a locker key** from the porter's desk. There is usually one locker for two students.
 
@@ -43,14 +43,14 @@ tresc_en: |
   | USOSweb | groups, grades, registration from semester 2, oath, decisions | account activated from the IRK e-mail |
   | Office 365 (uwr.edu.pl e-mail) | official correspondence | details from the activation e-mail |
   | eduroam | Wi-Fi at the University and at other universities | `student_ID_number@uwr.edu.pl` + Office 365 password |
-  | Institute student network | computers in the computer labs | login and password sent by e-mail to mathematics students ([details](/en/instytut/infrastruktura-informatyczna/siec-studencka)) |
+  | Institute student network | computers in the computer labs | login and password sent by e-mail to mathematics students ([details](/instytut/infrastruktura-informatyczna/siec-studencka)) |
   | Library account | borrowing from University libraries | after the library training |
 
-  ## Year coordinator and key people {#year-coordinator-and-key-people}
+  ## Year coordinator and key people {#opiekun-roku-i-ważne-osoby}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  The year coordinator is the first person to contact with questions and problems — in person or by e-mail. Before writing, check whether the answer is on this page, in the guide or on the [Mathematics](/en/studia/matematyka) and [Classes and office hours](/en/studia/zajecia) pages. The Faculty Office can also answer many questions.
+  The year coordinator is the first person to contact with questions and problems — in person or by e-mail. Before writing, check whether the answer is on this page, in the guide or on the [Mathematics](/studia/matematyka) and [Classes and office hours](/studia/zajecia) pages. The Faculty Office can also answer many questions.
 
   | Role | Person | When to contact |
   | --- | --- | --- |
@@ -60,11 +60,11 @@ tresc_en: |
   | Deputy Director for Teaching | Dr Tomasz Elsner, room 305 | all teaching at the Institute; decides on form requests (e.g. B1, B3) |
   | Director of the Institute | Prof. Grzegorz Karch | |
   | SIAD programme coordinator | Dr hab. Michał Marcinkowski, room 713 | matters concerning the SIAD programme |
-  | ISIM tutors | see the [ISIM page](/en/studia/isim#kontakt) | choice of courses on ISIM |
+  | ISIM tutors | see the [ISIM page](/studia/isim#kontakt) | choice of courses on ISIM |
 
-  Contact details of the teaching office and the Faculty Office are in the [Contact](#contact) section.
+  Contact details of the teaching office and the Faculty Office are in the [Contact](#kontakt) section.
 
-  ## Key dates (winter semester 2026/27) {#key-dates-winter-semester-202627}
+  ## Key dates (winter semester 2026/27) {#ważne-terminy-semestr-zimowy-202627}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -87,11 +87,11 @@ tresc_en: |
   | 17–23 Feb 2027 | resit session |
   | 24 Feb 2027 | summer semester begins (registration for semester 2 opens 2–4 days earlier) |
 
-  The full calendar of the year: [Academic year](/en/studia/rok-akademicki).
+  The full calendar of the year: [Academic year](/studia/rok-akademicki).
 
   ### First-year exams
 
-  Exam timetable for the winter session of 2026/27 (version of October 2026). The current timetable is always on the [Classes and office hours](/en/studia/zajecia#exam-session) page.
+  Exam timetable for the winter session of 2026/27 (version of October 2026). The current timetable is always on the [Classes and office hours](/studia/zajecia#sesja-egzaminacyjna) page.
 
   | Course | Main session | Resit session |
   | --- | --- | --- |
@@ -105,7 +105,7 @@ tresc_en: |
 
   The label (AI) in the timetable marks the versions of courses for the SIAD programme.
 
-  ## First-year courses {#first-year-courses}
+  ## First-year courses {#przedmioty-pierwszego-roku}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -134,14 +134,14 @@ tresc_en: |
   - Topologia or Topologia R — compulsory except for those who have declared the teaching specialisation (they have a different list of courses) and those who choose the general module (a humanities course is recommended for them, though they can also take Topology)
   - Przegląd aktuarialno-finansowy (actuarial and financial overview, as workshops) — compulsory for the actuarial and financial specialisation, an elective for everyone else
 
-  Details: the [Guide to the bachelor's curriculum (PDF, Polish)](/pliki/studia/przewodnik-mt-lic.pdf) and the [Mathematics — curriculum](/en/studia/matematyka#program) page.
+  Details: the [Guide to the bachelor's curriculum (PDF, Polish)](/pliki/studia/przewodnik-mt-lic.pdf) and the [Mathematics — curriculum](/studia/matematyka#program) page.
 
   ### SIAD and ISIM
 
-  - **SIAD:** in semesters 1–2 — mathematical analysis and linear algebra (in a version for this programme), introduction to mathematics, Python programming and data visualisation, and the basic AI workshop. Classes are in the Institute's timetable (groups marked "tylko dla SIAD", i.e. SIAD students only). In the first semester you are enrolled by the teaching office. More: [AI in Data Science](/en/studia/siad).
-  - **ISIM:** the compulsory courses are Logic for Computer Science and Analiza matematyczna I; recommended ones include Algebra liniowa 1R. In the first semester you register for the Institute's courses yourself in USOSweb, and the tutors review your choices. Students admitted to both ISIM and mathematics did not take the qualifying test. More: [ISIM](/en/studia/isim).
+  - **SIAD:** in semesters 1–2 — mathematical analysis and linear algebra (in a version for this programme), introduction to mathematics, Python programming and data visualisation, and the basic AI workshop. Classes are in the Institute's timetable (groups marked "tylko dla SIAD", i.e. SIAD students only). In the first semester you are enrolled by the teaching office. More: [AI in Data Science](/studia/siad).
+  - **ISIM:** the compulsory courses are Logic for Computer Science and Analiza matematyczna I; recommended ones include Algebra liniowa 1R. In the first semester you register for the Institute's courses yourself in USOSweb, and the tutors review your choices. Students admitted to both ISIM and mathematics did not take the qualifying test. More: [ISIM](/studia/isim).
 
-  ## Standard or extended level? {#standard-or-extended-level}
+  ## Standard or extended level? {#wersja-standardowa-czy-rozszerzona}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -154,7 +154,7 @@ tresc_en: |
 
   > Your first-semester level and group apply only to first-semester courses. They do not limit your choice of courses in later semesters or your choice of specialisation.
 
-  ## Course registration {#course-registration}
+  ## Course registration {#zapisy-na-zajęcia}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -169,13 +169,13 @@ tresc_en: |
 
   - Changes made by the teaching office (limits, new groups, manual enrolment) appear in USOSweb only on the next day — the data are migrated once a day, around midnight.
   - After round II you can withdraw only by switching from an extended to a standard course (B3) or, **once per degree**, via form A1 — by 30 November (winter) or 30 April (summer).
-  - To take a course without meeting its prerequisites, submit form B1 before the semester; to join a full group — form B2 (from round II). Forms: [Classes and office hours](/en/studia/zajecia).
+  - To take a course without meeting its prerequisites, submit form B1 before the semester; to join a full group — form B2 (from round II). Forms: [Classes and office hours](/studia/zajecia).
   - Plan your timetable in *Mój USOSweb* → *Plany użytkownika* (User timetables), check the prerequisites of courses (in USOS, section *Założenia*) and do not take on too much.
   - First-year students do not register for physical education in the first semester. Foreign language courses in the mathematics programme start in semester 3.
 
   Rules: [Course registration rules at the Mathematical Institute (PDF, Polish)](https://www.math.uni.wroc.pl/sites/default/files/zasady-rejestracji.pdf).
 
-  ## Passing the first year (mathematics) {#passing-the-first-year-mathematics}
+  ## Passing the first year (mathematics) {#zaliczenie-pierwszego-roku-matematyka}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -205,11 +205,11 @@ tresc_en: |
   - When you retake a course, exercise classes or labs you have already passed remain valid — you attend only the lecture and take the exam (in USOS you register for group 99).
   - Cases not covered by these rules are decided individually by the Dean.
 
-  Documents: [decisions for students finishing semester 1 (PDF)](/pliki/studia/pierwszy-rok/decyzje1rok1sem.pdf), [decisions for students finishing semester 2 (PDF)](/pliki/studia/pierwszy-rok/decyzje1rok2sem.pdf). The deadline for applications and the rules for repeating a semester: [Student affairs](/en/studia/sprawy-studenckie).
+  Documents: [decisions for students finishing semester 1 (PDF)](/pliki/studia/pierwszy-rok/decyzje1rok1sem.pdf), [decisions for students finishing semester 2 (PDF)](/pliki/studia/pierwszy-rok/decyzje1rok2sem.pdf). The deadline for applications and the rules for repeating a semester: [Student affairs](/studia/sprawy-studenckie).
 
-  These decisions apply to the mathematics programme. On ISIM you need at least 27 ECTS and the compulsory courses to pass semester 1 (see [ISIM](/en/studia/isim)); on SIAD the requirements are set by the programme's curriculum — if in doubt, ask the Faculty Office.
+  These decisions apply to the mathematics programme. On ISIM you need at least 27 ECTS and the compulsory courses to pass semester 1 (see [ISIM](/studia/isim)); on SIAD the requirements are set by the programme's curriculum — if in doubt, ask the Faculty Office.
 
-  ## Classes and how to study {#classes-and-how-to-study}
+  ## Classes and how to study {#jak-wyglądają-zajęcia-i-jak-się-uczyć}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -224,7 +224,7 @@ tresc_en: |
 
   > Failing the same compulsory course twice usually results in removal from the list of students, and repeating a course has to be paid for.
 
-  The Institute does not use the week parity shown in USOS but **day colours**: for classes held every other week, one group meets on orange days and the other on blue days — see [Day colours](/en/studia/rok-akademicki#day-colours).
+  The Institute does not use the week parity shown in USOS but **day colours**: for classes held every other week, one group meets on orange days and the other on blue days — see [Day colours](/studia/rok-akademicki#day-colours).
 
   Advice from the guide:
 
@@ -236,29 +236,29 @@ tresc_en: |
   - Be careful with AI tools: having a language model solve the problem list will not teach you mathematical thinking, and it will not help you in tests and exams.
   - Mathematics is learned in a spiral — first-year topics come back in later years, so the goal is understanding, not just passing the exam.
 
-  ## Support {#support}
+  ## Support {#wsparcie}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/en/studia/tutornia).
-  - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/en/studia/zajecia#konsultacje).
-  - **Year coordinator** and **Prof. Ewa Damek** — see [Year coordinator and key people](#year-coordinator-and-key-people).
-  - **Lecture notes** — free lecture notes and problem collections, including for Analiza matematyczna 1–2 and Wstęp do matematyki: [Lecture notes](/en/studia/skrypty).
+  - **Tutoring room** (room 202, level 200) — a room for studying together, where senior students (tutors) help with problems. In the winter semester of 2026/27 it has been open since 19 October — [tutors' schedule](/studia/tutornia).
+  - **Office hours** — every member of the teaching staff has two hours of office hours a week (doctoral students — one hour). The easiest is to go to your lecturer or exercise-class teacher; come prepared and know what you do not understand. Schedule: [Office hours](/studia/zajecia#konsultacje).
+  - **Year coordinator** and **Prof. Ewa Damek** — see [Year coordinator and key people](#opiekun-roku-i-ważne-osoby).
+  - **Lecture notes** — free lecture notes and problem collections, including for Analiza matematyczna 1–2 and Wstęp do matematyki: [Lecture notes](/studia/skrypty).
   - **Preparatory course** — before the start of the academic year the Faculty runs a preparatory course for admitted students (in 2026 from 25 September): [drop-in.cs.uni.wroc.pl](https://drop-in.cs.uni.wroc.pl/).
-  - **Psychological support, the Support and Accessibility Office, ombudspersons** — [Student affairs — support](/en/studia/sprawy-studenckie#support).
-  - **Scholarships** — [Student affairs — scholarships](/en/studia/sprawy-studenckie#scholarships-and-financial-aid).
+  - **Psychological support, the Support and Accessibility Office, ombudspersons** — [Student affairs — support](/studia/sprawy-studenckie#wsparcie).
+  - **Scholarships** — [Student affairs — scholarships](/studia/sprawy-studenckie#stypendia-i-pomoc-materialna).
 
-  ## Student clubs and student government {#student-clubs-and-student-government}
+  ## Student clubs and student government {#koła-naukowe-i-samorząd}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) (Koło Naukowe Matematyków Teoretyków) — among others co-organises the school [Baby Steps Beyond the Horizon](/en/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
+  - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) (Koło Naukowe Matematyków Teoretyków) — among others co-organises the school [Baby Steps Beyond the Horizon](/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
   - [Applied Mathematics Club](https://www.facebook.com/KNZM.UWr/) (Koło Naukowe Zastosowań Matematyki).
   - **Faculty Student Government Council (WRSS WMI)** — [wrsswmi@uniwroc.onmicrosoft.com](mailto:wrsswmi@uniwroc.onmicrosoft.com), [Facebook](https://www.facebook.com/WRSSWMI/). A year or group is represented by its elected *starosta* (class representative).
 
-  More: [Student affairs](/en/studia/sprawy-studenckie).
+  More: [Student affairs](/studia/sprawy-studenckie).
 
-  ## Worth knowing now: languages and specialisations {#worth-knowing-now-languages-and-specialisations}
+  ## Worth knowing now: languages and specialisations {#warto-wiedzieć-już-teraz-języki-i-specjalności}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -280,9 +280,9 @@ tresc_en: |
   - You declare your specialisation by the end of semester 4 (form C2, by 30 June). The exception is **mathematics teaching** — you declare it by **31 December of semester 1** (form C1). You can change your declaration until the end of your studies.
   - It is worth preparing for the decision from the beginning of semester 2. To work as a teacher you need a master's degree, so you have to complete both the bachelor's and the master's programme.
 
-  Details: [Mathematics — specialisations](/en/studia/matematyka#specjalnosci) and [deadlines and forms](/en/studia/matematyka#terminy).
+  Details: [Mathematics — specialisations](/studia/matematyka#specjalnosci) and [deadlines and forms](/studia/matematyka#terminy).
 
-  ## The Institute building {#the-institute-building}
+  ## The Institute building {#budynek-instytutu}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -301,7 +301,7 @@ tresc_en: |
 
   The library is open Monday to Thursday 9:00–18:00 and on Friday 9:00–17:00. The reading room also has computer workstations for readers.
 
-  ## Orientation day 2026 {#orientation-day-2026}
+  ## Orientation day 2026 {#dzień-adaptacyjny-2026}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -311,19 +311,19 @@ tresc_en: |
   - **12:00** — matriculation in the Leopoldina Hall (Main Building, pl. Uniwersytecki 1): the formal admission to the student body combined with taking the oath. You acquire student rights at the moment of matriculation and taking the oath (§ 1 of the Study Regulations).
   - **14:00** — at the Institute: a meeting with the Institute's management (for mathematics also with the year coordinator and the Dean's representatives for safety and for equal treatment), followed by a meeting with senior students (mathematics in hall HS; SIAD first in hall EM, then in HS).
 
-  Programmes: [mathematics (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf), [AI in data science (PDF)](/pliki/studia/pierwszy-rok/adapt2026_siad.pdf). See also: [Welcome, first-year students](/en/aktualnosci/2026-10-01-witamy-studentow-pierwszego-roku).
+  Programmes: [mathematics (PDF)](/pliki/studia/pierwszy-rok/adapt2026_matematyka.pdf), [AI in data science (PDF)](/pliki/studia/pierwszy-rok/adapt2026_siad.pdf). See also: [Welcome, first-year students](/aktualnosci/2026-10-01-witamy-studentow-pierwszego-roku).
 
-  ## FAQ {#faq}
+  ## FAQ {#pytania-i-odpowiedzi}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   **Which group am I in?** Check USOSweb: *Mój USOSweb* → *Grupy zajęciowe*. In semester 1 mathematics and SIAD students are assigned to groups by the teaching office.
 
-  **I am at the extended level and it is too hard. What can I do?** You can switch to the standard version of each course separately via form B3 — by the deadline announced by the lecturers (at the latest after the first test). See [Standard or extended level?](#standard-or-extended-level)
+  **I am at the extended level and it is too hard. What can I do?** You can switch to the standard version of each course separately via form B3 — by the deadline announced by the lecturers (at the latest after the first test). See [Standard or extended level?](#wersja-standardowa-czy-rozszerzona)
 
   **Does my first-semester level affect my choice of specialisation?** No. The assignment applies only to first-semester courses.
 
-  **What are orange and blue days?** The Institute uses day colours instead of the week parity shown in USOS — see [Day colours](/en/studia/rok-akademicki#day-colours).
+  **What are orange and blue days?** The Institute uses day colours instead of the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#day-colours).
 
   **My test went badly. Can I retake it?** In principle there are no retakes of individual tests — you have to do better in the next one. Some lecturers hold a resit test at the end of the semester; the rules are given at the beginning of the course.
 
@@ -333,7 +333,7 @@ tresc_en: |
 
   **Who should I write to when I do not know what to do?** To the year coordinator, Dr Jan Kraszewski ([jan.kraszewski@uwr.edu.pl](mailto:jan.kraszewski@uwr.edu.pl)). If he does not know the answer, he knows who does.
 
-  ## Documents {#documents}
+  ## Documents {#dokumenty}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -346,7 +346,7 @@ tresc_en: |
   - [University rules for foreign language courses (BIP, Polish)](https://bip.uni.wroc.pl/download/attachment/52874/nr-138-2026-z-dnia-27072026-lektoraty-jezykow-obcych.pdf?v=1785144437)
   - [Study Regulations of the University of Wrocław (Polish)](https://uwr.edu.pl/wp-content/uploads/2024/09/Uchwala-Nr-68_2024-Senatu-UWr-z-2024-04-24-w-sprawie-regulaminu-studiow-na-Uniwersytecie-Wroclawskim-1.pdf)
 
-  ## Contact {#contact}
+  ## Contact {#kontakt}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -357,7 +357,7 @@ tresc_en: |
     - SIAD — Monika Retmaniak, MSc, [monika.retmaniak@uwr.edu.pl](mailto:monika.retmaniak@uwr.edu.pl),
     - ISIM — Joanna Jędrzejkowska, MSc, tel. 71 375 7892, [Joanna.Jedrzejkowska@uwr.edu.pl](mailto:Joanna.Jedrzejkowska@uwr.edu.pl).
 
-  Worth following regularly: the news on the Institute's home page, this page, the [Institute's Facebook page](https://www.facebook.com/IMUWr), the [Mathematics](/en/studia/matematyka) page and the [Classes and office hours](/en/studia/zajecia) page.
+  Worth following regularly: the news on the Institute's home page, this page, the [Institute's Facebook page](https://www.facebook.com/IMUWr), the [Mathematics](/studia/matematyka) page and the [Classes and office hours](/studia/zajecia) page.
 opublikowany: true
 format_tresci: jawne
 ---

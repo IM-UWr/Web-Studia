@@ -33,13 +33,9 @@ tresc_en: |
 
   :::etapy
 
-  1. **Semesters 1–2: Foundations** — Core courses, including mathematical analysis, linear algebra and an introduction to mathematics. The year coordinator and the tutoring room help you settle in.  
-     Deadline: Teaching specialisation: declare by 31 December (1st semester)  
-     Form: Form C1
-  2. **Semesters 3–4: Broadening and choosing a specialisation** — Further core courses and the first electives. At the end of the 4th semester you choose a specialisation.  
-     Deadline: Declare your specialisation by 30 June (4th semester)  
-     [Form C2](https://forms.cloud.microsoft/e/SWEQQ1YF5L)
-  3. **Semesters 5–6: Specialisation and bachelor's diploma** — Specialisation courses, a team specialisation project and a bachelor's thesis. Studies end with a written bachelor's exam (February, June or September).
+  1. **Semester 1: Foundations** — Core courses, including mathematical analysis, linear algebra and an introduction to mathematics. The year coordinator and the tutoring room help you settle in.  
+  2. **Semesters 2–4: Compulsory courses and a first choice of specialisation** — Further core courses and the first electives. At the end of the 4th semester you choose a specialisation.  
+  3. **Semesters 5–6: Specialisation courses** — Specialisation courses, a team specialisation project and a bachelor's thesis. Studies end with a written bachelor's exam (February, June or September).
 
   :::
 
@@ -198,7 +194,7 @@ tresc_en: |
 
   Mathematics teaches precise thinking and problem solving, so graduates find work in many places: data analysis and IT, banking and insurance, research centres, schools and universities.
 
-  The best master's graduates can continue at the [doctoral school](/en/studia/szkola-doktorska). Employment and salary data for mathematics graduates of the University of Wrocław are published by the national [Graduate Tracking System (ELA)](https://ela.nauka.gov.pl/).
+  The best master's graduates can continue at the [doctoral school](/studia/szkola-doktorska). Employment and salary data for mathematics graduates of the University of Wrocław are published by the national [Graduate Tracking System (ELA)](https://ela.nauka.gov.pl/).
 
   ## FAQ {#pytania}
 
@@ -224,15 +220,15 @@ tresc_en: |
 
   ### Can I take courses at the Institute of Computer Science?
 
-  Yes, if places are available. You need an account in the Institute of Computer Science registration system — see [Classes and office hours](/en/studia/zajecia).
+  Yes, if places are available. You need an account in the Institute of Computer Science registration system — see [Classes and office hours](/studia/zajecia).
 
   ### Where can I get help in my first year?
 
-  In the tutoring room (room 202), where senior students help with problems, from the year coordinator and on the [First year](/en/studia/pierwszy-rok) page.
+  In the tutoring room (room 202), where senior students help with problems, from the year coordinator and on the [First year](/studia/pierwszy-rok) page.
 
   ### When are the diploma exams held?
 
-  Three times a year: in February, June and September. Rules, scope and dates: [Exams and diploma](/en/studia/egzaminy-i-dyplom).
+  Three times a year: in February, June and September. Rules, scope and dates: [Exams and diploma](/studia/egzaminy-i-dyplom).
 
   :::
 

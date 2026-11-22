@@ -24,7 +24,7 @@ tresc_en: |
 
   > Many of the scripts were written for earlier editions of the courses (hence, for example, the version labels A or B in some titles), so their scope and notation may differ from the current programme. Files marked "author's page" are maintained by the authors on their personal websites.
 
-  ## Analysis {#analysis}
+  ## Analysis {#analiza}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -46,7 +46,7 @@ tresc_en: |
   - [Analiza funkcjonalna 1](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna1.pdf) and [Analiza funkcjonalna 2](https://www.math.uni.wroc.pl/~szwarc/pdf/anfun2007/analiza-funkcjonalna2p.pdf) (in Polish) — Ryszard Szwarc. PDF (author's page). For the courses Functional Analysis 1 and 2.
   - [Wielomiany ortogonalne i problem momentów](/pliki/studia/skrypty/szwarc-wielomiany-ortogonalne.pdf) (in Polish) — Ryszard Szwarc. PDF, 87 pp. Notes for a lecture given in the winter semester of 2003: positive definite sequences, Jacobi matrices, zeros of orthogonal polynomials, the moment problem.
 
-  ## Introduction to mathematics, algebra and combinatorics {#introduction-to-mathematics-algebra-and-combinatorics}
+  ## Introduction to mathematics, algebra and combinatorics {#wstęp-do-matematyki-algebra-i-kombinatoryka}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -69,20 +69,20 @@ tresc_en: |
 
   - [Zbiór zadań z kombinatoryki](https://www.math.uni.wroc.pl/~sgal/szkola/Kombinatoryka/Zbior_zadan_z_kombinatoryki.pdf) (in Polish) — Światosław R. Gal. PDF (author's page). A problem book, useful for the courses Introduction to Combinatorics (semester 1) and Combinatorics.
 
-  ## Topology {#topology}
+  ## Topology {#topologia}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [Wstęp do topologii (A)](/pliki/studia/skrypty/krupski-wstep-do-topologii.pdf) (in Polish) — Paweł Krupski. PDF, 113 pp. For the course Topology or Topology R (semester 2).
 
-  ## Differential equations {#differential-equations}
+  ## Differential equations {#równania-różniczkowe}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [Równania różniczkowe (A1)](/pliki/studia/skrypty/raczynski-rownania-rozniczkowe-1.pdf) (in Polish) — Andrzej Raczyński. PDF, 156 pp., 2010. For the course Differential Equations 1 (semester 4).
   - [Warsztaty z równań różniczkowych cząstkowych](/pliki/studia/skrypty/biler-karch-nadzieja-wrzosek-warsztaty-rrcz.pdf) (in Polish) — Piotr Biler, Grzegorz Karch, Tadeusz Nadzieja, Dariusz Wrzosek. PDF, 140 pp., Toruń 2003. Lecture notes from a workshop on partial differential equations: wave equations, the heat equation, the Poisson equation, evolution problems.
 
-  ## Probability and statistics {#probability-and-statistics}
+  ## Probability and statistics {#rachunek-prawdopodobieństwa-i-statystyka}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -101,7 +101,7 @@ tresc_en: |
 
   - [Matematyka ubezpieczeń majątkowych i osobowych](https://www.math.uni.wroc.pl/~szekli/documents/mumio/mumio-16-trans/skrypt-16.pdf) (in Polish) — Ryszard Szekli. PDF (author's page). For the course of the same name (Property and Personal Insurance Mathematics; second-cycle studies, actuarial and financial mathematics specialisation).
 
-  ## Mathematics teaching {#mathematics-teaching}
+  ## Mathematics teaching {#matematyka-nauczycielska}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -111,14 +111,14 @@ tresc_en: |
   - [Wybrane zagadnienia z geometrii płaszczyzny](/pliki/studia/skrypty/zaremba-geometria-plaszczyzny.pdf) (in Polish) — Danuta Zaremba. PDF, 60 pp. Basic facts of Euclidean plane geometry with exercises; hints or solutions are given for some of them.
   - [Kilka rad dla studentów odbywających praktykę nauczycielską w szkole podstawowej i gimnazjum](/pliki/studia/skrypty/zaremba-praktyka-nauczycielska.pdf) (in Polish) — Danuta Zaremba. PDF, 17 pp. Advice on preparing and teaching lessons during the teaching placement; for the placement rules see [Teaching placements](/studia/matematyka#praktyki).
 
-  ## LaTeX and computer graphics {#latex-and-computer-graphics}
+  ## LaTeX and computer graphics {#latex-i-grafika-komputerowa}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [Wprowadzenie do systemu LaTeX](/pliki/studia/skrypty/selwat-latex.pdf) (in Polish) — Karol Selwat. PDF, 42 pp. An introduction to LaTeX written for students of the Institute; useful for the course LaTeX (semesters 2–6).
   - [Pracownia graficzna wizualizacji obiektów matematycznych](https://dbura.math.uni.wroc.pl/dydaktyka) (in Polish) — Dariusz Buraczewski, Tomasz Elsner. PDF on the author's page (section "Skrypty do zajęć"). A script for the class on visualising mathematical objects, 2011/12.
 
-  ## Other sources {#other-sources}
+  ## Other sources {#inne-źródła-materiałów}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

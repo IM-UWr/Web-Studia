@@ -12,7 +12,7 @@ tresc_en: |
 
   Earlier study programmes in mathematics at the Faculty of Mathematics and Computer Science of the University of Wrocław. All documents are in Polish.
 
-  ## Programmes in force from 1 October 2019 {#programmes-in-force-from-1-october-2019}
+  ## Programmes in force from 1 October 2019 {#programy-obowiązujące-od-1-października-2019-r}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -23,7 +23,7 @@ tresc_en: |
   - [Resolution of the Faculty Council of 24 September 2019 on the minimum requirements for completing a semester in mathematics](/pliki/studia/programy/uchwala_54_2019_rwmii_minzal.pdf)
   - [Resolution of the Faculty Council of 24 September 2019 on the requirements for re-enrolment in a semester in mathematics](/pliki/studia/programy/uchwala_55_2019_rwmii_powtsem.pdf)
 
-  ## Programmes in force from 1 October 2017 {#programmes-in-force-from-1-october-2017}
+  ## Programmes in force from 1 October 2017 {#programy-obowiązujące-od-1-października-2017-r}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -34,7 +34,7 @@ tresc_en: |
 
   The individual resolutions of the Faculty Council that make up the consolidated text above were adopted on [23 May 2017](/pliki/studia/programy/program_studiow_matematyka230517.pdf) and [25 September 2018](/pliki/studia/programy/urw_2018-09-25.pdf).
 
-  ## Programmes in force from 1 October 2016 {#programmes-in-force-from-1-october-2016}
+  ## Programmes in force from 1 October 2016 {#programy-obowiązujące-od-1-października-2016-r}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -44,7 +44,7 @@ tresc_en: |
 
   The individual resolutions of the Faculty Council that make up the consolidated text above were adopted on [19 January 2016](/pliki/studia/programy/program_studiow_matematyka190116.pdf) and [27 September 2016](/pliki/studia/programy/urw_zmiany_2016-09-27.pdf).
 
-  ## Programmes in force from 1 October 2013 {#programmes-in-force-from-1-october-2013}
+  ## Programmes in force from 1 October 2013 {#programy-obowiązujące-od-1-października-2013-r}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -64,7 +64,7 @@ tresc_en: |
   - [22 September 2015](https://www.math.uni.wroc.pl/studia/programy/URW_2015-09-22.pdf)
   - [27 September 2016](/pliki/studia/programy/urw_zmiany_2016-09-27.pdf)
 
-  ## Earlier programmes {#earlier-programmes}
+  ## Earlier programmes {#wcześniejsze-programy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

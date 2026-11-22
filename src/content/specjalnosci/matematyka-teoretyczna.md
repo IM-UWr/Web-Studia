@@ -66,7 +66,7 @@ tresc_en: |
 
   <!-- RAMKA: Treść ramki; etykietę zmień w atrybucie tytul. -->
 
-  :::ramka{tytul="Who is it for"}
+  :::ramka{tytul="Who it is for"}
 
   For those who want to understand how mathematical theories are built, enjoy getting to the heart of a proof, and are thinking about advanced master's studies and later research work — including at a university. The specialisation requires the extended (R) versions of several key courses, so be ready for a more demanding programme.
 

@@ -113,11 +113,11 @@ tresc_en: |
 
   ### Where can I find the timetable?
 
-  Classes are listed in the [Mathematical Institute timetable](/en/studia/plan-zajec#zimowy) (groups marked “tylko dla SIAD”). Registration rules and forms are on the [Classes and office hours](/en/studia/zajecia) page.
+  Classes are listed in the [Mathematical Institute timetable](/studia/plan-zajec#zimowy) (groups marked “tylko dla SIAD”). Registration rules and forms are on the [Classes and office hours](/studia/zajecia) page.
 
   ### Where can I get help in my first year?
 
-  From the first-year coordinator and on the [First year](/en/studia/pierwszy-rok) page, which includes the orientation day programme for this degree.
+  From the first-year coordinator and on the [First year](/studia/pierwszy-rok) page, which includes the orientation day programme for this degree.
 
   :::
 

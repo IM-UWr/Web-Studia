@@ -20,9 +20,9 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  Most forms are available only in Polish. Programmes of study for each cohort are listed on the [main doctoral school page](/en/studia/szkola-doktorska#program); regulations and orders are under [Regulations](/en/studia/szkola-doktorska#akty).
+  Most forms are available only in Polish. Programmes of study for each cohort are listed on the [main doctoral school page](/studia/szkola-doktorska#program); regulations and orders are under [Regulations](/studia/szkola-doktorska#akty).
 
-  ## Forms for everyday matters {#forms-for-everyday-matters}
+  ## Forms for everyday matters {#wzory-na-co-dzień}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -36,7 +36,7 @@ tresc_en: |
   - Documentation of doctoral training — forms (annexes to Rector's Ordinance No. 182/2023) — [DOCX](/pliki/szkola-doktorska/dokumenty/182-2023_dokumentacja_przebiegu_ksztalcenia_szd.docx); the ordinance itself: [Polish](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/08/182-2023-dokumentacja-przebiegu-ksztalcenia-SzD.pdf), [English](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2023/09/Ordinance-No-182_2023.pdf)
   - Course syllabus template for the doctoral school — [PDF](/pliki/szkola-doktorska/dokumenty/sylabus_kolegia.pdf), [DOC](/pliki/szkola-doktorska/dokumenty/sylabus_kolegia.doc)
 
-  ## Insurance {#insurance}
+  ## Insurance {#ubezpieczenia}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -45,15 +45,15 @@ tresc_en: |
   - Authorisation to forward insurance registration documents — [PDF](/pliki/szkola-doktorska/dokumenty/upowaznienia_w_sprawie_ubezpieczen.pdf), [DOCX](/pliki/szkola-doktorska/dokumenty/upowaznienia_w_sprawie_ubezpieczen.docx)
   - Rules for registering doctoral students for social and health insurance (Rector's Ordinance No. 7/2020) — [PDF](/pliki/szkola-doktorska/dokumenty/regulamin_-ubezpieczenie_szkola_doktorska-2020.pdf)
 
-  ## Mid-term evaluation {#mid-term-evaluation}
+  ## Mid-term evaluation {#ocena-śródokresowa}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - Report on the implementation of the individual research plan (IPB) — [DOCX](/pliki/szkola-doktorska/dokumenty/sprawozdanie_z_realizacji_ipb_oceny_srodokresowej.docx)
   - Supervisor's opinion on the implementation of the IPB — [DOCX](/pliki/szkola-doktorska/dokumenty/opinia_promotora_z_realizacji_ipb_oceny_srodokresowej.docx)
-  - Rector's Ordinance No. 25/2021 on the mid-term evaluation schedule and forms — [Polish](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/TU-25-2021-zmiana-zarzadzenie-25-2021-harmonogram-przeprowadz.-oceny-srodokresowej-stan-na-12.04.2024.pdf), [English](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/Regulation-No_70-2024-1.pdf)
+  - Rector's Ordinance No. 25/2021 on the mid-term evaluation schedule and forms (as of 12 April 2024) — [Polish](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/TU-25-2021-zmiana-zarzadzenie-25-2021-harmonogram-przeprowadz.-oceny-srodokresowej-stan-na-12.04.2024.pdf), [English](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/07/Regulation-No_70-2024-1.pdf)
 
-  ## Professional practice (teaching) {#professional-practice-teaching}
+  ## Professional practice (teaching) {#praktyki-zawodowe-zajęcia-dydaktyczne}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -61,11 +61,11 @@ tresc_en: |
   - Declaration on planned professional practice in the form of teaching (Annex 9 to the rules) — [PDF](/pliki/szkola-doktorska/dokumenty/oswiadczenie_o_planowanym.pdf)
   - Declaration on completed professional practice in the form of teaching (Annex 10 to the rules) — [PDF](/pliki/szkola-doktorska/dokumenty/oswiadczenie_o_zrealizowaniu.pdf)
 
-  ## Doctoral thesis {#doctoral-thesis}
+  ## Doctoral thesis {#rozprawa-doktorska}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  Step-by-step description: [Thesis and the doctoral degree](/en/studia/szkola-doktorska/stopien-doktora).
+  Step-by-step description: [Thesis and the doctoral degree](/studia/szkola-doktorska/stopien-doktora).
 
   - Procedure for submitting the doctoral thesis — [PDF](/pliki/szkola-doktorska/dokumenty/procedura_zlozenia_rozprawy_doktorskiej.pdf)
   - Application to start the doctoral degree proceedings — [PDF](/pliki/szkola-doktorska/dokumenty/wniosek_wszczecie_postepowania_szd.pdf), [DOCX](/pliki/szkola-doktorska/dokumenty/wniosek_wszczecie_postepowania_szd.docx)
@@ -74,7 +74,7 @@ tresc_en: |
   - Supervisor's declaration — [PDF](/pliki/szkola-doktorska/dokumenty/oswiadczenie_promotora.pdf), [DOCX](/pliki/szkola-doktorska/dokumenty/oswiadczenie_promotora.docx)
   - UWr Senate Resolution No. 131/2019 on the procedure for conferring doctoral and habilitation degrees (consolidated text of 16 February 2024) — [PDF](/pliki/szkola-doktorska/dokumenty/2024_-_tekst_jednolity_uchwaly_nr_131_2019_w_sprawie_trybu_postepowania_o_nadanie_stopni_naukowych_dr_i_dr_hab.pdf)
 
-  ## APD system (thesis archive) and plagiarism checks {#apd-system-thesis-archive-and-plagiarism-checks}
+  ## APD system (thesis archive) and plagiarism checks {#system-apd-i-kontrola-antyplagiatowa}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -83,7 +83,7 @@ tresc_en: |
   - APD procedure for supervisors and reviewers — [PDF](/pliki/szkola-doktorska/dokumenty/apd_dr_dla_promotora_i_recenzenta.pdf)
   - APD procedure for administrative staff — [PDF](/pliki/szkola-doktorska/dokumenty/instrukcja_rozprawy_dr_apd_dziekanat.pdf)
 
-  ## Regulations {#regulations}
+  ## Regulations {#regulaminy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -92,7 +92,7 @@ tresc_en: |
   - Co-tutelle agreements (Rector's Ordinance No. 167/2021) — [PDF](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2024/02/Nr-167_2021-z-dnia-25.10.2021-r.-cotutelle-3.pdf)
   - Further orders and resolutions of the Doctoral School: [szd.uwr.edu.pl](https://szd.uwr.edu.pl/uchwaly-i-zarzadzenia/)
 
-  ## Course syllabi (2025/26) {#course-syllabi-202526}
+  ## Course syllabi (2025/26) {#sylabusy-zajęć-202526}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -106,13 +106,13 @@ tresc_en: |
 
   **Winter semester — seminars:** [High-dimensional probability](/pliki/szkola-doktorska/sylabusy/sylabus-wrp.pdf)
 
-  ## Contact {#contact}
+  ## Contact {#kontakt}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Doctoral School secretary at the Institute: Ewa Lamch, MA, room 303, phone 71 375 7494, [ewa.lamch@math.uni.wroc.pl](mailto:ewa.lamch@math.uni.wroc.pl).
 
-  See also: [Admissions](/en/studia/szkola-doktorska/rekrutacja) · [Stipends and grants](/en/studia/szkola-doktorska/stypendia-i-granty) · [Thesis and the doctoral degree](/en/studia/szkola-doktorska/stopien-doktora)
+  See also: [Admissions](/studia/szkola-doktorska/rekrutacja) · [Stipends and grants](/studia/szkola-doktorska/stypendia-i-granty) · [Thesis and the doctoral degree](/studia/szkola-doktorska/stopien-doktora)
 opublikowany: true
 format_tresci: jawne
 ---

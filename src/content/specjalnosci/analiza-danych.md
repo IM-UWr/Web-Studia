@@ -65,7 +65,7 @@ tresc_en: |
 
   <!-- RAMKA: Treść ramki; etykietę zmień w atrybucie tytul. -->
 
-  :::ramka{tytul="Who is it for"}
+  :::ramka{tytul="Who it is for"}
 
   For students who enjoy probability and statistics, want to program and work with data, and want to understand the mathematical foundations of statistical methods and machine learning. At the second-cycle level the specialisation assumes knowledge of the first-cycle courses **Programming and data analysis in R**, **Linear models** and **Statistics**.
 

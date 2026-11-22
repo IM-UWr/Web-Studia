@@ -12,7 +12,7 @@ tresc_en: |
 
   MOST is a mobility programme for students and PhD students. Running since 1999, it lets participants study for a semester or a full academic year at one of twenty-nine partner universities in Poland. Participation is free of charge and does not depend on the mode of study.
 
-  ## Who can apply {#who-can-apply}
+  ## Who can apply {#kto-może-wziąć-udział}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -23,7 +23,7 @@ tresc_en: |
   - students of **second-cycle (master's) programmes** who have completed the first semester,
   - PhD students who have completed the first year of **doctoral studies**.
 
-  ## Recruitment {#recruitment}
+  ## Recruitment {#rekrutacja}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -34,13 +34,13 @@ tresc_en: |
 
   All details are available on the [MOST programme website](http://www.most.amu.edu.pl/) (in Polish). The recruitment procedure is described step by step separately for [students](http://most.amu.edu.pl/index.php/rekrutacja/rekrutacja-krok-po-kroku) and for [PhD students](http://most.amu.edu.pl/index.php/doc/rekrutacjadoc). You can also watch an [information video](https://www.youtube.com/watch?v=rGdurDxx-I0) about the programme.
 
-  ## MOST and Erasmus {#most-and-erasmus}
+  ## MOST and Erasmus {#most-a-erasmus}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Do you think MOST is not for you because you have already been on Erasmus? That is no obstacle. It also works the other way round: taking part in MOST does not disqualify you when applying for a place in the Erasmus programme.
 
-  ## Coordinators {#coordinators}
+  ## Coordinators {#koordynatorzy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

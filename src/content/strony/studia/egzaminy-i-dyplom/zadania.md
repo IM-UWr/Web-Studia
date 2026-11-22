@@ -8,11 +8,11 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  Problems from the written diploma exams in mathematics, 2002–2026: the bachelor's exam (tests, answers, open problems) and the written part of the master's exam. Exam rules, syllabi and dates are on the [Exams and diploma](/en/studia/egzaminy-i-dyplom) page. The exam papers are in Polish.
+  Problems from the written diploma exams in mathematics, 2002–2026: the bachelor's exam (tests, answers, open problems) and the written part of the master's exam. Exam rules, syllabi and dates are on the [Exams and diploma](/studia/egzaminy-i-dyplom) page. The exam papers are in Polish.
 
-  > Past papers show the type and level of the problems. The current syllabus is set by the documents of the Diploma Exams Committee — the [bachelor's exam syllabus](/pliki/studia/egzlic_zagadnienia.pdf) and the [master's exam syllabi](/en/studia/egzaminy-i-dyplom#masters-exam-syllabi).
+  > Past papers show the type and level of the problems. The current syllabus is set by the documents of the Diploma Exams Committee — the [bachelor's exam syllabus](/pliki/studia/egzlic_zagadnienia.pdf) and the [master's exam syllabi](/studia/egzaminy-i-dyplom#masters-exam-syllabi).
 
-  ## Bachelor's exam {#bachelors-exam}
+  ## Bachelor's exam {#egzamin-licencjacki}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -114,7 +114,7 @@ tresc_en: |
   |  | June | [test](/pliki/studia/egzaminy/test-0206.pdf) | [answers](/pliki/studia/egzaminy/odp-0206.pdf) | [problems](/pliki/studia/egzaminy/otw-0206.pdf) | — |
   |  | September | [test](/pliki/studia/egzaminy/test-0209.pdf) | [answers](/pliki/studia/egzaminy/odp-0209.pdf) | [problems](/pliki/studia/egzaminy/otw-0209.pdf) | — |
 
-  ## Master's exam {#masters-exam}
+  ## Master's exam {#egzamin-magisterski}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 

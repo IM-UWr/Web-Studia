@@ -38,10 +38,10 @@ tresc_en: |
   <!-- LINKI: Jeden link na punkt; po — można dopisać opis. -->
 
   :::linki
-  - [Lecturers' office hours](/en/studia/zajecia#konsultacje)
-  - [Year coordinator and key people](/en/studia/pierwszy-rok#year-coordinator-and-key-people)
-  - [Lecture notes and problem sets](/en/studia/skrypty)
-  - [Psychological support, ombudspersons and the Support Office](/en/studia/sprawy-studenckie#support)
+  - [Lecturers' office hours](/studia/zajecia#konsultacje)
+  - [Year coordinator and key people](/studia/pierwszy-rok#opiekun-roku-i-ważne-osoby)
+  - [Lecture notes and problem sets](/studia/skrypty)
+  - [Psychological support, ombudspersons and the Support Office](/studia/sprawy-studenckie#wsparcie)
   :::
 opublikowany: true
 format_tresci: jawne

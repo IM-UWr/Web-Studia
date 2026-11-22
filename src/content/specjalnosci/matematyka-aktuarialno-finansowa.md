@@ -72,7 +72,7 @@ tresc_en: |
 
   <!-- RAMKA: Treść ramki; etykietę zmień w atrybucie tytul. -->
 
-  :::ramka{tytul="Who is it for"}
+  :::ramka{tytul="Who it is for"}
 
   For those who enjoy probability theory and want to use it to price risk — in insurance and in financial markets. If you are not sure yet, take **Actuarial and Financial Overview** in semester 2: the course is meant to introduce the specialisation and help you decide, and if you choose a different path, it counts as an elective.
 

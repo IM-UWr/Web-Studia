@@ -10,9 +10,9 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  A guide to classes at the Mathematical Institute: how and when to register for courses in USOSweb, which form to submit in special situations, and where to find the timetable, exam dates and lecturers' office hours. Specialisation declarations and the choice of a thesis supervisor (forms C1–C3 and E) are described on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
+  A guide to classes at the Mathematical Institute: how and when to register for courses in USOSweb, which form to submit in special situations, and where to find the timetable, exam dates and lecturers' office hours. Specialisation declarations and the choice of a thesis supervisor (forms C1–C3 and E) are described on the programme page: [Mathematics — deadlines and forms](/studia/matematyka#terminy).
 
-  ## Upcoming deadlines {#upcoming-deadlines}
+  ## Upcoming deadlines {#najbliższe-terminy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -21,20 +21,20 @@ tresc_en: |
   | Date | What |
   | --- | --- |
   | by 10 November 2026 (Tuesday) | withdrawal from an e-learning course run with Hasselt University — Form H2 (see [E-learning](#e-learning)) |
-  | by 30 November 2026 | one-time withdrawal from a course after registration has closed — [Form A1 or A2](#forms) |
+  | by 30 November 2026 | one-time withdrawal from a course after registration has closed — [Form A1 or A2](#formularze) |
   | 6–16 February 2027 | exam session — [exam schedule (PDF)](/pliki/studia/zajecia/sesja2027luty.pdf) |
   | 17–23 February 2027 | resit session — [resit schedule (PDF)](/pliki/studia/zajecia/sesja_poprawkowa2027luty.pdf) |
 
-  The full calendar of the year is on the [Academic year](/en/studia/rok-akademicki) page.
+  The full calendar of the year is on the [Academic year](/studia/rok-akademicki) page.
 
-  ## Timetable and course offer {#timetable-and-course-offer}
+  ## Timetable and course offer {#plan-zajęć-i-oferta-przedmiotów}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **Timetable:** [winter semester 2026/27](/en/studia/plan-zajec#zimowy), [summer semester 2026/27](/en/studia/plan-zajec#letni). Together with the timetable, the full list of courses offered in the semester (by category, including one-off courses) is published before the semester starts.
-  - **Day colours:** classes held every other week follow the day colours, not the week parity shown in USOS — see [Day colours](/en/studia/rok-akademicki#day-colours).
+  - **Timetable:** [winter semester 2026/27](/studia/plan-zajec#zimowy), [summer semester 2026/27](/studia/plan-zajec#letni). Together with the timetable, the full list of courses offered in the semester (by category, including one-off courses) is published before the semester starts.
+  - **Day colours:** classes held every other week follow the day colours, not the week parity shown in USOS — see [Day colours](/studia/rok-akademicki#day-colours).
   - **Course descriptions:** [course catalogue in USOSweb](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) — syllabuses, including prerequisites (the “Założenia” section).
-  - **First-year timetable** and information for new students: [First year](/en/studia/pierwszy-rok).
+  - **First-year timetable** and information for new students: [First year](/studia/pierwszy-rok).
 
   ## Office hours {#konsultacje}
 
@@ -48,11 +48,11 @@ tresc_en: |
 
   Until then:
 
-  - e-mail addresses and room numbers of staff and PhD students are in the [staff directory](/en/pracownicy); many entries also link to a personal website, where it is worth checking for office hours;
+  - e-mail addresses and room numbers of staff and PhD students are in the [staff directory](/pracownicy); many entries also link to a personal website, where it is worth checking for office hours;
   - also check the lecturer's profile in [USOSweb](https://usosweb.uwr.edu.pl/);
   - if in doubt, ask the lecturer in class or arrange a meeting by e-mail.
 
-  ## Course registration {#course-registration}
+  ## Course registration {#zapisy-na-zajęcia}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -73,7 +73,7 @@ tresc_en: |
   | 2nd (no queues) | first two weeks of the semester | register directly in groups with free places and withdraw freely |
   | 3rd (no queues) | 1–2 days | only register for free places — withdrawal is no longer possible |
 
-  > **Note:** if your request for one form of classes is rejected, your request for the whole course is rejected — e.g. no place in a lab group also means rejection from the tutorial group. Once the 2nd round has closed, you can no longer withdraw from a course except in the cases listed under [Forms](#forms).
+  > **Note:** if your request for one form of classes is rejected, your request for the whole course is rejected — e.g. no place in a lab group also means rejection from the tutorial group. Once the 2nd round has closed, you can no longer withdraw from a course except in the cases listed under [Forms](#formularze).
 
   ### Group limits
 
@@ -88,7 +88,7 @@ tresc_en: |
 
   ### Teacher-training courses
 
-  Teacher-training courses (category N) have a separate registration in USOSweb, open only to students who have declared the *mathematics teaching* specialisation on Form C1 or C3 ([deadlines](/en/studia/matematyka#terminy)).
+  Teacher-training courses (category N) have a separate registration in USOSweb, open only to students who have declared the *mathematics teaching* specialisation on Form C1 or C3 ([deadlines](/studia/matematyka#terminy)).
 
   ### Good practice
 
@@ -96,7 +96,7 @@ tresc_en: |
   - For courses taught at two levels you may be registered for only one level at a time.
   - If you decide to drop a course, withdraw at once instead of waiting for registration to end — especially for classes with a limited number of places.
 
-  ## Prerequisites {#prerequisites}
+  ## Prerequisites {#wymagania-wstępne}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -112,7 +112,7 @@ tresc_en: |
 
   Graduates of other universities who are unsure whether they meet the prerequisites should consult the lecturer, who takes the final decision.
 
-  ## Standard and extended versions {#standard-and-extended-versions}
+  ## Standard and extended versions {#wersja-standardowa-i-rozszerzona}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -127,7 +127,7 @@ tresc_en: |
 
   A student of *mathematics* or ISIM may switch from the extended to the standard version of a compulsory course even after registration has closed: submit [Form B3](https://forms.cloud.microsoft/e/h0HMFkuYvb) within the period agreed by the lecturers of both versions and announced by the end of the second week of classes. This switch does not use up the one-time right to withdraw from a course (A1/A2).
 
-  ## Forms {#forms}
+  ## Forms {#formularze}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -141,7 +141,7 @@ tresc_en: |
   | [H1](https://forms.cloud.microsoft/e/fsh598KCeu) | registration for an e-learning course run with Hasselt University | 2–3 days after the semester starts (winter 2026/27: by 5 October) |
   | H2 | withdrawal from an e-learning course | about a month after classes start (winter 2026/27: by 10 November) |
 
-  The link to Form H2 is not currently available here — if you need it, write to the teaching office (see [Contact](#contact)). Specialisation declarations (C1–C3) and the choice of a master's thesis supervisor (E): [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
+  The link to Form H2 is not currently available here — if you need it, write to the teaching office (see [Contact](#kontakt)). Specialisation declarations (C1–C3) and the choice of a master's thesis supervisor (E): [Mathematics — deadlines and forms](/studia/matematyka#terminy).
 
   ### Withdrawing after registration has closed
 
@@ -151,20 +151,20 @@ tresc_en: |
   2. withdrawal from an e-learning course run with Hasselt University — Form H2 (see [E-learning](#e-learning));
   3. **one-time withdrawal from a course** — once per degree (once in the bachelor's and once in the master's programme), by **30 November** (winter semester) or **30 April** (summer semester): Form A1 (bachelor's) or A2 (master's). For courses with a team project (e.g. *Zespołowy projekt specjalnościowy*, in English Specialisation team project) the lecturer's consent is also required. This right is independent of the corresponding right at the Institute of Computer Science.
 
-  ## Repeating a course {#repeating-a-course}
+  ## Repeating a course {#powtarzanie-przedmiotu}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - A student who has failed a compulsory course must register for it again at the first opportunity; repeating a course is subject to a fee.
   - Tutorials or labs you have already passed remain valid: if you failed only the exam, after registering again you attend only the lecture and take the exam. Because USOS requires registration for all forms of classes, register for **group no. 99** in that case. For courses with both tutorials and labs, this rule applies to each of them separately.
-  - The rule does not apply to a new course of study (e.g. after re-admission or in the master's programme). If you are unsure whether a credit is still valid, contact the [Faculty Office](/en/studia/sprawy-studenckie).
+  - The rule does not apply to a new course of study (e.g. after re-admission or in the master's programme). If you are unsure whether a credit is still valid, contact the [Faculty Office](/studia/sprawy-studenckie).
   - For a course taught at two levels, you may choose the version of the course you repeat (the standard version is recommended).
 
-  ## Exam session {#exam-session}
+  ## Exam session {#sesja-egzaminacyjna}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  In the academic year 2026/27 the winter exam session runs from 6 to 16 February 2027 and the resit session from 17 to 23 February 2027; in the summer semester — from 18 June to 1 July 2027 and from 1 to 9 September 2027 ([Academic year](/en/studia/rok-akademicki)).
+  In the academic year 2026/27 the winter exam session runs from 6 to 16 February 2027 and the resit session from 17 to 23 February 2027; in the summer semester — from 18 June to 1 July 2027 and from 1 to 9 September 2027 ([Academic year](/studia/rok-akademicki)).
 
   ### Exam dates for lectures
 
@@ -173,7 +173,7 @@ tresc_en: |
   - [main session schedule, February 2027 (PDF)](/pliki/studia/zajecia/sesja2027luty.pdf)
   - [resit session schedule, February 2027 (PDF)](/pliki/studia/zajecia/sesja_poprawkowa2027luty.pdf)
 
-  Exam dates for lectures not included in these schedules are announced by the lecturer. The schedules also give the dates of the written bachelor's and master's exams — more on [Exams and diploma](/en/studia/egzaminy-i-dyplom).
+  Exam dates for lectures not included in these schedules are announced by the lecturer. The schedules also give the dates of the written bachelor's and master's exams — more on [Exams and diploma](/studia/egzaminy-i-dyplom).
 
   ### Key rules (Study Regulations)
 
@@ -182,7 +182,7 @@ tresc_en: |
   - You have the right to two attempts: the main one in the exam session and a resit in the resit session. If you pass at the first attempt, you cannot take the resit. An earlier exam date is possible on terms set by the examiner (§ 34).
   - If your absence from an exam is excused, the examiner sets a new date; with the Dean's consent exams may be held up to 10 days after the end of the session (§ 34).
   - The curriculum may include at most 8 exams per academic year and at most 5 per session (§ 30).
-  - Check your grades in USOSweb and report a wrong or missing grade to the teacher within 3 working days. Appeals and other procedures: [Student affairs](/en/studia/sprawy-studenckie).
+  - Check your grades in USOSweb and report a wrong or missing grade to the teacher within 3 working days. Appeals and other procedures: [Student affairs](/studia/sprawy-studenckie).
 
   ## E-learning {#e-learning}
 
@@ -216,7 +216,7 @@ tresc_en: |
 
   Pages of selected Mathematical Institute courses are on the Moodle platform [SKOS](https://skos.ii.uni.wroc.pl/course/index.php?categoryid=21).
 
-  ## Other institutes and faculties {#other-institutes-and-faculties}
+  ## Other institutes and faculties {#inne-instytuty-i-wydziały}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -230,7 +230,7 @@ tresc_en: |
 
   You may take a course taught at another faculty of the University and count it towards your studies with the consent of the Dean of the Faculty of Mathematics and Computer Science and of the dean of the faculty offering the course (contact that faculty's office). This applies in particular to the humanities or social sciences elective and, in the master's programme, to courses in the foundations of the natural or exact sciences. The Dean decides how the course is included in your study plan; courses counted as extracurricular are not included in the settlement of your studies but are recorded in the diploma supplement (§ 28 of the Study Regulations). Request forms: [Request forms (Faculty, Polish)](https://wmi.uwr.edu.pl/dziekanat/dokumenty/formularze-podan/).
 
-  ## Language courses and PE {#language-courses-and-pe}
+  ## Language courses and PE {#lektoraty-i-wf}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -254,7 +254,7 @@ tresc_en: |
   - Some classes are partly paid; the fee is due within 14 days of the end of the correction period, and if you do not withdraw during the correction period you are charged even if you do not attend.
   - Rules: [regulations on PE classes and assessment (Rector's order no. 148/2026, Polish)](https://bip.uni.wroc.pl/download/attachment/53077/nr-148-2026-z-dnia-18092026-regulamin-organizacji-i-zaliczen-wf.pdf?v=1789731867).
 
-  ## Contact {#contact}
+  ## Contact {#kontakt}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -262,7 +262,7 @@ tresc_en: |
   | --- | --- | --- |
   | Registration and withdrawals, timetable | Teaching office of the Mathematical Institute — Justyna Jędrzejewska-Idczak | room 315, phone 71 375 7436, [Justyna.Jedrzejewska-Idczak@uwr.edu.pl](mailto:Justyna.Jedrzejewska-Idczak@uwr.edu.pl) |
   | Consent to enrol without meeting the prerequisites (B1) | Deputy Director for Teaching — Dr Tomasz Elsner | room 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
-  | Validity of credits, passing the semester, requests to the Dean | Faculty Office (WMI) | [Student affairs](/en/studia/sprawy-studenckie) |
+  | Validity of credits, passing the semester, requests to the Dean | Faculty Office (WMI) | [Student affairs](/studia/sprawy-studenckie) |
 opublikowany: true
 format_tresci: jawne
 ---

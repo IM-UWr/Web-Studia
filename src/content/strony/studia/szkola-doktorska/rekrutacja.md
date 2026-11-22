@@ -12,16 +12,16 @@ tresc_en: |
 
   Admission to the Doctoral School of the University of Wrocław is by competition and takes place within doctoral colleges. Candidates in mathematics apply to the **Doctoral College of Mathematics**. The admission rules are adopted each year by the University Senate, and the schedule and number of places are set by orders of the Rector. This page describes the rules of the most recent admission round (for 2026/27).
 
-  ## Key information {#key-information}
+  ## Key information {#najważniejsze-informacje}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **You need a supervisor before you apply.** The prospective main supervisor must hold a habilitation or the title of professor. Contact details of the mathematicians are in the [staff directory](/en/pracownicy).
+  - **You need a supervisor before you apply.** The prospective main supervisor must hold a habilitation or the title of professor. Contact details of the mathematicians are in the [staff directory](/pracownicy).
   - Admission is based on a **written entrance exam** in mathematics.
   - Number of places: **8** (according to the Institute's information for the 2026/27 admission round).
   - Beyond the admission limits, candidates whose doctoral stipend is funded from other sources (e.g. research projects) may also be admitted; for them a separate admission round outside the regular schedule may be announced, with the Rector's consent.
 
-  ## Who can apply {#who-can-apply}
+  ## Who can apply {#kto-może-kandydować}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -34,7 +34,7 @@ tresc_en: |
 
   Before the exam of a candidate without a master's degree, the admissions committee decides, on the basis of the documents provided and by a majority vote, whether to admit them to the procedure.
 
-  ## How admission works {#how-admission-works}
+  ## How admission works {#jak-przebiega-rekrutacja}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -47,7 +47,7 @@ tresc_en: |
 
   A refusal of admission is an administrative decision. Within 14 days of its delivery you may request reconsideration of the case, or within 30 days file a complaint with the Provincial Administrative Court in Wrocław.
 
-  ## Entrance exam {#entrance-exam}
+  ## Entrance exam {#egzamin-kwalifikacyjny}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -55,9 +55,9 @@ tresc_en: |
   - Candidates receive **12 problems**; the committee grades the **6 best-solved** ones, each on a scale of 0–6 points.
   - Maximum score: **36 points**; minimum score needed for a positive result: **15 points**. Candidates are ranked by their score.
   - Scope: courses taught in mathematics degree programmes, in particular analysis I–III, linear algebra and algebra I, differential equations, elements of metric topology and set theory, and probability and statistics.
-  - Recommended reading: exam problems from previous years ([see below](#entrance-exam-problems-from-previous-years)).
+  - Recommended reading: exam problems from previous years ([see below](#zadania-z-egzaminów-z-poprzednich-lat)).
 
-  ## Required documents {#required-documents}
+  ## Required documents {#wymagane-dokumenty}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -68,7 +68,7 @@ tresc_en: |
   5. The candidate's statement on whether they hold a doctoral degree and whether they are or have ever been a doctoral student of another college of the UWr Doctoral School or of another doctoral school.
   6. Candidates without a master's degree: an opinion from an independent researcher justifying the high level of the candidate's research achievements.
 
-  ## Admission 2026/27 (completed) {#admission-202627-completed}
+  ## Admission 2026/27 (completed) {#rekrutacja-202627-zakończona}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -93,7 +93,7 @@ tresc_en: |
   - [Rector's Order No. 85/2026 — IRKa registration procedure](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Nr-85-2026-z-dni-25.05.2026-IRKa-doktorantow_-1.pdf) · [English version](https://szd.uwr.edu.pl/wp-content/uploads/sites/189/2026/05/Ordinance-85-2026-of-the-Rector-of-the-University-of-Wroclaw-of-25-May-2026-on-the-introduction-of-the-Procedure-of-registration-in-the-system-of-the-Internet-Registration-of-Candidates-IRK-.pdf)
   - Candidate's statement: [Polish version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-43.docx) · [English version (DOCX)](/pliki/szkola-doktorska/rekrutacja/obowiazujace-oswiadczenie-kandydata-do-szkoly-doktorskiej-uniwersytetu-wroclawskiego-wersja-anglojezyczna-9.docx)
 
-  ## Entrance exam problems from previous years {#entrance-exam-problems-from-previous-years}
+  ## Entrance exam problems from previous years {#zadania-z-egzaminów-z-poprzednich-lat}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -104,13 +104,13 @@ tresc_en: |
   - [2014](/pliki/szkola-doktorska/egzaminy/egzamin_2014.pdf) · [2015](/pliki/szkola-doktorska/egzaminy/egzamin_2015.pdf) · [2016](/pliki/szkola-doktorska/egzaminy/egzamin_2016.pdf) · [2017](/pliki/szkola-doktorska/egzaminy/egzdok2017.pdf) · [2018](/pliki/szkola-doktorska/egzaminy/egzamin_sd_2018.pdf) · [2019](/pliki/szkola-doktorska/egzaminy/egzamin_km_2019.pdf) · [2020](/pliki/szkola-doktorska/egzaminy/egzamin_km_2020_pl.pdf) · [2021](/pliki/szkola-doktorska/egzaminy/zadania2021.pdf)
   - [2024](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2024_final.pdf) · [2025](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2025_final.pdf) · [2026](/pliki/szkola-doktorska/egzaminy/egzamin_dokt_2026.pdf)
 
-  ## Contact {#contact}
+  ## Contact {#kontakt}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   Doctoral School secretary at the Institute: Ewa Lamch, MA, room 303, phone 71 375 7494, [ewa.lamch@math.uni.wroc.pl](mailto:ewa.lamch@math.uni.wroc.pl). Head of the Doctoral College of Mathematics: Prof. Piotr Kowalski, room 502, [piotr.kowalski@math.uni.wroc.pl](mailto:piotr.kowalski@math.uni.wroc.pl).
 
-  See also: [Stipends and grants](/en/studia/szkola-doktorska/stypendia-i-granty) · [Documents and forms](/en/studia/szkola-doktorska/dokumenty) · [UWr Doctoral School](https://szd.uwr.edu.pl/)
+  See also: [Stipends and grants](/studia/szkola-doktorska/stypendia-i-granty) · [Documents and forms](/studia/szkola-doktorska/dokumenty) · [UWr Doctoral School](https://szd.uwr.edu.pl/)
 opublikowany: true
 format_tresci: jawne
 ---

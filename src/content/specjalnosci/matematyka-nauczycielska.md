@@ -61,7 +61,7 @@ tresc_en: |
 
   ### How the studies are organised
 
-  - **An early choice.** You declare the teaching specialisation in the 1st semester of the bachelor's programme (form C1, by 31 December), not — like the others — at the end of the 4th semester. See [deadlines and forms](/en/studia/matematyka#terminy).
+  - **An early choice.** You declare the teaching specialisation in the 1st semester of the bachelor's programme (form C1, by 31 December), not — like the others — at the end of the 4th semester. See [deadlines and forms](/studia/matematyka#terminy).
   - **A fixed order of courses.** Teacher training starts in the 2nd semester and consists of many small courses (category N) that must be taken in the order set out in the study plan. Starting later than in the 2nd semester makes it impossible to graduate on time.
   - **Registration only after declaring.** Only students who have declared teacher training can register for teacher-training courses (N).
   - **Foreign language and humanities course.** You may choose English or German as your foreign language course (English is compulsory in the other specialisations), and *Language culture* as your humanities or social sciences course.
@@ -69,7 +69,7 @@ tresc_en: |
 
   ### School placements
 
-  Placements are a compulsory part of the specialisation: in the bachelor's programme a psychological and pedagogical placement (30 hours) and a mathematics teaching placement in grades 4–8 of primary school (60 hours); in the master's programme a 60-hour placement in a secondary school leading to the matura exam. In each mathematics teaching placement you observe at least 12 lessons and teach at least 8 yourself. Regulations, forms and assessment rules: [Teaching placements](/en/studia/matematyka#praktyki).
+  Placements are a compulsory part of the specialisation: in the bachelor's programme a psychological and pedagogical placement (30 hours) and a mathematics teaching placement in grades 4–8 of primary school (60 hours); in the master's programme a 60-hour placement in a secondary school leading to the matura exam. In each mathematics teaching placement you observe at least 12 lessons and teach at least 8 yourself. Regulations, forms and assessment rules: [Teaching placements](/studia/matematyka#praktyki).
 
   ### 2022 curriculum (studies started 2022/23–2025/26)
 
@@ -77,7 +77,7 @@ tresc_en: |
 
   <!-- RAMKA: Treść ramki; etykietę zmień w atrybucie tytul. -->
 
-  :::ramka{tytul="Who is it for"}
+  :::ramka{tytul="Who it is for"}
 
   For those who want to teach mathematics in schools — and enjoy not only solving problems but also explaining them to others. You decide early: you declare this specialisation as early as the 1st semester of the bachelor's programme (by 31 December), because the teacher-training courses start in the 2nd semester. Teacher training assumes you complete the master's programme — only the master's degree gives you full teaching qualifications.
 
@@ -254,7 +254,7 @@ tresc_en: |
 
   The Institute's [job offers page](/aktualnosci?rodzaj=kariera) (Polish) regularly lists schools from Wrocław and the region looking for mathematics teachers — some offers are also open to final-year students. Our graduates teach in many schools in the region: the first Lower Silesian Congress of Mathematics Teachers at our Faculty (2025) was attended by over 120 teachers, many of them our graduates.
 
-  The Institute also runs a postgraduate qualification programme in *Teaching Mathematics* — see [postgraduate studies](/en/studia/podyplomowe).
+  The Institute also runs a postgraduate qualification programme in *Teaching Mathematics* — see [postgraduate studies](/studia/podyplomowe).
 
   ## Sample thesis topics {#tematy}
 
@@ -300,7 +300,7 @@ tresc_en: |
 
   ### When and how do I declare this specialisation?
 
-  In the bachelor's programme — in the 1st semester, using form C1, by 31 December (the other specialisations are chosen only at the end of the 4th semester). In the master's programme — at the start of the 1st semester, using form C3, by 15 October. See [deadlines and forms](/en/studia/matematyka#terminy).
+  In the bachelor's programme — in the 1st semester, using form C1, by 31 December (the other specialisations are chosen only at the end of the 4th semester). In the master's programme — at the start of the 1st semester, using form C3, by 15 October. See [deadlines and forms](/studia/matematyka#terminy).
 
   ### Do I have to choose the extended versions of compulsory courses?
 
@@ -328,7 +328,7 @@ tresc_en: |
 
   ### What does the master's exam look like?
 
-  The written part covers the compulsory courses of the specialisation, and the oral part covers the topic of your master's thesis. For the 2022 curriculum the written part covers analysis, arithmetic, introduction to mathematics and geometry (elementary geometry, foundations of geometry, geometric constructions) — see the [exam scope](/pliki/studia/mgr22-na-zakres.pdf) (Polish) and [Exams and diploma](/en/studia/egzaminy-i-dyplom).
+  The written part covers the compulsory courses of the specialisation, and the oral part covers the topic of your master's thesis. For the 2022 curriculum the written part covers analysis, arithmetic, introduction to mathematics and geometry (elementary geometry, foundations of geometry, geometric constructions) — see the [exam scope](/pliki/studia/mgr22-na-zakres.pdf) (Polish) and [Exams and diploma](/studia/egzaminy-i-dyplom).
 
   :::
 
@@ -338,7 +338,7 @@ tresc_en: |
 
   ::opiekun
 
-  ## Seminaria {#seminaria}
+  ## Seminars {#seminaria}
 
   <!-- Dane wybierasz w polach formularza. Brak danych = pusta wstawka. -->
 

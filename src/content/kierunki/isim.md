@@ -64,11 +64,11 @@ tresc_en: |
 
   | | Mathematical Institute | Institute of Computer Science |
   |---|---|---|
-  | Timetable | [winter](/en/studia/plan-zajec#zimowy) and [summer](/en/studia/plan-zajec#letni) semester | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) (also lists ISIM mathematics classes) |
+  | Timetable | [winter](/studia/plan-zajec#zimowy) and [summer](/studia/plan-zajec#letni) semester | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) (also lists ISIM mathematics classes) |
   | Course descriptions | [USOSweb catalogue](https://usosweb.uwr.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FszukajPrzedmiotu&_pattern=&_prz_kod_pattern=28-MT) | [Registration system](https://zapisy.ii.uni.wroc.pl/courses/) |
-  | Registration for classes | USOSweb — schedule and rules: [Classes and office hours](/en/studia/zajecia) | [Registration system](https://zapisy.ii.uni.wroc.pl/), rules on the [page for new students](https://ii.uni.wroc.pl/dla-studenta/dla-nowych-studentow) |
-  | Office hours | [Classes and office hours](/en/studia/zajecia) | [staff profiles](https://zapisy.ii.uni.wroc.pl/users/employees/) |
-  | Exams | dates for compulsory courses are set centrally and published in mid-October ([Classes and office hours](/en/studia/zajecia)); other dates are set by the lecturer | dates are given by lecturers in the [Exams section](https://zapisy.ii.uni.wroc.pl/session/) |
+  | Registration for classes | USOSweb — schedule and rules: [Classes and office hours](/studia/zajecia) | [Registration system](https://zapisy.ii.uni.wroc.pl/), rules on the [page for new students](https://ii.uni.wroc.pl/dla-studenta/dla-nowych-studentow) |
+  | Office hours | [Classes and office hours](/studia/zajecia) | [staff profiles](https://zapisy.ii.uni.wroc.pl/users/employees/) |
+  | Exams | dates for compulsory courses are set centrally and published in mid-October ([Classes and office hours](/studia/zajecia)); other dates are set by the lecturer | dates are given by lecturers in the [Exams section](https://zapisy.ii.uni.wroc.pl/session/) |
 
   The Institute of Computer Science registration system is also used to vote for the courses to be taught in the next academic year, to choose a thesis and to evaluate classes anonymously.
 
@@ -164,7 +164,7 @@ tresc_en: |
 
   ISIM graduates can continue with master's studies in mathematics, computer science and artificial intelligence at the Faculty of Mathematics and Computer Science, University of Wrocław, as well as at other leading universities in Poland and abroad. They find work in IT and FinTech companies, banks, insurance, consulting and leasing companies, and research centres, among others.
 
-  If you plan a master's degree in computer science, pass all compulsory computer science courses at the (M) level. If you are considering a master's in mathematics, take the mathematics courses in their advanced versions. Master's studies at the Mathematical Institute are described on the [Mathematics](/en/studia/matematyka) page.
+  If you plan a master's degree in computer science, pass all compulsory computer science courses at the (M) level. If you are considering a master's in mathematics, take the mathematics courses in their advanced versions. Master's studies at the Mathematical Institute are described on the [Mathematics](/studia/matematyka) page.
 
   ## FAQ {#pytania}
 
@@ -202,11 +202,11 @@ tresc_en: |
 
   ### How do I find a thesis supervisor and topic?
 
-  You can write your thesis under the supervision of a member of staff of either the Mathematical Institute or the Institute of Computer Science; it is prepared and assessed according to the rules of the mathematics or computer science programme respectively. Usually students choose a supervisor themselves and agree a topic. Start with the topic lists ([Mathematical Institute](https://www.math.uni.wroc.pl/tematy-prac), [Institute of Computer Science](https://zapisy.ii.uni.wroc.pl/theses/)) or talk to a member of staff during office hours. At the Institute of Computer Science you can also choose a supervisor and topic through the *Diploma project* course, project-type courses and seminars. Thesis rules: [Exams and diploma](/en/studia/egzaminy-i-dyplom) (Mathematical Institute) and [theses at the Institute of Computer Science](https://ii.uni.wroc.pl/dla-studenta/prace-dyplomowe).
+  You can write your thesis under the supervision of a member of staff of either the Mathematical Institute or the Institute of Computer Science; it is prepared and assessed according to the rules of the mathematics or computer science programme respectively. Usually students choose a supervisor themselves and agree a topic. Start with the topic lists ([Mathematical Institute](https://www.math.uni.wroc.pl/tematy-prac), [Institute of Computer Science](https://zapisy.ii.uni.wroc.pl/theses/)) or talk to a member of staff during office hours. At the Institute of Computer Science you can also choose a supervisor and topic through the *Diploma project* course, project-type courses and seminars. Thesis rules: [Exams and diploma](/studia/egzaminy-i-dyplom) (Mathematical Institute) and [theses at the Institute of Computer Science](https://ii.uni.wroc.pl/dla-studenta/prace-dyplomowe).
 
   ### What does the diploma exam look like?
 
-  It has two parts. The mathematics part is the written bachelor's exam of the mathematics programme ([Exams and diploma](/en/studia/egzaminy-i-dyplom)). The computer science part is held together with the [diploma exam of the computer science programme](https://ii.uni.wroc.pl/dla-studenta/egzaminy); among the optional problems, ISIM students get a problem on formal languages and computational complexity instead of the algebra problem. To pass, you need at least a satisfactory grade in each part.
+  It has two parts. The mathematics part is the written bachelor's exam of the mathematics programme ([Exams and diploma](/studia/egzaminy-i-dyplom)). The computer science part is held together with the [diploma exam of the computer science programme](https://ii.uni.wroc.pl/dla-studenta/egzaminy); among the optional problems, ISIM students get a problem on formal languages and computational complexity instead of the algebra problem. To pass, you need at least a satisfactory grade in each part.
 
   ### What about foreign language courses and physical education?
 

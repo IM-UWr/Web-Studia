@@ -15,7 +15,7 @@ tresc_en: |
 
   ### Courses
 
-  The compulsory course load is 270 hours. Within the courses run by the College you should complete at least 4 lecture courses of at least 30 hours each, ending with an exam, and at least 2 semester-long seminars of 30 hours. You can also count university-wide courses for all doctoral colleges, courses offered by the Faculty (including research seminars), individual courses outside the regular offer, courses at other faculties and universities, and professional practice. With the consent of the head of the College you can also take courses offered by the Doctoral College of Computer Science. Classes are taught in Polish or English. Syllabi of recent courses are on the [Documents and forms](/en/studia/szkola-doktorska/dokumenty#course-syllabi-202526) page.
+  The compulsory course load is 270 hours. Within the courses run by the College you should complete at least 4 lecture courses of at least 30 hours each, ending with an exam, and at least 2 semester-long seminars of 30 hours. You can also count university-wide courses for all doctoral colleges, courses offered by the Faculty (including research seminars), individual courses outside the regular offer, courses at other faculties and universities, and professional practice. With the consent of the head of the College you can also take courses offered by the Doctoral College of Computer Science. Classes are taught in Polish or English. Syllabi of recent courses are on the [Documents and forms](/studia/szkola-doktorska/dokumenty#sylabusy-zajęć-202526) page.
 
   ### What the programme expects of you
 
@@ -34,7 +34,7 @@ tresc_en: |
 
   ### People and defences
 
-  The Institute's doctoral students are listed in the [staff directory](/en/pracownicy). Defence notices, theses and reviews are published on the [PhD defences](/en/obrony-doktorskie) page. All doctoral students of the University form the [Doctoral Students' Council of the University of Wrocław](https://doktoranci.uwr.edu.pl/).
+  The Institute's doctoral students are listed in the [staff directory](/pracownicy). Defence notices, theses and reviews are published on the [PhD defences](/obrony-doktorskie) page. All doctoral students of the University form the [Doctoral Students' Council of the University of Wrocław](https://doktoranci.uwr.edu.pl/).
 
   ## Doctoral school pages {#strony}
 
@@ -198,11 +198,11 @@ tresc_en: |
 
   ### Do I need a supervisor before I apply?
 
-  Yes. To apply, a candidate must first have a prospective supervisor, who must hold a habilitation or the title of professor. Contact details of the mathematicians are in the [staff directory](/en/pracownicy). Details are on the [Admissions](/en/studia/szkola-doktorska/rekrutacja) page.
+  Yes. To apply, a candidate must first have a prospective supervisor, who must hold a habilitation or the title of professor. Contact details of the mathematicians are in the [staff directory](/pracownicy). Details are on the [Admissions](/studia/szkola-doktorska/rekrutacja) page.
 
   ### What is the entrance exam like?
 
-  It is a written exam. Candidates receive 12 problems (in Polish or English — their choice), and the committee grades the 6 best solutions, each on a scale of 0–6 points. The scope covers courses taught in mathematics degree programmes, in particular analysis I–III, linear algebra and algebra I, differential equations, elements of metric topology and set theory, and probability and statistics. [Problems from previous years](/en/studia/szkola-doktorska/rekrutacja#entrance-exam-problems-from-previous-years).
+  It is a written exam. Candidates receive 12 problems (in Polish or English — their choice), and the committee grades the 6 best solutions, each on a scale of 0–6 points. The scope covers courses taught in mathematics degree programmes, in particular analysis I–III, linear algebra and algebra I, differential equations, elements of metric topology and set theory, and probability and statistics. [Problems from previous years](/studia/szkola-doktorska/rekrutacja#zadania-z-egzaminów-z-poprzednich-lat).
 
   ### Can I apply without a master's degree?
 
@@ -214,7 +214,7 @@ tresc_en: |
 
   ### How much is the doctoral stipend?
 
-  At least 37% of a professor's salary until the month in which the mid-term evaluation takes place, and at least 57% afterwards. The amount for each academic year is set by the Rector. The stipend can be received for a maximum of 4 years in total. More on the [Stipends and grants](/en/studia/szkola-doktorska/stypendia-i-granty) page.
+  At least 37% of a professor's salary until the month in which the mid-term evaluation takes place, and at least 57% afterwards. The amount for each academic year is set by the Rector. The stipend can be received for a maximum of 4 years in total. More on the [Stipends and grants](/studia/szkola-doktorska/stypendia-i-granty) page.
 
   ### Can I work at a university during my training?
 
@@ -226,7 +226,7 @@ tresc_en: |
 
   ### Where can I find the list of doctoral students and defence announcements?
 
-  The Institute's doctoral students are listed in the [staff directory](/en/pracownicy) (group “PhD students”). Defence notices, theses and reviews are published on the [PhD defences](/en/obrony-doktorskie) page.
+  The Institute's doctoral students are listed in the [staff directory](/pracownicy) (group “PhD students”). Defence notices, theses and reviews are published on the [PhD defences](/obrony-doktorskie) page.
 
   :::
 

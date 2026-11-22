@@ -67,7 +67,7 @@ tresc_en: |
 
   <!-- RAMKA: Treść ramki; etykietę zmień w atrybucie tytul. -->
 
-  :::ramka{tytul="Who is it for"}
+  :::ramka{tytul="Who it is for"}
 
   For those who enjoy differential equations and probability, want to combine mathematics with programming and computation, and are interested in applications of mathematics in the natural sciences — from population dynamics and epidemics to physics and earth sciences.
 

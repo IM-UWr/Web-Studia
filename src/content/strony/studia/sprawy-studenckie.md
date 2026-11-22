@@ -10,9 +10,9 @@ tresc_en: |
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  A guide for students of the Mathematical Institute: who handles what, how to deal with the most common matters, where to find scholarships, exchanges and support. The Institute's deadlines and forms (course registration, specialisation, thesis supervisor) are listed on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy).
+  A guide for students of the Mathematical Institute: who handles what, how to deal with the most common matters, where to find scholarships, exchanges and support. The Institute's deadlines and forms (course registration, specialisation, thesis supervisor) are listed on the programme page: [Mathematics — deadlines and forms](/studia/matematyka#terminy).
 
-  ## Where to go {#where-to-go}
+  ## Where to go {#gdzie-załatwić-sprawę}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -39,38 +39,38 @@ tresc_en: |
   | Financial aid (scholarships, grants) | Monika Retmaniak, MA | 71 375 7890, [Monika.Retmaniak@uwr.edu.pl](mailto:Monika.Retmaniak@uwr.edu.pl) |
   | Head of the Faculty Office | Małgorzata Pielużek, MA | 71 375 7895, [Malgorzata.Pieluzek@uwr.edu.pl](mailto:Malgorzata.Pieluzek@uwr.edu.pl) |
 
-  Students of *Artificial Intelligence in Data Analysis* — see the contacts on the [programme page](/en/studia/siad).
+  Students of *Artificial Intelligence in Data Analysis* — see the contacts on the [programme page](/studia/siad).
 
   **Vice-Dean for Mathematics Teaching and Student Affairs:** Dr hab. Andrzej Raczyński, [Andrzej.Raczynski@uwr.edu.pl](mailto:Andrzej.Raczynski@uwr.edu.pl) — office hours on Mondays 11:00–12:00. Changes and cancellations: [Dean's office hours](https://wmi.uwr.edu.pl/dziekanat/dyzury-dziekanskie/).
 
-  ## Who is responsible {#who-is-responsible}
+  ## Who is responsible {#kto-za-co-odpowiada}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   | Role | Person | Contact |
   | --- | --- | --- |
   | Deputy Director for Teaching | Dr Tomasz Elsner | room 305, [Tomasz.Elsner@math.uni.wroc.pl](mailto:Tomasz.Elsner@math.uni.wroc.pl) |
-  | First-year coordinator | Dr Jan Kraszewski | [Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl), [First year](/en/studia/pierwszy-rok) |
-  | Specialisation coordinators | — | see [Specialisations](/en/studia/matematyka#specjalnosci) |
+  | First-year coordinator | Dr Jan Kraszewski | [Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl), [First year](/studia/pierwszy-rok) |
+  | Specialisation coordinators | — | see [Specialisations](/studia/matematyka#specjalnosci) |
   | Erasmus+ coordinator | Dr Motiejus Valiunas | room 306, [Motiejus.Valiunas@math.uni.wroc.pl](mailto:Motiejus.Valiunas@math.uni.wroc.pl) |
   | MOST coordinator | Prof. Wojciech Młotkowski | [Wojciech.Mlotkowski@math.uni.wroc.pl](mailto:Wojciech.Mlotkowski@math.uni.wroc.pl) |
   | Doctoral College of Mathematics | Ewa Lamch | phone 71 375 7494, [Ewa.Lamch@math.uni.wroc.pl](mailto:Ewa.Lamch@math.uni.wroc.pl) |
   | Dean's Plenipotentiary for the Safety of Students and PhD Students | Dr hab. Ziemowit Rzeszotnik | room 706, [Ziemowit.Rzeszotnik@math.uni.wroc.pl](mailto:Ziemowit.Rzeszotnik@math.uni.wroc.pl) |
   | Dean's Plenipotentiary for Equal Treatment and Anti-Discrimination | Dr Paweł Laskoś-Grabowski | see [Faculty authorities](https://wmi.uwr.edu.pl/wladze-wydzialu/) |
 
-  ## USOSweb and official communication {#usosweb-and-official-communication}
+  ## USOSweb and official communication {#usosweb-i-komunikacja}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - [USOSweb](https://usosweb.uwr.edu.pl/) — course registration, grades, decisions and payments; your study record is kept in USOS.
-  - [University e-mail (Office 365)](https://login.microsoftonline.com/) — accounts in USOSweb and Office 365 are created after admission (see [First year](/en/studia/pierwszy-rok)).
+  - [University e-mail (Office 365)](https://login.microsoftonline.com/) — accounts in USOSweb and Office 365 are created after admission (see [First year](/studia/pierwszy-rok)).
   - [SKOS e-learning platform](https://skos.ii.uni.wroc.pl/course/index.php?categoryid=21) — pages of selected courses.
 
   > **Remember:** messages sent via USOS or to your university e-mail are binding if they were posted at least 3 working days before the matter they concern (§ 7 of the Study Regulations). Check your data, grades, scholarships and payments in USOS regularly, and notify the Faculty Office within 14 days of a change of name, address or financial situation (§ 9).
 
   Your student ID card confirms your student status. A first-cycle graduate may keep the card until 31 October of the year of graduation (§ 3).
 
-  ## Common matters step by step {#common-matters-step-by-step}
+  ## Common matters step by step {#najczęstsze-sprawy-krok-po-kroku}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -78,10 +78,10 @@ tresc_en: |
 
   ### Courses, specialisation and supervisor
 
-  Matters handled by the Institute are dealt with using online forms; deadlines and links are on the programme page: [Mathematics — deadlines and forms](/en/studia/matematyka#terminy). In particular:
+  Matters handled by the Institute are dealt with using online forms; deadlines and links are on the programme page: [Mathematics — deadlines and forms](/studia/matematyka#terminy). In particular:
 
   - course registration in USOSweb according to the schedule; withdrawal after registration closes — **once per degree**, by 30 November (winter) or 30 April (summer), forms A1/A2;
-  - enrolment without prerequisites (B1), above the group limit (B2), switching from the extended to the standard version (B3) — details: [Classes and office hours](/en/studia/zajecia);
+  - enrolment without prerequisites (B1), above the group limit (B2), switching from the extended to the standard version (B3) — details: [Classes and office hours](/studia/zajecia);
   - declaration of specialisation (C1–C3) and of the master's thesis supervisor (E).
 
   A change of programme or specialisation requires the Dean's consent and is possible after completing at least the first semester (§ 53).
@@ -98,7 +98,7 @@ tresc_en: |
   | 5 | at least 114 ECTS | — |
   | 6 | at least 144 ECTS | — |
 
-  ECTS credits are counted cumulatively; the resolution also allows the equivalent versions of the courses listed. First-year decisions: [First year](/en/studia/pierwszy-rok).
+  ECTS credits are counted cumulatively; the resolution also allows the equivalent versions of the courses listed. First-year decisions: [First year](/studia/pierwszy-rok).
 
   If you do not meet the requirements:
 
@@ -122,7 +122,7 @@ tresc_en: |
   - **Individual study plan (IPS)** — mainly for outstanding students or students involved in research; you can choose courses towards the required ECTS or take additional courses, working with an academic tutor. Submit the request with the proposed plan and the tutor's name before the start of the semester (§ 24).
   - **Individual organisation of studies (IOS)** — in justified and documented cases, e.g. studying two programmes, work, family situation, health problems. You complete all courses, but some may be passed extramurally or with modified dates and forms of assessment — changes must be agreed with the instructors. The request lists the courses and the changes and is submitted before the semester, within the deadline set by the Dean (§ 25).
 
-  Students with disabilities and special needs have the right to an adapted study process — see [Support](#support).
+  Students with disabilities and special needs have the right to an adapted study process — see [Support](#wsparcie).
 
   ### Resignation, removal and reinstatement
 
@@ -144,7 +144,7 @@ tresc_en: |
   - If your absence from an exam is excused, the examiner restores your right to that attempt on another date (§ 34).
   - Against other decisions of the Dean you may request reconsideration within 14 days of their delivery (§ 67).
 
-  ## Scholarships and financial aid {#scholarships-and-financial-aid}
+  ## Scholarships and financial aid {#stypendia-i-pomoc-materialna}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -157,7 +157,7 @@ tresc_en: |
 
   At the Faculty, financial aid is handled by Monika Retmaniak, MA (Faculty Office, phone 71 375 7890).
 
-  ## Exchange programmes {#exchange-programmes}
+  ## Exchange programmes {#wymiany-studenckie}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -172,34 +172,34 @@ tresc_en: |
 
   ### MOST
 
-  Exchange with Polish universities for one semester or a full year, free of charge. Recruitment: 15 April – 15 May (winter semester or full year) and **31 October – 30 November** (summer semester). Coordinator: Prof. Wojciech Młotkowski. Details: [MOST programme](/en/studia/program-most).
+  Exchange with Polish universities for one semester or a full year, free of charge. Recruitment: 15 April – 15 May (winter semester or full year) and **31 October – 30 November** (summer semester). Coordinator: Prof. Wojciech Młotkowski. Details: [MOST programme](/studia/program-most).
 
   ### ISEP and other programmes
 
   [ISEP](https://international.uni.wroc.pl/wymiana-wyjazdy/inne-wymiany) is a worldwide exchange network; currently it offers one-semester stays at universities in the USA. Other offers: [UWr International Office](https://international.uni.wroc.pl/wymiana-wyjazdy).
 
-  ## Careers and jobs {#careers-and-jobs}
+  ## Careers and jobs {#kariera-i-praca}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **Job, internship and traineeship offers** are published in the [news](/en/aktualnosci) (type "Career").
+  - **Job, internship and traineeship offers** are published in the [news](/aktualnosci) (type "Career").
   - **Employers** wishing to publish an offer should send it to Dr Jan Kraszewski ([Jan.Kraszewski@math.uni.wroc.pl](mailto:Jan.Kraszewski@math.uni.wroc.pl)). Business contact coordinators of the Institute: Prof. Ewa Damek ([Ewa.Damek@math.uni.wroc.pl](mailto:Ewa.Damek@math.uni.wroc.pl)), Dr Przemysław Klusik ([Przemyslaw.Klusik@math.uni.wroc.pl](mailto:Przemyslaw.Klusik@math.uni.wroc.pl)), Dr hab. Krzysztof Topolski ([Krzysztof.Topolski@math.uni.wroc.pl](mailto:Krzysztof.Topolski@math.uni.wroc.pl)).
   - [UWr Career Office](https://biurokarier.uwr.edu.pl/) (ul. Kuźnicza 49A) — [job offers](https://biurokarier.uwr.edu.pl/jobs), [traineeship programmes](https://biurokarier.uwr.edu.pl/programy-stazowe/), [career counselling](https://biurokarier.uwr.edu.pl/doradztwo-konsultacje/).
 
-  ## Student government and student clubs {#student-government-and-student-clubs}
+  ## Student government and student clubs {#samorząd-i-koła-naukowe}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
   - **Faculty Student Government Council of WMI (WRSS WMI)** — [wrsswmi@uniwroc.onmicrosoft.com](mailto:wrsswmi@uniwroc.onmicrosoft.com), [Facebook](https://www.facebook.com/WRSSWMI/). It represents students before the Faculty authorities.
   - [Student Government of the University of Wrocław](https://samorzadstudentow.uwr.edu.pl/) — [Regulations of the Student Government](https://samorzadstudentow.uwr.edu.pl/wp-content/uploads/sites/507/2025/09/Nr-157_2019-z-dnia-30.12.2019-r.-REGULAMIN_samorzadu-studentow-1.pdf). Each year or group is represented by its elected student representative (*starosta*).
-  - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) — among others co-organises the school [Baby Steps Beyond the Horizon](/en/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
+  - [Theoretical Mathematicians' Club](https://www.facebook.com/knmtuwr) — among others co-organises the school [Baby Steps Beyond the Horizon](/aktualnosci/2026-07-14-szkola-baby-steps-beyond-the-horizon).
   - [Applied Mathematics Club](https://www.facebook.com/KNZM.UWr/)
 
-  ## Support {#support}
+  ## Support {#wsparcie}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
-  - **Tutoring room** (room 202) — senior students help with mathematical problems, especially first-year students ([details](/en/studia/tutornia)).
+  - **Tutoring room** (room 202) — senior students help with mathematical problems, especially first-year students ([details](/studia/tutornia)).
   - **Academic ombudspersons of WMI** — students, PhD students and staff can turn to them with problems concerning the institute/faculty community. The ombudsperson listens, diagnoses the problem and gives advice or help, acting confidentially, impartially, informally and independently of the university authorities. Prof. Ewa Damek — [edamek@math.uni.wroc.pl](mailto:edamek@math.uni.wroc.pl), room 901 (Mathematical Institute); Jarosław Byrka — [jaroslaw.byrka@cs.uni.wroc.pl](mailto:jaroslaw.byrka@cs.uni.wroc.pl), room 244 (Institute of Computer Science). It is best to arrange contact by e-mail first ([details](https://wmi.uwr.edu.pl/wladze-wydzialu/)).
   - **Student Rights Ombudsperson** (UWr Student Government): [rps@uwr.edu.pl](mailto:rps@uwr.edu.pl); **anti-discrimination ombudsperson** of UWr: [rownosc@uwr.edu.pl](mailto:rownosc@uwr.edu.pl).
   - **[Support and Accessibility Office](https://uwr.edu.pl/pomocny-uwr/osoby-z-niepelnosprawnosciami/biuro-wsparcia-i-dostepnosci/)** — for students with disabilities and special needs: ul. Kuźnicza 49/55, rooms 19 and 20, open 9:00–14:00, [niepelnosprawni@uwr.edu.pl](mailto:niepelnosprawni@uwr.edu.pl), phone 71 375 2664 (please arrange a meeting in advance). Forms of support include a teaching assistant, transport within Wrocław, individual foreign language classes, adapted teaching materials, temporary loan of specialist equipment and psychological consultations (Rector's Order No. 68/2026).
@@ -208,7 +208,7 @@ tresc_en: |
 
   > In an emergency threatening life or health, call **112**.
 
-  ## Regulations {#regulations}
+  ## Regulations {#przepisy}
 
   <!-- TEKST: Zwykły Markdown. Specjalny układ wymaga jawnego znacznika bloku. -->
 
@@ -217,7 +217,7 @@ tresc_en: |
   - [Conditions for repeating a semester in Mathematics](https://bip.uni.wroc.pl/download/attachment/37997/uchwala-nr-11-w-sprawie-okreslenia-warunkow-wymaganych-na-powtorny-wpis-na-semestr-na-kierunku-matematyka.pdf) (Faculty Council Resolution No. 11/2023)
   - [Regulations on benefits for students](https://uwr.edu.pl/wp-content/uploads/2026/10/Tekst-ujednolicony-zarz.-196-2023-Regulamin-swiadczen-dla-studentow-po-zarz.-153-2026.pdf) (Rector's Order No. 196/2023, consolidated text)
   - [Study records in USOS](https://bip.uni.wroc.pl/download/attachment/27171/nr-160_2020-z-dnia-18122020-r-dokumentacja-w-usos.pdf) (Rector's Order No. 160/2020)
-  - Other regulations for the programme (foreign languages, physical education, teacher training, diploma theses): [Mathematics — regulations](/en/studia/matematyka#akty)
+  - Other regulations for the programme (foreign languages, physical education, teacher training, diploma theses): [Mathematics — regulations](/studia/matematyka#akty)
 opublikowany: true
 format_tresci: jawne
 ---
